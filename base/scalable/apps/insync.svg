@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <!-- Background / base square -->
+ <rect id="rect1" transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#0081e3"/>
+ <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#51b3ff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="rect5" d="m43 10a24 24 0 0 0-24 24 24 24 0 0 0 0.33594 4h4.0684a20 20 0 0 1-0.4043-4 20 20 0 0 1 20-20 20 20 0 0 1 4 0.4043v-4.0684a24 24 0 0 0-4-0.33594zm0 7a17 17 0 0 0-17 17 17 17 0 0 0 0.47656 4h4.1543a13 13 0 0 1-0.63086-4 13 13 0 0 1 13-13 13 13 0 0 1 4 0.63086v-4.1543a17 17 0 0 0-4-0.47656zm0 7a10 10 0 0 0-10 10 10 10 0 0 0 0.83398 4h4.6934a6 6 0 0 1-1.5273-4 6 6 0 0 1 6-6 6 6 0 0 1 4 1.5273v-4.6934a10 10 0 0 0-4-0.83398zm0 6a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm-2 10c-1.108 0-2 0.892-2 2v11c0 1.108 0.892 2 2 2h4c1.108 0 2-0.892 2-2v-11c0-1.108-0.892-2-2-2z" fill="#fff" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".44721" style="paint-order:stroke markers fill"/>
+</svg>

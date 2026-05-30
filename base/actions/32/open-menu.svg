@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#ae7d62"/>
+ <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#5a3b2a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="path3" d="m10 4c-3.324 0-6 2.676-6 6v1h6v32c0 1.662 1.338 3 3 3h19c1.662 0 3-1.338 3-3v-32h19 6v-1c0-3.1162-2.3519-5.6626-5.3848-5.9688-0.20219-0.020411-0.40748-0.03125-0.61523-0.03125h-28-16z" fill="#ffc402" stroke-width=".84375"/>
+ <path id="path8" d="m35 42-3 3 2 2 1-2z" fill="#ae7d62" stroke-width=".7"/>
+ <rect id="rect12" x="9" y="37" width="27" height="1" fill="#ae7d62" stroke-width=".7"/>
+ <g id="g1" transform="matrix(.80895 0 0 .81096 16.484 13.452)" stroke-width="0">
+  <path id="path5" d="m47 26.045-20.076 20.071-3.0114-3.0106 20.076-20.071z" fill="#e3fbe6"/>
+  <path id="path6" d="m43.487 22.532-20.076 20.071-3.0114-3.0106 20.076-20.071z" fill="#e3fbe6"/>
+  <path id="path7" d="m39.973 19.02-20.076 20.071-3.0114-3.0106 20.076-20.071z" fill="#e3fbe6"/>
+  <path id="path12" d="m48 25c1.6101-1.56 2.8069-2.3865 1.5801-5.135-1.2268-2.7485-3.7302-5.1739-6.5671-6.3624-2.8369-1.1886-3.4028-0.062565-5.013 1.4974" fill="#333"/>
+  <path id="path14" d="m16.885 36.08-1.9414 6.959 5.0176 5.0195 6.9629-1.9434z" fill="#ffe7cb"/>
+  <path id="path15" d="m13 50 1.9429-6.96 5.019 5.0177z" fill="#333"/>
+ </g>
+ <rect id="rect8" x="13" y="19" width="20" height="1" ry=".5" fill="#ffc402" stroke-width=".7"/>
+ <rect id="rect10" x="9" y="19" width="27" height="1" fill="#5a3b2a" stroke-width=".7"/>
+ <rect id="rect11" x="9" y="28" width="27" height="1" fill="#5a3b2a" stroke-width=".7"/>
+ <circle id="circle1" cx="15" cy="24" r="3" fill="#003667" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <circle id="circle2" cx="15" cy="15" r="3" fill="#9e060c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <circle id="circle3" cx="15" cy="33" r="3" fill="#11761d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <circle id="circle4" cx="15" cy="42" r="3" fill="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="path2" d="m9 37v1h15.285l1.2871-1h-16.572z" fill="#5a3b2a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+</svg>

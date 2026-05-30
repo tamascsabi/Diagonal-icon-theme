@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg7"
+   version="1.1"
+   viewBox="0 0 22 22"
+   sodipodi:docname="system-suspend-inhibited.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text {
+            color:#5d656b;
+        }
+        .ColorScheme-NegativeText {
+            color:#da4453;
+        }</style>
+  <g
+     id="g1"
+     fill="currentColor"
+     style="fill:#5d656b;fill-opacity:1">
+    <path
+       id="path7"
+       class="ColorScheme-NegativeText"
+       transform="matrix(.70711 -.70711 .70711 .70711 0 0)"
+       d="m-0.5 4.7426 1-1e-7v21.627h-1z"
+       style="fill:#5d656b;fill-opacity:1" />
+    <path
+       id="path2"
+       class="ColorScheme-Text"
+       d="m11 5.6667v0.88889h2.0382l-2.0382 2.0382v0.62844h3.5556v-0.88889h-2.0382l2.0382-2.0382v-0.62844h-0.62844zm4.4444-2.6667v0.88889h2.0382l-2.0382 2.0382v0.62844h3.5556v-0.88889h-2.0382l2.0382-2.0382v-0.62844h-0.62844z"
+       stroke-width=".88889"
+       style="fill:#5d656b;fill-opacity:1" />
+  </g>
+  <path
+     id="path1"
+     class="ColorScheme-Text"
+     d="m5.9999 11c-1.108 0-1.9999 0.89172-1.9999 2.0002v1.9994h-0.99997v4.0004h5.9998v-4.0004h-0.99997v-1.9994c0-1.1085-0.89197-2.0002-1.9999-2.0002m0 0.50023c0.83097 0 1.5 0.77998 1.5 1.7497v1.7497h-2.9999v-1.7497c0-0.96972 0.66898-1.7497 1.5-1.7497"
+     fill="currentColor" />
+</svg>

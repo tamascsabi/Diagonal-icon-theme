@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <clipPath id="clipPath903-3">
+   <path id="path901-6" d="m0 0h1848v612.09h-1848z"/>
+  </clipPath>
+ </defs>
+ <rect id="rect1-5" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#000f1f"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#1986ff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <!-- Background / base square -->
+ <g id="g897-1" transform="matrix(.028065 0 0 -.027889 -42.932 56.071)"></g>
+ <rect id="rect5" transform="rotate(225)" x="-63.975" y="-18.72" width="37.439" height="37.439" ry="3.5657" fill="#f0f7ff" style="paint-order:stroke fill markers"/>
+ <path id="path8" d="m30.036 10.131-7.012 6.9839v18.956l19.033-17.958-8.0353-7.9811c-1.5525-1.4082-2.3749-1.6043-3.9852-4.32e-4zm17.029 12.97-9.0154 8.9792 9.0154 8.9792 6.9602-7.059c1.0006-1.0148 1.5679-2.5534 0-4zm-31.053 0.99769-5.9241 5.9416c-1.9059 2.0056-0.96526 3.1312 0.22287 4.3159l5.7012 5.7056zm17.029 12.97-10.017 9.9769 7.012 6.9839c1.2682 1.2631 2.6759 1.3256 4.0069 0l8.0137-7.9816z" fill="#1986ff" stroke-width=".99952"/>
+</svg>

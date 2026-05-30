@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="symbol-add.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     d="M14.5 10a4.5 4.5 0 0 1-4.5 4.5A4.5 4.5 0 0 1 5.5 10 4.5 4.5 0 0 1 10 5.5a4.5 4.5 0 0 1 4.5 4.5Z"
+     fill="#5d656b"
+     opacity=".5"
+     id="path1" />
+  <path
+     d="m10 5c-2.756 0-5 2.244-5 5s2.244 5 5 5 5-2.244 5-5-2.244-5-5-5zm0 1c2.215 0 4 1.785 4 4s-1.785 4-4 4-4-1.785-4-4 1.785-4 4-4z"
+     fill="#5d656b"
+     id="path2" />
+  <path
+     d="M2 10h9v1H2z"
+     fill="#5d656b"
+     fill-rule="evenodd"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path3" />
+  <path
+     d="m10 1h1v10h-1z"
+     fill="#5d656b"
+     fill-rule="evenodd"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="1.118"
+     id="path4" />
+  <path
+     d="m10.5 0-2.828 2.828 0.707 0.707 2.121-2.12 2.121 2.12 0.707-0.707-2.121-2.121z"
+     fill="#5d656b"
+     fill-rule="evenodd"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path5" />
+</svg>

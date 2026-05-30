@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg2"
+   sodipodi:docname="draw-rectangle-rounded.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+      }</style>
+  </defs>
+  <path
+     class="ColorScheme-Text"
+     d="M 9.5,6.5 C 6.453,6.5 4,8.953 4,12 c 0,3.047 2.453,5.5 5.5,5.5 h 5 C 17.547,17.5 20,15.047 20,12 20,8.953 17.547,6.5 14.5,6.5 Z m 0,1 h 5 c 2.493,0 4.5,2.007 4.5,4.5 0,2.493 -2.007,4.5 -4.5,4.5 h -5 C 7.007,16.5 5,14.493 5,12 5,9.507 7.007,7.5 9.5,7.5 Z"
+     id="path1"
+     style="fill:#5d656b;fill-opacity:1" />
+  <path
+     class="ColorScheme-Text"
+     d="M 8.7737092,16.631535 C 7.707168,16.455672 6.8053222,15.948336 6.0685418,15.109768 5.5413409,14.509694 5.1472009,13.666186 5.0127336,12.850296 4.9453196,12.441278 4.9444026,11.694283 5.0108303,11.300309 5.293144,9.6260608 6.4671813,8.230314 8.0431677,7.6953317 8.7210279,7.4652301 8.6149289,7.471235 12.004461,7.471235 c 2.827671,0 3.08739,0.00476 3.364041,0.061559 1.774732,0.3644579 3.126621,1.6753589 3.56806,3.459805 0.118081,0.477274 0.147051,1.31525 0.06315,1.826638 -0.308795,1.882246 -1.665644,3.328142 -3.547982,3.780776 -0.228279,0.05489 -0.515219,0.06073 -3.330732,0.06776 -2.3926165,0.0059 -3.1404074,-0.0021 -3.3473869,-0.03625 z"
+     fill-opacity=".50196"
+     id="path2"
+     style="fill:#c5c5c5;fill-opacity:1;stroke-width:0.925255" />
+</svg>

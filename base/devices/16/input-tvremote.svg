@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path id="path2" d="m5 0c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2h-4zm0 1h6c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z" fill="#5d656b"/>
+ <g id="g12" transform="translate(0 -5.9201)" fill="#5d656b" fill-rule="evenodd">
+  <circle id="path3" cx="5.5333" cy="8.4533" r=".91079"/>
+  <circle id="circle3" cx="10.467" cy="8.4533" r=".91079"/>
+ </g>
+ <g id="g7" transform="translate(.021109 9.5253)" fill="#5d656b" fill-rule="evenodd">
+  <circle id="circle5" cx="5.5122" cy="3.8234" r=".91079"/>
+  <circle id="circle6" cx="10.446" cy="3.8234" r=".91079"/>
+  <circle id="circle7" cx="7.9789" cy="3.8234" r=".91079"/>
+ </g>
+ <g id="g11" transform="translate(0 -.3036)" fill-rule="evenodd">
+  <circle id="path3-3" cx="8" cy="6.8615" r="2.5047" fill="#5d656b"/>
+  <circle id="path3-3-6" cx="8" cy="6.8615" r="1.3282" fill="#d2d2db"/>
+ </g>
+ <g id="g10" transform="translate(.021109 7.0776)" fill="#5d656b" fill-rule="evenodd">
+  <circle id="circle8" cx="5.5122" cy="3.8234" r=".91079"/>
+  <circle id="circle9" cx="10.446" cy="3.8234" r=".91079"/>
+  <circle id="circle10" cx="7.9789" cy="3.8234" r=".91079"/>
+ </g>
+</svg>

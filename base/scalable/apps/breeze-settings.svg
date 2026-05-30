@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs18">
+  <linearGradient id="linearGradient20" x1="44" x2="7" y1="12" y2="23" gradientUnits="userSpaceOnUse">
+   <stop id="stop19" stop-color="#21c8c7" offset="0"/>
+   <stop id="stop20" stop-color="#0f8ab8" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect id="rect1-6" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#a71b7a"/>
+ <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="url(#linearGradient20)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect id="rect2" x="9" y="10" width="6" height="6" rx="1" ry="1" fill="#f6fdff" style="paint-order:markers fill stroke"/>
+ <rect id="rect3" x="9" y="26" width="6" height="6" rx="1" ry="1" fill="#ee0800" style="paint-order:markers fill stroke"/>
+ <path id="path2" d="m10 49 50-17v-22z" fill="#bc2a8d" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
+ <rect id="rect4" x="9" y="18" width="6" height="6" rx="1" ry="1" fill="#a1ff60" style="paint-order:markers fill stroke"/>
+ <path id="path21" d="m28 35 13 13-31 1z" fill="#1d2323" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
+ <path id="rect1" d="m4 48v6c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-6z" fill="#445252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.4343" style="paint-order:markers fill stroke"/>
+ <path id="path20" d="m9.6682 49.042c-0.34604 0-0.62463 0.27808-0.62463 0.6235s0.27859 0.6235 0.62463 0.6235 0.66705-0.27808 0.66705-0.6235-0.321-0.6235-0.66705-0.6235m3.6688-0.04233-1.3341 1.3317 2.3347 2.3304-2.3347 2.3304 1.3341 1.3317 3.663-3.6622zm-5.3364 3.777c-0.55432 0-1.0006 0.44545-1.0006 0.99876 0 0.55265 0.44626 0.99875 1.0006 0.99875 0.55365 0 1.0006-0.4461 1.0006-0.99875 0-0.55331-0.44692-0.99876-1.0006-0.99876m2.753 3.8801c-0.65017 0-1.1736 0.52247-1.1736 1.1715 0 0.64899 0.52342 1.1714 1.1736 1.1714 0.65017 0 1.1736-0.52247 1.1736-1.1714 0-0.64899-0.52342-1.1715-1.1736-1.1715" fill="#fff" stroke-width=".62407"/>
+</svg>

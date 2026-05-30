@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg1"
+   sodipodi:docname="smartphone-connected.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+          color:#5d656b;
+        }
+        .ColorScheme-PositiveText {
+        color:#27ae60;
+        }</style>
+  </defs>
+  <path
+     id="smartphone"
+     class="ColorScheme-PositiveText"
+     d="M 5.3333333,0 C 4.0419333,0 2.6666667,1.3752 2.6666667,2.6666667 V 13.333333 c 0,1.2914 1.3752,2.666667 2.6666666,2.666667 h 5.3333337 c 1.2914,0 2.666666,-1.3752 2.666666,-2.666667 V 2.6666667 C 13.333333,1.3752667 11.958133,0 10.666667,0 Z m 0,1.3333333 H 10.666667 C 11.416107,1.3333333 12,1.9171733 12,2.6666667 V 13.333333 c 0,0.74944 -0.58384,1.333334 -1.333333,1.333334 H 5.3333333 C 4.5838933,14.666667 4,14.082827 4,13.333333 V 2.6666667 C 4,1.9172267 4.58384,1.3333333 5.3333333,1.3333333 Z m 0.7109334,1.362 c -0.3590934,0.00397 -0.6476,0.2971334 -0.64584,0.6562534 0.00254,0.3590933 0.2945333,0.64876 0.65364,0.64844 0.3601066,-0.00112 0.65136,-0.2935334 0.65104,-0.65364 v -0.00781 C 6.6977099,2.9794808 6.4033733,2.6921208 6.0442533,2.6953475 Z M 5.999996,12 c -0.3693333,0 -0.6666667,0.297333 -0.6666667,0.666667 0,0.369333 0.2973334,0.666666 0.6666667,0.666666 h 4 c 0.369333,0 0.666667,-0.297333 0.666667,-0.666666 C 10.666663,12.297333 10.369329,12 9.999996,12 Z"
+     fill="currentColor"
+     style="stroke-width:1.33333" />
+</svg>

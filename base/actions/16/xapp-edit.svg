@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg1"
+   sodipodi:docname="xapp-edit.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     d="m12.249 1.0079-0.35218 0.36046-8.9702 9.0943-0.029001 0.04559c-0.061001 0.09899-0.2712 0.4489-0.5842 1.0869-0.31401 0.63799-0.70034 1.5108-1.0123 2.4927l-0.29003 0.91978 0.91981-0.29001c0.85456-0.27528 1.6883-0.61385 2.4929-1.0123 0.63802-0.31399 0.98592-0.52017 1.0869-0.58419l0.045571-0.02895 9.455-9.3221zm-7.8115 9.1591 7.7784-7.7782 1.4142 1.4142-7.7784 7.7782zm-0.53725 0.73058 1.2209 1.2209-0.17816 0.17541c7e-3 -0.0045-0.37923 0.22674-0.96124 0.51375-0.21401 0.10499-0.53618 0.22097-0.83419 0.33697l-0.27346-0.27345c0.116-0.29799 0.23199-0.62015 0.33699-0.83415 0.28701-0.582 0.51915-0.96584 0.51515-0.95984z"
+     fill="#5d656b"
+     id="path1" />
+</svg>

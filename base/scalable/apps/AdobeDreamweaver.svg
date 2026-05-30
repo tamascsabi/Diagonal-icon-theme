@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#4cc840"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#1f1d21" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="text7" d="m51 39-2.3012-7.4842c-0.22419-0.72914 0.30117-0.5158 1.3012-0.5158v-1h-7v1c1.2544 0.12632 1.0029-0.0842 1.614 2l0.38596 0.99999-2 6-1.152-3.021c-0.32164-0.72632-1.9298-4.6737-1.9298-5.3368 0-0.50526 0.18129-0.5158 1.0819-0.64212v-1h-7v1c0.83626 0.1579 0.96491 0.10528 1.8333 2.1895l5.1667 11.811h2l3-9 3 9h1l4.3918-12.663c0.48246-1.2 0.77193-1.179 1.6082-1.3369v-1h-4v1c1.5773 0 1.4936 0 1.2018 0.86317-0.36984 1.0938-0.20176 1.1368-2.2018 7.1368z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".099594" style="paint-order:markers fill stroke" aria-label="w"/>
+ <path id="text8" d="m14 42c0 1.5621-1.1124 1.929-3 2v1h10.284c7.0296 0 11.716-4.6509 11.716-12 0-7.3136-4.5562-12-12.074-12h-9.926v0.88757c2.0828 0.21302 3 0.47929 3 2.1124zm13-9c0 8.2367-2.6154 11-6 11-1.4645 0-2-1.4024-2-3v-17c0-0.81657 0.73077-2 2-2 2.929 0 6 2.2663 6 11z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".10622" style="paint-order:markers fill stroke" aria-label="D"/>
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#5d656b" fill-rule="evenodd">
+  <path d="m11 2a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm0 1a8 8 0 0 1 8 8 8 8 0 0 1-8 8 8 8 0 0 1-8-8 8 8 0 0 1 8-8z" stroke-width=".54595"/>
+  <circle cx="11" cy="11" r="2" stroke-width=".529"/>
+  <path d="m11 5a6 6 0 0 0-6 6h2a4 4 0 0 1 4-4v-2z" stroke-width="1.587"/>
+ </g>
+</svg>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg5"
+   sodipodi:docname="shuffler-applet-settings.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     transform="translate(-13.177 -23.356)"
+     fill="#5d656b"
+     id="g5">
+    <path
+       d="m17.177 23.356v5h4v-5h-4zm1 1h2v3h-2v-3z"
+       stop-color="#5d656b"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path1" />
+    <path
+       d="m13.177 23.356v5h3v-5h-3zm1 1h1v3h-1v-3z"
+       stop-color="#5d656b"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path2" />
+    <path
+       d="m13.177 29.356v3h3v-3h-3zm1 1h1v1h-1v-1z"
+       stop-color="#5d656b"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.4495"
+       id="path3" />
+    <path
+       d="m17.177 29.356v3h4v-3h-4zm1 1h2v1h-2v-1z"
+       stop-color="#5d656b"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.4495"
+       id="path4" />
+    <path
+       d="m23.177 32.356 2 7 4-4z"
+       id="path5" />
+  </g>
+</svg>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   version="1.1"
+   viewBox="0 0 32 32"
+   sodipodi:docname="input-keyboard-color.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+      }</style>
+  <g
+     id="input-keyboard-color"
+     transform="translate(-402 -556.36)"
+     style="fill:#5d656b;fill-opacity:1">
+    <g
+       id="g1"
+       fill="currentColor"
+       style="fill:#5d656b;fill-opacity:1">
+      <path
+         id="path1"
+         class="ColorScheme-Text"
+         transform="translate(364 460.36)"
+         d="m44 100v20l10 4 10-4v-10h-1v7h-18v-16h12v-1zm9.4062 4-4.4062 10h1.3008l1.3223-3h4.7227l1.3496 3h1.3047l-4.5-10zm0.55273 1.6953 1.9375 4.3047h-3.834zm-8.959 12.305h18v1h-18z"
+         style="fill:#5d656b;fill-opacity:1" />
+      <path
+         id="path2"
+         class="ColorScheme-Text"
+         transform="translate(402 556.36)"
+         d="m24.203 4.176c-0.464 1.0928-1.07 2.008-1.597 2.8048-0.357 0.5552-0.76 1.1632-1.029 1.8392-0.07 0.236-0.116 0.4808-0.116 0.7296 0 0.8648 0.444 1.6264 1.121 2.1032 0.232 0.05102 0.469 0.07723 0.706 0.07816 1.767 0 3.2-1.3667 3.2-3.0531 0-0.23154-0.03-0.46219-0.08-0.6875 0.03 0.03735 0.05 0.07539 0.08 0.11406-0.217-0.3968-0.457-0.7728-0.683-1.1232-0.526-0.7968-1.133-1.712-1.597-2.8048"
+         stroke-width=".8"
+         style="fill:#5d656b;fill-opacity:1" />
+      <path
+         id="path3"
+         class="ColorScheme-Text"
+         transform="translate(402 556.36)"
+         d="m24.203 3c-0.133 0.4552-0.311 0.9-0.505 1.336-0.985 2.16-2.529 3.6384-2.678 5.0016 0 0.02-0.01 0.0424-0.02 0.0624l0.01 0.0048c0 0.0472-0.01 0.0936-0.01 0.1408 0 1.6872 1.433 3.0544 3.2 3.0544s3.2-1.368 3.2-3.0544c0-0.0464-0.01-0.0936-0.01-0.1408l0.01-0.0048c0-0.02-0.01-0.0424-0.02-0.0624-0.149-1.3632-1.692-2.8416-2.678-5.0016-0.194-0.436-0.372-0.8808-0.505-1.336m0 1.172c0.464 1.0928 1.07 2.008 1.597 2.8048 0.357 0.5552 0.76 1.1632 1.029 1.8392 0.07 0.236 0.116 0.4808 0.116 0.7296 0 1.4456-1.227 2.6184-2.742 2.6184s-2.742-1.1728-2.742-2.6184c0-0.2488 0.04-0.4936 0.116-0.7296 0.269-0.6752 0.673-1.284 1.029-1.8392 0.527-0.7968 1.133-1.712 1.597-2.8048"
+         style="fill:#5d656b;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

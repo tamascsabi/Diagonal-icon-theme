@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#787878"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect id="rect9" x="16.495" y="28" width="21.505" height="13" rx="6" ry="6" fill="#5392e1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="11.339" style="paint-order:markers fill stroke"/>
+ <path id="path11" d="m53 24 5 3-5 3z" fill="#5392e1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="11.339" style="paint-order:markers fill stroke"/>
+ <path id="path2" d="m39.519 14.012c-2.4206-0.08796-5.1992 0.31768-6.8272 1.0997-6.703 2.8641-10.083 14.917-17.173 14.223-2.4636-0.30302-4.3829-1.6275-5.8391-4.0371-2.306 0.75758-1.9813 6.5348-0.55859 9.5454 5.7435 12.082 16.405 17.302 28.45 14.35 9.3101-2.8494 16.429-10.192 16.328-19.169 0.10127-13.024-10.722-15.857-14.38-16.012m-5.5183 19.988c-1.7443 5.0839-12 6-16 2 9-0.58609 7-6 11-7s5.7649 2.7706 5 5z" fill="#fff" stroke-width="4.8308"/>
+ <ellipse id="path9" cx="44.5" cy="22.5" rx="2.5" ry="2.5" fill="#5392e1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="9.4489" style="paint-order:markers fill stroke"/>
+ <circle id="path10" cx="45" cy="22" r="1" fill="#f8fafe" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="11.339" style="paint-order:markers fill stroke"/>
+</svg>

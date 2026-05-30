@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#35a5ff"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#0080e6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="text1" transform="scale(1.0018 .99824)" d="m35.937 25.044h-10.981v2.0035c1.9965 0 2.9947 1.0018 2.9947 3.0053l-3e-6 17.03c0 2.0036 0 3.0053-2.9947 3.0053l-1.2e-5 2.0035h13.975l-3.5e-5 -2.0035c-1.9965 0-3.0089-1.0018-2.9947-3.0053zm-4.4652-13.023c-2.4935 0-4.5232 2.0296-4.5232 4.4652 0 2.6095 1.9136 4.5232 4.4652 4.5232s4.5232-1.9136 4.5232-4.4652c0-2.4935-1.9716-4.5232-4.4652-4.5232z" fill="#e4f3ff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.7182" style="paint-order:markers fill stroke" aria-label="i"/>
+</svg>

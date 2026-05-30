@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-NegativeText {
+                color:#da4453;
+            }</style>
+ </defs>
+ <path d="m4 12v5.0012l6 1.0002v-6.0015zm7 0v6.1363l8.998 1.8637 2e-3 -8z" fill="#009ee1" stroke-width="3.7794"/>
+ <path d="m4 11.067v-5.0434l6-1.0087v6.052zm7 0v-6.188l8.998-1.8794 2e-3 8.0674z" fill="#009ee1" stroke-width="3.7953"/>
+</svg>

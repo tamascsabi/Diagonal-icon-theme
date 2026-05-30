@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#23b418"/>
+ <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#051b04" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <g id="g3079" transform="matrix(1.1625 0 0 1.1578 5.7344 2.1084)" fill="#f8fdf7">
+  <path id="path2828" d="m20.013 10.271-12.903 26.775 14.624-12.956zm3.4409 1.7274 3.4409 22.456 11.183 5.1823zm-0.86022 15.547-3.4409 4.3186 4.3011 1.7274zm-6.0215 6.046-9.4624 7.7734h28.153z" color="#000000" fill="#f8fdf7" stroke-width=".81818"/>
+ </g>
+</svg>

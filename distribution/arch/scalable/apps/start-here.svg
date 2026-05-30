@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="start-here.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,1.4136973,0,1 @ F,0,0,1,0,1.4117732,0,1 @ F,0,0,1,0,1.4142136,0,1 @ F,0,0,1,0,1.4117732,0,1 @ F,0,0,1,0,1.4138313,0,1 @ F,0,1,1,0,1.4138313,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,1.4136973,0,1 @ F,0,0,1,0,1.4142136,0,1 @ F,0,0,1,0,1.4138936,0,1 @ F,0,0,1,0,1.4132446,0,1 @ F,0,0,1,0,2.1460381,0,1 @ F,0,0,1,0,2.8235463,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="6.0625"
+     inkscape:cx="36.28866"
+     inkscape:cy="38.268041"
+     inkscape:window-width="1920"
+     inkscape:window-height="976"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <!-- Background / base square -->
+  <rect
+     x="4"
+     y="4"
+     width="56"
+     height="56"
+     rx="6"
+     ry="6"
+     fill="#4a90d9"
+     id="rect1"
+     style="fill:#55a8d1;fill-opacity:1" />
+  <path
+     id="path1"
+     style="fill:#168bc4;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.2;paint-order:markers fill stroke"
+     d="M 60,10 4,54 c 0,3.324 2.676,6 6,6 h 44 c 3.324,0 6,-2.676 6,-6 z" />
+  <path
+     id="path2518"
+     d="m 31.995912,10.000377 c -1.958793,4.801434 -3.140161,7.942172 -5.321019,12.601048 1.337151,1.417048 2.978425,3.067327 5.643797,4.931096 C 29.453083,26.353566 27.498458,25.169948 26.037673,23.941688 23.246584,29.764539 18.873855,38.058592 10,53.999881 16.974497,49.974133 22.381246,47.492315 27.419872,46.545302 27.203512,45.614926 27.080504,44.608519 27.088858,43.55853 l 0.0082,-0.22339 c 0.110665,-4.467509 2.435071,-7.902986 5.188653,-7.669755 2.753483,0.233262 4.893758,4.046185 4.783122,8.513694 -0.02082,0.840645 -0.115656,1.649287 -0.281361,2.399378 C 41.771424,47.553208 47.11973,50.028715 53.999964,54 52.643365,51.502806 51.432428,49.251839 50.276065,47.108014 48.454599,45.696522 46.554745,43.85944 42.67933,41.870772 c 2.663684,0.692016 4.57088,1.490459 6.057563,2.38281 C 36.979769,22.367916 36.027213,19.460211 31.995717,10 Z"
+     fill="#e0f0fc"
+     fill-rule="evenodd"
+     style="stroke-width:0.99215;fill:#f9fcfe;fill-opacity:1" />
+</svg>

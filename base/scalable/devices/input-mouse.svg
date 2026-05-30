@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs18">
+  <linearGradient id="linearGradient20" x1="32" x2="32" y1="21" y2="7" gradientTransform="matrix(.88889 0 0 1 4 -1.5)" gradientUnits="userSpaceOnUse">
+   <stop id="stop19" stop-color="#242930" offset="0"/>
+   <stop id="stop20" stop-color="#7e90a3" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#8897a6"/>
+ <rect id="rect9" x="26" y="6" width="12" height="22" rx="3" ry="3" fill="#374758" opacity=".87013" style="paint-order:markers fill stroke"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#374759" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="path7-0" d="m60 11v42a14.4 22.654 0 0 1-9-21 14.4 22.654 0 0 1 9-21z" fill="#b7c4d2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="3.1928" style="paint-order:markers fill stroke"/>
+ <path id="rect4-9" d="m31 30h3v30h-4v-28z" fill="#9ea9b8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.3094" style="paint-order:markers fill stroke"/>
+ <path id="rect6" d="m30.029 27-0.0293 6.5723 4-3.1445v-3.4277z" fill="#374759" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.9928" style="paint-order:markers fill stroke"/>
+ <rect id="rect8" x="27" y="7" width="10" height="20" ry="2" fill="#0a0d11" opacity=".87013" style="paint-order:markers fill stroke"/>
+ <path id="rect5" d="m29.333 8c-0.73867 0-1.3333 0.669-1.3333 1.5v15c0 0.831 0.59467 1.5 1.3333 1.5h5.3333c0.73867 0 1.3333-0.669 1.3333-1.5v-15c0-0.831-0.59467-1.5-1.3333-1.5h-4z" fill="url(#linearGradient20)"/>
+ <path id="path9" d="m4 11v42a14.4 22.654 0 0 0 9-21 14.4 22.654 0 0 0-9-21z" fill="#b7c4d2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="3.1928" style="paint-order:markers fill stroke"/>
+ <rect id="rect10" x="30" y="4" width="4" height="2" fill="#374758" opacity=".87013" style="paint-order:markers fill stroke"/>
+</svg>

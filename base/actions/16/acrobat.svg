@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg2"
+   sodipodi:docname="acrobat.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="51"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path1"
+     style="fill:#da4453;fill-opacity:1"
+     d="M 4 1 L 3.9804688 1.0253906 C 3.9435419 1.0182036 3.9071402 1.0119215 3.8691406 1.0078125 C 2.8187086 1.098211 2 1.9526539 2 3 L 2 7.9511719 L 2 8 L 4 6 L 6 8 L 6 1 L 4 1 z M 7 1 L 7 2 L 10.048828 2 L 12 2 C 12.554 2 13 2.446 13 3 L 13 8.9511719 L 13 9.4902344 L 13 10 L 10 10 C 8.892 10 8 10.892 8 12 L 8 14 L 4 14 C 3.446 14 3 13.554 3 13 L 3 9 L 2 9 L 2 13 C 2 14.108 2.892 15 4 15 L 8 15 L 9 15 L 12 15 C 13.108 15 14 14.108 14 13 L 14 11 L 14 10 L 14 9.4902344 L 14 7.9511719 L 14 3 C 14 1.892 13.108 1 12 1 L 11.048828 1 L 7 1 z M 10 11 L 13 11 L 13 13 C 13 13.554 12.554 14 12 14 L 9 14 L 9 12 C 9 11.446 9.446 11 10 11 z " />
+</svg>

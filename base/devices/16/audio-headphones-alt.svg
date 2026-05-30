@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg3"
+   sodipodi:docname="audio-headphones-alt.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="51"
+     inkscape:cx="8.5882353"
+     inkscape:cy="6.0196078"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3"
+     showgrid="true">
+    <inkscape:grid
+       id="grid4"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1" />
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#5d656b; } .ColorScheme-Highlight { color:#5294e2; }</style>
+    <filter
+       id="a"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       color-interpolation-filters="sRGB">
+      <feBlend
+         in2="BackgroundImage"
+         mode="darken"
+         id="feBlend1" />
+    </filter>
+    <filter
+       id="a-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       color-interpolation-filters="sRGB">
+      <feBlend
+         in2="BackgroundImage"
+         mode="darken"
+         id="feBlend2" />
+    </filter>
+  </defs>
+  <path
+     id="rect4"
+     style="fill:#5d656b;stroke-width:1.9741"
+     d="m 6.4101562,8.9785156 c -0.2172551,0 -0.3925781,0.175323 -0.3925781,0.3925782 V 10 H 1 c -0.554,0 -1,0.398847 -1,0.894531 v 0.210938 C 0,11.601153 0.446,12 1,12 h 5.0175781 v 0.585938 c 0,0.217255 0.175323,0.392578 0.3925781,0.392578 H 12.625 c 0.217255,0 0.392578,-0.175323 0.392578,-0.392578 V 9.3710938 c 0,-0.2172552 -0.175323,-0.3925782 -0.392578,-0.3925782 z" />
+  <path
+     id="text6"
+     style="font-size:12.7384px;fill:#5d656b;stroke-width:0.700657"
+     d="m 11.372073,1 c -1.28579,0.9636259 -1.9391398,2.5373883 -0.682049,4.2670127 0.341028,0.4403775 0.840143,0.8123518 1.500431,1.1151113 0.471634,0.211014 0.838868,0.4135896 1.100081,0.6062547 0.268467,0.1834906 0.456258,0.3840784 0.565097,0.6042671 0.10884,0.2201887 0.164746,0.4918694 0.164746,0.8129777 0,0.4862502 -0.148918,0.8704553 -0.44641,1.1548658 -0.290236,0.2844101 -0.726868,0.4273601 -1.30734,0.4273601 -0.413586,0 -0.816321,-0.059628 -1.20814,-0.1788946 C 10.673926,9.689685 10.352481,9.556215 10.091268,9.4094225 v 1.1846815 c 0.246701,0.146793 0.554656,0.261306 0.924706,0.343876 0.370052,0.08258 0.772786,0.123239 1.20814,0.123239 0.84894,0 1.524128,-0.243245 2.024785,-0.729494 C 14.749557,9.8454744 15,9.1678793 15,8.2962989 15,7.7825254 14.91533,7.3556644 14.748452,7.0162068 14.588822,6.6767492 14.350268,6.3861106 14.031009,6.1475729 13.719005,5.8998607 13.333135,5.6708358 12.876013,5.4598216 12.455171,5.2579819 12.121835,5.069625 11.875134,4.8953089 11.628434,4.7209929 11.471748,4.5103257 11.341923,4.3049559 10.601349,3.133445 11.170042,2.2477411 12,1.7207951 Z"
+     sodipodi:nodetypes="ccccsscsccccssscccsscc" />
+</svg>

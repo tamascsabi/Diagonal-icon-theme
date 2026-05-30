@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="f" x1="44" x2="4" gradientTransform="translate(327.39 535.74) scale(.39877)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#42a603" offset="0"/>
+   <stop stop-color="#78da06" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="24" x2="4" y1="4" y2="44" gradientTransform="translate(327.39 535.74) scale(.39877)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#197cf1" offset="0"/>
+   <stop stop-color="#20bcfa" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="44" x2="24" y1="44" y2="4" gradientTransform="translate(327.39 535.74) scale(.39877)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c61423" offset="0"/>
+   <stop stop-color="#dc2b41" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g fill-rule="evenodd">
+  <path transform="translate(-326 -534.36)" d="m336.96 537.34 1.171 13.278 6.804 2.673-7.975-15.95z" fill="url(#d)"/>
+  <path transform="translate(-326 -534.36)" d="m336.96 537.34-7.976 15.951 8.692-7.843-0.716-8.108z" fill="url(#e)"/>
+  <path transform="translate(-326 -534.36)" d="M333.825 548.922l-4.837 4.363 15.95.001-11.113-4.365zM329 553.259l-.028.027h.015l.014-.027z" fill="url(#f)"/>
+ </g>
+</svg>

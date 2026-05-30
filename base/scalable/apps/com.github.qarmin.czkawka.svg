@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs1">
+  <linearGradient id="g-7" x1="-91.187" x2="-450.27" y1="100.01" y2="100.01" gradientTransform="matrix(.086019 0 0 .085847 47.11 45.176)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3" stop-color="#9a9996" offset="0"/>
+   <stop id="stop4" stop-color="#f6f5f4" offset=".035714"/>
+   <stop id="stop5" stop-color="#c0bfbc" offset=".10606"/>
+   <stop id="stop6" stop-color="#c0bfbc" offset=".89394"/>
+   <stop id="stop7" stop-color="#deddda" offset=".93939"/>
+   <stop id="stop8-5" stop-color="#9a9996" offset="1"/>
+  </linearGradient>
+  <radialGradient id="l" cx="70" cy="295.18" r="32" gradientTransform="matrix(1.3125 -.03125 .0096701 .40614 -16.729 5.3033)" xlink:href="#c"/>
+  <linearGradient id="c" gradientUnits="userSpaceOnUse">
+   <stop id="stop19-6" offset="0"/>
+   <stop id="stop20" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath8">
+   <rect id="rect19" x="-1.4434e-7" y="-6.6758e-7" width="192" height="152"/>
+  </clipPath>
+  <mask id="mask6" maskUnits="userSpaceOnUse">
+   <g id="g19" transform="matrix(1.8809,0,0,1.8809,10.497,20.032)">
+    <g id="g18" transform="matrix(.53165 0 0 .53165 -5.5808 -10.65)" filter="url(#a)">
+     <rect id="rect18" width="128" height="128" fill-opacity=".104"/>
+    </g>
+   </g>
+  </mask>
+  <filter id="a" x="0" y="0" width="1" height="1">
+   <feColorMatrix id="feColorMatrix1" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <linearGradient id="p" x1="27.184" x2="37.751" y1="48.92" y2="59.422" gradientTransform="matrix(.47317 0 0 .4761 2.1374 1.7092)" gradientUnits="userSpaceOnUse">
+   <stop id="stop27" stop-color="#9141ac" offset="0"/>
+   <stop id="stop28-2" stop-color="#1c71d8" offset="1"/>
+  </linearGradient>
+  <radialGradient id="r" cx="70" cy="295.18" r="32" gradientTransform="matrix(1.3125 -.03125 .0096701 .40614 -16.729 9.3033)" xlink:href="#c"/>
+  <clipPath id="clipPath5">
+   <rect id="rect17" x="-1.4434e-7" y="-6.6758e-7" width="192" height="152"/>
+  </clipPath>
+  <mask id="mask2" maskUnits="userSpaceOnUse">
+   <g id="g17" transform="matrix(1.8809,0,0,1.8809,10.497,20.032)">
+    <g id="g16" transform="matrix(.53165 0 0 .53165 -5.5808 -10.65)" filter="url(#a)">
+     <rect id="rect16" width="128" height="128" fill-opacity=".104"/>
+    </g>
+   </g>
+  </mask>
+  <linearGradient id="t" x1="58.02" x2="73.981" y1="36" y2="50" gradientTransform="matrix(.49525 0 .0067909 .42857 .021553 3.5713)" gradientUnits="userSpaceOnUse">
+   <stop id="stop31-7" stop-color="#c061cb" offset="0"/>
+   <stop id="stop32" stop-color="#3584e4" offset="1"/>
+  </linearGradient>
+ </defs>
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#373634"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#4a6ff1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="path21" d="m11.6 15.15 17.4-2.1503 10 10v30c0 1.6197-1.1025 3.1078-2.6272 3.1015l-24.373-0.1015c-1-0.004164-3-1-3-3v-35c0-1.6197 2.4754-3 4-3z" fill="url(#g-7)" stroke-width=".468"/>
+ <path id="path25" transform="matrix(.46875 0 0 .43482 -1.3124 -1.5678)" d="m27.398 123.05c-1.9883-0.41016-4.2969-0.3125-4.8594-2.1797-0.17578-0.58984-0.53906-1.2383-0.53906-4.1055l0.0039-1.3008 0.71484 2.3398c0.40234 1.3242 2.0586 2.2812 3.4805 2.6641 1.4492 0.39062 54.734 0.3789 55.902-0.0117 1.3711-0.46094 2.375-1.3633 3.0898-2.7734l0.8086-3.6875v5c-0.63672 2.582-1.7461 3.3555-3.4766 4.1602l-27.125 0.0352c-14.41 0.0195-26.66-0.0391-27.906-0.13281-0.04688-4e-3 -0.07422-8e-3 -0.09375-8e-3z" clip-path="url(#clipPath8)" fill="url(#l)" mask="url(#mask6)"/>
+ <path id="path30" d="m29 13.004 9.7987 9.874 0.2013 25.126c0.01219 1.521-1.1612 2.9965-2.6823 2.9965h-24.723c-1.5228 0-2.5945-1.4736-2.5945-2.9965v-32c0-1.5228 1-3 3-3z" fill="#deddda" stroke-width=".468"/>
+ <path id="path31" d="m13 44h10v2h-10z" fill="#8e8c87" stroke-width=".468"/>
+ <path id="path32" d="m13 40h23v2h-23z" fill="#8e8c87" stroke-width=".468"/>
+ <path id="path33" d="m13 36h23v2h-23z" fill="#8e8c87" stroke-width=".468"/>
+ <path id="path35" d="m13 16h10v2h-10z" fill="#8e8c87" stroke-width=".468"/>
+ <path id="path36" d="m13 20h12v2h-12z" fill="#8e8c87" stroke-width=".468"/>
+ <path id="path38" d="m27 8c-1.5639 0-3.0143 1.4363-3 3v36h3v-15h3v11h3v-11h3v4h3v-4h3v16h3v-16h2v19h3v-19h2v16h3v-30l-10-10z" fill="#f6f5f4" stroke-width=".48119"/>
+ <path id="path39" d="m45 8v7c0 1.5491 1.4603 3 3 3h7z" fill="#8e8c87" stroke-width=".47463"/>
+ <path id="path41" d="m13 24h10v6h-10z" fill="url(#p)" stroke-width=".47463"/>
+ <path id="path42" d="m28 11h11v2h-11z" fill="#8e8c87" stroke-width=".468"/>
+ <path id="path43" d="m28 15h13v2h-13z" fill="#8e8c87" stroke-width=".468"/>
+ <path id="path44" d="m40 23h11v2h-11z" fill="#8e8c87" stroke-width=".468"/>
+ <path id="path45" d="m40 19h7v2h-7z" fill="#8e8c87" stroke-width=".468"/>
+ <path id="path46" d="m13 32h11v2h-11z" fill="#8e8c87" stroke-width=".468"/>
+ <path id="path47" d="m28 27h23v2h-23z" fill="#8e8c87" stroke-width=".48947"/>
+ <path id="path48" transform="matrix(.46875 0 0 .43482 -1.3122 -1.3071)" d="m27.398 127.05c-1.9883-0.41016-4.2969-0.3125-4.8594-2.1797-0.17578-0.58984-0.53906-1.2383-0.53906-4.1055l0.0039-1.3008 0.71484 2.3398c0.40234 1.3242 2.0586 2.2812 3.4805 2.6641 1.4492 0.39062 53.574 0.63281 54.801 0.52734 1.8555-0.15625 3.7305-1.2148 4.1914-3.3125l0.80859-3.6875v5c-0.63672 2.582-1.7461 3.3555-3.4766 4.1602l-27.125 0.0352c-14.41 0.0195-26.66-0.0391-27.906-0.13281-0.04688-4e-3 -0.07422-8e-3 -0.09375-8e-3z" clip-path="url(#clipPath5)" fill="url(#r)" mask="url(#mask2)"/>
+ <path id="path49" d="m47 49h3v2h-3z" fill="#8e8c87" stroke-width=".47677"/>
+ <path id="path50" d="m52 46h3v2h-3z" fill="#8e8c87" stroke-width=".47677"/>
+ <path id="path51" d="m42 46h3v2h-3z" fill="#8e8c87" stroke-width=".47677"/>
+ <path id="path52" d="m36 34h3v2h-3z" fill="#8e8c87" stroke-width=".47677"/>
+ <path id="path53" d="m30 42h3v2h-3z" fill="#8e8c87" stroke-width=".47677"/>
+ <path id="path54" d="m24 46h3v2h-3z" fill="#8e8c87" stroke-width=".47677"/>
+ <path id="path55" d="m28 19h10v6h-10z" fill="url(#t)" stroke-width=".4607"/>
+</svg>

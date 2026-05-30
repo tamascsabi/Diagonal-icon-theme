@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg6" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonText {
+        color:#5d656b;
+      }</style>
+ <g id="battery-ups" transform="translate(-182.54 -428.51)">
+  <rect id="rect4447" x="182.54" y="428.51" width="32" height="32" fill="none"/>
+  <path id="rect4411" class="ColorScheme-Text" d="m189.54 432.51v24h18v-24zm1 1h16v22h-16zm8 2-3 7h3v4l3-7h-3zm-6 15v3h1v-3zm2 0v3h1v-3zm2 0v3h1v-3zm2 0v3h1v-3zm4.5 0c-0.82843 0-1.5 0.67157-1.5 1.5s0.67157 1.5 1.5 1.5 1.5-0.67157 1.5-1.5-0.67157-1.5-1.5-1.5z" fill="currentColor"/>
+ </g>
+</svg>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="xml-node-delete.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs3051">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+  </defs>
+  <g
+     transform="translate(0 -1036.4)"
+     fill="currentColor"
+     id="g1"
+     style="fill:#5d656b;fill-opacity:1">
+    <path
+       id="rect3918"
+       class="ColorScheme-Text"
+       transform="translate(0 1036.4)"
+       d="m9.0898 2-3.1465 11.74 0.9668 0.25977 3.1465-11.74-0.9668-0.25977zm-3.8047 2-2.9609 3.1445-0.32422 0.34766 0.32422 0.3457 2.9434 3.1621 0.71484-0.69531-2.6211-2.8125 2.6387-2.7969-0.71484-0.69531zm5.4297 0-0.71484 0.69531 2.6387 2.7969-0.47266 0.50781h1.3594l0.15039-0.16211 0.32422-0.3457-0.32422-0.34766-2.9609-3.1445z"
+       style="fill:#5d656b;fill-opacity:1" />
+    <path
+       id="rect5234"
+       class="ColorScheme-NegativeText"
+       d="m9 1046.2 1.6667 1.6667-1.6667 1.6667 0.83333 0.8333 1.6667-1.6666 1.6667 1.6666 0.83333-0.8333-1.6667-1.6667 1.6667-1.6667-0.83333-0.8333-1.6667 1.6667-1.6667-1.6667-0.83333 0.8333z"
+       style="fill:#5d656b;fill-opacity:1" />
+  </g>
+</svg>

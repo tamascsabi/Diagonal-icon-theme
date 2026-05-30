@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect id="rect1-6" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#ce09e0"/>
+ <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#6d158c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="rect1" d="m4 48v6c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-6z" fill="#5e0166" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.4343" style="paint-order:markers fill stroke"/>
+ <rect id="rect2" x="14" y="51" width="6" height="6" rx="1" ry="1" fill="#c2f1fe" style="paint-order:markers fill stroke"/>
+ <rect id="rect3" x="44" y="51" width="6" height="6" rx="1" ry="1" fill="#e0150e" style="paint-order:markers fill stroke"/>
+ <rect id="rect4" x="24" y="51" width="6" height="6" rx="1" ry="1" fill="#66db15" style="paint-order:markers fill stroke"/>
+ <rect id="rect5" x="34" y="51" width="6" height="6" rx="1" ry="1" fill="#ed8e0f" style="paint-order:markers fill stroke"/>
+ <path id="rect7" d="m14 14v26h36v-26zm3 3h30v20h-30z" fill="#fff" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".10142"/>
+ <path id="rect11" d="m32 19c-2.77 0-5 2.23-5 5v3h-2v8h14v-8h-2v-3c0-2.77-2.23-5-5-5zm0 2c1.662 0 3 1.338 3 3v3h-6v-3c0-1.662 1.338-3 3-3z" fill="#fff" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".1"/>
+</svg>

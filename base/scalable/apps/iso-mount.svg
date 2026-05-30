@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <linearGradient id="b-2" x1="21.696" x2="21.696" y1="292.5" y2="267.63" gradientTransform="matrix(1.9247 0 0 1.9247 -11.307 -506.13)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1-02" stop-color="#c6cdd1" offset="0"/>
+   <stop id="stop2-3" stop-color="#e0e5e7" offset="1"/>
+  </linearGradient>
+ </defs>
+ <!-- Background / base square -->
+ <path id="rect1" d="m10 4h44c3.324 0 6 2.676 6 6v44c0 3.324-2.676 6-6 6h-44c-3.324 0-6-2.676-6-6v-44c0-3.324 2.676-6 6-6z" fill="#5d6b75"/>
+ <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#0d1518" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="path4" d="m32 12c-11.046 0-20 8.9543-20 20s8.9543 20 20 20c11.046 0 20-8.9543 20-20s-8.9543-20-20-20zm0 16.522c1.921 0 3.4783 1.5573 3.4783 3.4783s-1.5573 3.4783-3.4783 3.4783-3.4783-1.5573-3.4783-3.4783 1.5573-3.4783 3.4783-3.4783z" fill="url(#b-2)" stroke-width="1.6083"/>
+ <path id="rect5233" d="m32 14c-9.9411 0-18 8.0589-18 18s8.0589 18 18 18 18-8.0589 18-18-8.0589-18-18-18zm0 15.64c1.3032 0 2.3603 1.0571 2.3603 2.3603s-1.0571 2.3587-2.3603 2.3587-2.3587-1.0555-2.3587-2.3587 1.0555-2.3603 2.3587-2.3603z" fill="#919ea7"/>
+ <path id="path4072" d="m32 24c-4.4183 0-8 3.5817-8 8s3.5817 8 8 8 8-3.5817 8-8-3.5817-8-8-8zm0 5.3611c1.465 0 2.6389 1.1739 2.6389 2.6389s-1.1739 2.6389-2.6389 2.6389-2.6667-1.1739-2.6667-2.6389 1.2017-2.6389 2.6667-2.6389z" fill="#c9d1db"/>
+ <path id="path14" d="m32 27c-2.7615 0-5 2.2386-5 5-3.7e-5 2.7614 2.2386 5 5 5 2.7614-2e-6 5-2.2386 5-5 3.7e-5 -2.7614-2.2386-5-5-5zm0 3a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" fill="#4a4f53" stroke-width="1.3498"/>
+ <path id="path21" d="m32 22a10 10 0 0 0-10 10 10 10 0 0 0 10 10 10 10 0 0 0 10-10 10 10 0 0 0-10-10zm0 1a9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9 9 9 0 0 1 9-9z" fill="#4a4f53"/>
+ <path id="path1-5" d="m52 42-13.981 0.0049-0.01934 12.995h14z" color="#5d656b" fill="#e1e1df" stroke-width="2.3628"/>
+ <path id="rect14" d="m44 42v13h-4v-13z" fill="#304d57" stroke-width="0"/>
+ <path id="rect12" d="m40 40h-24.472c-1.9547 0-3.5284 1.6292-3.5284 3.6529v9.6942c0 2.0237 1.5736 3.6529 3.5284 3.6529h24.472z" fill="#fdce18" stroke-width="0"/>
+ <path id="rect16" d="m49 44v3h-3v-3z" fill="#304d57" stroke-width="0"/>
+ <path id="path17" d="m49 50v3h-3v-3z" fill="#304d57" stroke-width="0"/>
+</svg>

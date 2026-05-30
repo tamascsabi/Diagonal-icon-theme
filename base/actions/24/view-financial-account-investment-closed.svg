@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg2"
+   sodipodi:docname="view-financial-account-investment-closed.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-NegativeText { color: #da4453; }.ColorScheme-Text { color: #5d656b; }</style>
+  <g
+     transform="translate(1,1)"
+     fill="currentColor"
+     id="g2"
+     style="fill:#5d656b;fill-opacity:1">
+    <path
+       class="ColorScheme-Text"
+       d="m5.1211 3 1 1h9.8789v1h1v1h1v2h1v-5h-13.879zm5.8789 2a3 3 0 0 0-2.4727 1.4062l0.70703 0.70703a2 2 0 0 1 1.7148-1.1133 2 2 0 0 1 0.001953 0 2 2 0 0 1 0.048828 0 2 2 0 0 1 2 2h1a3 3 0 0 0-3-3zm-8 0.12109v2.8789h1v-1.8789l-1-1zm0 3.8789v5h1v-2h1v-1h1v-1h1.8789l-1-1h-3.8789zm8.1211 0 1 1h3.8789v1h1v1h1v2h1v-5h-7.8789zm-1.7148 2.5273a3 3 0 0 0-1.4062 2.4727h1a2 2 0 0 1 1.1211-1.7578l-0.71484-0.71484zm-6.4062 3.4727v4h1v-1h1v-1h1v-1h7.8789l-1-1h-9.8789zm14.121 0 1.8789 1.8789v-1.8789h-1.8789zm-6.1211 2a3 3 0 0 0-2.8008 2h1.0742a2 2 0 0 1 1.6758-1 2 2 0 0 1 0.001953 0 2 2 0 0 1 0.048828 0 2 2 0 0 1 1.7227 1h1.1016a3 3 0 0 0-2.8242-2z"
+       id="path1"
+       style="fill:#5d656b;fill-opacity:1" />
+    <path
+       class="ColorScheme-NegativeText"
+       d="m3.707 3-0.70703 0.70703 15.293 15.293 0.70703-0.70703z"
+       id="path2"
+       style="fill:#5d656b;fill-opacity:1" />
+  </g>
+</svg>

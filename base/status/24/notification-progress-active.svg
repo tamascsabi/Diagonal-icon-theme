@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+            color:#5d656b;
+        }
+        .ColorScheme-Accent {
+            color:#3daee9;
+        }
+        .ColorScheme-NegativeText {
+            color:#da4453;
+        }</style>
+ <g transform="translate(1,1)">
+  <g id="notification-progress-active" transform="translate(-1 -1)">
+   <path id="empty-rectangle" d="m1 1h22v22h-22z" fill="none"/>
+   <circle id="circle-blue" class="ColorScheme-Accent" cx="12" cy="12" r="8" fill="currentColor"/>
+  </g>
+ </g>
+</svg>

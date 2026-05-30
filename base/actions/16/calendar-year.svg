@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg9"
+   sodipodi:docname="calendar-year.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     d="m1 1v4h4v-4h-4zm1 1h2v2h-2v-2z"
+     fill="#5d656b"
+     fill-rule="evenodd"
+     stop-color="#5d656b"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width=".8"
+     style="paint-order:stroke fill markers"
+     id="path1" />
+  <path
+     d="m6 1v4h4v-4zm1 1h2v2h-2z"
+     fill="#5d656b"
+     fill-rule="evenodd"
+     stop-color="#5d656b"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width=".8"
+     style="paint-order:stroke fill markers"
+     id="path2" />
+  <path
+     d="m11 1v4h4v-4zm1 1h2v2h-2z"
+     fill="#5d656b"
+     fill-rule="evenodd"
+     stop-color="#5d656b"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width=".8"
+     style="paint-order:stroke fill markers"
+     id="path3" />
+  <path
+     d="m1 6v4h4v-4zm1 1h2v2h-2z"
+     fill="#5d656b"
+     fill-rule="evenodd"
+     stop-color="#5d656b"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width=".8"
+     style="paint-order:stroke fill markers"
+     id="path4" />
+  <path
+     d="m6 6v4h4v-4zm1 1h2v2h-2z"
+     fill="#5d656b"
+     fill-rule="evenodd"
+     stop-color="#5d656b"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width=".8"
+     style="paint-order:stroke fill markers"
+     id="path5" />
+  <path
+     d="m11 6v4h4v-4zm1 1h2v2h-2z"
+     fill="#5d656b"
+     fill-rule="evenodd"
+     stop-color="#5d656b"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width=".8"
+     style="paint-order:stroke fill markers"
+     id="path6" />
+  <path
+     d="m1 11v4h4v-4zm1 1h2v2h-2z"
+     fill="#5d656b"
+     fill-rule="evenodd"
+     stop-color="#5d656b"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width=".8"
+     style="paint-order:stroke fill markers"
+     id="path7" />
+  <path
+     d="m6 11v4h4v-4zm1 1h2v2h-2z"
+     fill="#5d656b"
+     fill-rule="evenodd"
+     stop-color="#5d656b"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width=".8"
+     style="paint-order:stroke fill markers"
+     id="path8" />
+  <path
+     d="m11 11v4h4v-4zm1 1h2v2h-2z"
+     fill="#5d656b"
+     fill-rule="evenodd"
+     stop-color="#5d656b"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width=".8"
+     style="paint-order:stroke fill markers"
+     id="path9" />
+</svg>

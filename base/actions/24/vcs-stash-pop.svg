@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg13"
+   version="1.1"
+   viewBox="0 0 24 24"
+   sodipodi:docname="vcs-stash-pop.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text {
+            color:#5d656b;
+        }
+        .ColorScheme-Highlight {
+            color:#3daee9;
+        }</style>
+  <g
+     transform="translate(1,1)"
+     fill="currentColor"
+     id="g1"
+     style="fill:#5d656b;fill-opacity:1">
+    <path
+       id="path3"
+       class="ColorScheme-Text"
+       d="m3 10v9h7v-9h-1v4h-5v-4zm1 6h5v1h-5z"
+       stroke-linecap="square"
+       style="fill:#5d656b;fill-opacity:1" />
+    <path
+       id="path5"
+       class="ColorScheme-Highlight"
+       d="m 3.5862069,11 h 5.7241379 v 2 H 4 Z"
+       stroke-linecap="square"
+       style="fill:#5d656b;fill-opacity:1"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path7"
+       class="ColorScheme-Text"
+       d="m12.5 11.793-0.70703 0.70703 3.707 3.707 3.707-3.707-0.70703-0.70703-3 3-3-3z"
+       style="fill:#5d656b;fill-opacity:1" />
+    <path
+       id="path11"
+       class="ColorScheme-Text"
+       d="m7.9512 3a2 2 0 0 0-1.9512 2v5h1v-5a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v10h1v-10a2 2 0 0 0-1.9512-2 2 2 0 0 0-0.048828 0h-6a2 2 0 0 0-0.048828 0z"
+       style="fill:#5d656b;fill-opacity:1" />
+  </g>
+</svg>

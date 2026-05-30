@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#fd660f"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#752a71" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="rect1-6" d="m20 56 9-26 6.0176 5.09e-4 -9.0176 25.999z" fill="#fff9f9" stroke-width=".39924"/>
+ <path id="path2" d="m44 56-8.9824-25.999-6.0176-5.09e-4 9 26z" fill="#fff" opacity=".61385" stroke-width=".39924"/>
+ <rect id="rect5" x="18" y="44" width="28" height="6" rx="3" ry="3" fill="#fdece9" stroke="#fff" stroke-width="1.7777"/>
+ <rect id="rect2" x="19" y="45" width="26" height="4" rx="2" ry="2" fill="#f6bcb0" stroke="#fff" stroke-width="1.3987"/>
+ <circle id="circle1" cx="47" cy="14" r="5" fill="#0b2e59" stroke-width="0"/>
+ <circle id="circle3" cx="17" cy="14" r="5" fill="#0b2e59" stroke-width="0"/>
+ <path id="path4" d="m17 13a2 2 0 0 0-2 2 2 2 0 0 0 0.025391 0.30273 17 13 0 0 0 16.975 12.697 17 13 0 0 0 16.975-12.697 2 2 0 0 0 0.025391-0.30273 2 2 0 0 0-2-2 2 2 0 0 0-2 2 13 9 0 0 1-13 9 13 9 0 0 1-13-9 2 2 0 0 0-2-2z" fill="#f3f3f3" style="paint-order:markers fill stroke"/>
+</svg>

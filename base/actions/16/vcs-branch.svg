@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="vcs-branch.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">
+        .ColorScheme-Text {
+            color:#5d656b;
+        }
+        .ColorScheme-Highlight {
+            color:#3daee9;
+        }
+    </style>
+  <g
+     stroke-linecap="square"
+     id="g5">
+    <g
+       class="ColorScheme-Text"
+       fill="currentColor"
+       id="g4">
+      <path
+         d="m3.5 2a1.5 1.5 0 0 0 -1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0 -1.5-1.5zm-.0117188 1a.5.5 0 0 1 .0117188 0 .5.5 0 0 1 .5.5.5.5 0 0 1 -.5.5.5.5 0 0 1 -.5-.5.5.5 0 0 1 .4882812-.5z"
+         id="path1" />
+      <path
+         d="m3 4h1v8h-1z"
+         id="path2" />
+      <path
+         d="m11 4v2a1 1 0 0 1 -1 1h-5a2 2 0 0 0 -.0488281 0 2 2 0 0 0 -1.9511719 2h1a1 1 0 0 1 1-1h5a2 2 0 0 0 .048828 0 2 2 0 0 0 1.951172-2v-2z"
+         id="path3" />
+      <path
+         d="m3.5 11a1.5 1.5 0 0 0 -1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0 -1.5-1.5zm-.011719 1a.5.5 0 0 1 .011719 0 .5.5 0 0 1 .5.5.5.5 0 0 1 -.5.5.5.5 0 0 1 -.5-.5.5.5 0 0 1 .4882812-.5z"
+         id="path4" />
+    </g>
+    <path
+       d="m11.5 2a1.5 1.5 0 0 0 -1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0 -1.5-1.5zm-.01172 1a.5.5 0 0 1 .01172 0 .5.5 0 0 1 .5.5.5.5 0 0 1 -.5.5.5.5 0 0 1 -.5-.5.5.5 0 0 1 .48828-.5z"
+       class="ColorScheme-Highlight"
+       fill="currentColor"
+       id="path5" />
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg3"
+   sodipodi:docname="system-shutdown-update.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     fill="#5d656b"
+     id="g3">
+    <path
+       d="m11.5 8-2.5 3h1.5v3h2v-3h1.5z"
+       color="#5d656b"
+       id="path1" />
+    <path
+       d="m3.7715 2.2168c-1.7417 1.2153-2.7406 3.1726-2.7715 5.2129-0.0103 0.6801 0.087561 1.3691 0.30078 2.043 0.8529 2.6956 3.365 4.5312 6.1992 4.5312 0.87861 0 1.727-0.17625 2.5039-0.5l-0.013672-1.0918c-0.75429 0.38162-1.6026 0.5918-2.4902 0.5918-2.4034 0-4.524-1.5498-5.2461-3.832-0.7221-2.2822 0.12173-4.7615 2.0898-6.1348l-0.57227-0.82031zm7.457 0-0.57227 0.82031c1.8022 1.2575 2.6625 3.443 2.2402 5.5547l0.80274 0.87891c0.8516-2.695-0.14907-5.634-2.4707-7.2539z"
+       id="path2" />
+    <path
+       d="m7 1v7h1v-7z"
+       id="path3" />
+  </g>
+</svg>

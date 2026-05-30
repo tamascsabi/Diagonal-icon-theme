@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="chronometer-pause.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs3051">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+      }</style>
+  </defs>
+  <path
+     class="ColorScheme-Text"
+     d="m5.2559 2.5977c-1.3717 0.60156-2.5139 1.6192-3.2559 2.9062l0.86719 0.5c0.63533-1.1009 1.6103-1.9711 2.7832-2.4863l-0.39453-0.91992zm5.4883 0-0.39453 0.91992c1.1729 0.51526 2.1479 1.3854 2.7832 2.4863l0.86719-0.5c-0.74192-1.287-1.8842-2.3047-3.2559-2.9062zm-2.7441 1.4023a5 5 0 0 0-5 5 5 5 0 0 0 5 5 5 5 0 0 0 5-5 5 5 0 0 0-5-5zm0 1a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4zm-2 2v4h1v-4h-1zm3 0v4h1v-4h-1z"
+     fill="currentColor"
+     id="path1" />
+</svg>

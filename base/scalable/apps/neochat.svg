@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <linearGradient id="linearGradient14" x1="9.6889" x2="9.6889" y1="13.826" y2="3.2812" gradientTransform="matrix(3.2722 0 0 3.3191 4.2959 5.1093)" gradientUnits="userSpaceOnUse">
+   <stop id="stop14" stop-color="#97e1fa" offset=".1351"/>
+   <stop id="stop13" stop-color="#054256" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient12" x1="12.69" x2="12.798" y1="11.371" y2="13.793" gradientTransform="matrix(3.7796 0 0 3.7796 -1.3722 -.13125)" gradientUnits="userSpaceOnUse">
+   <stop id="stop11" stop-color="#25657a" offset=".099244"/>
+   <stop id="stop12" stop-color="#97e1fa" offset=".92738"/>
+  </linearGradient>
+ </defs>
+ <rect id="rect1-5" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#add0da"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#16404d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <!-- Background / base square -->
+ <path id="rect1" d="m14 10c-3 0-5 2-5 5v23c0 3 2 5 5 5h5l-4 11 16-11h19c3 0 5-2 5-5v-23c0-3-2-5-5-5z" fill="url(#linearGradient14)" stroke-width="3.2956"/>
+ <path id="path11" d="m45 43 4 11-16-11z" fill="url(#linearGradient12)" stroke-width=".83699"/>
+ <rect id="rect2" x="16" y="15" width="32" height="4" ry="2" fill="#d9f4fd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="2.3764"/>
+ <rect id="rect3" x="16" y="25" width="32" height="4" ry="2" fill="#d9f4fd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="2.3764"/>
+ <rect id="rect4" x="16" y="35" width="32" height="4" ry="2" fill="#d9f4fd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="2.3764"/>
+</svg>

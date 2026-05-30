@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#5d656b; } .ColorScheme-Highlight { color:#5294e2; }</style>
+ </defs>
+ <path id="path1-2" class="ColorScheme-Text" d="m5.3227 1.9163c-1.2581 0-2.2709 1.0128-2.2709 2.2709v13.626c0 1.2581 1.0128 2.2709 2.2709 2.2709h11.355c1.2581 0 2.2709-1.0128 2.2709-2.2709v-13.626c0-1.2581-1.0128-2.2709-2.2709-2.2709zm0 1.1355h11.355c0.62905 0 1.1355 0.50642 1.1355 1.1355v13.626c0 0.62905-0.50642 1.1355-1.1355 1.1355h-11.355c-0.62905 0-1.1355-0.50642-1.1355-1.1355v-13.626c0-0.62905 0.50642-1.1355 1.1355-1.1355z" color="#5d656b" fill="currentColor" stroke-width="1.1355"/>
+ <path id="path1-6" d="m11 6.1113a4.1895 1.3965 0 0 0-4.1895 1.3965v6.9844a4.1895 1.3965 0 0 0 4.1895 1.3965 4.1895 1.3965 0 0 0 4.1895-1.3965v-6.9844a4.1895 1.3965 0 0 0-4.1895-1.3965zm-0.14062 1.3965a4.1895 1.3965 0 0 1 0.14062 0 4.1895 1.3965 0 0 1 2.793 0.36133v0.67383a4.1895 1.3965 0 0 1-2.793 0.36133 4.1895 1.3965 0 0 1-2.793-0.41797v-0.69922a4.1895 1.3965 0 0 1 2.6523-0.2793z" color="#5d656b" fill="#eb2139"/>
+ <rect id="rect2-7" class="ColorScheme-Text" x="5.3227" y="4.1872" width="1.1355" height="1.1355" ry=".56773" color="#5d656b" fill="currentColor" stroke-width="1.1355"/>
+ <rect id="rect3" class="ColorScheme-Text" x="15.542" y="4.1872" width="1.1355" height="1.1355" ry=".56773" color="#5d656b" fill="currentColor" stroke-width="1.1355"/>
+ <rect id="rect4" class="ColorScheme-Text" x="5.3227" y="16.677" width="1.1355" height="1.1355" ry=".56773" color="#5d656b" fill="currentColor" stroke-width="1.1355"/>
+ <rect id="rect5" class="ColorScheme-Text" x="15.542" y="16.677" width="1.1355" height="1.1355" ry=".56773" color="#5d656b" fill="currentColor" stroke-width="1.1355"/>
+</svg>

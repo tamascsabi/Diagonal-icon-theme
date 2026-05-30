@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+      }</style>
+ <g id="apport" transform="translate(-22)">
+  <path id="path12" class="ColorScheme-Text" d="m26 4v24h24v-24h-24zm1 1h22v22h-22v-22zm2 2v2h2v-2h-2zm2 2v3h3v-3h-3zm3 0h2v-2h-2v2zm0 3v2h2v-2h-2zm-3 0h-2v2h2v-2zm9-5v2h2v-2h-2zm2 2v3h3v-3h-3zm3 0h2v-2h-2v2zm0 3v2h2v-2h-2zm-3 0h-2v2h2v-2zm-8 5v2h8v-2h-8zm8 2v2h2v-2h-2zm2 2v2h2v-2h-2zm-10-2h-2v2h2v-2zm-2 2h-2v2h2v-2z" fill="currentColor"/>
+  <path id="path14" d="m22 0v32h32v-32h-32z" fill="none"/>
+ </g>
+</svg>

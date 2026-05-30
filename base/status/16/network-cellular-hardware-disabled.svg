@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16.001"
+   id="svg1"
+   sodipodi:docname="network-cellular-hardware-disabled.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     d="M 13.5 0.5 C 13.223 0.5 13 0.72300003 13 1 L 13 6.4140625 L 15 6.4140625 L 15 1 C 15 0.72300003 14.777 0.5 14.5 0.5 L 13.5 0.5 z M 10.5 3.5 C 10.223 3.5 10 3.723 10 4 L 10 6.4140625 L 12 6.4140625 L 12 4 C 12 3.723 11.777 3.5 11.5 3.5 L 10.5 3.5 z M 4.1386719 9.65625 C 4.0534551 9.74584 4 9.8660205 4 10 L 4 15 C 4 15.277 4.223 15.5 4.5 15.5 L 5.5 15.5 C 5.777 15.5 6 15.277 6 15 L 6 10 C 6 9.8660205 5.9465449 9.74584 5.8613281 9.65625 L 4.1386719 9.65625 z M 7 9.65625 L 7 15 C 7 15.277 7.223 15.5 7.5 15.5 L 8.5 15.5 C 8.777 15.5 9 15.277 9 15 L 9 9.65625 L 7 9.65625 z M 10 9.65625 L 10 15 C 10 15.277 10.223 15.5 10.5 15.5 L 11.5 15.5 C 11.777 15.5 12 15.277 12 15 L 12 9.65625 L 10 9.65625 z M 13 9.65625 L 13 15 C 13 15.277 13.223 15.5 13.5 15.5 L 14.5 15.5 C 14.777 15.5 15 15.277 15 15 L 15 9.65625 L 13 9.65625 z M 1.5 12.5 C 1.223 12.5 1 12.723 1 13 L 1 15 C 1 15.277 1.223 15.5 1.5 15.5 L 2.5 15.5 C 2.777 15.5 3 15.277 3 15 L 3 13 C 3 12.723 2.777 12.5 2.5 12.5 L 1.5 12.5 z "
+     style="fill:#5d656b;fill-opacity:1" />
+  <path
+     id="rect1"
+     style="fill:#5d656b;stroke-width:1.42085;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     d="M 1.4827887,7.0694695 H 14.517211 c 0.515791,0 0.93103,0.4152394 0.93103,0.9310301 0,0.5157907 -0.415239,0.9310302 -0.93103,0.9310302 H 1.4827887 c -0.51579066,0 -0.93103011,-0.4152395 -0.93103011,-0.9310302 0,-0.5157907 0.41523945,-0.9310301 0.93103011,-0.9310301 z" />
+</svg>

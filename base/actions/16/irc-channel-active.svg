@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="irc-channel-active.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs3051">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+      }
+      .ColorScheme-PositiveText {
+        color:#27ae60;
+      }</style>
+  </defs>
+  <path
+     class="ColorScheme-Text"
+     d="m4 2v2h-2v1h2v6h-2v1h2v2h1v-2h6v2h1v-2h2v-1h-2v-6h2.3105v-1h-2.3105v-2h-1v2h-6v-2h-1zm1 3h6v6h-6v-6z"
+     fill="currentColor"
+     id="path1" />
+  <path
+     class="ColorScheme-PositiveText"
+     d="m10.5 7c1.939 0 3.5 1.561 3.5 3.5 0 1.939-1.561 3.5-3.5 3.5s-3.5-1.561-3.5-3.5c0-1.939 1.561-3.5 3.5-3.5z"
+     fill="currentColor"
+     id="path2" />
+</svg>

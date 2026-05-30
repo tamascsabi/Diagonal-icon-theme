@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <linearGradient id="linearGradient7" x1="35" x2="35" y1="47" y2="8" gradientUnits="userSpaceOnUse">
+   <stop id="stop6" stop-color="#0073fa" offset="0"/>
+   <stop id="stop7" stop-color="#7ebcff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#154e8f"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#75b6ff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <circle id="circle8" cx="32" cy="33" r="21" fill="#004fac" stroke-width=".91304" style="paint-order:markers fill stroke"/>
+ <circle id="circle7" cx="32" cy="32" r="21" fill="url(#linearGradient7)" stroke-width=".91304" style="paint-order:markers fill stroke"/>
+ <circle id="circle9" cx="32" cy="33" r="14" fill="#004fac" stroke-linecap="round" stroke-linejoin="round" stroke-width=".93333" style="paint-order:markers fill stroke"/>
+ <circle id="circle10" cx="32" cy="32" r="14" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".93333" style="paint-order:markers fill stroke"/>
+ <path id="path10" d="m27.371 25.016a1.1816 1.2498 0 0 0-1.3706 1.2348v12.498a1.1816 1.2498 0 0 0 1.7558 1.0935l10.635-6.249a1.1816 1.2498 0 0 0 0-2.1872l-10.635-6.249a1.1816 1.2498 0 0 0-0.3852-0.14123" color="#000000" fill="#0073fa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2152" style="paint-order:markers fill stroke"/>
+</svg>

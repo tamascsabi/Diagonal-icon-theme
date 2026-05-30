@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg1"
+   sodipodi:docname="ui-signal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     d="m7 1-3.4824 13h-2.5176v1h14v-1h-2.5176l-3.4824-13h-2zm0.76953 1h0.46094l1.3398 5h-3.1406l1.3398-5zm-1.6094 6h3.6797l0.53516 2h-4.75l0.53516-2zm-0.80273 3h5.2852l0.80469 3h-6.8945l0.80469-3z"
+     fill="#5d656b"
+     fill-rule="evenodd"
+     stop-color="#5d656b"
+     id="path1" />
+</svg>

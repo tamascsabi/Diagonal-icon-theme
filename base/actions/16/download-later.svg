@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="mail-download-later.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs3051">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+      }</style>
+  </defs>
+  <path
+     class="ColorScheme-Text"
+     d="m8 2a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 1-0.089844v-1.0152a5 5 0 0 1-1 0.105 5 5 0 0 1-5-5 5 5 0 0 1 5-5 5 5 0 0 1 5 5h1a6 6 0 0 0-6-6m0 2v4h-3v1h4v-5zm3 5v3.09l-2-2v1.41l2.281 2.313 0.219 0.187 0.219-0.187 2.281-2.313v-1.41l-2 2v-3.09z"
+     fill="currentColor"
+     id="path1" />
+</svg>

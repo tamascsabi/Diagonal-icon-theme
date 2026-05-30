@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="vcs-status-cvs-cervisia.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs3051">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+      }</style>
+  </defs>
+  <path
+     id="path1"
+     style="fill:#5d656b;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 8 2 C 4.6862915 2 2 2.8954305 2 4 L 2 12 C 2 13.104569 4.6862915 14 8 14 C 9.5076731 13.9988 10.958729 13.808438 12.064453 13.466797 L 11.396484 12.730469 C 10.474897 12.902798 9.2616402 12.999077 8 13 C 5.2385763 13 3 12.552285 3 12 L 3 9.1015625 C 3.8832007 9.5449111 5.260455 9.8509805 6.8242188 9.9550781 A 2.3793104 2.3793104 0 0 1 6.8164062 9.8457031 A 2.3793104 2.3793104 0 0 1 6.9824219 8.9882812 C 4.8420672 8.8630205 3.0082838 8.4446362 3 8 L 3 5.1015625 C 4.1088973 5.6617019 5.9866816 5.9991162 8 6 C 10.012202 5.9995498 11.889752 5.6629109 13 5.1035156 L 13 8 C 12.99421 8.1703932 12.769241 8.3365367 12.351562 8.484375 A 2.3793104 2.3793104 0 0 1 12.626953 9.265625 C 12.759307 9.2135559 12.884295 9.1598215 13 9.1035156 L 13 11.804688 L 13.75 12.570312 C 13.915505 12.385231 13.999712 12.19313 14 12 L 14 4 C 14 2.8954305 11.313708 2 8 2 z M 8 3 C 10.761424 3 13 3.4477153 13 4 C 13 4.5522847 10.761424 5 8 5 C 5.2385763 5 3 4.5522847 3 4 C 3 3.4477153 5.2385763 3 8 3 z " />
+  <path
+     id="path3"
+     style="color:#5d656b;fill:#5d656b;fill-opacity:1;stroke:none;stroke-width:0.972691;stroke-opacity:1"
+     d="m 9.8965185,7.5517457 c -1.6322911,-0.039206 -2.4418385,1.45963 -2.3787224,2.380249 0.090021,1.3130503 1.0623847,2.3783493 2.3787224,2.3783493 0.4858095,0 0.9309015,-0.173308 1.3071565,-0.42172 l 1.958837,1.983224 0.676378,-0.676272 -1.983536,-1.956628 C 12.10385,10.862791 12.27524,10.417729 12.275241,9.9319947 12.195174,8.4159092 11.051051,7.537576 9.8965185,7.5517457 Z m 0,0.9441211 c 0.7910505,-10e-8 1.4363535,0.6391781 1.4363535,1.4361279 0,0.7969483 -0.645304,1.4342283 -1.4363535,1.4342283 -0.79105,0 -1.4363529,-0.637279 -1.4363531,-1.4342283 2e-7,-0.39869 0.1603883,-0.7587498 0.4198863,-1.0182071 C 9.1395504,8.6543297 9.497767,8.4958665 9.8965185,8.4958668 Z"
+     sodipodi:nodetypes="cssccccscssssss" />
+</svg>

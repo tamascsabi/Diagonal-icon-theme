@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <radialGradient id="radialGradient1977" cx="31.39" cy="36.786" r="20" gradientTransform="matrix(1.5334e-7,2.15,-2.1001,2.499e-7,97.676,-11.277)" gradientUnits="userSpaceOnUse">
+   <stop id="stop986" stop-color="#7b00e7" offset=".27321"/>
+   <stop id="stop988" stop-color="#ff5280" offset=".76265"/>
+   <stop id="stop980" stop-color="#ff7061" offset="1"/>
+  </radialGradient>
+ </defs>
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#16f"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#1eb1ff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <g id="g5983" transform="matrix(.95 0 0 .94992 1.6 1.6029)">
+  <path id="path1218" d="m32 11.998c-11.265 0-20 8.255-20 19.4 0 5.83 2.39 10.87 6.28 14.35 0.325 0.29 0.525 0.7 0.535 1.14l0.11 3.56c0.035 1.135 1.205 1.875 2.245 1.415l3.97-1.75c0.335-0.15 0.715-0.175 1.07-0.08 1.825 0.5 3.765 0.77 5.79 0.77 11.265 0 20-8.255 20-19.4s-8.735-19.405-20-19.405z" fill="url(#radialGradient1977)" stroke-width=".05"/>
+  <path id="path11" d="m45.684 25.683-11.579 12.633-5.2632-5.2636-10.526 5.2636 11.579-12.633 5.2632 5.2636z" fill="#e6f4ff" stroke-linecap="round" stroke-linejoin="round"/>
+ </g>
+</svg>

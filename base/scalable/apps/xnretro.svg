@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <linearGradient id="linearGradient20" x1="20" x2="56" y1="27.5" y2="27.5" gradientTransform="matrix(.88 0 0 .88 2.84 4.84)" gradientUnits="userSpaceOnUse">
+   <stop id="stop17-3" stop-color="#9ba0ff" offset=".45767"/>
+   <stop id="stop18-5" stop-color="#000e8f" offset=".73025"/>
+  </linearGradient>
+  <linearGradient id="linearGradient22" x1="26" x2="56" y1="37.5" y2="37.5" gradientTransform="matrix(.88 0 0 .88 2.84 4.84)" gradientUnits="userSpaceOnUse">
+   <stop id="stop9" stop-color="#fff258" offset=".4275"/>
+   <stop id="stop10" stop-color="#e80029" offset=".91986"/>
+  </linearGradient>
+  <linearGradient id="linearGradient24" x1="30" x2="49" y1="57" y2="37" gradientTransform="matrix(.88 0 0 .88 2.84 4.84)" gradientUnits="userSpaceOnUse">
+   <stop id="stop11" stop-color="#c40023" offset=".3"/>
+   <stop id="stop12" stop-color="#fcf8f2" offset=".85"/>
+  </linearGradient>
+  <linearGradient id="linearGradient26" x1="8" x2="38" y1="30.668" y2="34" gradientTransform="matrix(.88 0 0 .88 2.84 4.84)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3-0" stop-color="#04660f" offset=".40288"/>
+   <stop id="stop4-2" stop-color="#6ce579" offset=".8"/>
+  </linearGradient>
+  <linearGradient id="linearGradient28" x1="15" x2="28" y1="12" y2="41" gradientTransform="matrix(.88 0 0 .88 2.84 4.84)" gradientUnits="userSpaceOnUse">
+   <stop id="stop15-7" stop-color="#ffe500" offset=".24875"/>
+   <stop id="stop16-5" stop-color="#f478dc" offset=".67857"/>
+  </linearGradient>
+  <linearGradient id="linearGradient32" x1="54" x2="54" y1="18" y2="5" gradientTransform="translate(-1,1)" gradientUnits="userSpaceOnUse">
+   <stop id="stop5" stop-color="#ff0" offset=".16988"/>
+   <stop id="stop6" stop-color="#dd0005" offset=".71394"/>
+  </linearGradient>
+  <radialGradient id="radialGradient34" cx="53" cy="11" r="3" gradientTransform="matrix(1.3333 1.8752e-6 -7e-7 1.3333 -18.667 -2.6668)" gradientUnits="userSpaceOnUse">
+   <stop id="stop34" stop-color="#ff0" offset=".38401"/>
+   <stop id="stop35" stop-color="#dd0005" offset=".95646"/>
+  </radialGradient>
+  <linearGradient id="linearGradient38" x1="32" x2="32" y1="47" y2="16" gradientTransform="matrix(.88 0 0 .88 2.84 4.84)" gradientUnits="userSpaceOnUse">
+   <stop id="stop37" stop-color="#3d0000" offset=".57143"/>
+   <stop id="stop38" stop-color="#dfc0c0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <!-- Background / base square -->
+ <rect id="rect1" transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#670067"/>
+ <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#b300b3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <circle id="path4" cx="31" cy="33" r="21.12" fill="url(#linearGradient28)" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".97477"/>
+ <path id="circle7" d="m38.92 14.52a18.48 18.464 0 0 0-18.48 18.463 10.56 10.56 0 0 1 10.56-10.543v-0.0069a18.48 18.464 0 0 1 18.48 18.463 18.48 18.464 0 0 1-0.20453 2.6641 21.12 21.101 0 0 0 2.8445-10.577 21.12 21.101 0 0 0-10.529-18.253 18.48 18.464 0 0 0-2.6709-0.20969z" fill="#8a0" opacity=".6672" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".85254"/>
+ <path id="path9" d="m38.92 14.52a18.48 18.464 0 0 0-18.48 18.463 10.56 10.56 0 0 1 10.56-10.543v-0.0069a18.48 18.464 0 0 1 18.48 18.463 18.48 18.464 0 0 1-0.20453 2.6641 21.12 21.101 0 0 0 2.8445-10.577 21.12 21.101 0 0 0-10.529-18.253 18.48 18.464 0 0 0-2.6709-0.20969z" fill="url(#linearGradient20)" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".85254"/>
+ <path id="path16" d="m50.965 30.755a18.48 18.378 3.9975 0 0-25.245-6.7371 10.567 10.504 0 0 1 14.42 3.8534l6e-3 -0.0034a18.48 18.378 3.9975 0 1-6.7536 25.103 18.48 18.378 3.9975 0 1-2.4109 1.1488 21.12 21.004 3.9974 0 0 10.589-2.8103 21.12 21.004 3.9974 0 0 10.55-18.149 18.48 18.378 3.9975 0 0-1.1546-2.4052z" fill="#6f7c91" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".85056"/>
+ <path id="path17" d="m50.965 30.755a18.48 18.378 3.9975 0 0-25.245-6.7371 10.567 10.504 0 0 1 14.42 3.8534l6e-3 -0.0034a18.48 18.378 3.9975 0 1-6.7536 25.103 18.48 18.378 3.9975 0 1-2.4109 1.1488 21.12 21.004 3.9974 0 0 10.589-2.8103 21.12 21.004 3.9974 0 0 10.55-18.149 18.48 18.378 3.9975 0 0-1.1546-2.4052z" fill="url(#linearGradient22)" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".85056"/>
+ <path id="path18" d="m41.798 49.95a18.351 18.567 0.5916 0 0-5.0691-25.75 10.612 10.493 88.535 0 1 2.8905 14.71l0.0057 0.0038a18.351 18.567 0.5916 0 1-25.452 5.1358 18.351 18.567 0.5916 0 1-2.0892-1.6581 20.973 21.219 0.59161 0 0 7.174 8.2817 20.973 21.219 0.59161 0 0 20.894 1.3913 18.351 18.567 0.5916 0 0 1.6463-2.1149z" fill="url(#linearGradient24)" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".85194"/>
+ <path id="path19" d="m15.864 46.23a18.376 18.433 44.114 0 0 24.537-8.7525 10.501 10.542 40.083 0 1-14.018 4.9948l-0.0029 0.0062a18.376 18.433 44.114 0 1-8.6769-24.512 18.376 18.433 44.114 0 1 1.3281-2.3127 21.001 21.066 44.116 0 0-7.0994 8.3157 21.001 21.066 44.116 0 0 1.6217 20.933 18.376 18.433 44.114 0 0 2.3102 1.3278z" fill="url(#linearGradient26)" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".84943"/>
+ <path id="circle4" d="m31 11c-12.15 0-22 9.8497-22 22s9.8497 22 22 22 22-9.8497 22-22-9.8497-22-22-22zm0 2.64c10.692-1e-6 19.36 8.6678 19.36 19.36 1e-6 10.692-8.6678 19.36-19.36 19.36-10.692 0-19.36-8.6678-19.36-19.36 0-10.692 8.6678-19.36 19.36-19.36z" fill="#fcfcfc" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width="1.0154"/>
+ <circle id="circle5" cx="31" cy="33" r="10.56" fill="url(#linearGradient38)" opacity=".82596"/>
+ <circle id="path30" cx="52" cy="12" r="5" fill="url(#linearGradient32)"/>
+ <circle id="circle30" cx="52" cy="12" r="3" fill="url(#radialGradient34)"/>
+</svg>

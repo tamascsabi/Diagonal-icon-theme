@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="start-here-tuxedo-os.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="51"
+     inkscape:cx="8"
+     inkscape:cy="8.8235294"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <sodipodi:guide
+       position="15,15"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+  </defs>
+  <path
+     id="path2"
+     style="fill:#5d656b;fill-opacity:1;stroke-width:0.471055"
+     d="M 8 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 z M 8 1.9296875 C 11.352055 1.9296875 14.070312 4.6479453 14.070312 8 C 14.066232 9.2416335 13.680385 10.452649 12.966797 11.46875 L 6.578125 11.46875 L 8.1503906 8.9863281 L 8.9746094 10.601562 L 10.720703 10.601562 L 8.8984375 7.5078125 L 11.337891 3.6640625 L 3.7734375 3.6640625 C 4.902764 2.5575342 6.4189387 1.9351153 8 1.9296875 z M 3.0332031 4.53125 L 9.734375 4.53125 L 8.265625 6.7480469 L 7.5566406 5.3984375 L 5.8105469 5.3984375 L 7.3925781 8.1113281 L 4.8476562 12.335938 L 12.226562 12.335938 C 11.097236 13.442465 9.5810611 14.064913 8 14.070312 C 4.6479452 14.070312 1.9296875 11.352054 1.9296875 8 C 1.9337675 6.7583665 2.3196142 5.5473513 3.0332031 4.53125 z " />
+</svg>

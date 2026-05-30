@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs1">
+  <linearGradient id="b-0" x1="-26.214" x2="-22.596" y1="32.944" y2="32.944" gradientTransform="translate(49.813,17.948)" gradientUnits="userSpaceOnUse">
+   <stop id="stop14" stop-color="#0a346f" offset=".38555"/>
+   <stop id="stop15" stop-color="#b7d7f8" stop-opacity=".84955" offset=".90639"/>
+  </linearGradient>
+  <linearGradient id="linearGradient14" x1="-26.214" x2="-22.596" y1="32.944" y2="32.944" gradientTransform="translate(49.813,17.948)" gradientUnits="userSpaceOnUse" xlink:href="#b-0"/>
+ </defs>
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#f79160"/>
+ <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#fd5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="path26" d="m44.5 7c-0.82843 1e-7 -1.5 0.67157-1.5 1.5v17.5l-1 3v18.787h5v-18.787l-1-3v-17.5c0-0.82843-0.67157-1.5-1.5-1.5z" fill="#032f36" stroke-miterlimit="3.7" style="paint-order:fill markers stroke"/>
+ <path id="path49" d="m19.5 7c-0.82843 1e-7 -1.5 0.67157-1.5 1.5v17.5l-1 3v18.787h5v-18.787l-1-3v-17.5c0-0.82843-0.67157-1.5-1.5-1.5z" fill="#032f36" stroke-miterlimit="3.7" style="paint-order:fill markers stroke"/>
+ <g id="g54" transform="matrix(.88184 -.30961 .27426 .78115 -26.409 2.3512)" fill="url(#linearGradient14)" stroke-miterlimit="3.7">
+  <path id="path52" d="m-26.204 28.82 0.0187 25.433c9.3e-4 1.2655 0.79757 2.2832 1.7891 2.2832 0.99149 0 1.791-1.0177 1.791-2.2832v-25.486z" stroke-width=".25081" style="paint-order:fill markers stroke"/>
+  <path id="path53" d="m-25.346 11.751-0.86774 17.192 3.6175-0.09098-1.0085-16.988z" stroke-width=".25081" style="paint-order:fill markers stroke"/>
+  <path id="path54" d="m-22.928 10.828a1.4757 1.4757 0 0 1-1.4757 1.4757 1.4757 1.4757 0 0 1-1.4757-1.4757 1.4757 1.4757 0 0 1 1.4757-1.4757 1.4757 1.4757 0 0 1 1.4757 1.4757z" stroke-width=".222" style="paint-order:fill markers stroke"/>
+ </g>
+ <g id="g57" transform="matrix(.89349 .27422 -.24291 .79145 -1.9646 38.349)" fill="url(#linearGradient14)" stroke-miterlimit="3.7">
+  <path id="path55" d="m-26.204 28.82 0.0187 25.433c9.3e-4 1.2655 0.79757 2.2832 1.7891 2.2832 0.99149 0 1.791-1.0177 1.791-2.2832v-25.486z" stroke-width=".25081" style="paint-order:fill markers stroke"/>
+  <path id="path56" d="m-25.346 11.751-0.86774 17.192 3.6175-0.09098-1.0085-16.988z" stroke-width=".25081" style="paint-order:fill markers stroke"/>
+  <path id="path57" d="m-22.928 10.828a1.4757 1.4757 0 0 1-1.4757 1.4757 1.4757 1.4757 0 0 1-1.4757-1.4757 1.4757 1.4757 0 0 1 1.4757-1.4757 1.4757 1.4757 0 0 1 1.4757 1.4757z" stroke-width=".222" style="paint-order:fill markers stroke"/>
+ </g>
+ <rect id="rect2" x="7" y="34" width="50" height="18" ry="7" fill="#62737f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".1" style="paint-order:markers fill stroke"/>
+ <rect id="rect3" x="9" y="36" width="46" height="14" ry="5" fill="#1a5460" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".083877" style="paint-order:markers fill stroke"/>
+ <path id="rect4" d="m14 36h36c2.77 0 5 2.23 5 5v2h-46v-2c0-2.77 2.23-5 5-5z" fill="#032f36" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".083877" style="paint-order:markers fill stroke"/>
+ <circle id="path4" cx="14" cy="43" r="2" fill="#92ebf9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".066667" style="paint-order:markers fill stroke"/>
+ <circle id="circle4" cx="50" cy="43" r="2" fill="#92ebf9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".066667" style="paint-order:markers fill stroke"/>
+ <circle id="circle5" cx="20" cy="43" r="2" fill="#38db0c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".066667" style="paint-order:markers fill stroke"/>
+ <circle id="circle6" cx="26" cy="43" r="2" fill="#38db0c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".066667" style="paint-order:markers fill stroke"/>
+ <circle id="circle7" cx="32" cy="43" r="2" fill="#f21426" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".066667" style="paint-order:markers fill stroke"/>
+ <circle id="circle8" cx="38" cy="43" r="2" fill="#f21426" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".066667" style="paint-order:markers fill stroke"/>
+ <circle id="circle9" cx="44" cy="43" r="2" fill="#fce927" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".066667" style="paint-order:markers fill stroke"/>
+ <path id="rect9" d="m16 56c-1.108 0-2-0.892-2-2v-2h11v2c0 1.108-0.892 2-2 2z" fill="#032f36" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".11547" style="paint-order:markers fill stroke"/>
+ <path id="path10" d="m41 56c-1.108 0-2-0.892-2-2v-2h11v2c0 1.108-0.892 2-2 2z" fill="#032f36" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".11547" style="paint-order:markers fill stroke"/>
+</svg>

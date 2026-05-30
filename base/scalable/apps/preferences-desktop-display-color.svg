@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g id="g1" transform="translate(-12,10)">
+  <rect id="rect1-0" x="16" y="-6" width="56" height="56" rx="6" ry="6" fill="#b4d1ef"/>
+  <rect id="rect1" x="16" y="-6" width="56" height="56" rx="6" ry="6" fill="#ccc"/>
+  <path id="rect2" d="m22-6c-3.324 0-6 2.676-6 6l28 22v-28z" fill="#ed6ea2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.0013" style="paint-order:markers fill stroke"/>
+  <path id="path6" d="m16 0v22h28z" fill="#fe8705" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.0013" style="paint-order:markers fill stroke"/>
+  <path id="path7" transform="translate(12,-10)" d="m54 4c3.324 0 6 2.676 6 6l-28 22v-28z" fill="#ef47b1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.0013" style="paint-order:markers fill stroke"/>
+  <path id="path8-6" d="m66 50c3.324 0 6-2.676 6-6l-28-22v28z" fill="#37e229" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.0013" style="paint-order:markers fill stroke"/>
+  <path id="path12-7" d="m22 50c-3.324 0-6-2.676-6-6l28-22v28z" fill="#c8e60b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.0013" style="paint-order:markers fill stroke"/>
+  <path id="path13" d="m16 44v-22h28z" fill="#fdd716" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.0013" style="paint-order:markers fill stroke"/>
+  <path id="path14" d="m72 44v-22h-28z" fill="#15b0c4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.0013" style="paint-order:markers fill stroke"/>
+  <path id="path15" d="m72 0v22h-28z" fill="#37ddf8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.0013" style="paint-order:markers fill stroke"/>
+ </g>
+ <rect id="rect12" x="9" y="37" width="46" height="18" rx="3" ry="3" fill="#efa9f6" stroke-width="0"/>
+ <circle id="path12" cx="15" cy="46" r="4" fill="#2c0230" stroke-width="0"/>
+ <circle id="circle12" cx="37" cy="46" r="4" fill="#2c0230" stroke-width="0"/>
+ <circle id="circle13" cx="26" cy="46" r="4" fill="#2c0230" stroke-width="0"/>
+ <circle id="circle14" cx="48" cy="46" r="4" fill="#2c0230" stroke-width="0"/>
+</svg>

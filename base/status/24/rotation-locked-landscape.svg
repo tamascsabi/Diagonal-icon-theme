@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+            color:#5d656b;
+        }
+        .ColorScheme-NegativeText {
+            color:#da4453;
+        }</style>
+ <path id="path2" d="m22.247 17.414c0 1.4264-1.1483 2.5747-2.5747 2.5747h-15.448c-1.4264 0-2.5747-1.1483-2.5747-2.5747v-10.299c0-1.4264 1.1483-2.5747 2.5747-2.5747h15.448c1.4264 0 2.5747 1.1483 2.5747 2.5747zm-1.2874 0v-10.299c0-0.7132-0.57416-1.2874-1.2874-1.2874h-15.448c-0.71319 0-1.2874 0.57416-1.2874 1.2874v10.299c0 0.7132 0.57416 1.2874 1.2874 1.2874h15.448c0.7132 0 1.2874-0.57416 1.2874-1.2874z" fill="#5d656b" fill-rule="evenodd" stop-color="#000000" stroke-width="0" style="paint-order:stroke fill markers"/>
+ <path id="path2-6" d="m11.948 8.4023c-1.0665 0-1.931 0.86455-1.931 1.931v1.931h-1.2874v3.8621h6.4368v-3.8621h-1.2874v-1.931c0-1.0665-0.86455-1.931-1.931-1.931zm0 1.2874c0.35549 0 0.64368 0.28818 0.64368 0.64368v1.931h-1.2874v-1.931c0-0.35549 0.28818-0.64368 0.64368-0.64368z" color="#5d656b" fill="#5d656b" fill-rule="evenodd" stroke-width="1.2874"/>
+</svg>

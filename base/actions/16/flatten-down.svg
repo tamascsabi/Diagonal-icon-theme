@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg1"
+   width="24"
+   height="24.005181"
+   version="1.1"
+   sodipodi:docname="flatten-down.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="base"
+     showgrid="true"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="24.432226"
+     inkscape:cx="9.98681"
+     inkscape:cy="7.6947553"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0pt"
+       originy="0pt"
+       spacingx="1pt"
+       spacingy="1pt"
+       color="#3f3fff"
+       empcolor="#3f3fff"
+       opacity="0.15"
+       empopacity="0.38"
+       empspacing="5"
+       units="px" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <path
+     id="path1"
+     style="fill:#5d656b;stroke-width:2.44605;stroke-linecap:square;fill-opacity:1"
+     d="M 12.009766 1.3339844 L 11.101562 2.2304688 L 11.013672 2.2304688 L 11.013672 2.3164062 L 5.3339844 7.9160156 L 6.7363281 9.3066406 L 11.011719 5.09375 C 11.007919 7.5756808 11.0036 10.057302 11 12.539062 A 5.1759181 5.1178472 0 0 0 6.8242188 17.548828 A 5.1759181 5.1178472 0 0 0 12 22.666016 A 5.1759181 5.1178472 0 0 0 17.175781 17.548828 A 5.1759181 5.1178472 0 0 0 12.986328 12.525391 C 12.990528 10.049384 12.994047 7.5735898 12.998047 5.0976562 L 17.259766 9.3222656 L 18.666016 7.9355469 L 13.001953 2.3164062 L 13.001953 2.234375 L 12.917969 2.234375 L 12.009766 1.3339844 z M 12 14.380859 A 3.2223392 3.2223392 0 0 1 15.222656 17.601562 A 3.2223392 3.2223392 0 0 1 12 20.824219 A 3.2223392 3.2223392 0 0 1 8.7773438 17.601562 A 3.2223392 3.2223392 0 0 1 12 14.380859 z " />
+</svg>

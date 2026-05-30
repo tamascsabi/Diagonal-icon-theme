@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#58240d"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#e0652e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <g id="g20" transform="matrix(3.0519 0 0 3.0525 6.1653 6.1648)" opacity=".75" stroke-width=".96313">
+  <path id="path9" d="m13.323 3.603c-0.048 0.049 2.02 4.86 2.02 4.86l-2.02 4.858s-4.86-2.568-4.86-4.859c0-2.29 4.86-4.859 4.86-4.859z" fill="#3ac00f" style="isolation:isolate"/>
+  <path id="path10" d="m3.604 13.321c0.049-0.049-2.02-4.859-2.02-4.859l2.02-4.859s4.86 2.569 4.86 4.86c0 2.29-4.86 4.858-4.86 4.858z" fill="#fb0e28" style="isolation:isolate"/>
+  <path id="path11" d="m13.323 3.603c-0.048 0.049-4.86-2.019-4.86-2.019l-4.86 2.019 4.86 4.86z" fill="#ffdd73" style="isolation:isolate"/>
+  <path id="path12" d="m3.604 13.321 4.86 2.013s4.81-2.062 4.86-2.013l-4.86-4.859z" fill="#1a56f2" style="isolation:isolate"/>
+  <path id="path13" d="m8.464 1.587c-1e-3 1.758 0.672 3.516 2.019 4.862l2.845-2.844a6.88 6.88 0 0 0-4.861-2.018z" fill="#bbec63" style="isolation:isolate"/>
+  <path id="path14" d="m13.328 3.605-2.845 2.844a6.84 6.84 0 0 0 4.863 2.012 6.88 6.88 0 0 0-2.018-4.856z" fill="#76d914" style="isolation:isolate"/>
+  <path id="path15" d="m10.476 10.481a6.85 6.85 0 0 0-2.019 4.862h0.069a6.88 6.88 0 0 0 4.8-2.013z" fill="#0266ba" style="isolation:isolate"/>
+  <path id="path16" d="m15.346 8.469a6.84 6.84 0 0 0-4.87 2.012l2.85 2.85a6.88 6.88 0 0 0 2.02-4.862z" fill="#0e929b" style="isolation:isolate"/>
+  <path id="path17" d="m1.587 8.463a6.88 6.88 0 0 0 0 3e-3 6.88 6.88 0 0 0 2.014 4.857l2.85-2.848a6.839 6.839 0 0 0-4.864-2.011z" fill="#862c96" style="isolation:isolate"/>
+  <path id="path18" d="m6.45 10.475-2.85 2.848a6.88 6.88 0 0 0 4.826 2.02h0.043a6.85 6.85 0 0 0-2.019-4.868z" fill="#782fc1" style="isolation:isolate"/>
+  <path id="path19" d="m8.467 1.587a6.88 6.88 0 0 0-4.858 2.015l2.848 2.847a6.85 6.85 0 0 0 2.019-4.861 6.88 6.88 0 0 0-0.01 0z" fill="#ffc91f" style="isolation:isolate"/>
+  <path id="path20" d="m3.609 3.602a6.88 6.88 0 0 0-2.021 4.859 6.84 6.84 0 0 0 4.869-2.012z" fill="#fa4c10" style="isolation:isolate"/>
+ </g>
+ <circle id="circle20" cx="32" cy="32" r="15" fill="#fff" opacity=".35" stroke-width="2.8348" style="paint-order:fill markers stroke"/>
+</svg>

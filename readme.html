@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diagonal Icon Theme</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #0f1117;
+            color: #e6e6e6;
+            line-height: 1.6;
+        }
+        header {
+            text-align: center;
+            padding: 60px 20px;
+            background: linear-gradient(135deg, #1c1f26, #3a3f4b);
+        }
+        h1 {
+            font-size: 3em;
+            margin: 0;
+        }
+        h2 {
+            border-bottom: 1px solid #333;
+            padding-bottom: 5px;
+        }
+        section {
+            max-width: 1000px;
+            margin: auto;
+            padding: 40px 20px;
+        }
+        code {
+            background: #1e222a;
+            padding: 4px 8px;
+            border-radius: 4px;
+        }
+        pre {
+            background: #1e222a;
+            padding: 15px;
+            overflow-x: auto;
+            border-radius: 6px;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        .highlight {
+            color: #4da3ff;
+        }
+        .note {
+            background: #1c2330;
+            padding: 15px;
+            border-left: 4px solid #4da3ff;
+            margin-top: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 40px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Diagonal Icon Theme</h1>
+    <p>A modern, colorful icon theme for Linux and BSD systems</p>
+</header>
+
+<section>
+    <h2>Overview</h2>
+    <p>
+        Diagonal Icon Theme is a carefully designed icon set inspired by well-known themes such as Yaru,
+        Evolvere, and WhiteSur. The goal of the project is to provide a visually consistent, modern,
+        and highly customizable icon experience across different desktop environments.
+    </p>
+    <p>
+        The theme focuses on clarity, balanced color usage, and a unified design language,
+        making it suitable for both minimal and feature-rich desktop setups.
+    </p>
+</section>
+
+<section>
+    <h2>Features</h2>
+    <ul>
+        <li>Interactive installer with guided setup</li>
+        <li>POSIX-compliant shell scripts (no Bash dependency)</li>
+        <li>Compatible with Linux and *BSD systems</li>
+        <li>Support for multiple desktop environments</li>
+        <li>Customizable folder color variants</li>
+        <li>Portable mode (build icon package without installation)</li>
+        <li>Prebuilt icon packages included for major desktop environments</li>
+        <li>Cursor themes with light/dark and color variations</li>
+        <li>Automatic system detection with manual override</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Compatibility</h2>
+    <p>
+        The project is designed with portability in mind and avoids non-standard shell features.
+        All scripts follow POSIX guidelines to ensure maximum compatibility.
+    </p>
+    <ul>
+        <li>POSIX shell compatible</li>
+        <li>Tested on Linux distributions and *BSD systems</li>
+        <li>No Bash-specific features required</li>
+    </ul>
+
+<h3>Tested Shells</h3>
+<ul>
+    <li>sh (POSIX)</li>
+    <li>dash</li>
+    <li>ash</li>
+</ul>
+
+</section>
+
+<section>
+    <h2>Supported Desktop Environments</h2>
+    <p>
+        The theme includes optimized variations for the most common desktop environments.
+    </p>
+    <ul>
+        <li>GNOME</li>
+        <li>KDE Plasma</li>
+        <li>Xfce</li>
+        <li>Cinnamon</li>
+        <li>MATE</li>
+        <li>Budgie</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Folder Color Variants</h2>
+    <p>
+        Multiple folder color schemes are available, allowing users to adapt the theme to their preferences.
+    </p>
+    <ul>
+        <li>Black, Blue, Cyan, Green, Grey</li>
+        <li>Magenta, Orange, Red, Violet</li>
+        <li>Ubuntu style</li>
+        <li>White, Yellow</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Cursor Themes</h2>
+    <p>
+        The package also includes cursor themes that match the visual style of the icons.
+    </p>
+    <ul>
+        <li>Light and Dark variants</li>
+        <li>Color options: Blue (default), Green, Orange</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Installation</h2>
+    <p>
+        The recommended way to install the theme is by cloning the repository and running the installer.
+    </p>
+
+<pre><code>git clone https://github.com/tamascsabi/Diagonal-icon-theme.git
+
+
+cd Diagonal-icon-theme
+./install.sh</code></pre>
+
+<p>
+    The installer will guide you through the configuration process, including selecting
+    your desktop environment and preferred color scheme.
+</p>
+
+</section>
+
+<section>
+    <h2>Prebuilt Icon Packages</h2>
+    <p>
+        For users who prefer a quick setup, prebuilt icon packages are available for each supported
+        desktop environment. These packages can be extracted directly without running the installer.
+    </p>
+
+<pre><code>~/.icons/
+
+or
+
+/usr/share/icons/</code></pre>
+
+<p>
+    This allows immediate use of the theme without any additional configuration steps.
+</p>
+
+</section>
+
+<section>
+    <h2>Portable Mode</h2>
+    <p>
+        The installer can also be used to generate a compressed icon package without installing it.
+        This is useful for transferring the theme to other systems or creating backups.
+    </p>
+</section>
+
+<section>
+    <h2>Uninstallation</h2>
+    <p>
+        The included uninstall script ensures safe removal of the theme from your system.
+    </p>
+
+<pre><code>./uninstall.sh</code></pre>
+
+</section>
+
+<section>
+    <h2>Preview</h2>
+    <p>
+        Screenshots showcasing the icon theme and its variations are available in the repository
+        under the <code>/screenshots</code> directory.
+    </p>
+</section>
+
+<section>
+    <h2>License</h2>
+    <p>
+        This project is dual-licensed:
+    </p>
+    <ul>
+        <li>Icons: Creative Commons Attribution 4.0 (CC BY 4.0)</li>
+        <li>Scripts: GNU General Public License v3.0 (GPLv3)</li>
+    </ul>
+</section>
+
+<footer>
+    <p>Diagonal Icon Theme — Open source and community-driven</p>
+</footer>
+
+</body>
+</html>

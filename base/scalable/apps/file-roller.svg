@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#7c4c00"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#ffa636" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="rect4" d="m26 4v5h5v3h-5v5h5v3h-5v5h5v3h-5v5h5v3h-5v5h5v3h-5v5h5v3h-5v5h5v3h7v-4h-5v-3h5v-5h-5v-3h5v-5h-5v-3h5v-5h-5v-3h5v-5h-5v-3h5v-5h-5v-3h5v-5h-5v-4h-7z" fill="#ffa636" stroke-width="0"/>
+ <path id="path29" d="m38 27.285-2.1816 1.7148h2.1816v-1.7148zm-5 3.9297-2.2734 1.7852h0.27344v3h-4.0918l-0.9082 0.71484v4.2852h5v3h-5v5h5v3h-5v5h5v3h7v-4h-5v-3h5v-5h-5v-3h5v-5h-5v-3h5v-5h-5v-0.78516z" fill="#7c4c00" stroke-width="0"/>
+</svg>

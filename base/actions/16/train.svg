@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg9"
+   sodipodi:docname="train.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     fill="#5d656b"
+     id="g9">
+    <path
+       d="m4 1c-1.6602 0-3 1.3398-3 3v7c0 1.6602 1.3398 3 3 3h7c1.6602 0 3-1.3398 3-3v-7c0-1.6602-1.3398-3-3-3zm0 1h7c1.108 0 2 0.892 2 2v7c0 1.108-0.892 2-2 2h-7c-1.108 0-2-0.892-2-2v-7c0-1.108 0.892-2 2-2z"
+       id="path1" />
+    <path
+       d="m2 8.0039h11v1h-11z"
+       fill-rule="evenodd"
+       stroke-width="1.1055"
+       id="path2" />
+    <path
+       d="m12.488 12.992c-0.13281 0-0.26172 0.05078-0.35547 0.14844-0.19531 0.19141-0.19531 0.51172 0 0.70312l1.9805 1.9844c0.19531 0.19531 0.51562 0.19531 0.71094 0 0.19141-0.19531 0.19141-0.51172 0-0.70703l-1.9844-1.9805c-0.09375-0.09766-0.22266-0.14844-0.35156-0.14844z"
+       id="path3" />
+    <path
+       d="m2.4727 12.992c0.13281 0 0.25781 0.05078 0.35156 0.14844 0.19531 0.19141 0.19531 0.51172 0 0.70312l-1.9805 1.9844c-0.19531 0.19531-0.51172 0.19531-0.70703 0-0.19531-0.19531-0.19531-0.51172 0-0.70703l1.9805-1.9805c0.097656-0.09766 0.22266-0.14844 0.35547-0.14844z"
+       id="path4" />
+    <g
+       fill-rule="evenodd"
+       id="g8">
+      <path
+         d="m2 4h11v1h-11z"
+         stroke-width="1.1055"
+         id="path5" />
+      <path
+         d="m4.4922 10.004h1.0156c0.27344 0 0.49219 0.21875 0.49219 0.49219 0 0.26953-0.21875 0.48828-0.49219 0.48828h-1.0156c-0.27344 0-0.49219-0.21875-0.49219-0.48828 0-0.27344 0.21875-0.49219 0.49219-0.49219z"
+         id="path6" />
+      <path
+         d="m9.4922 10.004h1.0312c0.27344 0 0.49219 0.21875 0.49219 0.49219 0 0.26953-0.21875 0.48828-0.49219 0.48828h-1.0312c-0.27344 0-0.49219-0.21875-0.49219-0.48828 0-0.27344 0.21875-0.49219 0.49219-0.49219z"
+         id="path7" />
+      <path
+         d="m7 4h0.98047v5h-0.98047z"
+         id="path8" />
+    </g>
+  </g>
+</svg>

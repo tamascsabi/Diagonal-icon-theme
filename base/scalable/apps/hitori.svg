@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <path id="rect1" d="m17 4h30l13 13v30l-13 13h-30l-13-13v-30z"/>
+ <!-- Background / base square -->
+ <rect id="rect3" x="19" y="4" width="12" height="13" fill="#e2ffdc" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".39108" style="paint-order:stroke markers fill"/>
+ <rect id="rect4" x="33" y="4" width="12" height="13" fill="#ff6f10" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".39108" style="paint-order:stroke markers fill"/>
+ <path id="rect5" d="m47 4v13h13v-7c0-3.324-2.676-6-6-6h-7z" fill="#e2ffdc" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".40705" style="paint-order:stroke markers fill"/>
+ <rect id="rect6" x="4" y="19" width="13" height="12" fill="#e2ffdc" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".39108" style="paint-order:stroke markers fill"/>
+ <rect id="rect7" x="19" y="19" width="12" height="12" fill="#e2ffdc" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".37574" style="paint-order:stroke markers fill"/>
+ <rect id="rect8" x="33" y="19" width="12" height="12" fill="#fd000e" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".37574" style="paint-order:stroke markers fill"/>
+ <rect id="rect9" x="47" y="19" width="13" height="12" fill="#e2ffdc" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".39108" style="paint-order:stroke markers fill"/>
+ <rect id="rect10" x="4" y="33" width="13" height="12" fill="#e2ffdc" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".39108" style="paint-order:stroke markers fill"/>
+ <rect id="rect11" x="19" y="33" width="12" height="12" fill="#4e4e4e" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".37574" style="paint-order:stroke markers fill"/>
+ <rect id="rect12" x="33" y="33" width="12" height="12" fill="#e2ffdc" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".37574" style="paint-order:stroke markers fill"/>
+ <rect id="rect13" x="47" y="33" width="13" height="12" fill="#24d400" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".39108" style="paint-order:stroke markers fill"/>
+ <rect id="rect15" x="19" y="47" width="12" height="13" fill="#e2ffdc" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".39108" style="paint-order:stroke markers fill"/>
+ <rect id="rect16" x="33" y="47" width="12" height="13" fill="#e2ffdc" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".39108" style="paint-order:stroke markers fill"/>
+ <path id="path18" d="m10 4c-3.324 0-6 2.676-6 6v7h13v-13h-7z" fill="#666" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".40705" style="paint-order:stroke markers fill"/>
+ <path id="path19" d="m47 47v13h7c3.324 0 6-2.676 6-6v-7h-13z" fill="#e2ffdc" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".40705" style="paint-order:stroke markers fill"/>
+ <path id="path20" d="m4 47v7c0 3.324 2.676 6 6 6h7v-13h-13z" fill="#e2ffdc" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".40705" style="paint-order:stroke markers fill"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#666" opacity=".4115" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="path60" d="m78.963 52.953c-27.988-2.9843-55.975-5.9685-83.963-8.9528" opacity=".4115" style="paint-order:stroke markers fill"/>
+</svg>

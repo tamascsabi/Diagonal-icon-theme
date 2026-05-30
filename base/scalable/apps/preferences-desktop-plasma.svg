@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect id="rect1-6" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#ce09e0"/>
+ <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#6d158c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="path20" d="m25 11.127c-1.0375 0-1.8728 0.83529-1.8728 1.8728s0.83529 1.8728 1.8728 1.8728c1.0375 0 2-0.83529 2-1.8728s-0.96246-1.8728-2-1.8728m11-0.12717-4 4 7 7-7 7 4 4 10.983-11zm-16 11.345c-1.662 0-3 1.338-3 3 0 1.66 1.338 3 3 3 1.66 0 3-1.34 3-3 0-1.662-1.34-3-3-3m8.2542 11.655c-1.9494 0-3.5187 1.5694-3.5187 3.5188s1.5694 3.5187 3.5187 3.5187c1.9494 0 3.5187-1.5694 3.5187-3.5187 0-1.9494-1.5694-3.5188-3.5187-3.5188" fill="#fff" stroke-width="1.8728"/>
+ <path id="rect1" d="m4 48v6c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-6z" fill="#5e0166" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.4343" style="paint-order:markers fill stroke"/>
+ <rect id="rect2" x="14" y="51" width="6" height="6" rx="1" ry="1" fill="#c2f1fe" style="paint-order:markers fill stroke"/>
+ <rect id="rect3" x="44" y="51" width="6" height="6" rx="1" ry="1" fill="#e0150e" style="paint-order:markers fill stroke"/>
+ <rect id="rect4" x="24" y="51" width="6" height="6" rx="1" ry="1" fill="#66db15" style="paint-order:markers fill stroke"/>
+ <rect id="rect5" x="34" y="51" width="6" height="6" rx="1" ry="1" fill="#ed8e0f" style="paint-order:markers fill stroke"/>
+</svg>

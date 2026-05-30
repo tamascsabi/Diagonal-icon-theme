@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="perspective.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs3051">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+      }</style>
+  </defs>
+  <g
+     transform="translate(1,1)"
+     fill="currentColor"
+     id="g2">
+    <path
+       class="ColorScheme-Text"
+       d="m15 3-11 6h10v8l6-9v-5h-5zm-11 7v8h9v-8h-9z"
+       fill-opacity=".5"
+       id="path2"
+       style="fill:#bcbcbc;fill-opacity:1" />
+    <path
+       class="ColorScheme-Text"
+       d="m14.156 3-1.7812 1-9 5-0.375 0.21875v9.7812h10.803l0.19727-0.34375 6-10.312v-2.0312-2.625-0.6875h-0.6875-3.0625-2.0938zm0.28125 1h3.875l-5 5h-7.875l9-5zm4.5625 0.6875v3.3438l-5 8.5938v-6.9375l5-5zm-15 5.3125h9v8h-9v-8z"
+       id="path1"
+       style="fill:#5d656b;fill-opacity:1" />
+  </g>
+</svg>

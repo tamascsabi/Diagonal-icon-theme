@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2" enable-background="new" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title id="title1">Paper Symbolic Icon Theme</title>
+ <g id="g2" transform="translate(2,4)" fill="#d33636" fill-rule="evenodd">
+  <rect id="rect1" x="1.8448" y="5" width="1.8621" height="6" rx=".67539" ry=".75274" stroke-width=".78784" style="paint-order:stroke fill markers"/>
+  <path id="path3" d="m9.0926 4-3.334 5h3l-0.75 3h0.41602l3.334-5h-3l0.75-3z" enable-background="new" fill="#5d656b"/>
+  <path id="path1" d="m2 3c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h13c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2zm0 1h13c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-13c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1z" enable-background="new" style="paint-order:stroke fill markers"/>
+  <path id="path2" d="m18 6v4a2 2 0 0 0 2-2 2 2 0 0 0-2-2z" enable-background="new" style="paint-order:stroke fill markers"/>
+ </g>
+ <metadata id="metadata2">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+</svg>

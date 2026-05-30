@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   enable-background="new"
+   version="1.1"
+   viewBox="0 0 24 24"
+   sodipodi:docname="battery-000-profile-performance.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="34"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <title
+     id="title1">Paper Symbolic Icon Theme</title>
+  <path
+     id="path1"
+     style="fill:#d33636;fill-rule:evenodd;paint-order:stroke fill markers"
+     d="M 4,7 C 2.892,7 2,7.892 2,9 v 6 c 0,1.108 0.892,2 2,2 H 9.5878906 L 10.074219,16.027344 10.046875,16 H 4 C 3.446,16 3,15.554 3,15 V 9 C 3,8.446 3.446,8 4,8 h 13 c 0.554,0 1,0.446 1,1 v 0.3378906 c 0.328053,-0.063528 0.661594,-0.1162253 1,-0.1582031 V 9 C 19,7.892 18.108,7 17,7 Z"
+     sodipodi:nodetypes="sssscccssssssccsss" />
+  <path
+     id="path2"
+     style="fill:#d33636;fill-rule:evenodd;paint-order:stroke fill markers"
+     d="M 21.357422 10.53125 C 21.50243 11.496989 21.547379 12.459727 21.433594 13.394531 A 2 2 0 0 0 22 12 A 2 2 0 0 0 21.357422 10.53125 z " />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     class="ColorScheme-NegativeText"
+     d="m 20.998049,10 c -3.143704,0 -5.99801,0.54208 -7.998012,3 l -3.5000062,1.5 1.5000032,1.5 -0.500001,1 3.500004,3.5 1.000002,-0.5 1.500003,1.5 1.500003,-3.5 c 3.000004,-2.4814 3.024504,-5 2.998004,-8 z m -0.998051,1 c 0,3 -1.000001,6 -6.00001,8 l -2.000004,-2 c 2.000004,-5 5.000008,-6 8.000014,-6 z m -3.000006,2 c -0.55228,0 -1.000001,0.44772 -1.000001,1 0,0.55228 0.447721,1 1.000001,1 0.552281,0 1.000003,-0.44772 1.000003,-1 0,-0.55228 -0.447722,-1 -1.000003,-1 z m -6.85351,5.1465 C 9.7786313,18.51435 9.5394409,19.04965 9.3378907,19.6543 9.1363402,20.25896 9,20.9167 9,21.5 V 22 h 0.5000008 c 0.5833322,0 1.2410032,-0.13634 1.8457042,-0.33789 0.604659,-0.20155 1.14,-0.44074 1.507801,-0.80859 l -0.707032,-0.70703 c -0.132149,0.13215 -0.596851,0.39296 -1.1172,0.56641 -0.311021,0.10367 -0.604472,0.1225 -0.914061,0.17188 0.04937,-0.30959 0.0682,-0.60304 0.171879,-0.91406 0.17345,-0.52034 0.434262,-0.98504 0.566411,-1.1172 l -0.707031,-0.70703 z"
+     fill="currentColor"
+     id="path2-5"
+     style="color:#da4453;fill:#d33636;fill-opacity:1;stroke-width:1" />
+</svg>

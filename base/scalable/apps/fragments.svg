@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#342700"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#ffe8a8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="rect2" d="m20 10v26h-9l21 19 21-19h-9v-26h-24z" fill="#2b1100" stroke-width=".72777" style="paint-order:markers stroke fill"/>
+ <g id="g18" stroke-width=".8">
+  <path id="path2" d="m20 10h10l-10 10z" fill="#ff7c26" style="paint-order:markers stroke fill"/>
+  <path id="path3" d="m30 10 5 10h-15z" fill="#fff017" style="paint-order:markers stroke fill"/>
+  <path id="path4" d="m30 10 14 10-9 5v-5z" fill="#175bff" style="paint-order:markers stroke fill"/>
+  <path id="path5" d="m30 10h14v10z" fill="#33ff17" style="paint-order:markers stroke fill"/>
+  <path id="path6" d="m20 20 10 13v-13z" fill="#3a7932" style="paint-order:markers stroke fill"/>
+  <path id="path7" d="m30 20h5v8l-5 9z" fill="#b30012" style="paint-order:markers stroke fill"/>
+  <path id="path8" d="m44 20-6 17-3-9v-3z" fill="#ffd288" style="paint-order:markers stroke fill"/>
+  <path id="path9" d="m44 20v12l-6 5z" fill="#31cbff" style="paint-order:markers stroke fill"/>
+  <path id="path10" d="m38 37 3 7 3-8v-4z" fill="#39484d" style="paint-order:markers stroke fill"/>
+  <path id="path11" d="m44 36h9l-21 19 9-11z" fill="#021133" style="paint-order:markers stroke fill"/>
+  <path id="path12" d="m38 37-6 5v13l9-11z" fill="#f706ac" style="paint-order:markers stroke fill"/>
+  <path id="path13" d="m35 28-5 9 2 5 6-5z" fill="#f95604" style="paint-order:markers stroke fill"/>
+  <path id="path14" d="m20 20 10 13-10 5z" fill="#d7f71e" style="paint-order:markers stroke fill"/>
+  <path id="path15" d="m11 36h9v4l1 5z" fill="#33ff17" style="paint-order:markers stroke fill"/>
+  <path id="path16" d="m30 33v8l-9 4-1-5v-2z" fill="#175bff" style="paint-order:markers stroke fill"/>
+  <path id="path17" d="m30 37 2 5v13l-11-10 9-4z" fill="#021133" style="paint-order:markers stroke fill"/>
+ </g>
+ <g id="g33" stroke-width=".8">
+  <path id="path18" d="m20 10h10l-10 10z" fill="#ff7c26" style="paint-order:markers stroke fill"/>
+  <path id="path19" d="m30 10 5 10h-15z" fill="#fff017" style="paint-order:markers stroke fill"/>
+  <path id="path20" d="m30 10 14 10-9 5v-5z" fill="#175bff" style="paint-order:markers stroke fill"/>
+  <path id="path21" d="m30 10h14v10z" fill="#33ff17" style="paint-order:markers stroke fill"/>
+  <path id="path22" d="m20 20 10 13v-13z" fill="#3a7932" style="paint-order:markers stroke fill"/>
+  <path id="path23" d="m30 20h5v8l-5 9z" fill="#b30012" style="paint-order:markers stroke fill"/>
+  <path id="path24" d="m44 20-6 17-3-9v-3z" fill="#ffd288" style="paint-order:markers stroke fill"/>
+  <path id="path25" d="m44 20v12l-6 5z" fill="#31cbff" style="paint-order:markers stroke fill"/>
+  <path id="path26" d="m38 37 3 7 3-8v-4z" fill="#39484d" style="paint-order:markers stroke fill"/>
+  <path id="path27" d="m44 36h9l-21 19 9-11z" fill="#021133" style="paint-order:markers stroke fill"/>
+  <path id="path28" d="m38 37-6 5v13l9-11z" fill="#f706ac" style="paint-order:markers stroke fill"/>
+  <path id="path29" d="m35 28-5 9 2 5 6-5z" fill="#f95604" style="paint-order:markers stroke fill"/>
+  <path id="path30" d="m20 20 10 13-10 5z" fill="#d7f71e" style="paint-order:markers stroke fill"/>
+  <path id="path31" d="m11 36h9v4l1 5z" fill="#33ff17" style="paint-order:markers stroke fill"/>
+  <path id="path32" d="m30 33v8l-9 4-1-5v-2z" fill="#175bff" style="paint-order:markers stroke fill"/>
+  <path id="path33" d="m30 37 2 5v13l-11-10 9-4z" fill="#021133" style="paint-order:markers stroke fill"/>
+ </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#0a2443"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#1e6fd2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect id="rect6" x="13" y="11" width="38" height="4" ry="2" fill="#fffdf8" stroke-width="0"/>
+ <rect id="rect3" x="13" y="29.5" width="38" height="4" ry="2" fill="#fffdf8" stroke-width="0"/>
+ <circle id="path1-1" cx="42" cy="42" r="14" fill="#fffdf8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect id="rect2" x="13" y="48" width="38" height="4" ry="2" fill="#fffdf8" stroke-width="0"/>
+ <path id="path9" d="m42 27a15 15 0 0 0-15 15 15 15 0 0 0 15 15 15 15 0 0 0 15-15 15 15 0 0 0-15-15zm0 3a12 12 0 0 1 12 12 12 12 0 0 1-12 12 12 12 0 0 1-12-12 12 12 0 0 1 12-12z" fill="#eb770d" stroke-width="0"/>
+ <path id="rect11" d="m41.5 31c-0.831 0-1.5 0.66559-1.5 1.4923v9.0153c0 0.82676 0.669 1.4923 1.5 1.4923h8c0.831 0 1.5-0.66559 1.5-1.4923 0-0.82676-0.669-1.4923-1.5-1.4923h-6.5v-7.523c0-0.82676-0.669-1.4923-1.5-1.4923z" fill="#0a2443" stroke-width="0"/>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#0c4207"/>
+ <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#22bc15" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="path4409-9" d="m32 25c-3.866 0-7 3.134-7 7 0 3.866 3.134 7 7 7 3.866 0 7-3.134 7-7 0-3.866-3.134-7-7-7zm0 3a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4z" fill="#ced9ec" stroke-width=".77778"/>
+ <path id="path4443-1" d="m32 11c-11.598 0-21 9.4019-21 21s9.4019 21 21 21c11.598 0 21-9.4019 21-21s-9.4019-21-21-21zm-0.0014 14.338c3.6986 0 6.6622 2.9636 6.6622 6.6622 0 3.6986-2.9636 6.6622-6.6622 6.6622s-6.7323-2.9636-6.7323-6.6622c0-3.6986 3.0337-6.6622 6.7323-6.6622z" fill="#99b0d8" stroke-width=".75083"/>
+ <path id="path5170-6-2" d="m32 23c-4.9657 0-9 4.0343-9 9s4.0343 9 9 9 9-4.0343 9-9-4.0343-9-9-9zm0 1c4.423 0 8 3.577 8 8s-3.577 8-8 8c-4.423 0-8-3.577-8-8s3.577-8 8-8z" color="#000000" fill="#274165" fill-opacity=".69682" stroke-width=".81818" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+ <path id="path3" d="m32 11c-11.598 0-21 9.4019-21 21h12a9 9 0 0 1 9-9z" fill="#fff" fill-opacity=".52" stroke-width=".75083"/>
+ <path id="path4" d="m53 32c0 11.598-9.4019 21-21 21v-12a9 9 0 0 0 9-9z" fill="#fff" fill-opacity=".52" stroke-width=".75083"/>
+</svg>

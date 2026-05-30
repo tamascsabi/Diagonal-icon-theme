@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg1" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs3051">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+      }</style>
+ </defs>
+ <path id="path1-5" class="ColorScheme-Text" d="m18.892 3.9591c1.2728 0 2.2974 1.0246 2.2974 2.2974v9.1897c0 1.2728-1.0246 2.2974-2.2974 2.2974h-2.2974c0 1.2728-1.0246 2.2974-2.2974 2.2974h-4.5948c-1.2728 0-2.2974-1.0246-2.2974-2.2974h-2.2974c-1.2728 0-2.2974-1.0246-2.2974-2.2974v-9.1897c0-1.2728 1.0246-2.2974 2.2974-2.2974zm0 1.1487h-13.784c-0.63638 0-1.1487 0.51232-1.1487 1.1487v9.1897c0 0.63638 0.51232 1.1487 1.1487 1.1487h3.4461v1.1487c0 0.63638 0.51232 1.1487 1.1487 1.1487h4.5948c0.63638 0 1.1487-0.51232 1.1487-1.1487v-1.1487h3.4461c0.63638 0 1.1487-0.51232 1.1487-1.1487v-9.1897c0-0.63638-0.51232-1.1487-1.1487-1.1487z" color="#5d656b" fill="currentColor" stroke-width="1.1487"/>
+ <circle id="circle1" class="ColorScheme-Text" cx="6.9655" cy="11.069" r="1.2586" color="#5d656b" fill="#5d656b" stroke-width="1.2586"/>
+ <circle id="circle2" class="ColorScheme-Text" cx="12" cy="11.069" r="1.2586" color="#5d656b" fill="#5d656b" stroke-width="1.2586"/>
+ <circle id="circle3" class="ColorScheme-Text" cx="17.034" cy="11.069" r="1.2586" color="#5d656b" fill="#5d656b" stroke-width="1.2586"/>
+</svg>

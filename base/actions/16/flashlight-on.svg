@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333 4.2333"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="flashlight-on.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text{color:#5d656b;}</style>
+  <path
+     class="ColorScheme-Text"
+     transform="translate(0 -292.77)"
+     d="m3.9687 295.68h-0.60048c-0.22535-4.2e-4 -0.43991-0.0966-0.59014-0.26458h-2.5135v-1.0583h1.3229v-0.26459h0.52917v0.26459h0.66146c0.15024-0.16797 0.36479-0.26417 0.59014-0.26459h0.60048zm-0.26458-0.26458v-1.0583h-0.3359c-0.1889 1.5e-4 -0.3634 0.10098-0.45785 0.26458v0.52917c0.09445 0.1636 0.26895 0.26443 0.45785 0.26458zm-1.0583-0.26458v-0.52917h-2.1167v0.52917z"
+     fill="currentColor"
+     id="path1" />
+</svg>

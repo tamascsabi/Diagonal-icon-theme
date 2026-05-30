@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg1"
+   sodipodi:docname="places.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="51"
+     inkscape:cx="8"
+     inkscape:cy="7.1764706"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#5d656b; }</style>
+  </defs>
+  <path
+     id="path1"
+     style="fill:#5d656b;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 6.7851562 0 C 5.6771562 0 4.7851562 0.892 4.7851562 2 L 4.7851562 3.1660156 C 4.5937012 3.0549679 4.3672748 3.0002299 4 3 L 2 3 C 0.892 3 0 3.892 0 5 L 0 14 C 0 15.108 0.892 16 2 16 L 14 16 C 15.108 16 16 15.108 16 14 L 16 8 L 16 7 L 16 6 L 16 5 L 15.734375 5 C 15.38955 4.401339 14.743213 4 14 4 L 6.3710938 4 C 6.0725263 3.9882087 5.9211037 4.0090534 5.7851562 3.9726562 L 5.7851562 2 C 5.7851562 1.446 6.2311562 1 6.7851562 1 L 8.7851562 1 C 9.0963164 0.9999983 9.3054831 1.0001414 9.7832031 1.4707031 C 10.261973 1.9423131 10.422003 2 10.783203 2 L 16 2 L 16 1 L 11.15625 1 C 10.5764 0.9771 10.551547 1.0768841 10.117188 0.64257812 C 9.6833762 0.20876812 9.5041864 0.00045 8.7851562 0 L 6.7851562 0 z M 2 4 L 4 4 C 4.31116 3.9999983 4.5203269 4.0001414 4.9980469 4.4707031 C 5.4768169 4.9423131 5.6368469 5 5.9980469 5 L 14 5 C 14.554 5 15 5.446 15 6 L 15 7 L 1 7 L 1 5 C 1 4.446 1.446 4 2 4 z M 1 8 L 15 8 L 15 9 L 15 10 L 15 11 L 15 12 L 15 14 C 15 14.554 14.554 15 14 15 L 2 15 C 1.446 15 1 14.554 1 14 L 1 12 L 1 11 L 1 10 L 1 9 L 1 8 z " />
+</svg>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg1"
+   sodipodi:docname="folder-ubuntu.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="34"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#5d656b; }</style>
+  </defs>
+  <path
+     d="m 18.285479,1.9999922 c 1.124263,0 2.035712,0.8954509 2.035712,2.0000078 0,1.1045887 -0.911449,2.0000081 -2.035712,2.0000081 -1.124325,0 -2.035712,-0.8954194 -2.035712,-2.0000081 0,-1.1045254 0.911387,-2.0000078 2.035712,-2.0000078 z M 17.606885,17.99999 c 1.124295,0 2.035715,0.895455 2.035715,2.000011 0,1.104587 -0.911389,2.000007 -2.035715,2.000007 -1.12426,0 -2.03571,-0.89542 -2.03571,-2.000007 0,-1.104523 0.911418,-2.000011 2.03571,-2.000011 z M 4.0356809,9.9998351 c 1.1242627,0 2.0356809,0.8954509 2.0356809,2.0000079 0,1.104556 -0.9114182,1.999975 -2.0356809,1.999975 C 2.9113557,13.999818 2,13.104432 2,11.999843 2,10.895286 2.9113872,9.9998351 4.0356809,9.9998351 Z M 7.089218,11.999843 c 0,-1.246198 -0.7733834,-2.3148805 -1.8743851,-2.7681177 1.146493,-3.0540132 4.1354301,-5.2319142 7.6423501,-5.2319142 0.833769,0 1.638312,0.1231386 2.395772,0.3518494 0.177292,1.4910214 1.467427,2.6480836 3.032742,2.6480836 0.289183,0 0.568969,-0.039462 0.834142,-0.1133247 C 20.293872,8.2728397 21,10.0553 21,11.999904 c 0,2.0356 -0.773881,3.893939 -2.048324,5.305618 -0.405675,-0.195752 -0.861993,-0.305644 -1.344477,-0.305644 -1.626635,0 -2.956217,1.249631 -3.048449,2.825065 -0.548735,0.114661 -1.117954,0.174869 -1.701504,0.174869 -3.506608,0 -6.4955454,-2.177805 -7.6423509,-5.231914 1.1009708,-0.453206 1.8743853,-1.52192 1.8743853,-2.768088 z m 5.767435,-4.666864 c -2.62332,0 -4.7498913,2.0893327 -4.7498913,4.666864 0,2.577279 2.1266013,4.666234 4.7498913,4.666234 2.62329,0 4.749891,-2.089302 4.749891,-4.666234 0,-2.5772793 -2.126601,-4.666864 -4.749891,-4.666864 z"
+     fill="#f9f9f9"
+     stroke-linejoin="round"
+     stroke-width="0.0849555"
+     id="path18"
+     style="fill:#5d656b;fill-opacity:1" />
+</svg>

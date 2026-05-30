@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg1"
+   sodipodi:docname="folder-bitbucket.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="25.5"
+     inkscape:cx="11.647059"
+     inkscape:cy="7.2156863"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#5d656b; }</style>
+  </defs>
+  <g
+     id="icone"
+     transform="matrix(0.94694877,0,0,0.97019554,0.05305446,0.38889616)" />
+  <path
+     id="rect6"
+     style="fill:#5d656b;stroke-width:0.508;fill-opacity:1"
+     d="M 2 2 C 1.446 2 0.89995741 2.4551078 1 3 L 3.0195312 14 C 3.1195739 14.544892 3.4655312 15 4.0195312 15 L 12 15 C 12.554 15 12.9009 14.545064 13 14 L 15 3 C 15.099103 2.4549361 14.554 2 14 2 L 2 2 z M 4 5 L 12 5 L 11 12 L 5 12 L 4 5 z " />
+  <path
+     style="fill:#25282b;fill-opacity:1;stroke-width:0.508"
+     d="m 12,5 h 2.636364 L 13.360471,12.017412 11,12 Z"
+     id="path7"
+     sodipodi:nodetypes="ccccc" />
+</svg>

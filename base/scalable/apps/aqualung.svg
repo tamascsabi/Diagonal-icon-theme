@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs1">
+  <radialGradient id="radialGradient100" cx="31.908" cy="37.572" r="8.8388" gradientTransform="translate(.0621 -.60791)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+  <linearGradient id="f">
+   <stop id="stop1-3" stop-color="#000d33" stop-opacity="0" offset="0"/>
+   <stop id="stop2-6" stop-color="#001345" stop-opacity="0" offset=".49"/>
+   <stop id="stop3" stop-color="#001f6e" stop-opacity=".24758" offset=".71"/>
+   <stop id="stop4" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient101" cx="32.874" cy="38.6" r="8.8388" gradientTransform="matrix(1.3,0,0,1.3,-10.151,-10.885)" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
+  <linearGradient id="h">
+   <stop id="stop5" stop-color="#002596" stop-opacity="0" offset="0"/>
+   <stop id="stop6" stop-color="#1d2f6f" stop-opacity="0" offset=".62424"/>
+   <stop id="stop7" stop-color="#4656a9" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient102" cx="30.791" cy="36.026" r="8.8388" gradientTransform="matrix(1.1205,-2.0163e-8,2.0163e-8,1.1205,-4.3889,-5.4895)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+  <linearGradient id="g">
+   <stop id="stop8" stop-color="#adebff" stop-opacity=".34971" offset="0"/>
+   <stop id="stop9" stop-color="#00beeb" stop-opacity="0" offset=".46935"/>
+   <stop id="stop10" stop-color="#66ffec" stop-opacity=".87249" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient103" cx="31.908" cy="37.572" r="8.8388" gradientTransform="translate(.16042 -1.5704)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+  <radialGradient id="radialGradient104" cx="32.874" cy="38.6" r="8.8388" gradientTransform="matrix(1.3,0,0,1.3,-11.037,-11.933)" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
+  <radialGradient id="radialGradient105" cx="30.791" cy="36.026" r="8.8388" gradientTransform="matrix(1.1205,-2.0163e-8,2.0163e-8,1.1205,-5.274,-6.5373)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+  <radialGradient id="radialGradient109" cx="31.908" cy="37.572" r="8.8388" gradientTransform="translate(.081186 -.79475)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+  <radialGradient id="radialGradient110" cx="32.874" cy="38.6" r="8.8388" gradientTransform="matrix(1.3,0,0,1.3,-10.323,-11.088)" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
+  <radialGradient id="radialGradient111" cx="30.791" cy="36.026" r="8.8388" gradientTransform="matrix(1.1205,-2.0163e-8,2.0163e-8,1.1205,-4.5607,-5.6929)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+  <radialGradient id="radialGradient112" cx="31.908" cy="37.572" r="8.8388" gradientTransform="translate(.13928 -1.3634)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+  <radialGradient id="radialGradient113" cx="32.874" cy="38.6" r="8.8388" gradientTransform="matrix(1.3,0,0,1.3,-10.846,-11.707)" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
+  <radialGradient id="radialGradient114" cx="30.791" cy="36.026" r="8.8388" gradientTransform="matrix(1.1205,-2.0163e-8,2.0163e-8,1.1205,-5.0837,-6.312)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+  <radialGradient id="radialGradient115" cx="31.908" cy="37.572" r="8.8388" gradientTransform="translate(.15062 -1.4745)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+  <radialGradient id="radialGradient116" cx="32.874" cy="38.6" r="8.8388" gradientTransform="matrix(1.3,0,0,1.3,-10.948,-11.828)" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
+  <radialGradient id="radialGradient117" cx="30.791" cy="36.026" r="8.8388" gradientTransform="matrix(1.1205,-2.0163e-8,2.0163e-8,1.1205,-5.1858,-6.4328)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+  <radialGradient id="c" cx="31.908" cy="37.572" r="8.8388" gradientTransform="translate(.10703 -1.0478)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+  <radialGradient id="b" cx="32.874" cy="38.6" r="8.8388" gradientTransform="matrix(1.3,0,0,1.3,-10.556,-11.364)" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
+  <radialGradient id="a" cx="30.791" cy="36.026" r="8.8388" gradientTransform="matrix(1.1205,-2.0163e-8,2.0163e-8,1.1205,-4.7934,-5.9683)" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+ </defs>
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#3a99fd"/>
+ <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#2278d2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect id="rect5" x="12" y="32" width="2" height="13" ry="1" fill="#171717" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.4743" style="paint-order:markers fill stroke"/>
+ <rect id="rect6" x="50" y="32" width="2" height="13" ry="1" fill="#171717" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.4743" style="paint-order:markers fill stroke"/>
+ <path id="rect3" d="m32 10c-11.634 0-21 9.3187-21 20.894v2.1061a2 2 45 0 0 2 2 2 2 135 0 0 2-2v-2.9243c0-9.3704 9-15.076 17-15.076 7.4394 0 15.744 4.557 16.871 13.081 0.14471 1.0943 0.12914 2.8898 0.12914 3.9944v0.92435a2 2 45 0 0 2 2 2 2 135 0 0 2-2v-2.1061c0-11.575-9.366-20.894-21-20.894z" fill="#373561" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.5446" style="paint-order:markers fill stroke"/>
+ <path id="rect8" transform="matrix(1 0 0 1.0104 0 -.10433)" d="m31.895 10c-7.6114 0-14.242 3.9494-17.895 10l1.0899 0.87195c2.1595 1.7276 4.9613 1.076 6.9649-0.81378 2.5006-2.3586 5.9109-4.0582 9.9451-4.0582 3.7575 0 7.2718 1.5242 9.9527 4.0502 2.0052 1.8894 4.7986 2.5488 6.9589 0.82053l1.0884-0.87074c-5.736-9.3057-15-10-18.105-10z" fill="#171717" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.53" style="paint-order:markers fill stroke"/>
+ <rect id="rect32" x="15" y="36" width="7" height="13" ry="3" fill="#171717" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.53" style="paint-order:markers fill stroke"/>
+ <rect id="rect30" x="17" y="31" width="8" height="23" ry="4" fill="#ff7800" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.53" style="paint-order:markers fill stroke"/>
+ <rect id="rect33" x="42" y="36" width="7" height="13" ry="3" fill="#171717" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.53" style="paint-order:markers fill stroke"/>
+ <rect id="rect31" x="39" y="31" width="8" height="23" ry="4" fill="#ff7800" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.53" style="paint-order:markers fill stroke"/>
+ <rect id="rect34" x="13" y="39" width="3" height="4" fill="#171717" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.53" style="paint-order:markers fill stroke"/>
+ <rect id="rect35" x="48" y="39" width="3" height="4" fill="#171717" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.53" style="paint-order:markers fill stroke"/>
+ <g id="g52" transform="matrix(.86188 0 0 .86648 4.6759 1.4493)">
+  <g id="g24" transform="matrix(.91545 0 0 .91545 3.2236 -3.28)">
+   <circle id="circle22" transform="matrix(.82731 -.82731 1.0041 1.0041 -30.359 29.25)" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient100)"/>
+   <circle id="circle23" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient101)"/>
+   <circle id="circle24" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient102)"/>
+  </g>
+  <g id="g27" transform="matrix(.35437 0 0 .35437 41.437 1.7128)">
+   <circle id="circle25" transform="matrix(.82731 -.82731 1.0041 1.0041 -30.359 29.25)" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient103)"/>
+   <circle id="circle26" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient104)"/>
+   <circle id="circle27" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient105)"/>
+  </g>
+  <g id="g30" transform="matrix(.35437 0 0 .35437 25.969 35.3)">
+   <circle id="circle28" transform="matrix(.82731 -.82731 1.0041 1.0041 -30.359 29.25)" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient103)"/>
+   <circle id="circle29" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient104)"/>
+   <circle id="circle30" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient105)"/>
+  </g>
+  <g id="g33" transform="matrix(.70024 0 0 .70024 -10.635 18.055)">
+   <circle id="circle31" transform="matrix(.82731 -.82731 1.0041 1.0041 -30.359 29.25)" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient109)"/>
+   <circle id="circle32" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient110)"/>
+   <circle id="circle33" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient111)"/>
+  </g>
+  <g id="g36" transform="matrix(.40817 0 0 .40817 4.0881 41.7)">
+   <circle id="circle34" transform="matrix(.82731 -.82731 1.0041 1.0041 -30.359 29.25)" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient112)"/>
+   <circle id="circle35" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient113)"/>
+   <circle id="circle36" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient114)"/>
+  </g>
+  <g id="g39" transform="matrix(.37743 0 0 .37743 5.5681 14.393)">
+   <circle id="circle37" transform="matrix(.82731 -.82731 1.0041 1.0041 -30.359 29.25)" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient115)"/>
+   <circle id="circle38" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient116)"/>
+   <circle id="circle39" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient117)"/>
+  </g>
+  <g id="g42" transform="matrix(.37743 0 0 .37743 43.045 34.899)">
+   <circle id="circle40" transform="matrix(.82731 -.82731 1.0041 1.0041 -30.359 29.25)" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient115)"/>
+   <circle id="circle41" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient116)"/>
+   <circle id="circle42" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient117)"/>
+  </g>
+  <g id="g45" transform="matrix(.37743 0 0 .37743 -5.1269 4.1399)">
+   <circle id="circle43" transform="matrix(.82731 -.82731 1.0041 1.0041 -30.359 29.25)" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient115)"/>
+   <circle id="circle44" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient116)"/>
+   <circle id="circle45" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient117)"/>
+  </g>
+  <g id="g48" transform="matrix(.37743 0 0 .37743 -.17713 -3.2847)">
+   <circle id="circle46" transform="matrix(.82731 -.82731 1.0041 1.0041 -30.359 29.25)" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient115)"/>
+   <circle id="circle47" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient116)"/>
+   <circle id="circle48" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#radialGradient117)"/>
+  </g>
+  <g id="g51" transform="matrix(.53115 0 0 .53115 3.1178 -5.0764)">
+   <circle id="circle49" transform="matrix(.82731 -.82731 1.0041 1.0041 -30.359 29.25)" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#c)"/>
+   <circle id="circle50" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#b)"/>
+   <circle id="circle51" cx="31.908" cy="37.572" r="8.8388" color="#000000" fill="url(#a)"/>
+  </g>
+ </g>
+</svg>

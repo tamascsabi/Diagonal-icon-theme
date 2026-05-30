@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg1"
+   sodipodi:docname="folder-vmware.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="34"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#5d656b; }</style>
+  </defs>
+  <path
+     id="rect1"
+     style="fill:#5d656b"
+     d="M 3.0585938 2 C 2.4720055 2 2 2.4720055 2 3.0585938 L 2 14.941406 C 2 15.527995 2.4720055 16 3.0585938 16 L 14.941406 16 C 15.527995 16 16 15.527995 16 14.941406 L 16 3.0585938 C 16 2.4720055 15.527995 2 14.941406 2 L 3.0585938 2 z M 4.7558594 4 L 13.244141 4 C 13.663132 4 14 4.3368678 14 4.7558594 L 14 13.244141 C 14 13.663132 13.663132 14 13.244141 14 L 4.7558594 14 C 4.3368678 14 4 13.663132 4 13.244141 L 4 4.7558594 C 4 4.3368678 4.3368678 4 4.7558594 4 z " />
+  <path
+     id="path2"
+     style="fill:#5d656b"
+     d="M 9.0585936,8 C 8.4720053,8 7.9999998,8.4720055 7.9999998,9.0585938 V 20.941406 C 7.9999998,21.527995 8.4720053,22 9.0585936,22 H 20.941406 C 21.527995,22 22,21.527995 22,20.941406 V 9.0585938 C 22,8.4720055 21.527995,8 20.941406,8 Z m 1.6972654,2 h 8.488282 C 19.663132,10 20,10.336868 20,10.755859 v 8.488282 C 20,19.663132 19.663132,20 19.244141,20 H 10.755859 C 10.336868,20 9.9999998,19.663132 9.9999998,19.244141 V 10.755859 C 9.9999998,10.336868 10.336868,10 10.755859,10 Z" />
+</svg>

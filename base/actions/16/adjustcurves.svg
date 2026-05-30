@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg1"
+   sodipodi:docname="adjustcurves.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     showgrid="true"
+     inkscape:zoom="51"
+     inkscape:cx="8"
+     inkscape:cy="8.6470588"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <sodipodi:guide
+       position="14.473652,14.438113"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Text"
+     d="M 2,1.0000612 V 6.2500386 7.1250349 10.15331 11.390642 11.500016 12.375012 13 H 1 v 1.125005 H 2 V 15 H 3 V 14.125005 H 14.381291 14.99994 V 13.256348 13 H 14.743592 13.506262 2.999965 v -1.122335 -0.0068 -0.370851 -0.984371 l 3.2482173,-3.4982343 1.8576134,1.857617 0.00517,-0.00342 0.00342,0.00342 6.8854163,-6.8906322 V 1.0000712 h -0.252927 c 0.0062,-0.0108167 -6.6359584,6.6410463 -6.6359584,6.6410463 l -1.8611134,-1.8594032 -0.00171,0.00171 -0.00171,-0.00171 -3.2465548,3.4965724 V 9.2458157 8.3708195 7.9999698 7.1249737 6.2499774 3.6249886 3.6181549 2.7499925 1 H 1.9998249 Z"
+     fill="currentColor"
+     id="path1"
+     style="color:#5d656b;stroke-width:0.874995"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccc" />
+  <path
+     class="ColorScheme-Text"
+     d="m 14.999914,1.984432 -6.8854208,6.8905953 -0.00342,-0.00342 -0.00517,0.00342 L 6.2483006,7.0174102 3.0000833,10.515645 V 13 H 15 V 1.984432 Z"
+     fill="currentColor"
+     fill-opacity="0.5"
+     id="path2"
+     style="color:#5d656b;stroke-width:0.874995"
+     sodipodi:nodetypes="cccccccccc" />
+</svg>

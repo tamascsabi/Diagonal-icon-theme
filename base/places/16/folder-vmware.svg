@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg1"
+   sodipodi:docname="folder-vmware.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="36.062446"
+     inkscape:cx="8.0138769"
+     inkscape:cy="8.8734969"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#5d656b; }</style>
+  </defs>
+  <path
+     id="rect5"
+     style="fill:#5d656b;fill-opacity:1"
+     d="M 2.0585938 1 C 1.4720055 1 1 1.4720055 1 2.0585938 L 1 10.941406 C 1 11.527995 1.4720055 12 2.0585938 12 L 10.941406 12 C 11.527995 12 12 11.527995 12 10.941406 L 12 2.0585938 C 12 1.4720055 11.527995 1 10.941406 1 L 2.0585938 1 z M 3.6738281 3 L 9.3261719 3 C 9.6994553 3 10 3.3005447 10 3.6738281 L 10 9.3261719 C 10 9.6994553 9.6994553 10 9.3261719 10 L 3.6738281 10 C 3.3005447 10 3 9.6994553 3 9.3261719 L 3 3.6738281 C 3 3.3005447 3.3005447 3 3.6738281 3 z " />
+  <path
+     id="path6"
+     style="fill:#5d656b;stroke-width:1;fill-opacity:1"
+     d="M 5.0585939,4.0000002 C 4.4720055,4.0000002 4,4.4720057 4,5.058594 v 8.882812 C 4,14.527995 4.4720055,15 5.0585939,15 H 13.941406 C 14.527995,15 15,14.527995 15,13.941406 V 5.058594 C 15,4.4720057 14.527995,4.0000002 13.941406,4.0000002 Z m 1.6152342,2 H 12.326172 C 12.699455,6.0000002 13,6.3005449 13,6.6738283 V 12.326172 C 13,12.699455 12.699455,13 12.326172,13 H 6.6738281 C 6.3005447,13 6,12.699455 6,12.326172 V 6.6738283 C 6,6.3005449 6.3005447,6.0000002 6.6738281,6.0000002 Z" />
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <linearGradient id="linearGradient3757" x1="127.56" x2="326.58" y1="201.76" y2="321.64" gradientTransform="matrix(.15904 .0093998 -.0093052 .15745 2.1832 -9.9383)" gradientUnits="userSpaceOnUse">
+   <stop id="stop4128" stop-color="#fff" offset="0"/>
+   <stop id="stop4130" stop-color="#FCFCFC" offset=".2317"/>
+   <stop id="stop4132" stop-color="#F3F3F3" offset=".4013"/>
+   <stop id="stop4134" stop-color="#E3E3E3" offset=".5511"/>
+   <stop id="stop4136" stop-color="#ccc" offset=".6894"/>
+   <stop id="stop4138" stop-color="#AFAFAF" offset=".82"/>
+   <stop id="stop4140" stop-color="#8C8C8C" offset=".9429"/>
+   <stop id="stop4142" stop-color="#797979" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3742" x1="-828.81" x2="-936.83" y1="-674.82" y2="-525.05" gradientTransform="matrix(.15945 .00552 .0052835 -.15262 172.06 -56.22)" gradientUnits="userSpaceOnUse">
+   <stop id="stop4151" stop-color="#144CA2" offset="0"/>
+   <stop id="stop4153" stop-color="#8CD6F2" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient3715" cx="-2282.2" cy="884.27" r="232.71" gradientTransform="matrix(.034729 0 0 -.034713 99.52 54.998)" gradientUnits="userSpaceOnUse">
+   <stop id="stop4192" stop-color="#fff" offset="0"/>
+   <stop id="stop4194" stop-color="#8CD6F2" offset=".4277"/>
+   <stop id="stop4196" stop-color="#86CCEB" stop-opacity=".709" offset=".5942"/>
+   <stop id="stop4198" stop-color="#7AB6DC" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#066398"/>
+ <path id="path1-5" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#043b5a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="path4144" d="m49.381 44.003c3.2202-4.3533 4.5381-9.6918 3.7109-15.032-0.82769-5.3404-3.7011-10.043-8.0913-13.243-2.4276-1.7688-5.502-3.0253-8.3677-3.5998-56.603 27.938 29.864 14.386-9.3826 39.313 7.9872 2.3045 16.934-0.41274 22.131-7.4385z" fill="url(#linearGradient3757)" stroke-width=".15772"/>
+ <path id="path4155" d="m36.742 12.128c-2.5327-0.5345-5.1704-0.58276-7.7955-0.11734-5.3533 0.9496-10.014 3.918-13.124 8.3581-0.01782 0.02586-0.03691 0.05031-0.05709 0.07381-0.01483 0.02697-0.03123 0.05394-0.04921 0.07996-6.2761 9.1397-3.959 21.73 5.1653 28.065 2.1563 1.4973 4.505 2.5203 6.9202 3.0912 48.005-30.649-26.933-13.565 8.9406-39.551z" fill="url(#linearGradient3742)" stroke-width=".15772"/>
+ <path id="path4159" d="m25.013 52.5c-3.8161-1.4808-7.2604-4.0392-9.8329-7.5962-3.4216-4.7302-4.8113-10.512-3.9132-16.281 0.89793-5.7692 3.9794-10.855 8.6764-14.321 0.02743-0.02019 0.05581-0.0388 0.08435-0.05567 0.02491-0.02255 0.05141-0.04385 0.07915-0.06419 4.7599-3.4448 10.576-4.8294 16.377-3.8984 5.8011 0.93068 10.893 4.0657 14.337 8.8272 3.4435 4.7611 4.8278 10.579 3.8973 16.382-0.93057 5.8028-4.0646 10.896-8.8246 14.34-6.2702 4.5381-14.151 5.2792-20.88 2.6676zm-3.9071-36.779c-0.02302 0.0205-0.04715 0.04038-0.07253 0.05914-8.8629 6.5397-10.821 19.122-4.3659 28.047 6.516 9.0082 19.144 11.035 28.149 4.5171 4.3629-3.1571 7.235-7.8247 8.0877-13.143 0.85299-5.3178-0.4153-10.65-3.5718-15.014-3.1565-4.3638-7.8226-7.2368-13.139-8.09-5.3166-0.85324-10.647 0.41574-15.01 3.573-0.02522 0.01814-0.05108 0.03501-0.07742 0.05047z" fill="#fff" stroke-width=".15769"/>
+ <path id="path4200" d="m14.508 18.63c2.4227-3.7448 7.423-4.8163 11.168-2.3932 3.7446 2.423 4.816 7.4232 2.3932 11.168-2.4231 3.7448-7.4233 4.8161-11.168 2.3932-3.7205-2.4075-4.8062-7.3631-2.4332-11.106" fill="url(#radialGradient3715)" opacity=".41" stroke-width=".15772"/>
+ <path id="path28" d="m25.515 22.125c-0.75897-0.37851-1.5183 0.15-1.5152 0.97376v18.788c4e-3 0.84194 0.87458 1.3894 1.6312 0.9688l17.799-9.8683c0.78024-0.43313 0.75433-1.5269-0.0456-1.9252zm0.48474 2.8753 15 7-15 8z" fill="#003d65" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width=".95522"/>
+ <path id="path29" d="m26 25v15l15-8z" fill="#2e89f5"/>
+</svg>

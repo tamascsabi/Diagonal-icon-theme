@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#354c6c"/>
+ <path id="path2" d="m10 4c-3.324 0-6 2.676-6 6v44l56-44c0-3.324-2.676-6-6-6h-44z" fill="#001a27" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="rect11" d="m8 11c-2.216 0-4 1.784-4 4v20h56v-20c0-2.216-1.784-4-4-4h-20c-2.216 0-4 1.784-4 4 0-2.216-1.784-4-4-4z" fill="#ba752b" stroke-linecap="round" stroke-miterlimit="3.2" style="paint-order:fill markers stroke"/>
+ <path id="rect10" d="m13 8c-1.108 0-2 0.892-2 2v1h15v-1c0-1.108-0.892-2-2-2z" fill="#e2e6e9" stroke-linecap="round" stroke-miterlimit="3.2" stroke-width="1.817" style="paint-order:fill markers stroke"/>
+ <path id="path16" d="m4 37v17c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-17h-28z" fill="#182331" stroke-linecap="round" stroke-miterlimit="3.2" style="paint-order:fill markers stroke"/>
+ <path id="rect17" d="m4 35v2h56v-2z" fill="#e3e9f1" stroke-linecap="round" stroke-miterlimit="3.2" stroke-width=".63246" style="paint-order:fill markers stroke"/>
+ <path id="path15" d="m33 39-6 10h5l-1 8 6-10h-5z" fill="#fff" stroke-width=".66937"/>
+ <path id="path3" d="m8 11c-2.216 0-4 1.784-4 4v20h24.182l29.848-23.451c-0.59415-0.34891-1.2877-0.54883-2.0293-0.54883h-20c-2.216 0-4 1.784-4 4 0-2.216-1.784-4-4-4z" fill="#71471a" stroke-linecap="round" stroke-miterlimit="3.2" style="paint-order:fill markers stroke"/>
+ <rect id="rect15" transform="rotate(-90)" x="-25" y="11" width="3" height="15" ry="1.5" fill="#fff" style="paint-order:fill markers stroke"/>
+ <path id="rect14" d="m45.5 16c-0.831 0-1.5 0.669-1.5 1.5v4.5h-4.5c-0.831 0-1.5 0.669-1.5 1.5s0.669 1.5 1.5 1.5h4.5v4.5c0 0.831 0.669 1.5 1.5 1.5s1.5-0.669 1.5-1.5v-4.5h4.5c0.831 0 1.5-0.669 1.5-1.5s-0.669-1.5-1.5-1.5h-4.5v-4.5c0-0.831-0.669-1.5-1.5-1.5z" fill="#fff" style="paint-order:fill markers stroke"/>
+ <path id="path4" d="m4 37v17l21.637-17h-21.637z" fill="#71471a" stroke-linecap="round" stroke-miterlimit="3.2" style="paint-order:fill markers stroke"/>
+ <path id="path5" d="m4 35v2h21.637l2.5449-2h-24.182z" fill="#e2b482" stroke-linecap="round" stroke-miterlimit="3.2" stroke-width=".63246" style="paint-order:fill markers stroke"/>
+ <path id="path6" d="m40 8c-1.108 0-2 0.892-2 2v1h15v-1c0-1.108-0.892-2-2-2z" fill="#e2e6e9" stroke-linecap="round" stroke-miterlimit="3.2" stroke-width="1.817" style="paint-order:fill markers stroke"/>
+</svg>

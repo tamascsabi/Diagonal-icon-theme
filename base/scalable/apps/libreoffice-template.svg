@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#43ca41"/>
+ <path id="path2" d="m23 4-19 15v-9c0-3.324 2.676-6 6-6z" fill="#0f4281" stroke-width=".84375"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#0f4281" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <g id="g41" transform="translate(2,2)">
+  <path id="path31" d="m33 37c0-1.4806-0.8044-2.7732-2-3.4648v-4.5352h-2v16h2v-4.5352c1.1956-0.69162 2-1.9843 2-3.4648z" fill="#424242" stroke-width=".7"/>
+  <path id="path32" d="m31.5 37a2.5 2.5 0 0 0-2.5-2.5v-5.5h-14v12.539c0 1.9177 1.5432 3.4609 3.4609 3.4609h10.539v-5.5a2.5 2.5 0 0 0 2.5-2.5z" fill="#f5d942" stroke-width=".8"/>
+  <g id="g24" transform="rotate(180,30,30)">
+   <path id="path23" d="m37 27c-1.4806 0-2.7732 0.8044-3.4648 2h-4.5352v2h16v-2h-4.5352c-0.69162-1.1956-1.9843-2-3.4648-2z" fill="#424242" stroke-width=".7"/>
+   <path id="path24" d="m37 28.5a2.5 2.5 0 0 0-2.5 2.5h-5.5v14h12.539c1.9177 0 3.4609-1.5432 3.4609-3.4609v-10.539h-5.5a2.5 2.5 0 0 0-2.5-2.5z" fill="#26aef8" stroke-width=".8"/>
+  </g>
+  <g id="g22" transform="rotate(-90,30,30)">
+   <path id="path21" d="m37 27c-1.4806 0-2.7732 0.8044-3.4648 2h-4.5352v2h16v-2h-4.5352c-0.69162-1.1956-1.9843-2-3.4648-2z" fill="#424242" stroke-width=".7"/>
+   <path id="path22" d="m37 28.5a2.5 2.5 0 0 0-2.5 2.5h-5.5v14h12.539c1.9177 0 3.4609-1.5432 3.4609-3.4609v-10.539h-5.5a2.5 2.5 0 0 0-2.5-2.5z" fill="#de070e" stroke-width=".8"/>
+  </g>
+  <g id="g40">
+   <path id="rect15" d="m37 27c-1.4806 0-2.7732 0.8044-3.4648 2h-4.5352v2h16v-2h-4.5352c-0.69162-1.1956-1.9843-2-3.4648-2z" fill="#424242" stroke-width=".7"/>
+   <path id="path14" d="m37 28.5c-1.3807 0-2.5 1.1193-2.5 2.5h-3.5v14h10.539c1.9177 0 3.4609-1.5432 3.4609-3.4609v-10.539h-5.5c0-1.3807-1.1193-2.5-2.5-2.5z" fill="#5dd15b" stroke-width=".8"/>
+  </g>
+  <path id="path38" d="m33 37c0-1.4806-0.8044-2.7732-2-3.4648v-4.5352h-2v16h2v-4.5352c1.1956-0.69162 2-1.9843 2-3.4648z" fill="#424242" stroke-width=".7"/>
+  <path id="path39" d="m27 34v6.4023h2v-0.90234c1.3807 0 2.5-1.1193 2.5-2.5s-1.1193-2.5-2.5-2.5v-0.5z" fill="#f5d942" stroke-width=".8"/>
+ </g>
+</svg>

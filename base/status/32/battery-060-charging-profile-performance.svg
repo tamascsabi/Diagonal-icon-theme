@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 32 32"
+   id="svg2"
+   sodipodi:docname="battery-060-charging-profile-performance.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="25.5"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-PositiveText {
+            color:#27ae60;
+        }
+        .ColorScheme-NegativeText {
+            color:#da4453;
+        }</style>
+  <path
+     id="path2"
+     class="ColorScheme-NegativeText"
+     d="M 4.5,8 C 2.007,8 0,10.007 0,12.5 v 7 C 0,21.993 2.007,24 4.5,24 H 18.503906 L 17.505859,23 H 4.5 C 2.561,23 1,21.439 1,19.5 v -7 C 1,10.561 2.561,9 4.5,9 h 20 c 1.939,0 3.5,1.561 3.5,3.5 v 3.669922 c 0.335384,-0.03573 0.669175,-0.0626 1,-0.08203 V 12.5 C 29,10.007 26.993,8 24.5,8 Z M 30,13.5 v 2.546875 L 32,16 c 0,-1.380712 -0.895431,-2.5 -2,-2.5 z"
+     sodipodi:nodetypes="ssssccssssssccssscccc"
+     style="fill:#5d656b;fill-opacity:1" />
+  <path
+     id="rect4"
+     style="fill:#5d656b;fill-opacity:1;stroke-width:0.5"
+     d="m 3,11 h 13 l 2,10 H 3 Z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     class="ColorScheme-PositiveText"
+     d="M 7,13 A 3,3 0 0 0 4.174,15 H 3 v 2 H 4.176 A 3,3 0 0 0 7,19 V 18 H 9 V 17 H 7 V 15 H 9 V 14 H 7 Z"
+     fill="currentColor"
+     id="path2-6"
+     style="color:#27ae60" />
+  <path
+     class="ColorScheme-NegativeText"
+     d="m 30.997982,16.997059 c -3.121531,0 -7.094118,8e-6 -9.840314,3.750836 l -3.118452,1.256181 2.040211,2.055159 c -0.05624,0.304878 -0.10715,0.615337 -0.147394,0.939659 l 2.978843,3.000669 c 0.296147,-0.03729 0.581283,-0.08191 0.861076,-0.132839 L 25.889711,30 27.18521,26.739472 c 3.669241,-2.740811 3.839035,-6.741704 3.812722,-9.742373 z m -1.13643,1.000223 c 0,3.000669 -0.992948,8.001785 -6.651957,8.751953 l -2.036338,-2.051258 c 0.744712,-5.700471 5.70945,-6.700695 8.688295,-6.700695 z m -3.475317,2.000446 c -0.822589,0 -1.489423,0.67172 -1.489423,1.500335 0,0.828615 0.666834,1.500335 1.489423,1.500335 0.822588,0 1.489421,-0.67172 1.489421,-1.500335 0,-0.828615 -0.666833,-1.500335 -1.489421,-1.500335 z m 0,1.000223 c 0.274192,0 0.496472,0.223911 0.496472,0.500112 0,0.276201 -0.22228,0.500112 -0.496472,0.500112 -0.274193,0 -0.496474,-0.223911 -0.496474,-0.500112 0,-0.276201 0.222281,-0.500112 0.496474,-0.500112 z m -6.958382,4.948405 c -0.862236,0.868553 -1.336209,2.386632 -1.336209,3.553493 v 0.500111 h 0.496474 c 1.125307,0 2.587025,-0.398479 3.527646,-1.346 l -0.702045,-0.707189 c -0.489463,0.493051 -1.326478,0.774734 -2.094524,0.916226 0.160292,-0.810051 0.400923,-1.796702 0.810653,-2.209494 l -0.702044,-0.707187 z"
+     fill="currentColor"
+     id="path3"
+     style="color:#da4453;fill:#5d656b;fill-opacity:1;stroke-width:0.996579"
+     sodipodi:nodetypes="cccccccccccccccsssssssssscscscccccc" />
+</svg>

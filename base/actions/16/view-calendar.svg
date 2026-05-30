@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg10"
+   sodipodi:docname="view-resource-calendar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+      }</style>
+  </defs>
+  <g
+     class="ColorScheme-Text"
+     fill="currentColor"
+     id="g10">
+    <path
+       d="m2 1c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h11c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 3h11c0.554 0 1 0.446 1 1v8c0 0.554-0.446 1-1 1h-11c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1z"
+       id="path1" />
+    <rect
+       x="5"
+       y="5"
+       width="2"
+       height="2"
+       ry=".5"
+       id="rect1" />
+    <rect
+       x="8"
+       y="5"
+       width="2"
+       height="2"
+       ry=".5"
+       id="rect2" />
+    <rect
+       x="11"
+       y="5"
+       width="2"
+       height="2"
+       ry=".5"
+       id="rect3" />
+    <rect
+       x="5"
+       y="8"
+       width="2"
+       height="2"
+       ry=".5"
+       id="rect4" />
+    <rect
+       x="8"
+       y="8"
+       width="2"
+       height="2"
+       ry=".5"
+       id="rect5" />
+    <rect
+       x="11"
+       y="8"
+       width="2"
+       height="2"
+       ry=".5"
+       id="rect6" />
+    <rect
+       x="2"
+       y="8"
+       width="2"
+       height="2"
+       ry=".5"
+       id="rect7" />
+    <rect
+       x="2"
+       y="11"
+       width="2"
+       height="2"
+       ry=".5"
+       id="rect8" />
+    <rect
+       x="5"
+       y="11"
+       width="2"
+       height="2"
+       ry=".5"
+       id="rect9" />
+    <rect
+       x="8"
+       y="11"
+       width="2"
+       height="2"
+       ry=".5"
+       id="rect10" />
+  </g>
+</svg>

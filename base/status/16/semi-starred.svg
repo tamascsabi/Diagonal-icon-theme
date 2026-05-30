@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#5d656b" font-family="sans-serif" font-weight="400" stroke-width="5.359">
+  <path d="M8 .406v2.781l1.406 3.657 3.938.218-3.063 2.5 1.031 3.813L8 11.219v1.187l4.938 3.219-1.5-5.719L16 6.187l-5.875-.312L8 .406z" enable-background="accumulate" opacity=".35" overflow="visible" style="block-progression:tb;text-decoration-line:none;text-indent:0;text-transform:none"/>
+  <path d="M8 .406L5.875 5.875 0 6.188l4.563 3.718-1.5 5.719 1.624-1.063L8 12.406v-12z" enable-background="accumulate" overflow="visible" style="block-progression:tb;text-decoration-line:none;text-indent:0;text-transform:none"/>
+ </g>
+</svg>

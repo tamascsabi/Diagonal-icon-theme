@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m5.4512 2c-0.24984 0-0.45117 0.20133-0.45117 0.45117v0.097656c0 0.24984 0.20133 0.45117 0.45117 0.45117h0.54883v4.0068l-3 3.9932 1e-7 2.9932h10v-2.9932l-3-4v-4.0068h0.54883c0.24984 0 0.45117-0.19449 0.45117-0.44434v-0.097656c0-0.24984-0.20133-0.45117-0.45117-0.45117z" fill="#df1ec2" fill-rule="evenodd" stroke-width="1.0676"/>
+ <path d="m9 3v4l3 5v1h-3v-1l-1-4v-5z" fill="#f4ade9" fill-rule="evenodd" stroke-width=".687"/>
+</svg>

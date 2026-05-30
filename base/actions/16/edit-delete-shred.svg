@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg8"
+   sodipodi:docname="edit-delete-shred.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8">
+    <inkscape:grid
+       id="grid8"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-NegativeText{color:#da4453;}</style>
+  <path
+     class="ColorScheme-Text"
+     d="M 4,1 C 2.892,1 2,1.892 2,3 V 7 H 3 V 3.042735 c 0,-0.5539963 0.446,-1 1,-1 H 8 V 7 h 6 V 6 L 9,1 H 8 Z"
+     color="#5d656b"
+     fill="#da4452"
+     id="path1"
+     sodipodi:nodetypes="scccssccccccs" />
+  <path
+     class="ColorScheme-NegativeText"
+     d="m2 8h12v1h-12z"
+     fill="currentColor"
+     id="path2" />
+  <path
+     d="M 2,9.999988 2.99999,10 l -1.17e-5,5 -0.99999,-1.2e-5 z"
+     id="path3"
+     style="fill:#da4452"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="M 4,9.999988 4.99999,10 l -1.17e-5,5 -0.99999,-1.2e-5 z"
+     id="path4"
+     style="fill:#da4452"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="M 6,9.999988 6.99999,10 l -1.17e-5,5 -0.99999,-1.2e-5 z"
+     id="path5"
+     style="fill:#da4452"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="M 8,9.999988 8.99999,10 l -1.17e-5,5 -0.99999,-1.2e-5 z"
+     id="path6"
+     style="fill:#da4452"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="M 10,9.999988 10.99999,10 l -1.2e-5,5 -0.99999,-1.2e-5 z"
+     id="path7"
+     style="fill:#da4452"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="M 12,9.999988 12.99999,10 l -1.2e-5,5 -0.99999,-1.2e-5 z"
+     id="path8"
+     style="fill:#da4452"
+     sodipodi:nodetypes="ccccc" />
+</svg>

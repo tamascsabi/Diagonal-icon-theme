@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg12"
+   sodipodi:docname="brightness-low.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+                color:#5d656b;
+            }</style>
+  </defs>
+  <g
+     transform="translate(1,1)"
+     id="g12"
+     style="fill:#5d656b;fill-opacity:1">
+    <g
+       fill="currentColor"
+       shape-rendering="auto"
+       id="g11"
+       style="fill:#5d656b;fill-opacity:1">
+      <path
+         class="ColorScheme-Text"
+         d="m11 7c-2.2032 0-4 1.7968-4 4 0 2.2032 1.7968 4 4 4 2.2032 0 4-1.7968 4-4 0-2.2032-1.7968-4-4-4zm0 1c1.6628 0 3 1.3372 3 3 0 1.6628-1.3372 3-3 3-1.6628 0-3-1.3372-3-3 0-1.6628 1.3372-3 3-3z"
+         color-rendering="auto"
+         dominant-baseline="auto"
+         image-rendering="auto"
+         id="path1"
+         style="fill:#5d656b;fill-opacity:1" />
+      <path
+         class="ColorScheme-Text"
+         d="m10.5 5v1h1v-1z"
+         color-rendering="auto"
+         dominant-baseline="auto"
+         image-rendering="auto"
+         id="path2"
+         style="fill:#5d656b;fill-opacity:1" />
+      <path
+         class="ColorScheme-Text"
+         d="m10.5 16v1h1v-1z"
+         color-rendering="auto"
+         dominant-baseline="auto"
+         image-rendering="auto"
+         id="path3"
+         style="fill:#5d656b;fill-opacity:1" />
+      <path
+         class="ColorScheme-Text"
+         d="m5 10.5v1h1v-1z"
+         color-rendering="auto"
+         dominant-baseline="auto"
+         image-rendering="auto"
+         id="path4"
+         style="fill:#5d656b;fill-opacity:1" />
+      <path
+         class="ColorScheme-Text"
+         d="m16 10.5v1h1v-1z"
+         color-rendering="auto"
+         dominant-baseline="auto"
+         image-rendering="auto"
+         id="path5"
+         style="fill:#5d656b;fill-opacity:1" />
+      <path
+         class="ColorScheme-Text"
+         d="m11 7.75v6.5h2.1667l1.0833-2.1667v-2.1667l-1.0833-2.1667z"
+         color-rendering="auto"
+         dominant-baseline="auto"
+         image-rendering="auto"
+         id="path6"
+         style="fill:#5d656b;fill-opacity:1" />
+      <path
+         class="ColorScheme-Text"
+         d="m10.984 7.7344v6.5312h2.1914l1.0898-2.1777v-2.1758l-1.0898-2.1777h-2.1914zm0.03125 0.03125h2.1406l1.0781 2.1543v2.1602l-1.0781 2.1543h-2.1406v-6.4688z"
+         color-rendering="auto"
+         dominant-baseline="auto"
+         image-rendering="auto"
+         id="path7"
+         style="fill:#5d656b;fill-opacity:1" />
+      <path
+         class="ColorScheme-Text"
+         d="m14.807 14.1-0.70711 0.70711 0.70711 0.70711 0.70711-0.70711z"
+         color-rendering="auto"
+         dominant-baseline="auto"
+         image-rendering="auto"
+         id="path8"
+         style="fill:#5d656b;fill-opacity:1" />
+      <path
+         class="ColorScheme-Text"
+         d="m7.2071 14.1-0.70711 0.70711 0.70711 0.70711 0.70711-0.70711z"
+         color-rendering="auto"
+         dominant-baseline="auto"
+         image-rendering="auto"
+         id="path9"
+         style="fill:#5d656b;fill-opacity:1" />
+      <path
+         class="ColorScheme-Text"
+         d="m14.807 6.5-0.70711 0.70711 0.70711 0.70711 0.70711-0.70711z"
+         color-rendering="auto"
+         dominant-baseline="auto"
+         image-rendering="auto"
+         id="path10"
+         style="fill:#5d656b;fill-opacity:1" />
+      <path
+         class="ColorScheme-Text"
+         d="m7.2071 6.5-0.70711 0.70711 0.70711 0.70711 0.70711-0.70711z"
+         color-rendering="auto"
+         dominant-baseline="auto"
+         image-rendering="auto"
+         id="path11"
+         style="fill:#5d656b;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

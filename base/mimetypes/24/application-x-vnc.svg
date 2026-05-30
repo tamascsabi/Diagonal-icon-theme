@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+      }</style>
+ </defs>
+ <g transform="translate(1,1)" fill-rule="evenodd">
+  <path d="m4 3c-0.554 0-1 0.446-1 1v11c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-11c0-0.554-0.446-1-1-1zm1 1h12c0.554 0 1 0.446 1 1v9c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-9c0-0.554 0.446-1 1-1z" fill="#eb2d2f" stroke-width=".529"/>
+  <path d="m7 6c-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-5c0-0.554-0.446-1-1-1zm1 1h6c0.554 0 1 0.446 1 1v3c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-3c0-0.554 0.446-1 1-1z" fill="#2b2cd1" stroke-width=".529"/>
+  <rect x="6" y="18" width="11" height="1" ry=".5" fill="#2b2cd1" stroke-width=".51216"/>
+ </g>
+</svg>

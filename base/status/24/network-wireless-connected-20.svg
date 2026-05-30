@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg1" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3498db;
+      }
+      .ColorScheme-ButtonText {
+        color:#363636;
+      }
+      .ColorScheme-NegativeText{
+        color:#e74c3c;
+      }</style>
+ <path id="path4475" class="ColorScheme-Text" d="M 12,4 C 7.845,4 4.09406,5.67156 1.38281,8.38281 L 2.0918,9.0918 C 4.6223,6.5613 8.122,5 12,5 c 3.878,0 7.3777,1.5613 9.9082,4.0918 L 22.61719,8.38281 C 19.90594,5.67156 16.155,4 12,4 Z" fill="#dee1e4"/>
+ <path id="path4477" class="ColorScheme-Text" d="m12 8c-3.047 0-5.7969 1.2266-7.7852 3.2148l0.70704 0.70704c1.8075-1.8075 4.3081-2.9219 7.0781-2.9219s5.2706 1.1144 7.0781 2.9219l0.70703-0.70704c-1.9882-1.9882-4.7382-3.2148-7.7852-3.2148z" fill="#dee1e4"/>
+ <path id="path4479" class="ColorScheme-Text" d="m12 12c-1.939 0-3.6898 0.77967-4.9551 2.0449l0.70899 0.70899c1.0845-1.0845 2.5841-1.7539 4.2461-1.7539s3.1616 0.66941 4.2461 1.7539l0.70899-0.70899c-1.2652-1.2652-3.0161-2.0449-4.9551-2.0449z" fill="#dee1e4"/>
+ <path id="path4481" class="ColorScheme-Text" d="m12 16c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1s-0.446 1-1 1-1-0.446-1-1 0.446-1 1-1z" fill="#dee1e4"/>
+</svg>

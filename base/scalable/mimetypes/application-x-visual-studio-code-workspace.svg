@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs18">
+  <linearGradient id="d-1" x1="87" x2="63" y1="46" y2="24" gradientTransform="matrix(1.487,0,0,1.48,-83.901,-15.99)" gradientUnits="userSpaceOnUse">
+   <stop id="stop5-2" stop-color="#0080ce" offset="0"/>
+   <stop id="stop6-7" stop-color="#008fd5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="f-0" x1="86" x2="83" y1="20" y2="20" gradientTransform="matrix(1.487,0,0,1.48,-83.901,-15.99)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1-9" offset="0"/>
+   <stop id="stop2-3" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c-6" x1="86" x2="63" y1="19.458" y2="39" gradientTransform="matrix(1.487,0,0,1.48,-83.901,-15.99)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3-0" stop-color="#007abb" offset="0"/>
+   <stop id="stop4-6" stop-color="#006caf" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#0a1c2e"/>
+ <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#20d2ff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <g id="g1" transform="matrix(.7972 0 0 .80441 6.4175 6.7653)" fill-rule="evenodd">
+  <path id="path9" d="m42.83 7.7672a3.3737 3.3577 0 0 0-1.4987 0.55531c0.77464 0.95823-0.78892 9.9878 1.1678 11.21l1.5272 0.95436v21.772l-2.3979 1.7886c-1.849 1.3779 0.16738 9.3202-0.3179 10.342 0.53589 0.32544 1.3365 0.67283 2.0372 0.5876a2.0761 2.0663 0 0 0 0.67473-0.19888l9.7629-4.764c1.064-0.51915 2.1384-0.9479 2.1384-2.127v-33.028c0-1.1791-1.0744-1.6091-2.1384-2.1283l-9.7616-4.764a2.0761 2.0663 0 0 0-1.1938-0.19888" fill="#1ab3f6" stroke-width="1.2945" style="paint-order:stroke fill markers"/>
+  <path id="path11" d="m8.9556 24.749 31.762 29.216c1.4416 1.3263 3.3088 0.85621 3.3088-1.8881v-9.8329l-29.364-22.351c-0.51254-0.40034-1.8503-1.3599-3.0181-0.2557l-2.9714 2.8114c-0.77854 0.7374-0.33607 1.7318 0.28287 2.3013z" fill="url(#d-1)" stroke-width="1.4835" style="paint-order:stroke fill markers"/>
+  <path id="path13" d="m8.9556 37.98 31.762-29.216c1.4416-1.3263 3.3088-0.85621 3.3088 1.8881v9.8329l-29.363 22.349c-0.51254 0.40034-1.8503 1.3599-3.0181 0.2557l-2.9714-2.8114c-0.77854-0.7374-0.33607-1.7318 0.28287-2.3013z" fill="url(#f-0)" opacity=".15" stroke-width="1.4835" style="paint-order:stroke fill markers"/>
+  <path id="path10" d="m8.9556 37.98 31.762-29.216c1.4416-1.3263 3.3088-0.85621 3.3088 1.8881v9.8329l-29.363 22.349c-0.51254 0.40034-1.8503 1.3599-3.0181 0.2557l-2.9714-2.8114c-0.77854-0.7374-0.33607-1.7318 0.28287-2.3013z" fill="url(#c-6)" stroke-width="1.2945" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

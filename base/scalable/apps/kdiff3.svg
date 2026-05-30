@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <!-- Background / base square -->
+ <rect id="rect1" transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#002006"/>
+ <path id="path1-5" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#00bd22" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="path31" d="m25.615 16c-1.4489 0-2.6152 1.1889-2.6152 2.666v35.734c0 1.44 1.189 2.5996 2.666 2.5996h28.668c1.477 0 2.666-1.1596 2.666-2.5996v-35.734c0-1.4771-1.1663-2.666-2.6152-2.666zm0.88477 1c0.82843 0 1.5 0.67157 1.5 1.5s-0.67157 1.5-1.5 1.5-1.5-0.67157-1.5-1.5 0.67157-1.5 1.5-1.5zm0 9c0.82843 0 1.5 0.67157 1.5 1.5s-0.67157 1.5-1.5 1.5-1.5-0.67157-1.5-1.5 0.67157-1.5 1.5-1.5zm0 9c0.82843 0 1.5 0.67157 1.5 1.5s-0.67157 1.5-1.5 1.5-1.5-0.67157-1.5-1.5 0.67157-1.5 1.5-1.5zm0 9c0.82843 0 1.5 0.67157 1.5 1.5s-0.67157 1.5-1.5 1.5-1.5-0.67157-1.5-1.5 0.67157-1.5 1.5-1.5z" fill="#fff" style="paint-order:markers stroke fill"/>
+ <path id="path5-7" d="m9.6152 7c-1.4489 0-2.6152 1.1889-2.6152 2.666v35.734c0 1.44 1.189 2.5996 2.666 2.5996h28.668c1.477 0 2.666-1.1596 2.666-2.5996v-35.734c0-1.4771-1.1663-2.666-2.6152-2.666z" fill="#fff" style="paint-order:markers stroke fill"/>
+ <path id="path32" d="m35 21v4h22v-4z" fill="#00901a" stroke-width="1.1657" style="paint-order:markers stroke fill"/>
+ <path id="path6-0" d="m24 10v2h-17v4h17v2l5-4-5-4z" fill="#ff563b" style="paint-order:markers stroke fill"/>
+ <path id="path39" d="m24 37v2h-17v4h17v2l5-4z" fill="#00901a" style="paint-order:markers stroke fill"/>
+ <path id="path40" d="m7 21v4h22v-4z" fill="#00901a" stroke-width="1.1657" style="paint-order:markers stroke fill"/>
+ <path id="path42" d="m40 37v2h17v4h-17v2l-5-4z" fill="#facc00" style="paint-order:markers stroke fill"/>
+ <path id="path43" d="m40 48v2h17v4h-17v2l-5-4z" fill="#ff563b" style="paint-order:markers stroke fill"/>
+ <path id="path44" d="m35 30v4h22v-4z" fill="#3d90ff" stroke-width="1.1657" style="paint-order:markers stroke fill"/>
+ <path id="path45" d="m7 30v4h22v-4z" fill="#3d90ff" stroke-width="1.1657" style="paint-order:markers stroke fill"/>
+</svg>

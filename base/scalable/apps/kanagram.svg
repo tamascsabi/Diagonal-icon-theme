@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <!-- Background / base square -->
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#036282"/>
+ <path id="path1-5" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#05a3d9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <g id="g2" transform="matrix(1.2639 0 0 1.2753 -9.3537 12.037)" fill="#fff">
+  <path id="path2" d="m13.731 15.653v3.9206h-2.3737v-7.8412h2.3737l2.3737 3.9206v-3.9206h2.3737v7.8412h-2.3737m8.7034-11.762v8.6253h-2.3737v-8.6253m8.7034 13.33h3.9561v2.3524h-6.3298v-8.6253h2.3737m5.5386 2.3524v-5.4888h2.3737v4.7047c0 0.966 0.54944 1.5682 1.5824 1.5682 1.032 0 1.5824-0.60224 1.5824-1.5682v-4.7047h2.3737v5.4888c0 0.78412-0.79122 3.1365-3.9561 3.1365s-3.9561-2.3524-3.9561-3.1365zm17.407-0.78412h-2.3737l-1.2356-2.4251-1.1381 2.4251h-2.3737l2.1126-4.2674-2.1126-4.3579h2.3737l1.248 2.3524 1.1257-2.3524h2.3737l-1.9169 4.2372z"/>
+ </g>
+</svg>

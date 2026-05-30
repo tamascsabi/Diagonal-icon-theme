@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="map-flat.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#ffffff"
+   bordercolor="#5d656b"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1" />
+<defs
+   id="defs1">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+</defs>
+<path
+   style="fill="
+   id="path1" />
+#5d656b&quot;&quot; class=&quot;ColorScheme-Text&quot; d=&quot;M 0 0 L 0 16 L 16 16 L 16 0 L 0 0 z M 1 1 L 5 1 L 5 5 L 1 5 L 1 1 z M 6 1 L 10 1 L 10 5 L 6 5 L 6 1 z M 11 1 L 15 1 L 15 5 L 11 5 L 11 1 z M 1 6 L 5 6 L 5 10 L 1 10 L 1 6 z M 6 6 L 10 6 L 10 10 L 6 10 L 6 6 z M 11 6 L 15 6 L 15 10 L 11 10 L 11 6 z M 1 11 L 5 11 L 5 15 L 1 15 L 1 11 z M 6 11 L 10 11 L 10 15 L 6 15 L 6 11 z M 11 11 L 15 11 L 15 15 L 11 15 L 11 11 z&quot;/&gt;
+</svg>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg1"
+   version="1.1"
+   viewBox="0 0 24 24"
+   sodipodi:docname="network-wired-activated-locked.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs3051">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+      }</style>
+  </defs>
+  <g
+     id="g3-3"
+     transform="matrix(1.1487 0 0 1.1487 -.63578 -.63578)"
+     fill="currentColor"
+     style="fill:#5d656b;fill-opacity:1">
+    <path
+       id="path1-6"
+       class="ColorScheme-Text"
+       d="m16 11c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z"
+       color="#5d656b"
+       style="fill:#5d656b;fill-opacity:1" />
+    <path
+       id="path2"
+       class="ColorScheme-Text"
+       d="m5 4c-1.108 0-2 0.892-2 2v8c0 1.108 0.892 2 2 2h2c0 1.108 0.892 2 2 2h3v-1h-3c-0.554 0-1-0.446-1-1v-1h-3c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1h12c0.554 0 1 0.446 1 1v4.7598c0.08458 0.0755 0.16473 0.15566 0.24023 0.24023h0.75977v-5c0-1.108-0.892-2-2-2h-12z"
+       color="#5d656b"
+       style="fill:#5d656b;fill-opacity:1" />
+    <path
+       id="path3-0"
+       class="ColorScheme-Text"
+       d="m8.5 8c-0.277 0-0.5 0.223-0.5 0.5v3c0 0.277 0.223 0.5 0.5 0.5s0.5-0.223 0.5-0.5v-3c0-0.277-0.223-0.5-0.5-0.5zm5 0c-0.277 0-0.5 0.223-0.5 0.5v3c0 0.16644 0.08071 0.31351 0.20508 0.4043 0.17278-0.44257 0.44703-0.83397 0.79492-1.1445v-2.2598c0-0.277-0.223-0.5-0.5-0.5z"
+       color="#5d656b"
+       style="fill:#5d656b;fill-opacity:1" />
+  </g>
+</svg>

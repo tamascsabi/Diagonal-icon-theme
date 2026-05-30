@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16px"
+   height="16px"
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg1"
+   sodipodi:docname="clothing-store.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     d="m8 1a2 2 0 0 0-2 2h1a1 1 0 0 1 1-1 1 1 0 0 1 1 1 1 1 0 0 1-0.97266 0.99805c-0.009097-4.941e-4 -0.018119-0.0019531-0.027344-0.0019531-0.27375 0-0.49414 0.22039-0.49414 0.49414v1.6504a1.0001 1.0001 0 0 0-0.087891 0.044922l-7 5a1.0001 1.0001 0 0 0 0.58203 1.8145h14a1.0001 1.0001 0 0 0 0.58203-1.8145l-7-5a1.0001 1.0001 0 0 0-0.087891-0.044922v-1.2051a2 2 0 0 0 1.5059-1.9355 2 2 0 0 0-2-2zm0 6 7 5h-14l7-5z"
+     fill="#5d656b"
+     id="path1" />
+</svg>

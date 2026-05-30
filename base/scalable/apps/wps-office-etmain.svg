@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#126c15"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#1eb624" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="path2-3" d="m31.983 32h-11.24s-6.7436 0-6.7436-7.0001 6.7436-7.0001 6.7436-7.0001h27.256m-15.983 14h11.24s6.7436 0 6.7436 7.0001-6.7436 7.0001-6.7436 7.0001h-29.256" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" style="-webkit-print-color-adjust:exact"/>
+</svg>

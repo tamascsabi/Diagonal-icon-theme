@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.233 4.233"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="edit-line-width.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+    }</style>
+  <path
+     class="ColorScheme-Text"
+     d="M.53.53v.264h3.174V.529zm0 1.057v.53h3.174v-.53zm0 1.323v.794h3.174V2.91z"
+     fill="currentColor"
+     id="path1" />
+</svg>

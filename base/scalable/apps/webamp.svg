@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs18">
+  <radialGradient id="radialGradient12469" cx="42.853" cy="30.247" r="22.303" gradientTransform="matrix(.60674 -.60674 .17478 .17478 5.302 49.765)" gradientUnits="userSpaceOnUse">
+   <stop id="stop19" stop-color="#fc7e00" offset="0"/>
+   <stop id="stop20" stop-color="#ffde48" offset="1"/>
+  </radialGradient>
+ </defs>
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#5e6978"/>
+ <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#1d2025" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="path2" d="m31.786 9.0244c0.3321-0.078734 0.69498 0.037652 0.93122 0.28071 6.9671 6.9663 13.931 13.933 20.898 20.896 0.29125 0.31787 0.38503 0.52071 0.38466 0.79912l-0.0013 0.94766-21.131 20.594c-0.12325 0.11982-0.23623 0.26017-0.39372 0.33548-0.29101 0.16432-0.66076 0.16432-0.95179 0-0.14718-0.07189-0.25331-0.19855-0.36629-0.3081-6.9568-6.9593-14.194-13.645-21.155-20.604l-0.001215-0.96452c-4.182e-4 -0.33201 0.09971-0.5184 0.31277-0.72354l20.97-20.967c0.13695-0.14035 0.31155-0.24305 0.50327-0.28413z" fill="#fff" stroke-width="17.807"/>
+ <path id="path26" d="m31.786 10.024c0.3321-0.078736 0.69498 0.03765 0.93122 0.28071 6.9671 6.9663 13.931 13.933 20.898 20.896 0.11298 0.10954 0.22254 0.22594 0.28758 0.37314 0.16434 0.33206 0.1164 0.75311-0.1164 1.0407-0.08902 0.10954-0.19515 0.20197-0.29101 0.30125l-20.628 20.625c-0.12325 0.11982-0.23623 0.26017-0.39372 0.33548-0.29101 0.16432-0.66076 0.16432-0.95179 0-0.14722-0.07189-0.25335-0.19855-0.36633-0.3081-6.9568-6.9593-13.917-13.919-20.877-20.878-0.1883-0.1917-0.29101-0.46214-0.27732-0.72574 0.0033-0.26017 0.12667-0.51006 0.31155-0.68806l20.97-20.967c0.13695-0.14035 0.31155-0.24305 0.50327-0.28413z" fill="#c1c5ce" stroke-width="17.807"/>
+ <path id="path50" d="m51 11c-10.668 5.4194-20.72 11.878-31 18v2c3.2074 0.01062 8.7928-2.0052 12-2l-19 20v2l32-21v-2l-8-3c2.4731-2.4511 12.755-10.696 14-12z" fill="url(#radialGradient12469)" stroke-width="17.395"/>
+ <path id="path22" d="m45 30-8-3v-1l8 3z" fill="#fddfac" stroke-miterlimit="3.2" stroke-width="0" style="paint-order:stroke markers fill"/>
+ <path id="path21" d="m32 31-19 20v-1l19-20z" fill="#fddfac" stroke-miterlimit="3.2" stroke-width="0" style="paint-order:stroke markers fill"/>
+ <path id="path51" d="m51 13-14 14 8 3c-10.594 7.0913-21.3 14.057-32 21l19-20h-12z" fill="#f59400" stroke-width="17.395"/>
+ <path id="path20" d="m20 31 31-18v-1l-31 18z" fill="#fddfac" stroke-miterlimit="3.2" stroke-width="0" style="paint-order:stroke markers fill"/>
+</svg>

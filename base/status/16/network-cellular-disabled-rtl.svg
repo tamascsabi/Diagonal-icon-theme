@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg1"
+   sodipodi:docname="network-cellular-disabled-rtl.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     d="m 1.5,0.4137931 c -0.277,0 -0.5,0.223 -0.5,0.5 V 14.003637 L 3,12.019262 V 0.9137931 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z m 3,3 c -0.277,0 -0.5,0.223 -0.5,0.5 V 11.027074 L 6,9.0426993 V 3.9137931 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z m 3,3 c -0.277,0 -0.5,0.223 -0.5,0.5 V 8.0505119 L 8.6308594,6.4333243 C 8.5890146,6.4220351 8.5455095,6.4137931 8.5,6.4137931 Z M 9,8.9196525 7,10.876684 v 4.037109 c 0,0.277 0.223,0.5 0.5,0.5 h 1 c 0.277,0 0.5,-0.223 0.5,-0.5 z m 1.5,0.4941406 c -0.277,0 -0.5,0.223 -0.5,0.5 v 4.9999999 c 0,0.277 0.223,0.5 0.5,0.5 h 1 c 0.277,0 0.5,-0.223 0.5,-0.5 V 9.9137931 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z M 6,11.853246 4,13.810277 v 1.103516 c 0,0.277 0.223,0.5 0.5,0.5 h 1 c 0.277,0 0.5,-0.223 0.5,-0.5 z m 7.5,0.560547 c -0.277,0 -0.5,0.223 -0.5,0.5 v 2 c 0,0.277 0.223,0.5 0.5,0.5 h 1 c 0.277,0 0.5,-0.223 0.5,-0.5 v -2 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z M 3,14.78684 2.359375,15.413793 H 2.5 c 0.277,0 0.5,-0.223 0.5,-0.5 z"
+     style="fill:#5d656b;fill-opacity:1" />
+  <rect
+     transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"
+     x="-9.7074499"
+     y="11.106646"
+     width="20.000092"
+     height="1.0000045"
+     rx="0.50000226"
+     ry="0.50000226"
+     fill="#5d656b"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="0.483072"
+     style="paint-order:markers stroke fill"
+     id="rect1" />
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg2"
+   sodipodi:docname="xapp-search-wrap.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#5d656b"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     d="m4 1c-0.554 0-1 0.446-1 1v12c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-4h-1v4h-8v-12h8v4h1v-4c0-0.554-0.446-1-1-1h-8z"
+     fill="#5d656b"
+     stroke-linecap="round"
+     stroke-width="2"
+     id="path1" />
+  <path
+     d="m10 5h5l-2.4986 3z"
+     fill="#5d656b"
+     stroke-linecap="round"
+     stroke-width="2"
+     id="path2" />
+</svg>

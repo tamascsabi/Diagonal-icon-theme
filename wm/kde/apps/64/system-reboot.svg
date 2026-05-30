@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <linearGradient id="a" x1="-58.023" x2="-58.023" y1="59.971" y2="4.202" gradientTransform="matrix(.87579 0 0 .87579 82.817 3.9743)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1" stop-color="#2a3239" offset="0"/>
+   <stop id="stop2" stop-color="#5d6570" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4" x2="63.99" y2="63.832" gradientUnits="userSpaceOnUse">
+   <stop id="stop3" stop-color="#50a4f3" offset=".48332"/>
+   <stop id="stop4" stop-color="#0a4985" offset=".48332"/>
+  </linearGradient>
+ </defs>
+ <!-- Background / base square -->
+ <path id="rect2" d="m32 4a27.999 27.999 0 0 0-28 28 27.999 27.999 0 0 0 28 28 27.999 27.999 0 0 0 28-28 27.999 27.999 0 0 0-28-28z" fill="url(#a)" stroke-width="1.0034"/>
+ <path id="path1" d="m32 4a27.999 27.999 0 0 0-28 28 27.999 27.999 0 0 0 28 28 27.999 27.999 0 0 0 28-28 27.999 27.999 0 0 0-28-28z" fill="url(#linearGradient4)" opacity=".98894" stroke-width="1.0034"/>
+ <path id="path3" d="m31 9v6.0293c-8.9849 0.52944-16 7.9702-16 16.971 0 9.3888 7.6112 17 17 17s17-7.6112 17-17h-5c0 6.6274-5.3726 12-12 12s-12-5.3726-12-12c-3.76e-4 -6.24 4.7817-11.439 11-11.959v5.959l15-8z" fill="#fff" stroke-width="3.441" style="paint-order:markers stroke fill"/>
+</svg>

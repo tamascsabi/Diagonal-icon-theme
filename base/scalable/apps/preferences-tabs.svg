@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path id="rect1-6" d="m10 6h44c1 4 3 4 5 4l-1 5 2 1v38c0 3.324-2.676 6-6 6h-44c-3.324 0-6-2.676-6-6l1-40v-4z" fill="#ce09e0"/>
+ <path id="path1" d="m4 54 53.174-41.779-0.1735-3.2208-3-3h-44c-1 0-5 3-5 4v5l-1 1z" fill="#6d158c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect id="rect3" x="10" y="18" width="7" height="7" ry="2" fill="#dfca4f" stroke-width="0"/>
+ <rect id="rect4" x="10" y="27" width="7" height="7" ry="2" fill="#45c063" stroke-width="0"/>
+ <rect id="rect5" x="10" y="36" width="7" height="7" ry="2" fill="#4082fe" stroke-width="0"/>
+ <circle id="path3871" cx="44" cy="28" r="10" color="#000000" fill="#fff" fill-opacity=".42094" stroke-width="3.7618"/>
+ <path id="rect3875" d="m43.028 19v10h8v-2.0282h-6.0002v-7.9718z" fill="#404040" stroke-width="5.2751"/>
+ <path id="rect1" d="m4 53v1c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-1h-56z" fill="#5e0166" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.4343" style="paint-order:markers fill stroke"/>
+ <path id="rect6" d="m33 4v10h27v-4c0-3.324-2.676-6-6-6z" fill="#2c0030" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width="1.0171"/>
+ <path id="rect2" d="m10 4c-3.324 0-6 2.676-6 6v4h27v-10z" fill="#eda4f4" stroke-linecap="square" stroke-miterlimit="3.2"/>
+ <circle id="path7" transform="translate(-1 -1)" cx="8.5" cy="10.5" r="1.5" fill="#181818" stroke-linecap="square" stroke-miterlimit="3.2"/>
+ <circle id="circle8" cx="11.5" cy="9.5" r="1.5" fill="#181818" stroke-linecap="square" stroke-miterlimit="3.2"/>
+ <circle id="circle9" cx="15.5" cy="9.5" r="1.5" fill="#181818" stroke-linecap="square" stroke-miterlimit="3.2"/>
+ <circle id="circle10" cx="35.5" cy="9.5" r="1.5" fill="#fdeefe" stroke-linecap="square" stroke-miterlimit="3.2"/>
+ <circle id="circle11" cx="39.5" cy="9.5" r="1.5" fill="#fdeefe" stroke-linecap="square" stroke-miterlimit="3.2"/>
+ <circle id="circle12" cx="43.5" cy="9.5" r="1.5" fill="#fdeefe" stroke-linecap="square" stroke-miterlimit="3.2"/>
+ <path id="rect7" d="m31 4v10h-27v2h56v-2h-27v-10z" fill="#fef2ff" stroke-linecap="square" stroke-miterlimit="3.2"/>
+</svg>

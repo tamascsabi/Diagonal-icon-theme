@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#91a2b8"/>
+ <path id="path1-9" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#394b68" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="rect2" d="m4 43v10.965c0 3.3436 2.676 6.0354 6 6.0354h44c3.324 0 6-2.6918 6-6.0354v-10.965z" fill="#566d87" stroke-width="1.003"/>
+ <rect id="rect4" x="32" y="42" width="2" height="18" fill="#0c1016" stroke-linecap="round" stroke-miterlimit="3.2" stroke-width="2.5213" style="paint-order:fill markers stroke"/>
+ <rect id="rect5" x="30" y="42" width="2" height="18" fill="#e4e8ed" stroke-linecap="round" stroke-miterlimit="3.2" stroke-width="2.5213" style="paint-order:fill markers stroke"/>
+ <rect id="rect6" x="4" y="43" width="56" height="2" fill="#0c1016" stroke-linecap="round" stroke-miterlimit="3.2" stroke-width="2.6168" style="paint-order:fill markers stroke"/>
+ <rect id="rect7" x="4" y="41" width="56" height="2" fill="#e4e8ed" stroke-linecap="round" stroke-miterlimit="3.2" stroke-width="2.6168" style="paint-order:fill markers stroke"/>
+ <path id="path4" d="m4 45v8.9648c0 0.01177-6.62e-5 0.023402 0 0.035156l11.455-9h-11.455z" fill="#394b68" stroke-width="1.003"/>
+ <g id="g1" transform="translate(-55 3.5)">
+  <path id="path35" class="ColorScheme-Highlight" d="m90 10a5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5 5 5 0 0 1 5 5z" color="#3daee9" fill="#2cb7ff" stroke-width=".5"/>
+  <path id="path36" d="m88.5 10a3.5 3.5 0 0 1-3.5 3.5 3.5 3.5 0 0 1-3.5-3.5 3.5 3.5 0 0 1 3.5-3.5 3.5 3.5 0 0 1 3.5 3.5z" fill="#110012" stroke-width=".4375"/>
+ </g>
+ <path id="path4-7" d="m28.006 15v14c-0.99964-0.66724-1.7775-0.88793-2.9989-1-1.9993 0-3.5998 0.30897-4.5986 1.6856-1.1483 1.6396 0.36478 3.9798 1.5996 4.3144 2.3292-1.1419 3.6035-1.1497 4.9982 1 0.55644 1.0098 1.9993 2 2.9989 2v1c0 1 0.99964 1 0.99964 1h9.9965s0.99965 0 0.99965-1v-1c0.99964 0 1.9993-1 1.9993-3v-8c0-1 0-3-1.9993-3s-1.9993 1-1.9993 2v-1.7549c0-0.88693 0-2.2451-1.9993-2.2451s-1.9993 1-1.9993 2c0-2 0-3-1.9993-3s-1.9993 1-1.9993 2v-7c0-3.0008-1.9993-3-1.9993-3s-1.9993 0-1.9993 3z" fill="#eceff3" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".99982" style="paint-order:fill markers stroke"/>
+</svg>

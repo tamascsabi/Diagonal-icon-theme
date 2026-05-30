@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <linearGradient id="e" x1="-896.07" x2="-895.11" y1="-476.09" y2="-475.27" gradientTransform="matrix(-29.101 49.263 34.037 42.12 -9823.3 64186)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1" stop-color="#1b0782" offset="0"/>
+   <stop id="stop2" stop-color="#f837bd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c-92" x1="-895.8" x2="-895.14" y1="-475.97" y2="-475.37" gradientTransform="matrix(31.236 -49.399 -34.129 -45.208 11756 -65704)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3" stop-color="#ffbe00" offset="0"/>
+   <stop id="stop4" stop-color="#ee5e18" offset="1"/>
+  </linearGradient>
+ </defs>
+ <!-- Background / base square -->
+ <path id="path7" d="m10 4c-3.324 0-6 2.676-6 6v44c0 3.324 2.676 6 6 6h17.65l32.35-49.77v-0.23047c0-3.324-2.676-6-6-6h-44z" fill="url(#c-92)"/>
+ <path id="path8" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="url(#e)"/>
+ <circle id="path2" cx="19.5" cy="18.5" r="6.5" fill="#eede8d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.2188" style="paint-order:markers fill stroke"/>
+ <rect id="rect2" x="18" y="5" width="3" height="6" ry="1.5" fill="#eede8d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.5" style="paint-order:markers fill stroke"/>
+ <rect id="rect3" x="18" y="26" width="3" height="6" ry="1.5" fill="#eede8d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.5" style="paint-order:markers fill stroke"/>
+ <rect id="rect4" transform="rotate(90)" x="17" y="-33" width="3" height="6" ry="1.5" fill="#eede8d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.5" style="paint-order:markers fill stroke"/>
+ <rect id="rect5" transform="rotate(90)" x="17" y="-12" width="3" height="6" ry="1.5" fill="#eede8d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.5" style="paint-order:markers fill stroke"/>
+ <rect id="rect7" transform="rotate(45)" x="25.293" y="-14.901" width="3.1542" height="6.3084" ry="1.5771" fill="#eede8d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.5771" style="paint-order:markers fill stroke"/>
+ <rect id="rect8" transform="rotate(45)" x="25.293" y="7.1784" width="3.1542" height="6.3084" ry="1.5771" fill="#eede8d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.5771" style="paint-order:markers fill stroke"/>
+ <g id="g10" transform="matrix(-.74345 .74345 .74345 .74345 20.243 -9.7513)" fill="#eede8d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.5">
+  <rect id="rect9" x="18" y="5" width="3" height="6" ry="1.5" style="paint-order:markers fill stroke"/>
+  <rect id="rect10" x="18" y="26" width="3" height="6" ry="1.5" style="paint-order:markers fill stroke"/>
+ </g>
+ <path id="circle10" d="m47.418 34.602a10 10 0 0 1 1.582 5.3984 10 10 0 0 1-10 10 10 10 0 0 1-3.418-0.60156 10 10 0 0 0 8.418 4.6016 10 10 0 0 0 10-10 10 10 0 0 0-6.582-9.3984z" fill="#eede8d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.875" style="paint-order:markers fill stroke"/>
+</svg>
