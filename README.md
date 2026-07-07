@@ -78,11 +78,11 @@ The repository also includes prebuilt default icon packages for each supported d
 
 These packages are ready to use and can be extracted directly into:
 
-`tar -xvf diagonal-icon-1.0.tar.xz -C ~/.icons/`
+`tar -xvf diagonal-icon-3.0.tar.xz -C ~/.icons/`
 
 or
 
-`sudo tar -xvf diagonal-icon-1.0.tar.xz -C usr/share/icons/`
+`sudo tar -xvf diagonal-icon-3.0.tar.xz -C usr/share/icons/`
 
 No installation script is required.
 
@@ -91,6 +91,7 @@ No installation script is required.
 ## Supported Distributions
 
 * Arch
+* Cachyos
 * Debian
 * Fedora
 * FreeBSD

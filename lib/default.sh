@@ -404,7 +404,7 @@ _footer
 makedistrofiles
 makelightcursor
 
-for files in AUTHORS COPYING README.md
+for files in AUTHORS COPYING README.md diagonal-release
     do cp -a "${_basedir}/${files}" .
   done
 
@@ -600,7 +600,7 @@ _footer
 
 makedarkcursor
 
-for files in AUTHORS COPYING README.md index.theme
+for files in AUTHORS COPYING README.md index.theme diagonal-release
     do cp -a "../Diagonal${__wmtype}${__distro}/${files}" .
   done
   sed_inplace "s/Diagonal${__wmtype}${__distro}/Diagonal${__wmtype}${__distro}-dark/g" index.theme
@@ -746,7 +746,7 @@ _header "Copying \"symbolic\" icons"
     )
 _footer
 
-for files in AUTHORS COPYING README.md index.theme
+for files in AUTHORS COPYING README.md index.theme diagonal-release
     do cp -a "../Diagonal${__wmtype}${__distro}/${files}" .
   done
   sed_inplace "s/Diagonal${__wmtype}${__distro}/Diagonal${__wmtype}${__distro}-light/g" index.theme

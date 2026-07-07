@@ -5,7 +5,7 @@ _root_uid="0"
 _tmpinstall="/tmp"
 _workfolder="${_tmpinstall}/Diagonal"
 _basefolder="${_workfolder}/Diagonal${__wmtype}${__distro}"
-_version="2.0"
+_version="$(cat diagonal-release)"
 _dist="${__distro#-}"
 _sed_inplace_style=""
 bow="\033[30;47m"
@@ -36,6 +36,7 @@ if [ -f /etc/os-release ]
               )
     case "$_did" in
            arch ) _distro="Arch"      ;;
+        cachyos ) _distro="Cachyos"   ;;
          debian ) _distro="Debian"    ;;
         fedora* ) _distro="Fedora"    ;;
          gentoo ) _distro="Gentoo"    ;;
@@ -167,7 +168,7 @@ makelightcursor() {
     _header "Creating cursor themes for the light theme"
     case "${__distro}" in
                      -ubuntu ) cp -a "${_basedir}/cursors/light/orange/cursors" . ;;
--opensuse | -manjaro | -mint ) cp -a "${_basedir}/cursors/light/green/cursors" .  ;;
+-opensuse | -manjaro | -mint | -cachyos ) cp -a "${_basedir}/cursors/light/green/cursors" .  ;;
                            * ) cp -a "${_basedir}/cursors/light/base/cursors" .   ;;
     esac
     _footer
@@ -177,7 +178,7 @@ makedarkcursor() {
     _header "Creating cursor themes for the dark theme"
     case "${__distro}" in
                       -ubuntu ) cp -a "${_basedir}/cursors/dark/orange/cursors" .   ;;
--opensuse | -manjaro | -mint  ) cp -a "${_basedir}/cursors/dark/green/cursors" .    ;;
+-opensuse | -manjaro | -mint | -cachyos ) cp -a "${_basedir}/cursors/dark/green/cursors" .    ;;
                             * ) cp -a "${_basedir}/cursors/dark/base/cursors" .     ;;
     esac
     _footer
@@ -261,6 +262,7 @@ makedistrofolder() {
     for file in $(find * -type f -name '*.svg')
      do case "${_dist}" in
            arch ) sed_inplace -e "s/${_colorfg}/55a8d1/g" -e "s/${_colorbg}/168bc4/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+        cachyos ) sed_inplace -e "s/${_colorfg}/33c175/g" -e "s/${_colorbg}/00adf9/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          debian ) sed_inplace -e "s/${_colorfg}/f8125e/g" -e "s/${_colorbg}/283e48/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          fedora ) sed_inplace -e "s/${_colorfg}/4d7ed7/g" -e "s/${_colorbg}/214b97/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         freebsd ) sed_inplace -e "s/${_colorfg}/dd003b/g" -e "s/${_colorbg}/66000b/g" -e "s/${_colorline}/283e48/g" "${file}" ;;

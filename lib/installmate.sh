@@ -341,7 +341,7 @@ _footer
 
 makelightcursor
 
-for files in AUTHORS COPYING README.md
+for files in AUTHORS COPYING README.md diagonal-release
     do cp -a "${_basedir}/${files}" .
   done
 
@@ -551,7 +551,7 @@ _footer
 
 makedarkcursor
 
-for files in AUTHORS COPYING README.md index.theme
+for files in AUTHORS COPYING README.md index.theme diagonal-release
     do cp -a "../Diagonal${__wmtype}${__distro}/${files}" .
   done
   sed_inplace "s/Diagonal${__wmtype}${__distro}/Diagonal${__wmtype}${__distro}-dark/g" index.theme
