@@ -35,19 +35,24 @@ if [ -f /etc/os-release ]
                 )
               )
     case "$_did" in
-           arch ) _distro="Arch"      ;;
-        cachyos ) _distro="Cachyos"   ;;
-         debian ) _distro="Debian"    ;;
-        fedora* ) _distro="Fedora"    ;;
-         gentoo ) _distro="Gentoo"    ;;
-        kubuntu ) _distro="Kubuntu"   ;;
-        manjaro ) _distro="Manjaro"   ;;
-      linuxmint ) _distro="Mint"      ;;
-      opensuse* ) _distro="OpenSuse"  ;;
-      slackware ) _distro="Slackware" ;;
-         ubuntu ) _distro="Ubuntu"    ;;
-        freebsd ) _distro="FreeBSD"   ;;
-              * ) _distro=""          ;;
+           arch ) _distro="Arch"        ;;
+        cachyos ) _distro="Cachyos"     ;;
+         debian ) _distro="Debian"      ;;
+    endeavouros ) _distro="Endeavouros" ;;
+        fedora* ) _distro="Fedora"      ;;
+         gentoo ) _distro="Gentoo"      ;;
+           neon ) _distro="Kdeneon"     ;;
+           kali ) _distro="Kali"        ;;
+        kubuntu ) _distro="Kubuntu"     ;;
+        manjaro ) _distro="Manjaro"     ;;
+      linuxmint ) _distro="Mint"        ;;
+      opensuse* ) _distro="OpenSuse"    ;;
+            pop ) _distro="Popos"        ;;
+      slackware ) _distro="Slackware"   ;;
+         ubuntu ) _distro="Ubuntu"      ;;
+          zorin ) _distro="Zorinos"      ;;
+        freebsd ) _distro="FreeBSD"     ;;
+              * ) _distro=""            ;;
     esac
   else
     case "$(uname -s)" in
@@ -92,6 +97,7 @@ wmcheck() {
       ( *mate* ) _wmtype="mate"     ;;
       ( *xfce* ) _wmtype="xfce"     ;;
     ( *budgie* ) _wmtype="budgie"   ;;
+    ( *cosmic* ) _wmtype="cosmic"   ;;
            ( * ) _wmtype=""         ;;
   esac
 }
@@ -168,7 +174,7 @@ makelightcursor() {
     _header "Creating cursor themes for the light theme"
     case "${__distro}" in
                      -ubuntu ) cp -a "${_basedir}/cursors/light/orange/cursors" . ;;
--opensuse | -manjaro | -mint | -cachyos ) cp -a "${_basedir}/cursors/light/green/cursors" .  ;;
+-opensuse | -manjaro | -mint | -cachyos | -popos ) cp -a "${_basedir}/cursors/light/green/cursors" .  ;;
                            * ) cp -a "${_basedir}/cursors/light/base/cursors" .   ;;
     esac
     _footer
@@ -178,7 +184,7 @@ makedarkcursor() {
     _header "Creating cursor themes for the dark theme"
     case "${__distro}" in
                       -ubuntu ) cp -a "${_basedir}/cursors/dark/orange/cursors" .   ;;
--opensuse | -manjaro | -mint | -cachyos ) cp -a "${_basedir}/cursors/dark/green/cursors" .    ;;
+-opensuse | -manjaro | -mint | -cachyos | -popos ) cp -a "${_basedir}/cursors/dark/green/cursors" .    ;;
                             * ) cp -a "${_basedir}/cursors/dark/base/cursors" .     ;;
     esac
     _footer
@@ -264,16 +270,21 @@ makedistrofolder() {
            arch ) sed_inplace -e "s/${_colorfg}/55a8d1/g" -e "s/${_colorbg}/168bc4/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         cachyos ) sed_inplace -e "s/${_colorfg}/33c175/g" -e "s/${_colorbg}/00adf9/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          debian ) sed_inplace -e "s/${_colorfg}/f8125e/g" -e "s/${_colorbg}/283e48/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+    endeavouros ) sed_inplace -e "s/${_colorfg}/7e41be/g" -e "s/${_colorbg}/ff6464/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          fedora ) sed_inplace -e "s/${_colorfg}/4d7ed7/g" -e "s/${_colorbg}/214b97/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         freebsd ) sed_inplace -e "s/${_colorfg}/dd003b/g" -e "s/${_colorbg}/66000b/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          gentoo ) sed_inplace -e "s/${_colorfg}/a27bec/g" -e "s/${_colorbg}/6220dc/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+           kali ) sed_inplace -e "s/${_colorfg}/1e7eed/g" -e "s/${_colorbg}/053a95/g" "${file}" ;;
+        kdeneon ) sed_inplace -e "s/${_colorfg}/2189a1/g" -e "s/${_colorbg}/10aca5/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         kubuntu ) sed_inplace -e "s/${_colorfg}/1370ff/g" -e "s/${_colorbg}/004cc0/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         manjaro ) sed_inplace -e "s/${_colorfg}/00ac9e/g" -e "s/${_colorbg}/0b5765/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
            mint ) sed_inplace -e "s/${_colorfg}/28bd37/g" -e "s/${_colorbg}/20a12d/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         openbsd ) sed_inplace -e "s/${_colorfg}/eaa100/g" -e "s/${_colorbg}/a06e00/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
        opensuse ) sed_inplace -e "s/${_colorfg}/4ba520/g" -e "s/${_colorbg}/025575/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+          popos ) sed_inplace -e "s/${_colorfg}/49b8c6/g" -e "s/${_colorbg}/21616a/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
       slackware ) sed_inplace -e "s/${_colorfg}/8faaee/g" -e "s/${_colorbg}/4861a0/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          ubuntu ) sed_inplace -e "s/${_colorfg}/666666/g" -e "s/${_colorbg}/e95420/g" -e "s/${_colorline}/752a71/g" "${file}" ;;
+          zorin ) sed_inplace -e "s/${_colorfg}/4dbbf0/g" -e "s/${_colorbg}/0972b6/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
        esac
    done
    _footer

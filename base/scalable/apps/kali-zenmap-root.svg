@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+
+<svg
+   id="svg1"
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 64 64"
+   sodipodi:docname="kali-zenmap-root.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.71875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="b"
+       x1="125.09"
+       x2="124.02"
+       y1="43.923"
+       y2="19.311"
+       gradientTransform="matrix(1.389 0 0 1.4163 -142.27 -12.35)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1"
+         stop-color="#dadada"
+         offset="0" />
+      <stop
+         id="stop2"
+         stop-color="#fff"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="c-1"
+       x1="125.11"
+       x2="125.49"
+       y1="40.719"
+       y2="22.508"
+       gradientTransform="matrix(1.4439 0 0 1.3885 -149.16 -11.272)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop4"
+         stop-color="#1bb0fb"
+         stop-opacity=".82"
+         offset="0"
+         style="stop-color:#f83e59;stop-opacity:0.39128095;" />
+      <stop
+         id="stop3"
+         stop-color="#4032f8"
+         offset="1"
+         style="stop-color:#cd001f;stop-opacity:1;" />
+    </linearGradient>
+    <radialGradient
+       id="d"
+       cx="125.48"
+       cy="31.312"
+       r="4.998"
+       gradientTransform="matrix(1.4004 0 0 1.4005 -143.71 -11.852)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop9"
+         stop-color="#3d3d3d"
+         offset="0" />
+      <stop
+         id="stop10"
+         stop-color="#060606"
+         offset="1" />
+    </radialGradient>
+  </defs>
+  <!-- Background / base square -->
+  <rect
+     id="rect1"
+     x="4"
+     y="4"
+     width="56"
+     height="56"
+     rx="6"
+     ry="6"
+     fill="#6e207b"
+     style="fill:#fc0d2f;fill-opacity:1" />
+  <path
+     id="path1"
+     d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z"
+     fill="#bf27af"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="3.2"
+     stroke-width="2"
+     style="paint-order:markers fill stroke;fill:#1f061d;fill-opacity:1" />
+  <path
+     id="path11"
+     d="m56.488 30.416c-0.52939-0.73776-1.0898-1.452-1.6797-2.1406-4.1638-4.975-12.825-10.591-18.558-11.81-1.3983-0.30261-2.8233-0.45875-4.2527-0.46599-1.4063 0-2.8191 0.16018-4.2319 0.46069-5.8013 1.2532-14.418 6.8813-18.573 11.815-0.58328 0.68907-1.1372 1.4033-1.6602 2.1406-0.71028 0.92842-0.71028 2.2302 0 3.1586 1.5912 2.2796 3.491 4.2985 5.4077 6.1558 4.1577 3.9715 8.9195 7.301 14.163 8.6499 3.2097 0.8256 6.5703 0.8256 9.7801 0 5.245-1.349 10.012-4.6784 14.175-8.6552 1.9984-1.8628 3.8128-3.9211 5.4169-6.1452 0.69895-0.93421 0.69895-2.2297 0-3.1639"
+     fill="url(#b)"
+     stroke-width="4.9629" />
+  <path
+     id="path12"
+     d="m44.996 32.203a13 12.5 0 1 1-25.993 0 13 12.5 0 0 1 25.993 0"
+     fill="url(#c-1)"
+     stroke-width="5.0102" />
+  <path
+     id="path13"
+     d="m39 32a7 7 0 1 1-14 0 7 7 0 0 1 14 0"
+     fill="url(#d)"
+     stroke-width="4.9554" />
+  <path
+     id="path14"
+     d="m37 28.999a3 3 0 1 1-6 0 3 3 0 0 1 6 0"
+     fill="#f9f9f9"
+     opacity=".35"
+     stroke-width="5.309" />
+</svg>

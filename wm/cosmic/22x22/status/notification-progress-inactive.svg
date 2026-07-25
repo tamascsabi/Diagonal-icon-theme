@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+            color:#5d656b;
+        }
+        .ColorScheme-ButtonFocus {
+            color:#3daee9;
+        }
+        .ColorScheme-NegativeText {
+            color:#da4453;
+        }</style>
+ <g id="notification-progress-inactive" transform="translate(-1 -1)">
+  <path id="path10" d="m1 1h22v22h-22z" fill="none"/>
+  <circle id="circle-transparent" class="ColorScheme-Text" cx="12" cy="12" r="8" fill="currentColor" opacity=".4"/>
+ </g>
+</svg>

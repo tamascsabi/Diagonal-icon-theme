@@ -1,9 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#427fa1"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#74a8c6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path3" d="m12 12c17.839 3.5677 60.122 25.782 3.8284 33.173-1.3199 0.21495-2.2241 0.91792-3.0269 1.9753-1.179 1.3212-0.80143 2.8514-0.34283 3.9433 0.62854 1.5294 1.5242 2.1045 2.7999 2.6318 1.0256 0.42556 2.2113 0.30646 3.2541 0 12.677-3.7225 33.487-10.724 33.487-23.724-0.077142-5.0282-10.698-14.69-40-18z" fill="#254659" stroke-width="1.4404"/>
- <path id="path2" d="m12 12c9.9998 2 24.042 7.4684 29.999 13 14 13-26.171 18.173-26.171 18.173-1.3199 0.21495-2.2241 0.91792-3.0269 1.9753-1.179 1.3212-0.80141 2.8514-0.34283 3.9433 0.62852 1.5294 1.5242 2.1045 2.7998 2.6318 1.0256 0.42556 2.2113 0.30646 3.254 0 12.676-3.7225 33.645-11.302 33.487-21.724-0.07714-5.0282-10.697-14.69-39.999-18z" fill="#fff" stroke-width="1.4404"/>
+
+<svg
+   id="svg1"
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 64 64"
+   sodipodi:docname="distributor-logo-devuan.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.71875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <!-- Background / base square -->
+  <rect
+     id="rect1"
+     x="4"
+     y="4"
+     width="56"
+     height="56"
+     rx="6"
+     ry="6"
+     fill="#427fa1"
+     style="fill:#004489;fill-opacity:1" />
+  <path
+     id="path1"
+     d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z"
+     fill="#74a8c6"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="3.2"
+     stroke-width="2"
+     style="paint-order:markers fill stroke;fill:#3398ff;fill-opacity:1" />
+  <g
+     id="g1">
+    <path
+       id="path3"
+       d="m12 12c17.839 3.5677 60.122 25.782 3.8284 33.173-1.3199 0.21495-2.2241 0.91792-3.0269 1.9753-1.179 1.3212-0.80143 2.8514-0.34283 3.9433 0.62854 1.5294 1.5242 2.1045 2.7999 2.6318 1.0256 0.42556 2.2113 0.30646 3.2541 0 12.677-3.7225 33.487-10.724 33.487-23.724-0.077142-5.0282-10.698-14.69-40-18z"
+       fill="#254659"
+       stroke-width="1.4404" />
+    <path
+       id="path2"
+       d="m12 12c9.9998 2 24.042 7.4684 29.999 13 14 13-26.171 18.173-26.171 18.173-1.3199 0.21495-2.2241 0.91792-3.0269 1.9753-1.179 1.3212-0.80141 2.8514-0.34283 3.9433 0.62852 1.5294 1.5242 2.1045 2.7998 2.6318 1.0256 0.42556 2.2113 0.30646 3.254 0 12.676-3.7225 33.645-11.302 33.487-21.724-0.07714-5.0282-10.697-14.69-39.999-18z"
+       fill="#fff"
+       stroke-width="1.4404" />
+  </g>
 </svg>

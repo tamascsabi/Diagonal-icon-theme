@@ -4,6 +4,8 @@ Colorful icon theme inspired by popular icon sets such as Yaru, Evolvere, and Wh
 
 ---
 
+![Diagonal Icon Theme](screenshots/about/logo.png)
+
 ## Features
 
 * Interactive installer (no command-line arguments required)
@@ -42,6 +44,7 @@ Colorful icon theme inspired by popular icon sets such as Yaru, Evolvere, and Wh
 * KDE
 * MATE
 * Xfce
+* Cosmic
 
 ---
 
@@ -75,14 +78,15 @@ The repository also includes prebuilt default icon packages for each supported d
 * Cinnamon
 * MATE
 * Budgie
+* Cosmic
 
 These packages are ready to use and can be extracted directly into:
 
-`tar -xvf diagonal-icon-3.0.tar.xz -C ~/.icons/`
+`tar -xvf diagonal-icon-3.1.tar.xz -C ~/.icons/`
 
 or
 
-`sudo tar -xvf diagonal-icon-3.0.tar.xz -C usr/share/icons/`
+`sudo tar -xvf diagonal-icon-3.1.tar.xz -C usr/share/icons/`
 
 No installation script is required.
 
@@ -90,19 +94,24 @@ No installation script is required.
 
 ## Supported Distributions
 
-* Arch
+* Arch 
 * Cachyos
 * Debian
+* EndeavourOS
 * Fedora
 * FreeBSD
 * Gentoo
+* Kali
+* KDENeon
 * Kubuntu
 * Manjaro
 * Mint
 * OpenBSD
 * OpenSUSE
+* Pop!_os
 * Slackware
 * Ubuntu
+* Zorin OS
 
 ---
 
@@ -168,6 +177,11 @@ Run the uninstall script:
 `./uninstall.sh`
 
 ---
+
+## Available on
+
+- KDE Store: https://store.kde.org/p/2361111
+- GitHub Releases: https://github.com/tamascsabi/Diagonal-icon-theme
 
 ## License
 

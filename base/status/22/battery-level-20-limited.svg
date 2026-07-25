@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg3"
+   sodipodi:docname="battery-level-20-limited.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="37"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3">
+    <inkscape:grid
+       id="grid3"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#5d656b; } .ColorScheme-Highlight { color:#4285f4; }</style>
+  </defs>
+  <path
+     id="path2"
+     style="color:#5d656b;fill:#5d656b"
+     d="M 3 6 C 1.892 6 1 6.892 1 8 L 1 14 C 1 15.108 1.892 16 3 16 L 16 16 C 17.108 16 18 15.108 18 14 L 18 8 C 18 7.7485263 17.953134 7.5084268 17.869141 7.2871094 C 17.646645 6.7008482 17.158346 6.2484663 16.548828 6.0761719 C 16.374629 6.0269306 16.190382 6 16 6 L 3 6 z M 3 7 L 15 7 L 15 15 L 3 15 C 2.446 15 2 14.554 2 14 L 2 8 C 2 7.446 2.446 7 3 7 z " />
+  <path
+     d="M 3.55,8 C 3.2462434,8 3,8.2462434 3,8.55 v 4.9 C 3,13.754 3.246,14 3.55,14 H 6 V 8 Z M 19,9 v 4 c 1.104569,0 2,-0.895431 2,-2 0,-1.1045695 -0.895431,-2 -2,-2 z"
+     id="path3"
+     style="color:#5d656b;fill:#5d656b"
+     sodipodi:nodetypes="ssssccsccsc" />
+</svg>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new"
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg2"
+   sodipodi:docname="battery-040-profile-powersave.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="34"
+     inkscape:cx="10.558824"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <title
+     id="title1">Paper Symbolic Icon Theme</title>
+  <path
+     id="path1"
+     style="fill:#5d656b;fill-opacity:1;fill-rule:evenodd;paint-order:stroke fill markers"
+     d="M 4,7 C 2.892,7 2,7.892 2,9 v 6 c 0,1.108 0.892,2 2,2 h 6.939453 c 0.08405,-0.142964 0.176151,-0.283097 0.271485,-0.417969 C 11.353614,16.380147 11.507344,16.186386 11.669922,16 H 4 C 3.446,16 3,15.554 3,15 V 9 C 3,8.446 3.446,8 4,8 h 13 c 0.554,0 1,0.446 1,1 v 3.267578 c 0.349525,-0.231136 0.684903,-0.495405 1,-0.80664 V 9 C 19,7.892 18.108,7 17,7 Z"
+     sodipodi:nodetypes="sssscccssssssccsss" />
+  <path
+     id="path2"
+     style="fill:#5d656b;fill-opacity:1;fill-rule:evenodd;paint-order:stroke fill markers"
+     d="m 20,10 c -0.03593,0.1898 0.102865,0.372396 0.154297,0.558594 l 0.449219,0.314453 c 0.619509,0.432384 1.036705,1.028221 1.314453,1.691406 C 21.97214,12.381187 21.999764,12.191104 22,12 22,10.895431 21.104569,10 20,10 Z"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     class="ColorScheme-NegativeText"
+     d="m 19.86917,11 -0.28516,0.424574 c -1.2424,1.845958 -3.1018,2.242777 -4.8008,3.051137 -0.8984,0.427449 -1.8738,1.196977 -2.5527,2.157603 -0.61743,0.873495 -0.98875,1.960872 -0.66211,3.022184 C 10.62648,20.661477 10.1286,21.837804 10,23 h 1 c 0.09697,-0.876331 0.4137,-1.639446 1.0742,-2.42587 0.7522,0.860057 2.5043,1.437775 3.9258,1.437775 1.6253,0 3.2239,-0.360861 4.375,-1.64814 1.4502,-1.62176 1.5997,-2.781288 1.625,-4.280425 0.02611,-1.545675 -0.16691,-3.71237 -1.7109,-4.789984 z m 0.07813,1.489849 c 0.77117,0.842143 1.0739,2.341091 1.0527,3.593402 -0.02462,1.45734 -0.03588,2.126774 -1.375,3.624329 -0.8489,0.949312 -2.475,1.316143 -3.625,1.316143 -1.2961,0 -2.7529,-0.633211 -3.2266,-1.1869 0.67391,-0.620799 1.3482,-0.650017 2.3711,-0.924412 C 16.294,18.604057 17.3329,18.404798 19,16.330225 v -1.235117 c -1.5619,1.943679 -3.0818,2.585645 -4.1191,2.863892 -0.80357,0.215562 -1.6457,0.32277 -2.4395,0.881953 -0.0035,-0.541664 0.22529,-1.098959 0.60938,-1.642311 0.55999,-0.792235 1.4447,-1.490145 2.166,-1.833409 1.3915,-0.662083 3.2942,-1.192433 4.7305,-2.875553 z"
+     fill="currentColor"
+     id="path3"
+     style="color:#da4453;fill:#5d656b;fill-opacity:1;stroke-width:0.99403"
+     sodipodi:nodetypes="ccscccccssccccccscscccccccc" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect4"
+     style="fill:#5d656b;fill-opacity:1;stroke-width:0.5"
+     d="m 4,9 h 5 l 1,6 H 4 Z"
+     sodipodi:nodetypes="ccccc" />
+</svg>

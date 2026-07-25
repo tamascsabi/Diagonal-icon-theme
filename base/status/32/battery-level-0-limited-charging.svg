@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 32 32"
+   id="svg1"
+   sodipodi:docname="battery-level-0-limited-charging.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="25.4375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-NegativeText {
+            color:#da4453;
+        }</style>
+  <path
+     id="path1"
+     class="ColorScheme-NegativeText"
+     d="M 4.5 8 C 2.007 8 0 10.007 0 12.5 L 0 19.5 C 0 21.993 2.007 24 4.5 24 L 24.5 24 C 26.993 24 29 21.993 29 19.5 L 29 16 L 29 12.5 C 29 10.007 26.993 8 24.5 8 L 4.5 8 z M 4.5 9 L 24.5 9 C 25.037436 9 25.545833 9.1193293 26 9.3339844 L 26 22.666016 C 25.545833 22.880671 25.037436 23 24.5 23 L 4.5 23 C 2.561 23 1 21.439 1 19.5 L 1 12.5 C 1 10.561 2.561 9 4.5 9 z M 30 13.5 L 30 18.5 A 2 2.5 0 0 0 32 16 A 2 2.5 0 0 0 30 13.5 z "
+     style="fill:#da4453;fill-opacity:1" />
+  <path
+     class="ColorScheme-PositiveText"
+     d="m 17,9 -8,8 h 5 l -2,6 8,-8 h -5 z"
+     fill="currentColor"
+     id="path1-3"
+     style="color:#27ae60;stroke-width:1.04881"
+     sodipodi:nodetypes="ccccccc" />
+</svg>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg31"
+   width="64"
+   height="64"
+   version="1.1"
+   sodipodi:docname="system-software-update.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="25.4375"
+     inkscape:cx="39.70516"
+     inkscape:cy="36.756757"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg31">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <rect
+     id="rect1"
+     x="4"
+     y="4"
+     width="56"
+     height="56"
+     rx="6"
+     ry="6"
+     fill="#0972b6" />
+  <path
+     id="path1"
+     d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z"
+     fill="#90c3ff"
+     fill-opacity=".61961"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="3.2"
+     stroke-width="2"
+     style="paint-order:markers fill stroke;fill:#4dbbf0;fill-opacity:1" />
+  <circle
+     id="circle1"
+     cx="47"
+     cy="14"
+     r="5"
+     fill="#0b2e59"
+     stroke-width="0" />
+  <circle
+     id="circle3"
+     cx="17"
+     cy="14"
+     r="5"
+     fill="#0b2e59"
+     stroke-width="0" />
+  <path
+     id="path1-7"
+     style="opacity:1;fill:#eaf5ff;fill-opacity:1;stroke-width:1.25572"
+     d="m 34,30 -3,5 h 24 l -3,-5 z m -5,9 -4,6 4,6 16,-12 z m 28,0 -17,12 h 17 l 3,-6 z m -26,16 3,5 h 18 l 3,-5 z"
+     sodipodi:nodetypes="cccccccccccccccccccc" />
+  <path
+     id="path3"
+     d="m17 12a2 2 0 0 0-2 2 2 2 0 0 0 0.02148 0.2793 17 17 0 0 0-0.02148 0.7207 17 17 0 0 0 17 17 17 17 0 0 0 17-17 17 17 0 0 0-0.0293-1 2 2 0 0 0-2-2 2 2 0 0 0-2 2h-0.0098a13 13 0 0 1 0.0391 1 13 13 0 0 1-13 13 13 13 0 0 1-13-13 13 13 0 0 1 0.039062-1h-0.039062a2 2 0 0 0-2-2z"
+     fill="#fff"
+     stroke-width="0" />
+  <g
+     id="g1"
+     transform="matrix(1,0,0,-1,0,92)">
+    <ellipse
+       style="fill:#0d5173;fill-opacity:1;stroke-width:0.636363"
+       id="path1-8"
+       cx="18"
+       cy="46"
+       rx="10"
+       ry="10.000001" />
+    <path
+       d="m 16,39 v 8 h -4 l 6,6 6,-6 h -4 v -8 z"
+       fill="#03beff"
+       stroke-width="2.7796"
+       id="path5"
+       style="fill:#ffffff;fill-opacity:1"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+</svg>
