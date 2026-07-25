@@ -47,10 +47,10 @@ if [ -f /etc/os-release ]
         manjaro ) _distro="Manjaro"     ;;
       linuxmint ) _distro="Mint"        ;;
       opensuse* ) _distro="OpenSuse"    ;;
-            pop ) _distro="Popos"        ;;
+            pop ) _distro="Popos"       ;;
       slackware ) _distro="Slackware"   ;;
          ubuntu ) _distro="Ubuntu"      ;;
-          zorin ) _distro="Zorinos"      ;;
+          zorin ) _distro="Zorinos"     ;;
         freebsd ) _distro="FreeBSD"     ;;
               * ) _distro=""            ;;
     esac
@@ -284,7 +284,7 @@ makedistrofolder() {
           popos ) sed_inplace -e "s/${_colorfg}/49b8c6/g" -e "s/${_colorbg}/21616a/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
       slackware ) sed_inplace -e "s/${_colorfg}/8faaee/g" -e "s/${_colorbg}/4861a0/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          ubuntu ) sed_inplace -e "s/${_colorfg}/666666/g" -e "s/${_colorbg}/e95420/g" -e "s/${_colorline}/752a71/g" "${file}" ;;
-          zorin ) sed_inplace -e "s/${_colorfg}/4dbbf0/g" -e "s/${_colorbg}/0972b6/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+        zorinos ) sed_inplace -e "s/${_colorfg}/4dbbf0/g" -e "s/${_colorbg}/0972b6/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
        esac
    done
    _footer
