@@ -173,9 +173,25 @@ fi
 makelightcursor() {
     _header "Creating cursor themes for the light theme"
     case "${__distro}" in
-                     -ubuntu ) cp -a "${_basedir}/cursors/light/orange/cursors" . ;;
--opensuse | -manjaro | -mint | -cachyos | -popos ) cp -a "${_basedir}/cursors/light/green/cursors" .  ;;
-                           * ) cp -a "${_basedir}/cursors/light/base/cursors" .   ;;
+                       -arch ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                    -cachyos ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                     -debian ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                -endeavouros ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                     -fedora ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                    -freebsd ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                     -gentoo ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                       -kali ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                    -kdeneon ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                    -kubuntu ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                    -manjaro ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                       -mint ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                    -openbsd ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                   -opensuse ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                      -popos ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                  -slackware ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                     -ubuntu ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                    -zorinos ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                           * ) cp -a "${_basedir}/cursors/light/default/cursors" .   ;;
     esac
     _footer
 }
@@ -183,9 +199,25 @@ makelightcursor() {
 makedarkcursor() {
     _header "Creating cursor themes for the dark theme"
     case "${__distro}" in
-                      -ubuntu ) cp -a "${_basedir}/cursors/dark/orange/cursors" .   ;;
--opensuse | -manjaro | -mint | -cachyos | -popos ) cp -a "${_basedir}/cursors/dark/green/cursors" .    ;;
-                            * ) cp -a "${_basedir}/cursors/dark/base/cursors" .     ;;
+                       -arch ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                    -cachyos ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                     -debian ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                -endeavouros ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                     -fedora ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                    -freebsd ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                     -gentoo ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                       -kali ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                    -kdeneon ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                    -kubuntu ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                    -manjaro ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                       -mint ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                    -openbsd ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                   -opensuse ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                      -popos ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                  -slackware ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                     -ubuntu ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                    -zorinos ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                           * ) cp -a "${_basedir}/cursors/dark/default/cursors" .   ;;
     esac
     _footer
 }
@@ -217,6 +249,10 @@ OpenBSD | openbsd )
             _archiveext="tar.xz"
                ;;
      esac
+     if [ -n "${_distro}" ]
+        then cp -a "${_basedir}/cursors/color/Diagonal${__distro}-cursors" .
+        else cp -a "${_basedir}/cursors/color/Diagonal-cursors" .
+     fi
      ${_compresscmd} "Diagonal${__wmtype}${__distro}-${_version}.${_archiveext}" *
  _footer
 }
@@ -229,6 +265,10 @@ copyiconpack()
                 "Diagonal${__wmtype}${__distro}-light"
              do if [ -d "${pack}" ]
                    then cp -a "${pack}" "${_install_dir}"
+                        if [ -n "${_distro}" ]
+                           then cp -a "${_basedir}/cursors/color/Diagonal${__distro}-cursors" "${_install_dir}"
+                           else cp -a "${_basedir}/cursors/color/Diagonal-cursors" "${_install_dir}"
+                        fi
                 fi
            done
      case "${__wmtype}" in
@@ -275,7 +315,7 @@ makedistrofolder() {
         freebsd ) sed_inplace -e "s/${_colorfg}/dd003b/g" -e "s/${_colorbg}/66000b/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          gentoo ) sed_inplace -e "s/${_colorfg}/a27bec/g" -e "s/${_colorbg}/6220dc/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
            kali ) sed_inplace -e "s/${_colorfg}/1e7eed/g" -e "s/${_colorbg}/053a95/g" "${file}" ;;
-        kdeneon ) sed_inplace -e "s/${_colorfg}/2189a1/g" -e "s/${_colorbg}/10aca5/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+        kdeneon ) sed_inplace -e "s/${_colorfg}/10aca5/g" -e "s/${_colorbg}/2189a1/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         kubuntu ) sed_inplace -e "s/${_colorfg}/1370ff/g" -e "s/${_colorbg}/004cc0/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         manjaro ) sed_inplace -e "s/${_colorfg}/00ac9e/g" -e "s/${_colorbg}/0b5765/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
            mint ) sed_inplace -e "s/${_colorfg}/28bd37/g" -e "s/${_colorbg}/20a12d/g" -e "s/${_colorline}/283e48/g" "${file}" ;;

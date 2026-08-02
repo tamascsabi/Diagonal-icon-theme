@@ -134,14 +134,11 @@ No installation script is required.
 
 ## Cursor Themes
 
-Available in:
+Each icon theme includes: 
 
-* Light and Dark variants
-* Colors:
+* Light and Dark variants.
 
-* Blue (default)
-* Green
-* Orange
+* Distribution-specific color cursor theme.
 
 ---
 

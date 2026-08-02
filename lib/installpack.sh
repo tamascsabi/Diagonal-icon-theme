@@ -14,6 +14,12 @@ _line
 printf ";;; \n"
 printf ";;; %bYou can find the compressed package in your %b%s%b %bdirectory%b\n" "${blue}" "${red}" "${HOME}" "${reset}" "${blue}" "${reset}"
 printf ";;; \n"
+if [ -n "${_distro}" ]
+   then printf ";;; %bThe %bDiagonal-%s-cursor-theme%b %bhas been installed.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
+        printf ";;; %bYou can enable it in your desktop environment's cursor settings.%b\n" "${blue}" "${reset}"
+   else printf ";;; %bThe %bDiagonal-cursor-theme%b %bhas been installed.%b\n" "${blue}" "${red}" "${reset}" "${blue}" "${reset}"
+        printf ";;; %bYou can enable it in your desktop environment's cursor settings.%b\n" "${blue}" "${reset}"
+fi
 }
 
 _no_install()

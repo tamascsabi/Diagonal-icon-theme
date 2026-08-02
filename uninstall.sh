@@ -43,13 +43,13 @@ delete_theme_set()
                                then printf ";;; \n"
                                     printf ";;; %bDelete:%b %b%s%b\n" "${blue}" "${reset}" "${red}" "${path}" "${reset}"
                                     $_auto_priv rm -rf "${path}"
-                                    $_auto_priv find "${dir}" -type l -name 'Diagonal*' ! -exec test -e {} \; -exec rm {} \;
+                                    $_auto_priv find "${dir}" -type l -name 'Diag-g*' ! -exec test -e {} \; -exec rm {} \;
                                else printf ";;; \n"
                                     printf ";;; %bPermission required to delete: %s\n" "${red}" "${path}" "${reset}"
                             fi
                        else printf ";;; %bDelete:%b %b%s%b\n" "${blue}" "${reset}" "${red}" "${path}" "${reset}"
                             rm -rf "${path}"
-                            find "${dir}" -type l -name 'Diagonal*' ! -exec test -e {} \; -exec rm {} \;
+                            find "${dir}" -type l -name 'Diag-g*' ! -exec test -e {} \; -exec rm {} \;
                     fi
             fi
         done

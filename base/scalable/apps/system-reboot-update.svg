@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+
+<svg
+   id="svg1"
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 64 64"
+   sodipodi:docname="system-reboot-update.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="12.71875"
+     inkscape:cx="35.616708"
+     inkscape:cy="32.943489"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <!-- Background / base square -->
+  <rect
+     id="rect1"
+     x="-60"
+     y="-60"
+     width="56"
+     height="56"
+     rx="6"
+     ry="6"
+     fill="#dc041f"
+     style="fill:#0cd593;fill-opacity:1"
+     transform="scale(-1)" />
+  <path
+     id="path1"
+     d="M 4,54 60,10 C 60,6.676 57.324,4 54,4 H 10 C 6.676,4 4,6.676 4,10 Z"
+     fill="#6d000d"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="3.2"
+     stroke-width="2"
+     style="fill:#006f14;fill-opacity:1;paint-order:markers fill stroke" />
+  <path
+     id="path3-5"
+     style="fill:#fbfdfe;fill-opacity:1;paint-order:markers stroke fill"
+     d="m 31,12 v 6.029297 C 22.0151,18.558737 15,25.9992 15,35 c 0,9.3888 7.6112,17 17,17 3.305115,0 6.389944,-0.942296 9,-2.574219 V 42.9375 C 38.801164,45.428768 35.584072,47 32,47 25.3726,47 20,41.627401 20,35 19.999624,28.76 24.7817,23.561016 31,23.041016 V 29 l 15,-8 z m 13,23 c 0,0.113896 -7.54e-4,0.22671 -0.0039,0.339844 L 44.214844,35 Z" />
+  <path
+     id="path3"
+     d="M 55,38 46,27 37,38 h 6 v 12 h 6 V 38 Z"
+     fill="#ffffff"
+     overflow="visible"
+     stroke-width="0.693652"
+     style="fill:#351c03;fill-opacity:1"
+     sodipodi:nodetypes="cccccccc" />
+</svg>
