@@ -4,6 +4,8 @@ _icon_base="Diagonal"
 _sys_dir="/usr/share/icons"
 _usr_dir="$HOME/.local/share/icons"
 _usr_icondir="~/.icons"
+_nix_icondir="/var/opt/icons"
+_bsd_icondir="/usr/local/share/icons"
 red="\033[1;31m"
 reset="\033[0m"
 
@@ -34,11 +36,29 @@ uninstall_usage
 
 delete_theme_set()
 {   base=$1
-    for dir in "${_sys_dir}" "${_usr_dir}" "${_usr_icondir}"
+    for dir in "${_sys_dir}" "${_usr_dir}" "${_usr_icondir}" "${_nix_icondir}" "${_bsd_icondir}"
      do for variant in "" "-dark" "-light"
          do path="${dir}/${base}${variant}"
             if [ -d "${path}" ]
                then if [ "${dir}" = "${_sys_dir}" ] && [ "$(id -u)" -ne 0 ]
+                       then if [ -n "${_auto_priv}" ]
+                               then printf ";;; \n"
+                                    printf ";;; %bDelete:%b %b%s%b\n" "${blue}" "${reset}" "${red}" "${path}" "${reset}"
+                                    $_auto_priv rm -rf "${path}"
+                                    $_auto_priv find "${dir}" -type l -name 'Diag-g*' ! -exec test -e {} \; -exec rm {} \;
+                               else printf ";;; \n"
+                                    printf ";;; %bPermission required to delete: %s\n" "${red}" "${path}" "${reset}"
+                            fi
+                  elif [ "${dir}" = "${_bsd_icondir}" ] && [ "$(id -u)" -ne 0 ]
+                       then if [ -n "${_auto_priv}" ]
+                               then printf ";;; \n"
+                                    printf ";;; %bDelete:%b %b%s%b\n" "${blue}" "${reset}" "${red}" "${path}" "${reset}"
+                                    $_auto_priv rm -rf "${path}"
+                                    $_auto_priv find "${dir}" -type l -name 'Diag-g*' ! -exec test -e {} \; -exec rm {} \;
+                               else printf ";;; \n"
+                                    printf ";;; %bPermission required to delete: %s\n" "${red}" "${path}" "${reset}"
+                            fi
+                  elif [ "${dir}" = "${_nix_icondir}" ] && [ "$(id -u)" -ne 0 ]
                        then if [ -n "${_auto_priv}" ]
                                then printf ";;; \n"
                                     printf ";;; %bDelete:%b %b%s%b\n" "${blue}" "${reset}" "${red}" "${path}" "${reset}"
@@ -57,7 +77,7 @@ delete_theme_set()
 }
 
 list_icon_dirs()
-{  for base in "${_sys_dir}" "${_usr_dir}" "${_usr_icondir}"
+{  for base in "${_sys_dir}" "${_usr_dir}" "${_usr_icondir}" "${_nix_icondir}" "${_bsd_icondir}"
     do [ -d "$base" ] || continue
        for d in "$base"/*
         do [ -d "$d" ] || continue
@@ -79,7 +99,10 @@ elif command -v sudo >/dev/null 2>&1
   fi
 
 if [ -z "${dirs_list}" ]
-   then printf ";;;%b No installed icon theme found %s\n" "${red}" "(${_icon_base}*)."
+   then printf ";;; \n"
+        printf ";;;%b No installed icon theme found %s%b\n" "${red}" "(${_icon_base}*)." "${reset}"
+        printf ";;; \n"
+        printf ";;; \n"
         exit 0
 fi
 

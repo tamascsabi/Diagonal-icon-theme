@@ -1,0 +1,7 @@
+environment.systemPackages = with pkgs; [
+  (runCommand "diagonal-icon-themes" {} ''
+    mkdir -p $out/share/icons
+    cp -a ${/var/opt/icons}/Diagonal-* $out/share/icons/
+  '')
+];
+

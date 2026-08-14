@@ -22,7 +22,7 @@ _colorbg="3e8ae6"
 _colorline="00c110"
 
 _line() {
-printf ";;; **********************************************************************|\n"
+printf ";;; ======================================================================|\n"
 }
 
 distrocheck() {
@@ -38,20 +38,28 @@ if [ -f /etc/os-release ]
            arch ) _distro="Arch"        ;;
         cachyos ) _distro="Cachyos"     ;;
          debian ) _distro="Debian"      ;;
+         devuan ) _distro="Devuan"      ;;
     endeavouros ) _distro="Endeavouros" ;;
         fedora* ) _distro="Fedora"      ;;
          gentoo ) _distro="Gentoo"      ;;
            neon ) _distro="Kdeneon"     ;;
            kali ) _distro="Kali"        ;;
-        kubuntu ) _distro="Kubuntu"     ;;
         manjaro ) _distro="Manjaro"     ;;
       linuxmint ) _distro="Mint"        ;;
       opensuse* ) _distro="OpenSuse"    ;;
             pop ) _distro="Popos"       ;;
       slackware ) _distro="Slackware"   ;;
-         ubuntu ) _distro="Ubuntu"      ;;
           zorin ) _distro="Zorinos"     ;;
         freebsd ) _distro="FreeBSD"     ;;
+         garuda ) _distro="Garuda"      ;;
+         mageia ) _distro="Mageia"      ;;
+          nixos ) _distro="Nixos"       ;;
+         parrot ) _distro="Parrot"      ;;
+      pclinuxos ) _distro="Pclinuxos"   ;;
+         ubuntu ) if [ -f /etc/kubuntu-default-settings ]
+                     then _distro="Kubuntu"
+                     else _distro="Ubuntu"
+                  fi                    ;;
               * ) _distro=""            ;;
     esac
   else
@@ -66,14 +74,22 @@ if [ -f /etc/os-release ]
 idcheck() {
   if [ "$(id -u)" -eq "${_root_uid}" ]
      then case "${_distro}" in
-OpenBSD | openbsd ) if [ ! -d "/usr/local/share/icons" ]
-                       then mkdir -p /usr/local/share/icons
-                            _install_dir="/usr/local/share/icons"
-                       else _install_dir="/usr/local/share/icons"
-                    fi
-                 ;;
-                * ) _install_dir="/usr/share/icons"
-                 ;;
+OpenBSD | openbsd | FreeBSD | freebsd ) if [ ! -d "/usr/local/share/icons" ]
+                                           then mkdir -p /usr/local/share/icons
+                                                _install_dir="/usr/local/share/icons"
+                                           else _install_dir="/usr/local/share/icons"
+                                        fi
+                                     ;;
+                       Nixos | nixos  ) if [ -d "/usr/share/icons" ]
+                                           then _install_dir="/usr/share/icons"
+                                      elif [ ! -d "/var/opt/icons" ]
+                                           then mkdir -p /var/opt/icons
+                                                _install_dir="/var/opt/icons"
+                                           else _install_dir="/var/opt/icons"
+                                        fi
+                                     ;;
+                                    * ) _install_dir="/usr/share/icons"
+                                     ;;
           esac
 elif [ ! -d "$HOME/.local/share/icons" ]
      then mkdir -p "$HOME/.local/share/icons"
@@ -176,22 +192,28 @@ makelightcursor() {
                        -arch ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                     -cachyos ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                      -debian ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                     -devuan ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                 -endeavouros ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                      -fedora ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                     -freebsd ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                     -garuda ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                      -gentoo ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                        -kali ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                     -kdeneon ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                     -kubuntu ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                     -mageia ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                     -manjaro ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                        -mint ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                      -nixos ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                     -openbsd ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                    -opensuse ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                     -parrot ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                  -pclinuxos ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                       -popos ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                   -slackware ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                      -ubuntu ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                     -zorinos ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
-                           * ) cp -a "${_basedir}/cursors/light/default/cursors" .   ;;
+                           * ) cp -a "${_basedir}/cursors/light/default/cursors" .  ;;
     esac
     _footer
 }
@@ -202,22 +224,28 @@ makedarkcursor() {
                        -arch ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                     -cachyos ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                      -debian ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                     -devuan ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                 -endeavouros ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                      -fedora ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                     -freebsd ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                     -garuda ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                      -gentoo ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                        -kali ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                     -kdeneon ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                     -kubuntu ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                     -mageia ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                     -manjaro ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                        -mint ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                      -nixos ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                     -openbsd ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                    -opensuse ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                     -parrot ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                  -pclinuxos ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                       -popos ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                   -slackware ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                      -ubuntu ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                     -zorinos ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
-                           * ) cp -a "${_basedir}/cursors/dark/default/cursors" .   ;;
+                           * ) cp -a "${_basedir}/cursors/dark/default/cursors" .  ;;
     esac
     _footer
 }
@@ -310,17 +338,23 @@ makedistrofolder() {
            arch ) sed_inplace -e "s/${_colorfg}/55a8d1/g" -e "s/${_colorbg}/168bc4/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         cachyos ) sed_inplace -e "s/${_colorfg}/33c175/g" -e "s/${_colorbg}/00adf9/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          debian ) sed_inplace -e "s/${_colorfg}/f8125e/g" -e "s/${_colorbg}/283e48/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+         devuan ) sed_inplace -e "s/${_colorfg}/3398ff/g" -e "s/${_colorbg}/004489/g" "${file}" ;;
     endeavouros ) sed_inplace -e "s/${_colorfg}/7e41be/g" -e "s/${_colorbg}/ff6464/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          fedora ) sed_inplace -e "s/${_colorfg}/4d7ed7/g" -e "s/${_colorbg}/214b97/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         freebsd ) sed_inplace -e "s/${_colorfg}/dd003b/g" -e "s/${_colorbg}/66000b/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+         garuda ) sed_inplace -e "s/${_colorfg}/c600d5/g" -e "s/${_colorbg}/fd7602/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          gentoo ) sed_inplace -e "s/${_colorfg}/a27bec/g" -e "s/${_colorbg}/6220dc/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
            kali ) sed_inplace -e "s/${_colorfg}/1e7eed/g" -e "s/${_colorbg}/053a95/g" "${file}" ;;
         kdeneon ) sed_inplace -e "s/${_colorfg}/10aca5/g" -e "s/${_colorbg}/2189a1/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         kubuntu ) sed_inplace -e "s/${_colorfg}/1370ff/g" -e "s/${_colorbg}/004cc0/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+         mageia ) sed_inplace -e "s/${_colorfg}/338ccd/g" -e "s/${_colorbg}/254a65/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         manjaro ) sed_inplace -e "s/${_colorfg}/00ac9e/g" -e "s/${_colorbg}/0b5765/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
            mint ) sed_inplace -e "s/${_colorfg}/28bd37/g" -e "s/${_colorbg}/20a12d/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+          nixos ) sed_inplace -e "s/${_colorfg}/a4d4f8/g" -e "s/${_colorbg}/4f73bc/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         openbsd ) sed_inplace -e "s/${_colorfg}/eaa100/g" -e "s/${_colorbg}/a06e00/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
        opensuse ) sed_inplace -e "s/${_colorfg}/4ba520/g" -e "s/${_colorbg}/025575/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+         parrot ) sed_inplace -e "s/${_colorfg}/06d7d4/g" -e "s/${_colorbg}/236563/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+      pclinuxos ) sed_inplace -e "s/${_colorfg}/6d7dcb/g" -e "s/${_colorbg}/2b397a/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
           popos ) sed_inplace -e "s/${_colorfg}/49b8c6/g" -e "s/${_colorbg}/21616a/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
       slackware ) sed_inplace -e "s/${_colorfg}/8faaee/g" -e "s/${_colorbg}/4861a0/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          ubuntu ) sed_inplace -e "s/${_colorfg}/666666/g" -e "s/${_colorbg}/e95420/g" -e "s/${_colorline}/752a71/g" "${file}" ;;

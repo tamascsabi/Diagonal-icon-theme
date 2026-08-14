@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs18">
+  <radialGradient id="radialGradient22" cx="32" cy="27" r="4" gradientTransform="matrix(1.25 1.0351e-7 3.2715e-7 1.25 -8 -8.75)" gradientUnits="userSpaceOnUse">
+   <stop id="stop21" stop-color="#5f6777" offset="0"/>
+   <stop id="stop22" stop-color="#9ba1ae" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#caced6"/>
+ <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#2d303b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <circle id="path2" cx="12" cy="12" r="5" fill="#eff0f2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".066234" style="paint-order:markers fill stroke"/>
+ <path id="circle2" d="m10 8.5352a4 4 0 0 0-2 3.4648 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-2-3.4648v1.2285a3 3 0 0 1 1 2.2363 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 1-2.2363z" fill="#fd0437" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".052987" style="paint-order:markers fill stroke"/>
+ <path id="rect3" d="m12 7a5 5 0 0 0-1 0.10156v5.8984h2v-5.8984a5 5 0 0 0-1-0.10156z" fill="#fd0437" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".10954" style="paint-order:markers fill stroke"/>
+ <path id="rect4" d="m27 8v12h-12v10h12v12h10v-12h12v-10h-12v-12z" fill="#eff0f2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".10541" style="paint-order:markers fill stroke"/>
+ <rect id="rect5" x="31" y="10" width="2" height="10" fill="#424852" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".1" style="paint-order:markers fill stroke"/>
+ <rect id="rect6" x="31" y="30" width="2" height="10" fill="#424852" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".1" style="paint-order:markers fill stroke"/>
+ <rect id="rect7" transform="rotate(90)" x="24" y="-47" width="2" height="10" fill="#424852" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".1" style="paint-order:markers fill stroke"/>
+ <rect id="rect8" transform="rotate(90)" x="24" y="-27" width="2" height="10" fill="#424852" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".1" style="paint-order:markers fill stroke"/>
+ <circle id="path8" cx="32" cy="25" r="4" fill="url(#radialGradient22)" opacity=".66211" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".1" style="paint-order:markers fill stroke"/>
+ <path id="rect22" d="m27 8v12h-12v10h12v12h10v-12h12v-10h-12v-12zm1 1h8v12h12v8h-12v12h-8v-12h-12v-8h12v-1z" fill="#707a8b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".1" style="paint-order:markers fill stroke"/>
+ <rect id="rect33" x="19" y="52" width="5" height="5" fill="#8425d5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".1" style="paint-order:markers fill stroke"/>
+ <rect id="rect34" x="26" y="52" width="5" height="5" fill="#2d303b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".1" style="paint-order:markers fill stroke"/>
+ <rect id="rect35" x="33" y="52" width="5" height="5" fill="#2d303b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".1" style="paint-order:markers fill stroke"/>
+ <rect id="rect36" x="40" y="52" width="5" height="5" fill="#2d303b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".1" style="paint-order:markers fill stroke"/>
+ <circle id="path36" cx="21.5" cy="47.5" r="2.5" fill="#666c85" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".083333" style="paint-order:markers fill stroke"/>
+ <circle id="circle36" cx="28.5" cy="47.5" r="2.5" fill="#666c85" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".083333" style="paint-order:markers fill stroke"/>
+ <circle id="circle37" cx="35.5" cy="47.5" r="2.5" fill="#666c85" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".083333" style="paint-order:markers fill stroke"/>
+ <circle id="circle38" cx="42.5" cy="47.5" r="2.5" fill="#666c85" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".083333" style="paint-order:markers fill stroke"/>
+</svg>

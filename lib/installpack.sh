@@ -15,10 +15,12 @@ printf ";;; \n"
 printf ";;; %bYou can find the compressed package in your %b%s%b %bdirectory%b\n" "${blue}" "${red}" "${HOME}" "${reset}" "${blue}" "${reset}"
 printf ";;; \n"
 if [ -n "${_distro}" ]
-   then printf ";;; %bThe %bDiagonal-%s-cursor-theme%b %bhas been installed.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
+   then printf ";;; %bThe %bDiagonal%s-cursor-theme%b %bhas been installed.%b\n" "${blue}" "${red}" "${__distro}" "${reset}" "${blue}" "${reset}"
         printf ";;; %bYou can enable it in your desktop environment's cursor settings.%b\n" "${blue}" "${reset}"
+        printf ";;; \n"
    else printf ";;; %bThe %bDiagonal-cursor-theme%b %bhas been installed.%b\n" "${blue}" "${red}" "${reset}" "${blue}" "${reset}"
         printf ";;; %bYou can enable it in your desktop environment's cursor settings.%b\n" "${blue}" "${reset}"
+        printf ";;; \n"
 fi
 }
 
@@ -44,6 +46,7 @@ printf ";;; %bInstalled version: %s%b\n" "${blue}" "$_release" "${reset}"
 printf ";;; %bPackage version  : %s%b\n" "${blue}" "$_version" "${reset}"
 printf ";;; \n"
 printf ";;; %bDo you want to replace the existing icon theme??%b\n" "${red}" "${reset}"
+printf ";;; %by (yes)%b   %bn (no)%b\n" "${red}" "${reset}" "${red}" "${reset}"
 printf ";;; \n"
 }
 
@@ -53,6 +56,7 @@ _line
 printf ";;; \n"
 printf ";;; %bExisting %s installation found.%b\n" "${red}" "${_theme}" "${reset}"
 printf ";;; %bDo you want to replace the existing icon theme?%b\n" "${red}" "${reset}"
+printf ";;; %by (yes)%b   %bn (no)%b\n" "${red}" "${reset}" "${red}" "${reset}"
 printf ";;; \n"
 }
 
@@ -97,7 +101,25 @@ printf ";;; %by (yes)%b   %bn (no)%b\n" "${red}" "${reset}" "${red}" "${reset}"
 read -r _installpack
 case ${_installpack} in
    y | Y | yes | Yes) if [ "$(id -u)" -eq 0 ]
-                        then if [ -d /usr/share/icons/"${_theme}" ]
+                        then if [ -d /var/opt/icons/"${_theme}" ]
+                                then _location="/var/opt/icons/${_theme}"
+                                     if [ -f /var/opt/icons/"${_theme}"/diagonal-release ]
+                                        then _release="$(cat /var/opt/icons/"${_theme}"/diagonal-release)"
+                                             _found_releasepack
+                                        else _found_pack
+                                     fi
+                                     read answer
+                                          case "$answer" in
+                                     y | Y | yes | YES ) rm -rf "/var/opt/icons/${_theme}" 1>/dev/null 2>&1
+                                                         rm -rf "/var/opt/icons/${_theme}"-light 1>/dev/null 2>&1
+                                                         rm -rf "/var/opt/icons/${_theme}"-dark 1>/dev/null 2>&1
+                                                         _install
+                                                         _root_notice
+                                                 ;;
+                                                      *) _no_install
+                                                 ;;
+                                          esac
+                           elif [ -d /usr/share/icons/"${_theme}" ]
                                 then _location="/usr/share/icons/${_theme}"
                                      if [ -f /usr/share/icons/"${_theme}"/diagonal-release ]
                                         then _release="$(cat /usr/share/icons/"${_theme}"/diagonal-release)"

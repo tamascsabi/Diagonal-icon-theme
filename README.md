@@ -82,11 +82,11 @@ The repository also includes prebuilt default icon packages for each supported d
 
 These packages are ready to use and can be extracted directly into:
 
-`tar -xvf diagonal-icon-3.1.tar.xz -C ~/.icons/`
+`tar -xvf Diagonal-3.3.tar.xz -C ~/.icons/`
 
 or
 
-`sudo tar -xvf diagonal-icon-3.1.tar.xz -C usr/share/icons/`
+`sudo tar -xvf Diagonal-3.3.tar.xz -C usr/share/icons/`
 
 No installation script is required.
 
@@ -94,41 +94,25 @@ No installation script is required.
 
 ## Supported Distributions
 
-* Arch 
-* Cachyos
-* Debian
-* EndeavourOS
-* Fedora
-* FreeBSD
-* Gentoo
-* Kali
-* KDENeon
-* Kubuntu
-* Manjaro
-* Mint
-* OpenBSD
-* OpenSUSE
-* Pop!_os
-* Slackware
-* Ubuntu
-* Zorin OS
+|              |              |              |               |
+| :----------- | :----------- | :----------- | :-----------  |
+| Arch         | CachyOS      | Debian       | Devuan        |
+| EndeavourOS  | Fedora       | FreeBSD      | Garuda        |
+| Gentoo       | Kali         | KDE neon     | Kubuntu       |
+| Mageia       | Manjaro      | Mint         | Nixos         |
+| OpenBSD      | OpenSUSE     | Parrot       | PcLinuxOS     |
+| Pop!_OS      | Slackware    | Ubuntu       | Zorin OS      |
 
 ---
 
 ## Folder Colors
 
-* Black
-* Blue
-* Cyan
-* Green
-* Grey
-* Magenta
-* Orange
-* Red
-* Ubuntu
-* Violet
-* White
-* Yellow
+|              |              |              |
+| :----------- | :----------- | :----------- |
+| Black        | Blue         | Cyan         |
+| Green        | Grey         | Magenta      |
+| Orange       | Red          | Ubuntu       |
+| Violet       | White        | Yellow       |
 
 ---
 
