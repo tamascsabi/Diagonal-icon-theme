@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs id="defs1">
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
   <linearGradient id="linearGradient8" x1="31" x2="31" y1="45" gradientUnits="userSpaceOnUse">
-   <stop id="stop7" stop-color="#fff" offset="0"/>
-   <stop id="stop8" stop-color="#08ed41" offset="1"/>
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#08ed41" offset="1"/>
   </linearGradient>
  </defs>
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#2bbadd"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#136579" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="rect3109" d="m12 19v6h10v-6zm15 0v6h10v-6zm15 0v6h10v-6zm-30 9v5h10v-5zm15 0v5h10v-5zm15 0v5h10v-5zm-30 8v4h10v-4zm15 0v4h10v-4zm15 0v4h10v-4zm-30 7v3h10v-3zm15 0v3h10v-3zm15 0v3h10v-3zm-30 6v2h10v-2zm15 0v2h10v-2zm15 0v2h10v-2zm-30 5v1h10v-1zm15 0v1h10v-1zm15 0v1h10v-1zm-30-45v7h10v-7zm15 0v7h10v-7zm15 0v7h10v-7z" fill="url(#linearGradient8)" stroke-width="3.8032"/>
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#2bbadd"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#136579" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m12 19v6h10v-6zm15 0v6h10v-6zm15 0v6h10v-6zm-30 9v5h10v-5zm15 0v5h10v-5zm15 0v5h10v-5zm-30 8v4h10v-4zm15 0v4h10v-4zm15 0v4h10v-4zm-30 7v3h10v-3zm15 0v3h10v-3zm15 0v3h10v-3zm-30 6v2h10v-2zm15 0v2h10v-2zm15 0v2h10v-2zm-30 5v1h10v-1zm15 0v1h10v-1zm15 0v1h10v-1zm-30-45v7h10v-7zm15 0v7h10v-7zm15 0v7h10v-7z" fill="url(#linearGradient8)" stroke-width="3.8032"/>
 </svg>

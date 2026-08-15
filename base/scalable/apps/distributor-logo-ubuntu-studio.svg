@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#c367f6"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#5357cc" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path12" d="m47.074 46.621a21 21 0 0 1-10.049 5.7695l0.72852 2.9102a24 24 0 0 0 11.477-6.5938l-2.1562-2.0859z" fill="#fff" style="paint-order:markers fill stroke"/>
- <path id="path22" d="m8.5039 27.105a24 24 0 0 0-0.50391 4.8945 24 24 0 0 0 0.50391 4.8945l2.9375-0.61133a21 21 0 0 1-0.44141-4.2832 21 21 0 0 1 0.44141-4.2832l-2.9375-0.61133z" fill="#fff" style="paint-order:markers fill stroke"/>
- <path id="path13" d="m32 15a17 17 0 0 0-13.328 6.4473l2.3516 1.8633a14 14 0 0 1 10.977-5.3105 14 14 0 0 1 14 14 14 14 0 0 1-14 14 14 14 0 0 1-10.977-5.3105l-2.3516 1.8633a17 17 0 0 0 13.328 6.4473 17 17 0 0 0 17-17 17 17 0 0 0-17-17zm-16.643 13.533a17 17 0 0 0-0.35742 3.4668 17 17 0 0 0 0.35742 3.4668l2.9375-0.61133a14 14 0 0 1-0.29492-2.8555 14 14 0 0 1 0.29492-2.8555l-2.9375-0.61133z" fill="#fff" style="paint-order:markers fill stroke"/>
- <path id="path14" d="m32 23a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm0 3a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" fill="#fff" style="paint-order:markers fill stroke"/>
- <path id="path25" d="m43.676 11.031-1.457 2.623a21 21 0 0 1 8.1406 8.1504l2.623-1.457a24 24 0 0 0-9.3066-9.3164z" fill="#fff" style="paint-order:markers fill stroke"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#c367f6"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#5357cc" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m47.074 46.621a21 21 0 0 1-10.049 5.7695l0.72852 2.9102a24 24 0 0 0 11.477-6.5938l-2.1562-2.0859z" fill="#fff" style="paint-order:markers fill stroke"/>
+ <path d="m8.5039 27.105a24 24 0 0 0-0.50391 4.8945 24 24 0 0 0 0.50391 4.8945l2.9375-0.61133a21 21 0 0 1-0.44141-4.2832 21 21 0 0 1 0.44141-4.2832l-2.9375-0.61133z" fill="#fff" style="paint-order:markers fill stroke"/>
+ <path d="m32 15a17 17 0 0 0-13.328 6.4473l2.3516 1.8633a14 14 0 0 1 10.977-5.3105 14 14 0 0 1 14 14 14 14 0 0 1-14 14 14 14 0 0 1-10.977-5.3105l-2.3516 1.8633a17 17 0 0 0 13.328 6.4473 17 17 0 0 0 17-17 17 17 0 0 0-17-17zm-16.643 13.533a17 17 0 0 0-0.35742 3.4668 17 17 0 0 0 0.35742 3.4668l2.9375-0.61133a14 14 0 0 1-0.29492-2.8555 14 14 0 0 1 0.29492-2.8555l-2.9375-0.61133z" fill="#fff" style="paint-order:markers fill stroke"/>
+ <path d="m32 23a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm0 3a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" fill="#fff" style="paint-order:markers fill stroke"/>
+ <path d="m43.676 11.031-1.457 2.623a21 21 0 0 1 8.1406 8.1504l2.623-1.457a24 24 0 0 0-9.3066-9.3164z" fill="#fff" style="paint-order:markers fill stroke"/>
 </svg>

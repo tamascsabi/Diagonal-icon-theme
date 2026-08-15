@@ -1,50 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs id="defs1">
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
   <linearGradient id="linearGradient66">
-   <stop id="stop67" stop-color="#9f9fa5" stop-opacity="0" offset="0"/>
-   <stop id="stop66" stop-color="#9f9fa5" offset="1"/>
+   <stop stop-color="#9f9fa5" stop-opacity="0" offset="0"/>
+   <stop stop-color="#9f9fa5" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient63" x1="30" x2="31" y1="8.5" y2="8.5" gradientUnits="userSpaceOnUse">
-   <stop id="stop63" stop-color="#9f9fa5" stop-opacity="0" offset="0"/>
-   <stop id="stop62" stop-color="#9f9fa5" offset="1"/>
+   <stop stop-color="#9f9fa5" stop-opacity="0" offset="0"/>
+   <stop stop-color="#9f9fa5" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient65" x1="32" x2="33" y1="8.5" y2="8.5" gradientUnits="userSpaceOnUse">
-   <stop id="stop65" stop-color="#9f9fa5" stop-opacity="0" offset="0"/>
-   <stop id="stop64" stop-color="#9f9fa5" offset="1"/>
+   <stop stop-color="#9f9fa5" stop-opacity="0" offset="0"/>
+   <stop stop-color="#9f9fa5" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient67" x1="30" x2="32" y1="13" y2="13" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient66"/>
   <linearGradient id="linearGradient68" x1="30" x2="32" y1="13" y2="13" gradientTransform="matrix(-1 0 0 1 64 .0004455)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient66"/>
  </defs>
- <!-- Background / base square -->
- <rect id="rect1" transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#2f89e2"/>
- <path id="path1-5" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#6baaea" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path31" d="m12 36a20 15 0 0 0 20 15 20 15 0 0 0 20-15h-4a16 11 0 0 1-16 11 16 11 0 0 1-16-11h-4z" fill="#3f3f43" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width="1.1547" style="paint-order:stroke fill markers"/>
- <g id="g27" stroke-width=".6358">
-  <path id="path59" d="m29 21 16 33 5 2v-5l-15-30z" fill="#959591"/>
-  <path id="path61" d="m32 21 15 31 3 4v-5l-15-30z" fill="#eeeeed"/>
+ <rect transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#2f89e2"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#6baaea" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m12 36a20 15 0 0 0 20 15 20 15 0 0 0 20-15h-4a16 11 0 0 1-16 11 16 11 0 0 1-16-11h-4z" fill="#3f3f43" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width="1.1547" style="paint-order:stroke fill markers"/>
+ <g stroke-width=".6358">
+  <path d="m29 21 16 33 5 2v-5l-15-30z" fill="#959591"/>
+  <path d="m32 21 15 31 3 4v-5l-15-30z" fill="#eeeeed"/>
  </g>
- <g id="g2" transform="matrix(1 0 0 .9988 0 -1.9935)">
-  <path id="path60" d="m30 7.002v4.998l0.98828 1.998-0.01172 2.0059h2.0234l0.011719-2.0059 0.98828-1.998v-4.998z" fill="#2c2c2f" stroke-width=".50588"/>
-  <path id="rect61" d="m30 7.002h1v4.998h-1z" fill="url(#linearGradient63)" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
-  <path id="rect62" d="m32 7.002h1v4.998h-1z" fill="url(#linearGradient65)" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
-  <path id="path65" d="m31 12 1 2v2.0039l-1.0118 0.0089v-2.0156l-0.98824-1.9972z" fill="url(#linearGradient67)" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
-  <path id="path67" d="m33 12-1 2-0.01174 1.9946 1.0118 0.0089 0.01174-2.0063 0.98824-1.9972z" fill="url(#linearGradient68)" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
+ <g transform="matrix(1 0 0 .9988 0 -1.9935)">
+  <path d="m30 7.002v4.998l0.98828 1.998-0.01172 2.0059h2.0234l0.011719-2.0059 0.98828-1.998v-4.998z" fill="#2c2c2f" stroke-width=".50588"/>
+  <path d="m30 7.002h1v4.998h-1z" fill="url(#linearGradient63)" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
+  <path d="m32 7.002h1v4.998h-1z" fill="url(#linearGradient65)" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
+  <path d="m31 12 1 2v2.0039l-1.0118 0.0089v-2.0156l-0.98824-1.9972z" fill="url(#linearGradient67)" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
+  <path d="m33 12-1 2-0.01174 1.9946 1.0118 0.0089 0.01174-2.0063 0.98824-1.9972z" fill="url(#linearGradient68)" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
  </g>
- <g id="g28" transform="matrix(-1,0,0,1,64,0)" stroke-width=".6358">
-  <path id="path27" d="m29 21 16 33 5 2v-5l-15-30z" fill="#959591"/>
-  <path id="path28" d="m32 21 15 31 3 4v-5l-15-30z" fill="#eeeeed"/>
+ <g transform="matrix(-1,0,0,1,64,0)" stroke-width=".6358">
+  <path d="m29 21 16 33 5 2v-5l-15-30z" fill="#959591"/>
+  <path d="m32 21 15 31 3 4v-5l-15-30z" fill="#eeeeed"/>
  </g>
- <path id="path70" d="m39 21c0 3.8669-3.1331 7-7 7s-7-3.1331-7-7 3.1331-7 7-7 7 3.1331 7 7" fill="#1e1e20" stroke-width=".58333"/>
- <path id="path71" d="m36.722 21a4.7215 4.7215 0 1 1-9.4431 0 4.7215 4.7215 0 0 1 9.4431 0" fill="#d9d8d6" stroke-width=".59019"/>
- <path id="path74" d="m32 23.361c-1.3043 0-2.3608-1.0564-2.3608-2.3608s1.0564-2.3608 2.3608-2.3608 2.3608 1.0564 2.3608 2.3608-1.0564 2.3608-2.3608 2.3608" fill="#1e1e20" stroke-width=".59019"/>
- <path id="path29" d="m50 51-3 1-2 2 5 2z" fill="#3f3f43" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
- <path id="path30" d="m14 51 3 1 2 2-5 2z" fill="#3f3f43" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
- <path id="rect30" d="m28 32h8l1 2h-10z" fill="#3f3f43" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width="1.118" style="paint-order:stroke fill markers"/>
- <path id="rect31" d="m31 46.979v2.0215c0 0.554 0.446 1 1 1s1-0.446 1-1v-2.0215a16 11 0 0 1-1 0.021484 16 11 0 0 1-1-0.021484z" fill="#eeeeed" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
- <path id="path32" d="m39.029 45.881a16 11 0 0 1-1.998 0.56055l0.54688 1.834c0.15863 0.53211 0.73311 0.83791 1.2871 0.68555 0.554-0.15236 0.87152-0.70422 0.71289-1.2363l-0.54883-1.8438z" fill="#eeeeed" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width="1.0194" style="paint-order:stroke fill markers"/>
- <path id="path33" d="m25.049 45.908-0.54688 1.8105c-0.16029 0.53029 0.13592 1.0877 0.66602 1.248 0.5301 0.16035 1.0878-0.13768 1.248-0.66797l0.56055-1.8555a16 11 0 0 1-1.9277-0.53516z" fill="#eeeeed" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".99982" style="paint-order:stroke fill markers"/>
- <path id="path37" d="m47.652 38.281a16 11 0 0 1-0.81055 1.8281l1.7227 0.79688c0.50267 0.23288 1.0933 0.016345 1.3262-0.48633 0.23289-0.50267 0.016344-1.0952-0.48633-1.3281l-1.752-0.81055z" fill="#eeeeed" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
- <path id="path38" d="m16.365 38.34-1.625 0.75195c-0.50267 0.23289-0.71921 0.82545-0.48633 1.3281 0.23289 0.50267 0.82545 0.71921 1.3281 0.48633l1.6074-0.74414a16 11 0 0 1-0.82422-1.8223z" fill="#eeeeed" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
+ <path d="m39 21c0 3.8669-3.1331 7-7 7s-7-3.1331-7-7 3.1331-7 7-7 7 3.1331 7 7" fill="#1e1e20" stroke-width=".58333"/>
+ <path d="m36.722 21a4.7215 4.7215 0 1 1-9.4431 0 4.7215 4.7215 0 0 1 9.4431 0" fill="#d9d8d6" stroke-width=".59019"/>
+ <path d="m32 23.361c-1.3043 0-2.3608-1.0564-2.3608-2.3608s1.0564-2.3608 2.3608-2.3608 2.3608 1.0564 2.3608 2.3608-1.0564 2.3608-2.3608 2.3608" fill="#1e1e20" stroke-width=".59019"/>
+ <path d="m50 51-3 1-2 2 5 2z" fill="#3f3f43" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
+ <path d="m14 51 3 1 2 2-5 2z" fill="#3f3f43" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
+ <path d="m28 32h8l1 2h-10z" fill="#3f3f43" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width="1.118" style="paint-order:stroke fill markers"/>
+ <path d="m31 46.979v2.0215c0 0.554 0.446 1 1 1s1-0.446 1-1v-2.0215a16 11 0 0 1-1 0.021484 16 11 0 0 1-1-0.021484z" fill="#eeeeed" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
+ <path d="m39.029 45.881a16 11 0 0 1-1.998 0.56055l0.54688 1.834c0.15863 0.53211 0.73311 0.83791 1.2871 0.68555 0.554-0.15236 0.87152-0.70422 0.71289-1.2363l-0.54883-1.8438z" fill="#eeeeed" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width="1.0194" style="paint-order:stroke fill markers"/>
+ <path d="m25.049 45.908-0.54688 1.8105c-0.16029 0.53029 0.13592 1.0877 0.66602 1.248 0.5301 0.16035 1.0878-0.13768 1.248-0.66797l0.56055-1.8555a16 11 0 0 1-1.9277-0.53516z" fill="#eeeeed" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".99982" style="paint-order:stroke fill markers"/>
+ <path d="m47.652 38.281a16 11 0 0 1-0.81055 1.8281l1.7227 0.79688c0.50267 0.23288 1.0933 0.016345 1.3262-0.48633 0.23289-0.50267 0.016344-1.0952-0.48633-1.3281l-1.752-0.81055z" fill="#eeeeed" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
+ <path d="m16.365 38.34-1.625 0.75195c-0.50267 0.23289-0.71921 0.82545-0.48633 1.3281 0.23289 0.50267 0.82545 0.71921 1.3281 0.48633l1.6074-0.74414a16 11 0 0 1-0.82422-1.8223z" fill="#eeeeed" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
 </svg>

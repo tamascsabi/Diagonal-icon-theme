@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#3073f1"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#06255e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path16" d="m36.984 11-10.984 12h5v21h2l-5 5-5-5h2v-14h-3v11h-5l11.016 12 10.984-12h-5v-21h-2l5-5 5 5h-2v14h3v-11h5z" fill="#f9f9f9" stop-color="#000000"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#3073f1"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#06255e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m36.984 11-10.984 12h5v21h2l-5 5-5-5h2v-14h-3v11h-5l11.016 12 10.984-12h-5v-21h-2l5-5 5 5h-2v14h3v-11h5z" fill="#f9f9f9" stop-color="#000000"/>
 </svg>

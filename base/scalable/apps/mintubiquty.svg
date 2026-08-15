@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#5fdf6c"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#0daa1c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path1-1" d="m29 8v15h-7l10 13 10-13h-7v-15z" fill="#f6f5f4" stroke-width="2.5151"/>
- <path id="rect9" d="m4 43v11c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-11h-56z" fill="#187721" stroke-width=".88939"/>
- <rect id="rect11" x="18" y="49" width="11" height="4" fill="#86e790" stroke-width="0"/>
- <rect id="rect12" x="35" y="49" width="12" height="4" fill="#d4f7d7" stroke-width="0"/>
- <circle id="circle10" cx="32" cy="51" r="5" fill="#a8eeaf" stroke-width="0"/>
- <circle id="circle11" cx="50" cy="51" r="5" fill="#effcf0" stroke-width="0"/>
- <circle id="path10" cx="14" cy="51" r="5" fill="#5fdf6c" stroke-width="0"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#5fdf6c"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#0daa1c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m29 8v15h-7l10 13 10-13h-7v-15z" fill="#f6f5f4" stroke-width="2.5151"/>
+ <path d="m4 43v11c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-11h-56z" fill="#187721" stroke-width=".88939"/>
+ <rect x="18" y="49" width="11" height="4" fill="#86e790" stroke-width="0"/>
+ <rect x="35" y="49" width="12" height="4" fill="#d4f7d7" stroke-width="0"/>
+ <circle cx="32" cy="51" r="5" fill="#a8eeaf" stroke-width="0"/>
+ <circle cx="50" cy="51" r="5" fill="#effcf0" stroke-width="0"/>
+ <circle cx="14" cy="51" r="5" fill="#5fdf6c" stroke-width="0"/>
 </svg>

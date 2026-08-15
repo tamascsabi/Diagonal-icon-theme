@@ -1,17 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#9d6bfb"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#332156" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="rect2" d="m13 4h41c3.324 0 6 2.676 6 6v19l-19 19h-15l-12 12v-12h-10v-35z" fill="#613fa0"/>
- <path id="path2" d="m10 10h44v17l-15 15h-13l-8 8v-8h-8v-25z" fill="#fff" stroke-linecap="square" stroke-miterlimit="0" stroke-width=".5"/>
- <path id="path2-5" d="m27.112 11c-9.9289 0.49312-17.58 8.9848-17.09 18.967 0.22326 4.5488 2.1444 8.8457 5.3799 12.033h25.196c3.6758-3.6212 5.634-8.651 5.3799-13.819-0.4905-9.982-8.937-17.674-18.866-17.181z" fill="#070105" stroke-width="3.8815" style="paint-order:markers stroke fill"/>
- <path id="path9" d="m28 32c-6.6274 0-12 4.4772-12 10h2v3l7-2 1-1h14c0-5.5228-5.3726-10-12-10z" fill="#fefdfe" stroke-linecap="square" stroke-miterlimit="0" stroke-width=".54772"/>
- <path id="path5" d="m28 43-7-11h14z" fill="#ff8308" stroke-width="2.1385" style="paint-order:markers stroke fill"/>
- <circle id="circle3" transform="rotate(2.8284)" cx="22.168" cy="22.934" r="6" fill="#fff" stroke-width="2.5808" style="paint-order:markers stroke fill"/>
- <circle id="circle5" transform="rotate(2.8284)" cx="24.166" cy="22.835" r="2" fill="#070105" stroke-width=".86025" style="paint-order:markers stroke fill"/>
- <circle id="path3" transform="matrix(-.99878 .049345 .049345 .99878 0 0)" cx="-33.78" cy="25.698" r="6" fill="#fff" stroke-width="2.5808" style="paint-order:markers stroke fill"/>
- <circle id="circle4" transform="matrix(-.99878 .049345 .049345 .99878 0 0)" cx="-31.783" cy="25.6" r="2" fill="#070105" stroke-width=".86025" style="paint-order:markers stroke fill"/>
- <path id="path8" d="m45 36-7 7h7z" fill="#613fa0" stroke-linecap="square" stroke-miterlimit="0" stroke-width=".5"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#9d6bfb"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#332156" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m13 4h41c3.324 0 6 2.676 6 6v19l-19 19h-15l-12 12v-12h-10v-35z" fill="#613fa0"/>
+ <path d="m10 10h44v17l-15 15h-13l-8 8v-8h-8v-25z" fill="#fff" stroke-linecap="square" stroke-miterlimit="0" stroke-width=".5"/>
+ <path d="m27.112 11c-9.9289 0.49312-17.58 8.9848-17.09 18.967 0.22326 4.5488 2.1444 8.8457 5.3799 12.033h25.196c3.6758-3.6212 5.634-8.651 5.3799-13.819-0.4905-9.982-8.937-17.674-18.866-17.181z" fill="#070105" stroke-width="3.8815" style="paint-order:markers stroke fill"/>
+ <path d="m28 32c-6.6274 0-12 4.4772-12 10h2v3l7-2 1-1h14c0-5.5228-5.3726-10-12-10z" fill="#fefdfe" stroke-linecap="square" stroke-miterlimit="0" stroke-width=".54772"/>
+ <path d="m28 43-7-11h14z" fill="#ff8308" stroke-width="2.1385" style="paint-order:markers stroke fill"/>
+ <circle transform="rotate(2.8284)" cx="22.168" cy="22.934" r="6" fill="#fff" stroke-width="2.5808" style="paint-order:markers stroke fill"/>
+ <circle transform="rotate(2.8284)" cx="24.166" cy="22.835" r="2" fill="#070105" stroke-width=".86025" style="paint-order:markers stroke fill"/>
+ <circle transform="matrix(-.99878 .049345 .049345 .99878 0 0)" cx="-33.78" cy="25.698" r="6" fill="#fff" stroke-width="2.5808" style="paint-order:markers stroke fill"/>
+ <circle transform="matrix(-.99878 .049345 .049345 .99878 0 0)" cx="-31.783" cy="25.6" r="2" fill="#070105" stroke-width=".86025" style="paint-order:markers stroke fill"/>
+ <path d="m45 36-7 7h7z" fill="#613fa0" stroke-linecap="square" stroke-miterlimit="0" stroke-width=".5"/>
 </svg>

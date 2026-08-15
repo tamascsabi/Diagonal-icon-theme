@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#50affa"/>
- <path id="path1" d="m4 54 56-44c0-2-4-6-6-6h-44c-1 0-6 5-6 6z" fill="#0784e6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path3" d="m54 4c3.324 0 6 2.676 6 6v1h-6v8h-25v-8h-25v-1c0-3.1162 2.3519-5.6626 5.3848-5.9688 0.20219-0.020411 0.40748-0.03125 0.61523-0.03125h28zm0 16v8h-25v-8zm0 9v8h-25v-8zm0 9v5c0 1.662-1.338 3-3 3h-19c-1.662 0-3-1.338-3-3v-5z" fill="#daffde" stroke-width=".84375"/>
- <circle id="circle1" transform="scale(-1,1)" cx="-49" cy="24" r="3" fill="#0784e6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <circle id="circle2" transform="scale(-1,1)" cx="-49" cy="15" r="3" fill="#ff212a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <circle id="circle3" transform="scale(-1,1)" cx="-49" cy="33" r="3" fill="#00b616" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <circle id="circle4" transform="scale(-1,1)" cx="-49" cy="42" r="3" fill="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#50affa"/>
+ <path d="m4 54 56-44c0-2-4-6-6-6h-44c-1 0-6 5-6 6z" fill="#0784e6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m54 4c3.324 0 6 2.676 6 6v1h-6v8h-25v-8h-25v-1c0-3.1162 2.3519-5.6626 5.3848-5.9688 0.20219-0.020411 0.40748-0.03125 0.61523-0.03125h28zm0 16v8h-25v-8zm0 9v8h-25v-8zm0 9v5c0 1.662-1.338 3-3 3h-19c-1.662 0-3-1.338-3-3v-5z" fill="#daffde" stroke-width=".84375"/>
+ <circle transform="scale(-1,1)" cx="-49" cy="24" r="3" fill="#0784e6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <circle transform="scale(-1,1)" cx="-49" cy="15" r="3" fill="#ff212a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <circle transform="scale(-1,1)" cx="-49" cy="33" r="3" fill="#00b616" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <circle transform="scale(-1,1)" cx="-49" cy="42" r="3" fill="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
 </svg>

@@ -1,18 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs1">
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
   <linearGradient id="b" x1="1" x2="35" y1="10" y2="44" gradientTransform="matrix(.93434 0 0 .93436 2.4424 1.3011)" gradientUnits="userSpaceOnUse">
-   <stop id="stop3" stop-color="#2980b9" offset="0"/>
-   <stop id="stop4" stop-color="#007d56" offset="1"/>
+   <stop stop-color="#2980b9" offset="0"/>
+   <stop stop-color="#007d56" offset="1"/>
   </linearGradient>
  </defs>
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#b3e0ff"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#0092f2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="circle6" d="m55 32.001c-1e-6 12.702-10.239 22.592-22.941 22.592s-23.058-9.8892-23.058-22.592c-1e-7 -12.702 10.297-23 22.999-23 12.702 6e-7 22.999 10.297 22.999 23z" fill="#bdc3c7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3"/>
- <path id="circle1" d="m32 9c-12.702 7.661e-4 -22.998 10.298-22.998 23-0.0019531 13 10.53 22.533 23.231 22.533 7.1791 3.78e-4 13.713-2.885 18.064-8.596l-17.297-14.938 17.088-13.205c-4.36-5.5523-11.028-8.7947-18.088-8.7949z" fill="#29c631" stroke-linejoin="round" stroke-width="2.3"/>
- <ellipse id="circle8" cx="32" cy="32" rx="19" ry="19" fill="#fcfcfc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.375"/>
- <path id="ellipse6" d="m9 32c0 10 6.6232 22.999 23 23 7.477 1.84e-4 14.121-3.5677 18.322-9.0938l-1.6819-1.3993c-4 5-9.4432 8.4792-16.64 8.493-12.296-0.023578-21.592-10-23-21z" fill="#135b17" stroke-linejoin="round" stroke-width="2.3"/>
- <path id="path10" d="m30 8v32.291c-1.6502-1.4756-3.7863-2.2912-6-2.291-4.9706 0-9 4.0294-9 9s4.0294 9 9 9c6.8378 0 9-4 9-10 0.14659-8.0268 0-17.517 0-26 0 0 9 1.8001 9 11 0 6.8998-1.2501 9.25-7 15 5.7499-3.4499 10-8.1002 10-15 0-9.1999-7.1819-13.182-9-15-1.15-1.1499-2.8496-5.8496-2.8496-5.8496z" fill="url(#b)"/>
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#b3e0ff"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#0092f2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m55 32.001c-1e-6 12.702-10.239 22.592-22.941 22.592s-23.058-9.8892-23.058-22.592c-1e-7 -12.702 10.297-23 22.999-23 12.702 6e-7 22.999 10.297 22.999 23z" fill="#bdc3c7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3"/>
+ <path d="m32 9c-12.702 7.661e-4 -22.998 10.298-22.998 23-0.0019531 13 10.53 22.533 23.231 22.533 7.1791 3.78e-4 13.713-2.885 18.064-8.596l-17.297-14.938 17.088-13.205c-4.36-5.5523-11.028-8.7947-18.088-8.7949z" fill="#29c631" stroke-linejoin="round" stroke-width="2.3"/>
+ <ellipse cx="32" cy="32" rx="19" ry="19" fill="#fcfcfc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.375"/>
+ <path d="m9 32c0 10 6.6232 22.999 23 23 7.477 1.84e-4 14.121-3.5677 18.322-9.0938l-1.6819-1.3993c-4 5-9.4432 8.4792-16.64 8.493-12.296-0.023578-21.592-10-23-21z" fill="#135b17" stroke-linejoin="round" stroke-width="2.3"/>
+ <path d="m30 8v32.291c-1.6502-1.4756-3.7863-2.2912-6-2.291-4.9706 0-9 4.0294-9 9s4.0294 9 9 9c6.8378 0 9-4 9-10 0.14659-8.0268 0-17.517 0-26 0 0 9 1.8001 9 11 0 6.8998-1.2501 9.25-7 15 5.7499-3.4499 10-8.1002 10-15 0-9.1999-7.1819-13.182-9-15-1.15-1.1499-2.8496-5.8496-2.8496-5.8496z" fill="url(#b)"/>
 </svg>

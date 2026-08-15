@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#bddbff" fill-opacity=".99608"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#4ba0f8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path21" d="m40.05 36.95a7.0001 7.0001 0 0 1 0-9.8995 7.0001 7.0001 0 0 1 9.8995 0 7.0001 7.0001 0 0 1 0 9.8995 7.0001 7.0001 0 0 1-9.8995 1e-6z" color="#000000" fill="#f30c00" stroke-width="1.5555"/>
- <path id="path23" d="m27.05 49.95a7.0001 7.0001 0 0 1 0-9.8995 7.0001 7.0001 0 0 1 9.8995 0 7.0001 7.0001 0 0 1 0 9.8995 7.0001 7.0001 0 0 1-9.8995 0z" color="#000000" fill="#6bea00" stroke-width="1.5555"/>
- <path id="path4" d="m14.05 36.95a7.0001 7.0001 0 0 1 0-9.8995 7.0001 7.0001 0 0 1 9.8995 0 7.0001 7.0001 0 0 1 0 9.8995 7.0001 7.0001 0 0 1-9.8995 1e-6z" color="#000000" fill="#0072ec" stroke-width="1.5555"/>
- <path id="path5" d="m27.05 23.95a7.0001 7.0001 0 0 1 0-9.8995 7.0001 7.0001 0 0 1 9.8995 0 7.0001 7.0001 0 0 1 0 9.8995 7.0001 7.0001 0 0 1-9.8995 0z" color="#000000" fill="#ffce38" stroke-width="1.5555"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#bddbff" fill-opacity=".99608"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#4ba0f8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m40.05 36.95a7.0001 7.0001 0 0 1 0-9.8995 7.0001 7.0001 0 0 1 9.8995 0 7.0001 7.0001 0 0 1 0 9.8995 7.0001 7.0001 0 0 1-9.8995 1e-6z" color="#000000" fill="#f30c00" stroke-width="1.5555"/>
+ <path d="m27.05 49.95a7.0001 7.0001 0 0 1 0-9.8995 7.0001 7.0001 0 0 1 9.8995 0 7.0001 7.0001 0 0 1 0 9.8995 7.0001 7.0001 0 0 1-9.8995 0z" color="#000000" fill="#6bea00" stroke-width="1.5555"/>
+ <path d="m14.05 36.95a7.0001 7.0001 0 0 1 0-9.8995 7.0001 7.0001 0 0 1 9.8995 0 7.0001 7.0001 0 0 1 0 9.8995 7.0001 7.0001 0 0 1-9.8995 1e-6z" color="#000000" fill="#0072ec" stroke-width="1.5555"/>
+ <path d="m27.05 23.95a7.0001 7.0001 0 0 1 0-9.8995 7.0001 7.0001 0 0 1 9.8995 0 7.0001 7.0001 0 0 1 0 9.8995 7.0001 7.0001 0 0 1-9.8995 0z" color="#000000" fill="#ffce38" stroke-width="1.5555"/>
 </svg>

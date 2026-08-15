@@ -1,20 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs1">
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
   <linearGradient id="d-6" x1="-29.927" x2="-5.596" y1="38.938" y2="14.608" gradientTransform="matrix(.98756 0 0 .98756 17.587 18.795)" gradientUnits="userSpaceOnUse">
-   <stop id="stop1-5-2" stop-color="#fecfb1" offset="0"/>
-   <stop id="stop2-3-6" stop-color="#7a5eff" offset="1"/>
+   <stop stop-color="#fecfb1" offset="0"/>
+   <stop stop-color="#7a5eff" offset="1"/>
   </linearGradient>
   <linearGradient id="e-5" x1="-31.441" x2="-13.051" y1="26.773" y2="18.708" gradientTransform="matrix(.98308 0 0 .98308 17.418 18.85)" gradientUnits="userSpaceOnUse">
-   <stop id="stop3-2" stop-color="#fbb68a" offset="0"/>
-   <stop id="stop4-9" stop-color="#5736ff" offset="1"/>
+   <stop stop-color="#fbb68a" offset="0"/>
+   <stop stop-color="#5736ff" offset="1"/>
   </linearGradient>
  </defs>
- <path id="rect1" d="m10 4h44c3.324 0 6 2.676 6 6v44c0 3.324-2.676 6-6 6h-44c-3.324 0-6-2.676-6-6v-44c0-3.324 2.676-6 6-6z" fill="#f9f9f9"/>
- <!-- Background / base square -->
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#c7d6fe" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <rect id="rect7" transform="matrix(.70671 -.7075 .70671 .7075 0 0)" x="-18.234" y="26.996" width="36.554" height="36.554" ry="6.9209" fill="url(#d-6)" stroke-width="1.3361" style="-webkit-print-color-adjust:exact"/>
- <rect id="rect8" transform="rotate(-45)" x="-18.241" y="27.014" width="30.825" height="30.825" rx="6.7658" ry="6.7658" fill="url(#e-5)" stroke-width="1.33" style="-webkit-print-color-adjust:exact"/>
- <path id="path2" d="m10 4c-3.324 0-6 2.676-6 6v44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44c0-3.324-2.676-6-6-6h-44zm1 3h42c2.216 0 4 1.784 4 4v42c0 2.216-1.784 4-4 4h-42c-2.216 0-4-1.784-4-4v-42c0-2.216 1.784-4 4-4z" fill="#7600f0"/>
+ <path d="m10 4h44c3.324 0 6 2.676 6 6v44c0 3.324-2.676 6-6 6h-44c-3.324 0-6-2.676-6-6v-44c0-3.324 2.676-6 6-6z" fill="#f9f9f9"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#c7d6fe" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect transform="matrix(.70671 -.7075 .70671 .7075 0 0)" x="-18.234" y="26.996" width="36.554" height="36.554" ry="6.9209" fill="url(#d-6)" stroke-width="1.3361" style="-webkit-print-color-adjust:exact"/>
+ <rect transform="rotate(-45)" x="-18.241" y="27.014" width="30.825" height="30.825" rx="6.7658" ry="6.7658" fill="url(#e-5)" stroke-width="1.33" style="-webkit-print-color-adjust:exact"/>
+ <path d="m10 4c-3.324 0-6 2.676-6 6v44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44c0-3.324-2.676-6-6-6h-44zm1 3h42c2.216 0 4 1.784 4 4v42c0 2.216-1.784 4-4 4h-42c-2.216 0-4-1.784-4-4v-42c0-2.216 1.784-4 4-4z" fill="#7600f0"/>
 </svg>

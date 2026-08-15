@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#0384ff"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#004280" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path1-9" d="m28.944 38.681c2.7646 1.5454 7.8343 1.3686 8.4006 5.2494 0 5.3586-8.0876 4.272-10.027 2.1712l-0.66797-3.1113-1.6488-0.067186v6.0417c2.3751 0.99662 6.6384 1.0628 8 1.0628 7.5952 0 7.9837-4.8567 8-7.1045 0.05546-7.6462-12.997-4.8524-13.006-10.678-0.0051-3.228 5.8696-4.351 9.0059-2.4123l1 3.0209h2v-5.0348c-16.666-3.8709-17.923 7.0238-11.056 10.862zm-8.9435 6.256v9.0626h24v-2.0139h-22v-7.0487z" fill="#f9f9f9" stop-color="#000000"/>
- <rect id="rect4" x="26" y="4" width="7" height="5" fill="#f9f9f9" stroke-width="0"/>
- <rect id="rect5" x="31" y="8" width="7" height="5" fill="#f9f9f9" stroke-width="0"/>
- <rect id="rect6" x="26" y="12" width="7" height="5" fill="#f9f9f9" stroke-width="0"/>
- <rect id="rect7" x="31" y="16" width="7" height="5" fill="#f9f9f9" stroke-width="0"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#0384ff"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#004280" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m28.944 38.681c2.7646 1.5454 7.8343 1.3686 8.4006 5.2494 0 5.3586-8.0876 4.272-10.027 2.1712l-0.66797-3.1113-1.6488-0.067186v6.0417c2.3751 0.99662 6.6384 1.0628 8 1.0628 7.5952 0 7.9837-4.8567 8-7.1045 0.05546-7.6462-12.997-4.8524-13.006-10.678-0.0051-3.228 5.8696-4.351 9.0059-2.4123l1 3.0209h2v-5.0348c-16.666-3.8709-17.923 7.0238-11.056 10.862zm-8.9435 6.256v9.0626h24v-2.0139h-22v-7.0487z" fill="#f9f9f9" stop-color="#000000"/>
+ <rect x="26" y="4" width="7" height="5" fill="#f9f9f9" stroke-width="0"/>
+ <rect x="31" y="8" width="7" height="5" fill="#f9f9f9" stroke-width="0"/>
+ <rect x="26" y="12" width="7" height="5" fill="#f9f9f9" stroke-width="0"/>
+ <rect x="31" y="16" width="7" height="5" fill="#f9f9f9" stroke-width="0"/>
 </svg>

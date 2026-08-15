@@ -1,29 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs1">
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
   <linearGradient id="linearGradient156" x1="53" x2="52" y1="55" y2="11" gradientUnits="userSpaceOnUse">
-   <stop id="stop155" stop-color="#ff4bff" offset="0"/>
-   <stop id="stop156" stop-color="#530053" offset="1"/>
+   <stop stop-color="#ff4bff" offset="0"/>
+   <stop stop-color="#530053" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient158" x1="39" x2="39" y1="54" y2="35" gradientUnits="userSpaceOnUse">
-   <stop id="stop157" stop-color="#51ff3a" offset="0"/>
-   <stop id="stop158" stop-color="#0a5a00" offset="1"/>
+   <stop stop-color="#51ff3a" offset="0"/>
+   <stop stop-color="#0a5a00" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient160" x1="26" x2="25" y1="56" y2="25" gradientUnits="userSpaceOnUse">
-   <stop id="stop159" stop-color="#fff369" offset="0"/>
-   <stop id="stop160" stop-color="#847e00" offset="1"/>
+   <stop stop-color="#fff369" offset="0"/>
+   <stop stop-color="#847e00" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient162" x1="12.5" x2="12" y1="55" y2="7" gradientUnits="userSpaceOnUse">
-   <stop id="stop161" stop-color="#ff3a3d" offset="0"/>
-   <stop id="stop162" stop-color="#8a0003" offset="1"/>
+   <stop stop-color="#ff3a3d" offset="0"/>
+   <stop stop-color="#8a0003" offset="1"/>
   </linearGradient>
  </defs>
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6"/>
- <!-- Background / base square -->
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#424242" opacity=".90302" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="rect134" d="m7 15v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11z" fill="url(#linearGradient162)" stroke-width="2"/>
- <path id="rect135" d="m20 27v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11z" fill="url(#linearGradient160)" stroke-width="2"/>
- <path id="rect136" d="m33 39v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11z" fill="url(#linearGradient158)" stroke-width="2"/>
- <path id="rect137" d="m46 21v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11z" fill="url(#linearGradient156)" stroke-width="2"/>
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#424242" opacity=".90302" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m7 15v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11z" fill="url(#linearGradient162)" stroke-width="2"/>
+ <path d="m20 27v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11z" fill="url(#linearGradient160)" stroke-width="2"/>
+ <path d="m33 39v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11z" fill="url(#linearGradient158)" stroke-width="2"/>
+ <path d="m46 21v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11zm0 6v4h11v-4h-11z" fill="url(#linearGradient156)" stroke-width="2"/>
 </svg>

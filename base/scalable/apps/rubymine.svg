@@ -1,24 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs1">
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
   <linearGradient id="linearGradient16" x1="37" x2="36" y1="62" y2="7" gradientTransform="matrix(3.7795 0 0 3.7795 66.002 19.106)" gradientUnits="userSpaceOnUse">
-   <stop id="stop4-1" stop-color="#ff483d" offset="0"/>
-   <stop id="stop5-9" stop-color="#ffd570" offset="1"/>
+   <stop stop-color="#ff483d" offset="0"/>
+   <stop stop-color="#ffd570" offset="1"/>
   </linearGradient>
   <radialGradient id="radialGradient17" cx="4.9253" cy="41.852" r="28" gradientTransform="matrix(-1 0 0 -1.2143 57.925 62.82)" gradientUnits="userSpaceOnUse">
-   <stop id="stop1-8" stop-color="#b114ff" offset="0"/>
-   <stop id="stop2-9" stop-color="#ff24b8" offset=".427"/>
-   <stop id="stop3-73" stop-color="#ff247b" stop-opacity="0" offset="1"/>
+   <stop stop-color="#b114ff" offset="0"/>
+   <stop stop-color="#ff24b8" offset=".427"/>
+   <stop stop-color="#ff247b" stop-opacity="0" offset="1"/>
   </radialGradient>
  </defs>
- <!-- Background / base square -->
- <path id="rect5" d="m10 4c-3.324 0-6 2.676-6 6v44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44c0-3.324-2.676-6-6-6z" fill="url(#linearGradient16)"/>
- <path id="path7" d="m10 4c-3.324 0-6 2.676-6 6v44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44c0-3.324-2.676-6-6-6z" fill="url(#radialGradient17)"/>
- <rect id="rect11" x="11" y="11" width="42" height="42" rx="6.3" ry="6.3" fill="#001769" fill-rule="evenodd" stroke-width="1.05" style="paint-order:stroke fill markers"/>
- <path id="path1" d="m17.301 11c-3.4902 0-6.3008 2.8106-6.3008 6.3008v29.398c0 0.56467 0.07482 1.1128 0.21289 1.6328l41.574-32.664c-1.62e-4 -6.11e-4 1.63e-4 -0.0013 0-2e-3 -0.71598-2.6933-3.163-4.666-6.0879-4.666z" fill="#050601" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path11" d="m16 44h17v3h-17z" fill="#f9f9f9" stroke-width="1.1399"/>
- <text id="text11" x="15" y="32" fill="#3d62ea" font-family="'Adwaita Sans'" font-size="24px" font-weight="bold" stroke-width=".8" style="paint-order:markers stroke fill" xml:space="preserve"><tspan id="tspan11"/></text>
- <path id="text16" d="m16 35v-18h6.9844c1.3125 0 2.4453 0.24161 3.3984 0.72483 0.96094 0.47517 1.6992 1.1557 2.2148 2.0416 0.52344 0.87785 0.78516 1.9248 0.78516 3.1409 0 1.1839-0.27344 2.2107-0.82031 3.0805s-1.3164 1.5423-2.3086 2.0174c-0.98438 0.46712-2.1445 0.70067-3.4805 0.70067h-4.6055l-0.16797-2.706h5c0.84853 0 3 0 3-3s-2.452-3-3-3h-3v15zm9.9023 0-3.9961-8.1302h3.7852l4.3086 8.1302z" fill="#fff" stroke-width=".81226" style="paint-order:markers stroke fill" aria-label="RD"/>
- <path id="text18" d="m32 17v18h3v-13l5 13h2l5-13v13h3v-18h-4l-5 13-5-13h-4z" fill="#fff" stroke-width=".79386" style="paint-order:markers stroke fill"/>
+ <path d="m10 4c-3.324 0-6 2.676-6 6v44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44c0-3.324-2.676-6-6-6z" fill="url(#linearGradient16)"/>
+ <path d="m10 4c-3.324 0-6 2.676-6 6v44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44c0-3.324-2.676-6-6-6z" fill="url(#radialGradient17)"/>
+ <rect x="11" y="11" width="42" height="42" rx="6.3" ry="6.3" fill="#001769" fill-rule="evenodd" stroke-width="1.05" style="paint-order:stroke fill markers"/>
+ <path d="m17.301 11c-3.4902 0-6.3008 2.8106-6.3008 6.3008v29.398c0 0.56467 0.07482 1.1128 0.21289 1.6328l41.574-32.664c-1.62e-4 -6.11e-4 1.63e-4 -0.0013 0-2e-3 -0.71598-2.6933-3.163-4.666-6.0879-4.666z" fill="#050601" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m16 44h17v3h-17z" fill="#f9f9f9" stroke-width="1.1399"/>
+ <text x="15" y="32" fill="#3d62ea" font-family="'Adwaita Sans'" font-size="24px" font-weight="bold" stroke-width=".8" style="paint-order:markers stroke fill" xml:space="preserve"><tspan/></text>
+ <path d="m16 35v-18h6.9844c1.3125 0 2.4453 0.24161 3.3984 0.72483 0.96094 0.47517 1.6992 1.1557 2.2148 2.0416 0.52344 0.87785 0.78516 1.9248 0.78516 3.1409 0 1.1839-0.27344 2.2107-0.82031 3.0805s-1.3164 1.5423-2.3086 2.0174c-0.98438 0.46712-2.1445 0.70067-3.4805 0.70067h-4.6055l-0.16797-2.706h5c0.84853 0 3 0 3-3s-2.452-3-3-3h-3v15zm9.9023 0-3.9961-8.1302h3.7852l4.3086 8.1302z" fill="#fff" stroke-width=".81226" style="paint-order:markers stroke fill" aria-label="RD"/>
+ <path d="m32 17v18h3v-13l5 13h2l5-13v13h3v-18h-4l-5 13-5-13h-4z" fill="#fff" stroke-width=".79386" style="paint-order:markers stroke fill"/>
 </svg>

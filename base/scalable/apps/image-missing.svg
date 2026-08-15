@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#b1b1b1"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#d8d8d8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path6" d="m12.356 31c-2.8188-1.66e-4 -5.6262 0.34108-8.3556 1.0156v21.984c0 3.324 2.7949 6 6.2667 6h40.733c-1.6167-16.438-21.4-29-38.644-29z" fill="#898989" opacity=".54287" stroke-width="0"/>
- <path id="path7" d="m60 38c-12.263 0.74524-29.012 11.102-34 22h27.818c3.4247 0 6.1818-2.676 6.1818-6z" fill="#9b9b9b" opacity=".65536" stroke-width="0"/>
- <circle id="path8" cx="49" cy="18" r="5" fill="#9b9b9b" stroke-width="0"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#b1b1b1"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#d8d8d8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m12.356 31c-2.8188-1.66e-4 -5.6262 0.34108-8.3556 1.0156v21.984c0 3.324 2.7949 6 6.2667 6h40.733c-1.6167-16.438-21.4-29-38.644-29z" fill="#898989" opacity=".54287" stroke-width="0"/>
+ <path d="m60 38c-12.263 0.74524-29.012 11.102-34 22h27.818c3.4247 0 6.1818-2.676 6.1818-6z" fill="#9b9b9b" opacity=".65536" stroke-width="0"/>
+ <circle cx="49" cy="18" r="5" fill="#9b9b9b" stroke-width="0"/>
 </svg>

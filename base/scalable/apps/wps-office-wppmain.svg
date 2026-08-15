@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#9c4f00"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#f57c00" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path2" d="m15 45v-13.009h27.204s6.7964 0 6.7964-6.4935-6.7964-6.4978-6.7964-6.4978h-27.204" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" style="-webkit-print-color-adjust:exact"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#9c4f00"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#f57c00" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m15 45v-13.009h27.204s6.7964 0 6.7964-6.4935-6.7964-6.4978-6.7964-6.4978h-27.204" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" style="-webkit-print-color-adjust:exact"/>
 </svg>

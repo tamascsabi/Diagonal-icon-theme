@@ -1,158 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   id="svg31"
-   width="64"
-   height="64"
-   version="1.1"
-   sodipodi:docname="cosmic-workspaces.svg"
-   inkscape:version="1.4.4 (unknown)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1" />
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="true"
-     inkscape:zoom="12.71875"
-     inkscape:cx="32"
-     inkscape:cy="32"
-     inkscape:window-width="1920"
-     inkscape:window-height="1014"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg31">
-    <inkscape:grid
-       id="grid1"
-       units="px"
-       originx="0"
-       originy="0"
-       spacingx="1"
-       spacingy="1"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14901961"
-       empspacing="5"
-       enabled="true"
-       visible="true" />
-  </sodipodi:namedview>
-  <rect
-     id="rect1-6"
-     x="4"
-     y="4"
-     width="56"
-     height="56"
-     rx="6"
-     ry="6"
-     fill="#ce09e0"
-     style="fill:#49b8c6;fill-opacity:0.61960787" />
-  <path
-     id="path1"
-     d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z"
-     fill="#6d158c"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-miterlimit="3.2"
-     stroke-width="2"
-     style="paint-order:markers fill stroke;fill:#2d838e;fill-opacity:1" />
-  <rect
-     id="rect3"
-     x="9"
-     y="8"
-     width="24"
-     height="17"
-     ry="2"
-     fill="#dfca4f"
-     stroke-width="0"
-     style="fill:#ffc441;fill-opacity:1" />
-  <rect
-     id="rect4"
-     x="30"
-     y="20"
-     width="25"
-     height="17"
-     ry="2.2522678"
-     fill="#45c063"
-     stroke-width="0"
-     style="fill:#c4ffd5;fill-opacity:1" />
-  <path
-     id="rect1"
-     d="m4 53v1c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-1h-56z"
-     fill="#5e0166"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-miterlimit="3.2"
-     stroke-width="2.4343"
-     style="paint-order:markers fill stroke;fill:#1b4f56;fill-opacity:1" />
-  <path
-     id="rect2"
-     style="fill:#071516;fill-opacity:1"
-     d="M 11,8 C 9.892,8 9,8.892 9,10 v 4 H 33 V 10 C 33,8.892 32.108,8 31,8 Z"
-     sodipodi:nodetypes="ssccsss" />
-  <circle
-     style="fill:#f8fcfd;fill-opacity:1;stroke-width:62.676"
-     id="path6"
-     cx="30"
-     cy="11"
-     r="2" />
-  <circle
-     style="fill:#f8fcfd;fill-opacity:1;stroke-width:62.676"
-     id="circle6"
-     cx="24"
-     cy="11"
-     r="2" />
-  <path
-     id="path7"
-     style="fill:#071516;fill-opacity:1"
-     d="m 32,20 c -1.108,0 -2,0.892 -2,2 v 4 h 25 v -4 c 0,-1.108 -0.892,-2 -2,-2 z"
-     sodipodi:nodetypes="ssccsss" />
-  <circle
-     style="fill:#f8fcfd;fill-opacity:1;stroke-width:62.676"
-     id="circle7"
-     cx="52"
-     cy="23"
-     r="2" />
-  <circle
-     style="fill:#f8fcfd;fill-opacity:1;stroke-width:62.676"
-     id="circle8"
-     cx="46"
-     cy="23"
-     r="2" />
-  <rect
-     id="rect5"
-     x="13"
-     y="30"
-     width="30"
-     height="21"
-     ry="2.0000002"
-     fill="#4082fe"
-     stroke-width="0"
-     style="fill:#ff1dc1;fill-opacity:1" />
-  <path
-     id="path8"
-     style="fill:#071516;fill-opacity:1"
-     d="m 15,30 c -1.108,0 -2,0.892 -2,2 v 4 h 30 v -4 c 0,-1.108 -0.892,-2 -2,-2 z"
-     sodipodi:nodetypes="ssccsss" />
-  <circle
-     style="fill:#f8fcfd;fill-opacity:1;stroke-width:62.676"
-     id="circle9"
-     cx="40"
-     cy="33"
-     r="2" />
-  <circle
-     style="fill:#f8fcfd;fill-opacity:1;stroke-width:62.676"
-     id="circle10"
-     cx="34"
-     cy="33"
-     r="2" />
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#49b8c6" fill-opacity=".61961"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#2d838e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect x="9" y="8" width="24" height="17" ry="2" fill="#ffc441" stroke-width="0"/>
+ <rect x="30" y="20" width="25" height="17" ry="2.2523" fill="#c4ffd5" stroke-width="0"/>
+ <path d="m4 53v1c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-1h-56z" fill="#1b4f56" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.4343" style="paint-order:markers fill stroke"/>
+ <path d="m11 8c-1.108 0-2 0.892-2 2v4h24v-4c0-1.108-0.892-2-2-2z" fill="#071516"/>
+ <circle cx="30" cy="11" r="2" fill="#f8fcfd" stroke-width="62.676"/>
+ <circle cx="24" cy="11" r="2" fill="#f8fcfd" stroke-width="62.676"/>
+ <path d="m32 20c-1.108 0-2 0.892-2 2v4h25v-4c0-1.108-0.892-2-2-2z" fill="#071516"/>
+ <circle cx="52" cy="23" r="2" fill="#f8fcfd" stroke-width="62.676"/>
+ <circle cx="46" cy="23" r="2" fill="#f8fcfd" stroke-width="62.676"/>
+ <rect x="13" y="30" width="30" height="21" ry="2" fill="#ff1dc1" stroke-width="0"/>
+ <path d="m15 30c-1.108 0-2 0.892-2 2v4h30v-4c0-1.108-0.892-2-2-2z" fill="#071516"/>
+ <circle cx="40" cy="33" r="2" fill="#f8fcfd" stroke-width="62.676"/>
+ <circle cx="34" cy="33" r="2" fill="#f8fcfd" stroke-width="62.676"/>
 </svg>

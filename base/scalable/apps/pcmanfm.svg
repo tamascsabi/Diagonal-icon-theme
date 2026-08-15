@@ -1,25 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs id="defs18">
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
   <linearGradient id="linearGradient26">
-   <stop id="stop20" stop-color="#8c9198" offset="0"/>
-   <stop id="stop21" stop-color="#acb0b5" offset=".10599"/>
-   <stop id="stop22" stop-color="#d5d6d9" offset=".26066"/>
-   <stop id="stop23" stop-color="#eeeff0" offset=".50905"/>
-   <stop id="stop24" stop-color="#d5d6d9" offset=".77497"/>
-   <stop id="stop25" stop-color="#acb0b5" offset=".8875"/>
-   <stop id="stop26" stop-color="#8c9198" offset=".99978"/>
+   <stop stop-color="#8c9198" offset="0"/>
+   <stop stop-color="#acb0b5" offset=".10599"/>
+   <stop stop-color="#d5d6d9" offset=".26066"/>
+   <stop stop-color="#eeeff0" offset=".50905"/>
+   <stop stop-color="#d5d6d9" offset=".77497"/>
+   <stop stop-color="#acb0b5" offset=".8875"/>
+   <stop stop-color="#8c9198" offset=".99978"/>
   </linearGradient>
   <linearGradient id="linearGradient20" x1="20" x2="44" y1="18.5" y2="18.5" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient26"/>
   <linearGradient id="linearGradient28" x1="20" x2="44" y1="18.5" y2="18.5" gradientTransform="translate(0,27)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient26"/>
  </defs>
- <rect id="rect1-6" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#3285e5"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#145eb1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <rect id="rect16" x="6" y="29" width="52" height="5" fill="#104b8e" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".42258" style="paint-order:stroke markers fill"/>
- <path id="rect15" d="m10 4c-3.324 0-6 2.676-6 6v44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44c0-3.324-2.676-6-6-6h-44zm1 4h42c1.662 0 3 1.338 3 3v42c0 1.662-1.338 3-3 3h-42c-1.662 0-3-1.338-3-3v-42c0-1.662 1.338-3 3-3z" fill="#ccc"/>
- <rect id="rect26" x="19" y="14" width="26" height="9" ry="4.5" fill="#0c3667" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".5" style="paint-order:stroke markers fill"/>
- <rect id="rect17" x="20" y="15" width="24" height="7" ry="3.5" fill="url(#linearGradient20)" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".5" style="paint-order:stroke markers fill"/>
- <rect id="rect27" x="19" y="41" width="26" height="9" ry="4.5" fill="#0c3667" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".5" style="paint-order:stroke markers fill"/>
- <rect id="rect28" x="20" y="42" width="24" height="7" ry="3.5" fill="url(#linearGradient28)" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".5" style="paint-order:stroke markers fill"/>
- <path id="rect29" d="m8 29v5h21.882l5.9365-5z" fill="#3285e5" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".40816" style="paint-order:stroke markers fill"/>
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#3285e5"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#145eb1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect x="6" y="29" width="52" height="5" fill="#104b8e" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".42258" style="paint-order:stroke markers fill"/>
+ <path d="m10 4c-3.324 0-6 2.676-6 6v44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44c0-3.324-2.676-6-6-6h-44zm1 4h42c1.662 0 3 1.338 3 3v42c0 1.662-1.338 3-3 3h-42c-1.662 0-3-1.338-3-3v-42c0-1.662 1.338-3 3-3z" fill="#ccc"/>
+ <rect x="19" y="14" width="26" height="9" ry="4.5" fill="#0c3667" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".5" style="paint-order:stroke markers fill"/>
+ <rect x="20" y="15" width="24" height="7" ry="3.5" fill="url(#linearGradient20)" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".5" style="paint-order:stroke markers fill"/>
+ <rect x="19" y="41" width="26" height="9" ry="4.5" fill="#0c3667" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".5" style="paint-order:stroke markers fill"/>
+ <rect x="20" y="42" width="24" height="7" ry="3.5" fill="url(#linearGradient28)" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".5" style="paint-order:stroke markers fill"/>
+ <path d="m8 29v5h21.882l5.9365-5z" fill="#3285e5" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".40816" style="paint-order:stroke markers fill"/>
 </svg>

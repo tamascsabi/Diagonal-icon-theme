@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#2a3e65"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#adbcdd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="rect4377" d="m11.044 30c-1.1326 0-2.0444 0.892-2.0444 2s0.91182 2 2.0444 2h41.911c1.1326 0 2.0444-0.86572 2.0444-1.9414v-0.11719c0-1.0757-0.91182-1.9414-2.0444-1.9414z" fill="#adbcdd" stroke-width="1.011"/>
- <path id="path4" d="m11.044 11c-1.1326 0-2.0444 0.892-2.0444 2s0.91182 2 2.0444 2h41.911c1.1326 0 2.0444-0.86572 2.0444-1.9414v-0.11719c0-1.0757-0.91182-1.9414-2.0444-1.9414z" fill="#2a3e65" stroke-width="1.011"/>
- <path id="path5" d="m11.044 49c-1.1326 0-2.0444 0.892-2.0444 2s0.91182 2 2.0444 2h41.911c1.1326 0 2.0444-0.86572 2.0444-1.9414v-0.11719c0-1.0757-0.91182-1.9414-2.0444-1.9414z" fill="#adbcdd" stroke-width="1.011"/>
- <path id="path8" d="m11.045 30c-1.1326 0-2.0449 0.892-2.0449 2s0.9123 2 2.0449 2h18.41l5.0898-4h-23.5z" fill="#2a3e65" stroke-width="1.011"/>
- <ellipse id="path3821-0" transform="rotate(90)" cx="13" cy="-35" rx="6" ry="6" color="#000000" fill="#267aaf" stroke-width=".85714"/>
- <ellipse id="ellipse6" transform="rotate(90)" cx="32" cy="-18" rx="6" ry="6" color="#000000" fill="#267aaf" stroke-width=".85714"/>
- <ellipse id="ellipse8" transform="rotate(90)" cx="51" cy="-45" rx="6" ry="6" color="#000000" fill="#267aaf" stroke-width=".85714"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#2a3e65"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#adbcdd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m11.044 30c-1.1326 0-2.0444 0.892-2.0444 2s0.91182 2 2.0444 2h41.911c1.1326 0 2.0444-0.86572 2.0444-1.9414v-0.11719c0-1.0757-0.91182-1.9414-2.0444-1.9414z" fill="#adbcdd" stroke-width="1.011"/>
+ <path d="m11.044 11c-1.1326 0-2.0444 0.892-2.0444 2s0.91182 2 2.0444 2h41.911c1.1326 0 2.0444-0.86572 2.0444-1.9414v-0.11719c0-1.0757-0.91182-1.9414-2.0444-1.9414z" fill="#2a3e65" stroke-width="1.011"/>
+ <path d="m11.044 49c-1.1326 0-2.0444 0.892-2.0444 2s0.91182 2 2.0444 2h41.911c1.1326 0 2.0444-0.86572 2.0444-1.9414v-0.11719c0-1.0757-0.91182-1.9414-2.0444-1.9414z" fill="#adbcdd" stroke-width="1.011"/>
+ <path d="m11.045 30c-1.1326 0-2.0449 0.892-2.0449 2s0.9123 2 2.0449 2h18.41l5.0898-4h-23.5z" fill="#2a3e65" stroke-width="1.011"/>
+ <ellipse transform="rotate(90)" cx="13" cy="-35" rx="6" ry="6" color="#000000" fill="#267aaf" stroke-width=".85714"/>
+ <ellipse transform="rotate(90)" cx="32" cy="-18" rx="6" ry="6" color="#000000" fill="#267aaf" stroke-width=".85714"/>
+ <ellipse transform="rotate(90)" cx="51" cy="-45" rx="6" ry="6" color="#000000" fill="#267aaf" stroke-width=".85714"/>
 </svg>

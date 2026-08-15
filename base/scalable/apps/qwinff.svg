@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path id="rect1" d="m10 4h44c3.324 0 6 2.676 6 6v44c0 3.324-2.676 6-6 6h-44c-3.324 0-6-2.676-6-6v-44c0-3.324 2.676-6 6-6z" fill="#3c5216"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#77a42b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path21" d="m31 7a25 25 0 0 0-25 25 25 25 0 0 0 24 24.98v0.019531h28v-9h-7.791a25 25 0 0 0 5.791-16 25 25 0 0 0-25-25zm18.33 42h7.6699v7h-19a25 25 0 0 0 11.33-7z" fill="#fff6ed" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="12.885" style="paint-order:markers fill stroke"/>
- <path id="circle21" d="m31 8a24 24 0 0 0-24 24 24 24 0 0 0 24 24h26v-7h-9.0586a24 24 0 0 0 7.0586-17 24 24 0 0 0-24-24z" fill="#bcde82" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="12.369" style="paint-order:markers fill stroke"/>
- <circle id="circle22" cx="31" cy="32" r="17" fill="#fefefc" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="8.7617" style="paint-order:markers fill stroke"/>
- <circle id="circle23" cx="31" cy="32" r="16" fill="#7d7d7d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="8.2463" style="paint-order:markers fill stroke"/>
- <rect id="rect36" x="31" y="48" width="24" height="1" fill="#fff6ed" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="12.122" style="paint-order:markers fill stroke"/>
- <path id="path36" d="m52.502 15.803-16.005 7.9339v21.221c-0.33047-0.12574-0.66742-0.27525-1.0536-0.33095-2.7137-0.3917-6.0132 1.0384-7.3695 3.1941-1.3561 2.1551-0.25667 4.2197 2.4558 4.612 2.7137 0.39169 6.0132-1.0384 7.3695-3.1941 0.35546-0.56468 0.55246-1.1449 0.57739-1.7007h0.04292l-0.02198-14.876 12.007-5.9504-0.0031 12.893c-3.0009-0.99174-6.3378 0.46914-8.4061 3.258-1.3562 2.1556-0.25578 4.2204 2.4578 4.612 2.7137 0.3917 6.0132-1.0384 7.3695-3.1941 0.35547-0.56468 0.55247-1.1449 0.57739-1.7007h2e-3z" fill="#2b2b2b" stroke="#f5f5f5" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:normal"/>
- <ellipse id="path37" transform="matrix(.85654 -.51608 .44698 .89454 0 0)" cx="21.93" cy="60.889" rx="4.5021" ry="2.3777" fill="#474747" style="paint-order:markers fill stroke"/>
- <ellipse id="ellipse37" transform="matrix(.86735 -.49771 .4646 .88552 0 0)" cx="6.0402" cy="57.6" rx="4.446" ry="2.2876" fill="#474747" style="paint-order:markers fill stroke"/>
- <rect id="rect2" x="14.499" y="18.499" width="20.001" height="25.001" fill="#2b2b2b" stroke="#f5f5f5" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".99881" style="paint-order:normal"/>
- <rect id="rect3" x="19" y="20" width="11" height="6" fill="#a7a7a7" style="paint-order:normal"/>
- <rect id="rect4" x="19" y="36" width="11" height="6" fill="#a7a7a7" style="paint-order:normal"/>
- <rect id="rect5" x="19" y="28" width="11" height="6" fill="#a7a7a7" style="paint-order:normal"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <path d="m10 4h44c3.324 0 6 2.676 6 6v44c0 3.324-2.676 6-6 6h-44c-3.324 0-6-2.676-6-6v-44c0-3.324 2.676-6 6-6z" fill="#3c5216"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#77a42b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m31 7a25 25 0 0 0-25 25 25 25 0 0 0 24 24.98v0.019531h28v-9h-7.791a25 25 0 0 0 5.791-16 25 25 0 0 0-25-25zm18.33 42h7.6699v7h-19a25 25 0 0 0 11.33-7z" fill="#fff6ed" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="12.885" style="paint-order:markers fill stroke"/>
+ <path d="m31 8a24 24 0 0 0-24 24 24 24 0 0 0 24 24h26v-7h-9.0586a24 24 0 0 0 7.0586-17 24 24 0 0 0-24-24z" fill="#bcde82" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="12.369" style="paint-order:markers fill stroke"/>
+ <circle cx="31" cy="32" r="17" fill="#fefefc" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="8.7617" style="paint-order:markers fill stroke"/>
+ <circle cx="31" cy="32" r="16" fill="#7d7d7d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="8.2463" style="paint-order:markers fill stroke"/>
+ <rect x="31" y="48" width="24" height="1" fill="#fff6ed" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="12.122" style="paint-order:markers fill stroke"/>
+ <path d="m52.502 15.803-16.005 7.9339v21.221c-0.33047-0.12574-0.66742-0.27525-1.0536-0.33095-2.7137-0.3917-6.0132 1.0384-7.3695 3.1941-1.3561 2.1551-0.25667 4.2197 2.4558 4.612 2.7137 0.39169 6.0132-1.0384 7.3695-3.1941 0.35546-0.56468 0.55246-1.1449 0.57739-1.7007h0.04292l-0.02198-14.876 12.007-5.9504-0.0031 12.893c-3.0009-0.99174-6.3378 0.46914-8.4061 3.258-1.3562 2.1556-0.25578 4.2204 2.4578 4.612 2.7137 0.3917 6.0132-1.0384 7.3695-3.1941 0.35547-0.56468 0.55247-1.1449 0.57739-1.7007h2e-3z" fill="#2b2b2b" stroke="#f5f5f5" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:normal"/>
+ <ellipse transform="matrix(.85654 -.51608 .44698 .89454 0 0)" cx="21.93" cy="60.889" rx="4.5021" ry="2.3777" fill="#474747" style="paint-order:markers fill stroke"/>
+ <ellipse transform="matrix(.86735 -.49771 .4646 .88552 0 0)" cx="6.0402" cy="57.6" rx="4.446" ry="2.2876" fill="#474747" style="paint-order:markers fill stroke"/>
+ <rect x="14.499" y="18.499" width="20.001" height="25.001" fill="#2b2b2b" stroke="#f5f5f5" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".99881" style="paint-order:normal"/>
+ <rect x="19" y="20" width="11" height="6" fill="#a7a7a7" style="paint-order:normal"/>
+ <rect x="19" y="36" width="11" height="6" fill="#a7a7a7" style="paint-order:normal"/>
+ <rect x="19" y="28" width="11" height="6" fill="#a7a7a7" style="paint-order:normal"/>
 </svg>

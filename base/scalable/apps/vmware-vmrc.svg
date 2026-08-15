@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#298cf3"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#0a61b9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <rect id="rect3" x="35" y="9" width="20" height="20" rx="3.3329" fill="#fdc319" stroke-width="1.1764"/>
- <path id="path3" d="m16.113 23c-2.2825-6.74e-4 -4.1334 1.7191-4.1338 4-6.73e-4 2.2817 1.7196 4.0007 4.0029 4h11.008l-16.011 16c-1.1961 1.1952-3.4916 3.5215-0.5199 6.6738l4e-3 4e-3c2.331 2.4679 4.809 1.0321 6.5202-0.67783l16.011-16v11c-6.75e-4 2.2817 1.7196 4.0007 4.0029 4 2.2825-4.08e-4 4.0035-1.7191 4.0029-4v-20.871c-6.34e-4 -2.2801-1.8502-4.1283-4.1319-4.1289z" fill="#fdc319" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0004"/>
- <rect id="rect4" x="40" y="14" width="10" height="10" rx="1.6667" fill="#f95005" stroke-width="1.1111"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#298cf3"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#0a61b9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect x="35" y="9" width="20" height="20" rx="3.3329" fill="#fdc319" stroke-width="1.1764"/>
+ <path d="m16.113 23c-2.2825-6.74e-4 -4.1334 1.7191-4.1338 4-6.73e-4 2.2817 1.7196 4.0007 4.0029 4h11.008l-16.011 16c-1.1961 1.1952-3.4916 3.5215-0.5199 6.6738l4e-3 4e-3c2.331 2.4679 4.809 1.0321 6.5202-0.67783l16.011-16v11c-6.75e-4 2.2817 1.7196 4.0007 4.0029 4 2.2825-4.08e-4 4.0035-1.7191 4.0029-4v-20.871c-6.34e-4 -2.2801-1.8502-4.1283-4.1319-4.1289z" fill="#fdc319" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0004"/>
+ <rect x="40" y="14" width="10" height="10" rx="1.6667" fill="#f95005" stroke-width="1.1111"/>
 </svg>

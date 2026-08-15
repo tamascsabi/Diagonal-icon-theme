@@ -1,37 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs id="defs1">
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
   <linearGradient id="linearGradient21">
-   <stop id="stop20" stop-color="#e4e4e4" offset=".28007"/>
-   <stop id="stop21" stop-color="#a7a7a7" offset="1"/>
+   <stop stop-color="#e4e4e4" offset=".28007"/>
+   <stop stop-color="#a7a7a7" offset="1"/>
   </linearGradient>
   <filter id="filter15" x="-3.3101e-5" y="-3.4171e-5" width="1.0001" height="1.0001" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur15" stdDeviation="5.0042846e-05"/>
+   <feGaussianBlur stdDeviation="5.0042846e-05"/>
   </filter>
   <filter id="filter15-6" x="-3.3101e-5" y="-3.4171e-5" width="1.0001" height="1.0001" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur15-1" stdDeviation="5.0042846e-05"/>
+   <feGaussianBlur stdDeviation="5.0042846e-05"/>
   </filter>
   <linearGradient id="linearGradient11" x1="8.2364" x2="8.2364" y1="3.1749" y2="6.0321" gradientTransform="matrix(4.3466 0 0 4.2 -68.8 21.665)" gradientUnits="userSpaceOnUse">
-   <stop id="stop14" stop-color="#588df8" offset="0"/>
-   <stop id="stop13" stop-color="#0851d4" offset="1"/>
+   <stop stop-color="#588df8" offset="0"/>
+   <stop stop-color="#0851d4" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient13" x1="8.4664" x2="8.466" y1="6.2701" y2="3.175" gradientTransform="matrix(4.3466 0 0 4.2 -4.8 -4.3347)" gradientUnits="userSpaceOnUse">
-   <stop id="stop7" stop-color="#0851d4" offset="0"/>
-   <stop id="stop8" stop-color="#588df8" offset="1"/>
+   <stop stop-color="#0851d4" offset="0"/>
+   <stop stop-color="#588df8" offset="1"/>
   </linearGradient>
   <radialGradient id="radialGradient19" cx="-19" cy="-46" r="6.8721" gradientTransform="matrix(1.7788 2.164e-7 -9.0482e-8 1.8918 14.796 41.02)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient21"/>
   <radialGradient id="radialGradient21" cx="-19" cy="-46" r="6.8721" gradientTransform="matrix(1.7787 2.1641e-7 -9.0479e-8 1.8918 -11.205 68.023)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient21"/>
  </defs>
- <!-- Background / base square -->
- <rect id="rect1" transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#b3cdfc"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#04296b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <rect id="rect17" x="9" y="35" width="46" height="21" ry="10.5" fill="#2c3e5f" stroke-width="4.3782"/>
- <rect id="rect9-0" transform="scale(-1,1)" x="-55" y="35" width="46" height="20" ry="9.9998" fill="url(#linearGradient11)" stroke-width="4.2727"/>
- <ellipse id="ellipse14-2" transform="matrix(0 3.8583 4.2674 0 -5.8121 .11585)" cx="11.633" cy="5.6972" rx="1.8142" ry="1.7574" fill="#2c3e5f" filter="url(#filter15-6)" opacity=".68056" stroke-width="1.1251"/>
- <rect id="rect14" x="9" y="9" width="46" height="21" ry="10.5" fill="#2c3e5f" stroke-width="4.3782"/>
- <rect id="rect9" x="9" y="9" width="46" height="20" ry="9.9998" fill="url(#linearGradient13)" stroke-width="4.2727"/>
- <ellipse id="ellipse14" transform="matrix(0 3.8583 4.2674 0 21.188 -25.884)" cx="11.633" cy="5.6972" rx="1.8142" ry="1.7574" fill="#2c3e5f" filter="url(#filter15)" opacity=".68056" stroke-width="1.1251"/>
- <ellipse id="circle15" transform="matrix(0,-1,-1,0,0,0)" cx="-19" cy="-46" rx="7.0002" ry="6.9998" fill="url(#radialGradient19)" stroke-width="4.4109"/>
- <circle id="ellipse21" transform="matrix(0,-1,-1,0,0,0)" cx="-45" cy="-19" r="7" fill="url(#radialGradient21)" stroke-width="4.4109"/>
+ <rect transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#b3cdfc"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#04296b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect x="9" y="35" width="46" height="21" ry="10.5" fill="#2c3e5f" stroke-width="4.3782"/>
+ <rect transform="scale(-1,1)" x="-55" y="35" width="46" height="20" ry="9.9998" fill="url(#linearGradient11)" stroke-width="4.2727"/>
+ <ellipse transform="matrix(0 3.8583 4.2674 0 -5.8121 .11585)" cx="11.633" cy="5.6972" rx="1.8142" ry="1.7574" fill="#2c3e5f" filter="url(#filter15-6)" opacity=".68056" stroke-width="1.1251"/>
+ <rect x="9" y="9" width="46" height="21" ry="10.5" fill="#2c3e5f" stroke-width="4.3782"/>
+ <rect x="9" y="9" width="46" height="20" ry="9.9998" fill="url(#linearGradient13)" stroke-width="4.2727"/>
+ <ellipse transform="matrix(0 3.8583 4.2674 0 21.188 -25.884)" cx="11.633" cy="5.6972" rx="1.8142" ry="1.7574" fill="#2c3e5f" filter="url(#filter15)" opacity=".68056" stroke-width="1.1251"/>
+ <ellipse transform="matrix(0,-1,-1,0,0,0)" cx="-19" cy="-46" rx="7.0002" ry="6.9998" fill="url(#radialGradient19)" stroke-width="4.4109"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-45" cy="-19" r="7" fill="url(#radialGradient21)" stroke-width="4.4109"/>
 </svg>

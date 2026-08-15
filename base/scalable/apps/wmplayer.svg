@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <path id="rect2" d="m32 4v28h28v-22c0-3.324-2.676-6-6-6h-22z" fill="#13b04f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.6007" style="paint-order:markers fill stroke"/>
- <path id="path3" d="m32 4v28h-28v-22c0-3.324 2.676-6 6-6z" fill="#f00" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.6007" style="paint-order:markers fill stroke"/>
- <path id="path4" d="m32 60v-28h-28v22c0 3.324 2.676 6 6 6z" fill="#0c6ff6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.6007" style="paint-order:markers fill stroke"/>
- <path id="path5" d="m32 60v-28h28v22c0 3.324-2.676 6-6 6z" fill="#f9cb1a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.6007" style="paint-order:markers fill stroke"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#f9f9f9" opacity=".41151" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path3-1" d="m27.683 24.003a1.7716 1.8465 0 0 1 1.0271 0.27403l9.4548 6.1541a1.7716 1.8465 0 0 1 0 3.1347l-9.4548 6.1541a1.7716 1.8465 0 0 1-2.7102-1.5622v-12.319a1.7716 1.8465 0 0 1 1.6831-1.8363z" fill="#fff" stroke-width="2.5085" style="paint-order:stroke fill markers"/>
- <path id="path6" d="m32 16c-8.8366 0-16 7.1634-16 16s7.1634 16 16 16 16-7.1634 16-16-7.1634-16-16-16zm0 3c7.1797 0 13 5.8203 13 13s-5.8203 13-13 13-13-5.8203-13-13 5.8203-13 13-13z" fill="#fff" stroke-width="0"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <path d="m32 4v28h28v-22c0-3.324-2.676-6-6-6h-22z" fill="#13b04f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.6007" style="paint-order:markers fill stroke"/>
+ <path d="m32 4v28h-28v-22c0-3.324 2.676-6 6-6z" fill="#f00" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.6007" style="paint-order:markers fill stroke"/>
+ <path d="m32 60v-28h-28v22c0 3.324 2.676 6 6 6z" fill="#0c6ff6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.6007" style="paint-order:markers fill stroke"/>
+ <path d="m32 60v-28h28v22c0 3.324-2.676 6-6 6z" fill="#f9cb1a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.6007" style="paint-order:markers fill stroke"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#f9f9f9" opacity=".41151" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m27.683 24.003a1.7716 1.8465 0 0 1 1.0271 0.27403l9.4548 6.1541a1.7716 1.8465 0 0 1 0 3.1347l-9.4548 6.1541a1.7716 1.8465 0 0 1-2.7102-1.5622v-12.319a1.7716 1.8465 0 0 1 1.6831-1.8363z" fill="#fff" stroke-width="2.5085" style="paint-order:stroke fill markers"/>
+ <path d="m32 16c-8.8366 0-16 7.1634-16 16s7.1634 16 16 16 16-7.1634 16-16-7.1634-16-16-16zm0 3c7.1797 0 13 5.8203 13 13s-5.8203 13-13 13-13-5.8203-13-13 5.8203-13 13-13z" fill="#fff" stroke-width="0"/>
 </svg>

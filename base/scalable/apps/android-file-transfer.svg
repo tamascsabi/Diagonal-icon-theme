@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#03a459"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#283e48" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path3" d="m15.541 19c-0.41238-0.0019-0.81484 0.10908-1.1699 0.34375-1.1363 0.75093-1.3429 2.4815-0.46484 3.8809l4.0176 6.4043a22 20 0 0 0-7.9238 15.371h44a22 20 0 0 0-8.3535-15.688l3.8203-6.0879c0.87803-1.3994 0.66947-3.1299-0.4668-3.8809s-2.7587-0.22945-3.6367 1.1699l-4.0059 6.3848a22 20 0 0 0-9.3574-1.8984 22 20 0 0 0-9.8496 2.1172l-4.1426-6.6035c-0.60364-0.96207-1.5596-1.5095-2.4668-1.5137zm6.459 15a3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3zm20 0a3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3z" fill="#f9f9f9" stroke-linecap="square" stroke-miterlimit="3.2" stroke-opacity=".498" stroke-width=".65617" style="paint-order:markers fill stroke"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#03a459"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#283e48" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m15.541 19c-0.41238-0.0019-0.81484 0.10908-1.1699 0.34375-1.1363 0.75093-1.3429 2.4815-0.46484 3.8809l4.0176 6.4043a22 20 0 0 0-7.9238 15.371h44a22 20 0 0 0-8.3535-15.688l3.8203-6.0879c0.87803-1.3994 0.66947-3.1299-0.4668-3.8809s-2.7587-0.22945-3.6367 1.1699l-4.0059 6.3848a22 20 0 0 0-9.3574-1.8984 22 20 0 0 0-9.8496 2.1172l-4.1426-6.6035c-0.60364-0.96207-1.5596-1.5095-2.4668-1.5137zm6.459 15a3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3zm20 0a3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3z" fill="#f9f9f9" stroke-linecap="square" stroke-miterlimit="3.2" stroke-opacity=".498" stroke-width=".65617" style="paint-order:markers fill stroke"/>
 </svg>

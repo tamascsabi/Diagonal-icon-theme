@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs id="defs18">
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
   <radialGradient id="d-2" cx="65.029" cy="109.39" r="28.579" gradientTransform="matrix(.50205 0 0 .37851 -.24836 5.3466)" gradientUnits="userSpaceOnUse">
-   <stop id="stop19" stop-color="#FAFAFA" offset="0"/>
-   <stop id="stop20" stop-color="#D4D4D4" offset="1"/>
+   <stop stop-color="#FAFAFA" offset="0"/>
+   <stop stop-color="#D4D4D4" offset="1"/>
   </radialGradient>
   <linearGradient id="f-37" x1="99.796" x2="99.796" y1="94" y2="87" gradientTransform="matrix(.48696 0 0 .48696 -69.113 -6.1015)" gradientUnits="userSpaceOnUse">
-   <stop id="stop5-5" stop-color="#DE3E80" offset="0"/>
-   <stop id="stop6-9" stop-color="#910E38" offset="1"/>
+   <stop stop-color="#DE3E80" offset="0"/>
+   <stop stop-color="#910E38" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient40" x1="50.999" x2="50.999" y1="31" y2="45" gradientUnits="userSpaceOnUse" xlink:href="#f-37"/>
   <linearGradient id="linearGradient41" x1="52" x2="52" y1="37" y2="49" gradientUnits="userSpaceOnUse" xlink:href="#f-37"/>
@@ -16,49 +15,49 @@
   <linearGradient id="linearGradient45" x1="12" x2="12" y1="37" y2="49" gradientUnits="userSpaceOnUse" xlink:href="#f-37"/>
   <linearGradient id="linearGradient46" x1="12.999" x2="12.999" y1="41" y2="55" gradientUnits="userSpaceOnUse" xlink:href="#f-37"/>
   <linearGradient id="linearGradient49" x1="32" x2="32" y1="16" y2="41" gradientUnits="userSpaceOnUse">
-   <stop id="stop49" stop-color="#fcfcfc" offset="0"/>
-   <stop id="stop48" stop-color="#b3b3b3" offset="1"/>
+   <stop stop-color="#fcfcfc" offset="0"/>
+   <stop stop-color="#b3b3b3" offset="1"/>
   </linearGradient>
   <radialGradient id="radialGradient51" cx="32" cy="43" r="6" gradientTransform="matrix(1.5 4.9046e-7 -3.0544e-7 1.5 -16 -21.5)" gradientUnits="userSpaceOnUse">
-   <stop id="stop50" stop-color="#fff" offset=".24235"/>
-   <stop id="stop51" stop-color="#557295" offset=".85134"/>
+   <stop stop-color="#fff" offset=".24235"/>
+   <stop stop-color="#557295" offset=".85134"/>
   </radialGradient>
  </defs>
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#e80f68"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#f9f9f9" opacity=".3553" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <rect id="rect3" x="6" y="13" width="52" height="18" rx="5" ry="5" fill="#611132" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
- <rect id="rect2" x="7" y="14" width="50" height="16" rx="4.1595" ry="4" fill="url(#linearGradient49)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
- <circle id="circle25" class="st10" cx="32" cy="43" r="10" fill="url(#d-2)" stroke-width="1.1734"/>
- <ellipse id="circle26" class="st11" cx="32" cy="43" rx="8" ry="8" fill="#dd488d" stroke="#de3e80" stroke-linecap="round" stroke-linejoin="round" stroke-width=".52222"/>
- <path id="path28" class="st14" d="m45.766 40a1.769 1.9795 0 0 1-1.7365-2.342c0.1531-0.97154 0.97101-1.658 1.8382-1.658h10.264c0.86824 0 1.6851 0.68642 1.8382 1.658a1.769 1.9795 0 0 1-1.7354 2.342z" fill="url(#linearGradient40)" stroke-width=".5402"/>
- <rect id="rect4" x="9" y="17" width="1" height="9" style="paint-order:markers fill stroke"/>
- <rect id="rect6" x="45" y="17" width="1" height="9" style="paint-order:markers fill stroke"/>
- <rect id="rect7" x="36" y="17" width="1" height="9" style="paint-order:markers fill stroke"/>
- <rect id="rect8" x="27" y="17" width="1" height="9" style="paint-order:markers fill stroke"/>
- <rect id="rect9" x="54" y="17" width="1" height="9" style="paint-order:markers fill stroke"/>
- <rect id="rect10" x="12" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
- <rect id="rect11" x="15" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
- <rect id="rect12" x="21" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
- <rect id="rect13" x="24" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
- <rect id="rect14" x="30" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
- <rect id="rect15" x="33" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
- <rect id="rect16" x="39" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
- <rect id="rect17" x="42" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
- <rect id="rect18" x="48" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
- <rect id="rect19" x="51" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
- <rect id="rect20" x="18" y="15" width="1" height="14" fill="#fb0037" style="paint-order:markers fill stroke"/>
- <circle id="circle20" class="st11" cx="32" cy="43" r="7" fill="#273445" stroke="#de3e80" stroke-linecap="round" stroke-linejoin="round" stroke-width=".45694"/>
- <ellipse id="circle27" class="st12" cx="32" cy="43" rx="6" ry="6" fill="url(#radialGradient51)" stroke="#abacae" stroke-linecap="round" stroke-linejoin="round" stroke-width=".32757"/>
- <rect id="rect21" x="31" y="38" width="2" height="4" ry="1" fill="#273445" style="paint-order:markers fill stroke"/>
- <rect id="rect22" x="46" y="41" width="12" height="4" ry="2" fill="url(#linearGradient41)" style="paint-order:markers fill stroke"/>
- <path id="path27" class="st14" d="m45.766 50a1.769 1.9795 0 0 1-1.7365-2.342c0.1531-0.97154 0.97101-1.658 1.8382-1.658h10.264c0.86824 0 1.6851 0.68642 1.8382 1.658a1.769 1.9795 0 0 1-1.7354 2.342z" fill="url(#linearGradient42)" stroke-width=".5402"/>
- <path id="path29" class="st14" d="m7.7659 40a1.769 1.9795 0 0 1-1.7365-2.342c0.1531-0.97154 0.97101-1.658 1.8382-1.658h10.264c0.86824 0 1.6851 0.68642 1.8382 1.658a1.769 1.9795 0 0 1-1.7354 2.342z" fill="url(#linearGradient44)" stroke-width=".5402"/>
- <rect id="rect29" x="6" y="41" width="12" height="4" ry="2" fill="url(#linearGradient45)" style="paint-order:markers fill stroke"/>
- <path id="path32" class="st14" d="m7.7659 50a1.769 1.9795 0 0 1-1.7365-2.342c0.1531-0.97154 0.97101-1.658 1.8382-1.658h10.264c0.86824 0 1.6851 0.68642 1.8382 1.658a1.769 1.9795 0 0 1-1.7354 2.342z" fill="url(#linearGradient46)" stroke-width=".5402"/>
- <rect id="rect34" x="45" y="37" width="12" height="3" rx="1.4314" ry="1.5" fill="#200611" style="paint-order:markers fill stroke"/>
- <rect id="rect35" x="45" y="47" width="12" height="3" rx="1.4314" ry="1.5" fill="#200611" style="paint-order:markers fill stroke"/>
- <rect id="rect36" x="47" y="42" width="10" height="3" rx="1.549" ry="1.5" fill="#200611" style="paint-order:markers fill stroke"/>
- <rect id="rect37" x="7" y="37" width="12" height="3" rx="1.4314" ry="1.5" fill="#200611" style="paint-order:markers fill stroke"/>
- <rect id="rect38" x="7" y="47" width="12" height="3" rx="1.4314" ry="1.5" fill="#200611" style="paint-order:markers fill stroke"/>
- <rect id="rect39" x="7" y="42" width="10" height="3" rx="1.549" ry="1.5" fill="#200611" style="paint-order:markers fill stroke"/>
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#e80f68"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#f9f9f9" opacity=".3553" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect x="6" y="13" width="52" height="18" rx="5" ry="5" fill="#611132" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
+ <rect x="7" y="14" width="50" height="16" rx="4.1595" ry="4" fill="url(#linearGradient49)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
+ <circle class="st10" cx="32" cy="43" r="10" fill="url(#d-2)" stroke-width="1.1734"/>
+ <ellipse class="st11" cx="32" cy="43" rx="8" ry="8" fill="#dd488d" stroke="#de3e80" stroke-linecap="round" stroke-linejoin="round" stroke-width=".52222"/>
+ <path class="st14" d="m45.766 40a1.769 1.9795 0 0 1-1.7365-2.342c0.1531-0.97154 0.97101-1.658 1.8382-1.658h10.264c0.86824 0 1.6851 0.68642 1.8382 1.658a1.769 1.9795 0 0 1-1.7354 2.342z" fill="url(#linearGradient40)" stroke-width=".5402"/>
+ <rect x="9" y="17" width="1" height="9" style="paint-order:markers fill stroke"/>
+ <rect x="45" y="17" width="1" height="9" style="paint-order:markers fill stroke"/>
+ <rect x="36" y="17" width="1" height="9" style="paint-order:markers fill stroke"/>
+ <rect x="27" y="17" width="1" height="9" style="paint-order:markers fill stroke"/>
+ <rect x="54" y="17" width="1" height="9" style="paint-order:markers fill stroke"/>
+ <rect x="12" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
+ <rect x="15" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
+ <rect x="21" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
+ <rect x="24" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
+ <rect x="30" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
+ <rect x="33" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
+ <rect x="39" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
+ <rect x="42" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
+ <rect x="48" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
+ <rect x="51" y="20" width="1" height="4" style="paint-order:markers fill stroke"/>
+ <rect x="18" y="15" width="1" height="14" fill="#fb0037" style="paint-order:markers fill stroke"/>
+ <circle class="st11" cx="32" cy="43" r="7" fill="#273445" stroke="#de3e80" stroke-linecap="round" stroke-linejoin="round" stroke-width=".45694"/>
+ <ellipse class="st12" cx="32" cy="43" rx="6" ry="6" fill="url(#radialGradient51)" stroke="#abacae" stroke-linecap="round" stroke-linejoin="round" stroke-width=".32757"/>
+ <rect x="31" y="38" width="2" height="4" ry="1" fill="#273445" style="paint-order:markers fill stroke"/>
+ <rect x="46" y="41" width="12" height="4" ry="2" fill="url(#linearGradient41)" style="paint-order:markers fill stroke"/>
+ <path class="st14" d="m45.766 50a1.769 1.9795 0 0 1-1.7365-2.342c0.1531-0.97154 0.97101-1.658 1.8382-1.658h10.264c0.86824 0 1.6851 0.68642 1.8382 1.658a1.769 1.9795 0 0 1-1.7354 2.342z" fill="url(#linearGradient42)" stroke-width=".5402"/>
+ <path class="st14" d="m7.7659 40a1.769 1.9795 0 0 1-1.7365-2.342c0.1531-0.97154 0.97101-1.658 1.8382-1.658h10.264c0.86824 0 1.6851 0.68642 1.8382 1.658a1.769 1.9795 0 0 1-1.7354 2.342z" fill="url(#linearGradient44)" stroke-width=".5402"/>
+ <rect x="6" y="41" width="12" height="4" ry="2" fill="url(#linearGradient45)" style="paint-order:markers fill stroke"/>
+ <path class="st14" d="m7.7659 50a1.769 1.9795 0 0 1-1.7365-2.342c0.1531-0.97154 0.97101-1.658 1.8382-1.658h10.264c0.86824 0 1.6851 0.68642 1.8382 1.658a1.769 1.9795 0 0 1-1.7354 2.342z" fill="url(#linearGradient46)" stroke-width=".5402"/>
+ <rect x="45" y="37" width="12" height="3" rx="1.4314" ry="1.5" fill="#200611" style="paint-order:markers fill stroke"/>
+ <rect x="45" y="47" width="12" height="3" rx="1.4314" ry="1.5" fill="#200611" style="paint-order:markers fill stroke"/>
+ <rect x="47" y="42" width="10" height="3" rx="1.549" ry="1.5" fill="#200611" style="paint-order:markers fill stroke"/>
+ <rect x="7" y="37" width="12" height="3" rx="1.4314" ry="1.5" fill="#200611" style="paint-order:markers fill stroke"/>
+ <rect x="7" y="47" width="12" height="3" rx="1.4314" ry="1.5" fill="#200611" style="paint-order:markers fill stroke"/>
+ <rect x="7" y="42" width="10" height="3" rx="1.549" ry="1.5" fill="#200611" style="paint-order:markers fill stroke"/>
 </svg>

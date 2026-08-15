@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#b50101"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#fe2020" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path9" d="m27.999 11.999c-1.106-0.0027-2.0034 0.87238-2.0006 1.951v16.101c-0.0015 2.6028 3.9997 2.6028 4.0011 0l4.57e-4 -14.051h7c5.1567-0.0054 9.0056 3.971 9 9 0.0056 5.029-3.8433 10.005-9 10h-17c-2.2559 0.16931-5.9949 3.6372-6 8.0503 0 4.6683 4 8.9497 9 8.9497h5c1 0 2.0001-1 2-2l-4.57e-4 -6.9497c0.0015-2.6028-3.9997-2.6028-4.0011 0l0.001602 4.9497h-4c-2.5771 0-3.9987-2.4365-3.9987-4.9497s1.9987-4.0503 4.9987-4.0503h14c7.3619 0 12.997-6.8204 13-14 0-7.1815-5.9696-13-13.334-13z" fill="#fff" fill-rule="evenodd" stroke-width="4.9762" style="paint-order:stroke fill markers"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#b50101"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#fe2020" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m27.999 11.999c-1.106-0.0027-2.0034 0.87238-2.0006 1.951v16.101c-0.0015 2.6028 3.9997 2.6028 4.0011 0l4.57e-4 -14.051h7c5.1567-0.0054 9.0056 3.971 9 9 0.0056 5.029-3.8433 10.005-9 10h-17c-2.2559 0.16931-5.9949 3.6372-6 8.0503 0 4.6683 4 8.9497 9 8.9497h5c1 0 2.0001-1 2-2l-4.57e-4 -6.9497c0.0015-2.6028-3.9997-2.6028-4.0011 0l0.001602 4.9497h-4c-2.5771 0-3.9987-2.4365-3.9987-4.9497s1.9987-4.0503 4.9987-4.0503h14c7.3619 0 12.997-6.8204 13-14 0-7.1815-5.9696-13-13.334-13z" fill="#fff" fill-rule="evenodd" stroke-width="4.9762" style="paint-order:stroke fill markers"/>
 </svg>

@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#3fc9ff"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#bbecff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path58" d="m49.121 8.8787a3 3 0 0 1 0 4.2426 3 3 0 0 1-4.2426 0 3 3 0 0 1 0-4.2426 3 3 0 0 1 4.2426 0z" color="#000000" fill="#1eb600" stroke-width=".66666"/>
- <path id="path1-9" d="m40 28-12-2v11h12zm-12 11v11l12-2v-9zm-2-13-15-2v13h15zm-15 13v14l15-3v-11z" fill="#2960ff" stroke-width="6.8504"/>
- <path id="path2" d="m49.121 20.879a3 3 0 0 1 0 4.2426 3 3 0 0 1-4.2426 0 3 3 0 0 1 0-4.2426 3 3 0 0 1 4.2426 0z" color="#000000" fill="#2960ff" stroke-width=".66666"/>
- <path id="path3" d="m55.121 14.879a3 3 0 0 1 0 4.2426 3 3 0 0 1-4.2426 0 3 3 0 0 1 0-4.2426 3 3 0 0 1 4.2426 0z" color="#000000" fill="#ffc20f" stroke-width=".66666"/>
- <path id="path4" d="m43.121 14.879a3 3 0 0 1 0 4.2426 3 3 0 0 1-4.2426 0 3 3 0 0 1 0-4.2426 3 3 0 0 1 4.2426 0z" color="#000000" fill="#ea4d00" stroke-width=".66666"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#3fc9ff"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#bbecff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m49.121 8.8787a3 3 0 0 1 0 4.2426 3 3 0 0 1-4.2426 0 3 3 0 0 1 0-4.2426 3 3 0 0 1 4.2426 0z" color="#000000" fill="#1eb600" stroke-width=".66666"/>
+ <path d="m40 28-12-2v11h12zm-12 11v11l12-2v-9zm-2-13-15-2v13h15zm-15 13v14l15-3v-11z" fill="#2960ff" stroke-width="6.8504"/>
+ <path d="m49.121 20.879a3 3 0 0 1 0 4.2426 3 3 0 0 1-4.2426 0 3 3 0 0 1 0-4.2426 3 3 0 0 1 4.2426 0z" color="#000000" fill="#2960ff" stroke-width=".66666"/>
+ <path d="m55.121 14.879a3 3 0 0 1 0 4.2426 3 3 0 0 1-4.2426 0 3 3 0 0 1 0-4.2426 3 3 0 0 1 4.2426 0z" color="#000000" fill="#ffc20f" stroke-width=".66666"/>
+ <path d="m43.121 14.879a3 3 0 0 1 0 4.2426 3 3 0 0 1-4.2426 0 3 3 0 0 1 0-4.2426 3 3 0 0 1 4.2426 0z" color="#000000" fill="#ea4d00" stroke-width=".66666"/>
 </svg>

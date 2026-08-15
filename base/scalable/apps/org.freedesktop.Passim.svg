@@ -1,265 +1,47 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-
-<svg
-   id="svg1"
-   width="64"
-   height="64"
-   version="1.1"
-   viewBox="0 0 64 64"
-   sodipodi:docname="org.freedesktop.Passim.svg"
-   inkscape:version="1.4.4 (unknown)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1">
-    <linearGradient
-       id="linearGradient21"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#7eabc9;stop-opacity:1;"
-         offset="0"
-         id="stop21" />
-      <stop
-         style="stop-color:#0a1318;stop-opacity:1;"
-         offset="0.78352863"
-         id="stop20" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient17"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#0a1318;stop-opacity:1;"
-         offset="0"
-         id="stop17" />
-      <stop
-         style="stop-color:#40769a;stop-opacity:1;"
-         offset="1"
-         id="stop18" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient17"
-       id="linearGradient18"
-       x1="28"
-       y1="48"
-       x2="36"
-       y2="48"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient21"
-       id="linearGradient20"
-       x1="31"
-       y1="51"
-       x2="31"
-       y2="60"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient17"
-       id="linearGradient23"
-       x1="49"
-       y1="26"
-       x2="57"
-       y2="26"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.125,0,-3.75)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient17"
-       id="linearGradient25"
-       x1="7"
-       y1="26"
-       x2="15"
-       y2="26"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.125,0,-3.75)" />
-  </defs>
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="true"
-     inkscape:zoom="8.9935144"
-     inkscape:cx="56.818723"
-     inkscape:cy="22.571821"
-     inkscape:window-width="1920"
-     inkscape:window-height="1014"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1">
-    <inkscape:grid
-       id="grid1"
-       units="px"
-       originx="0"
-       originy="0"
-       spacingx="1"
-       spacingy="1"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14901961"
-       empspacing="5"
-       enabled="true"
-       visible="true" />
-  </sodipodi:namedview>
-  <!-- Background / base square -->
-  <rect
-     id="rect1"
-     x="4"
-     y="4"
-     width="56"
-     height="56"
-     rx="6"
-     ry="6"
-     fill="#99d5fd"
-     style="fill:#d67726;fill-opacity:1" />
-  <path
-     id="path17"
-     d="M 4,54 60,10 C 60,6.676 57.324,4 54,4 H 10 C 6.676,4 4,6.676 4,10 Z"
-     fill="#6ca1f9"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-miterlimit="3.2"
-     stroke-width="2"
-     style="fill:#b3dfbd;fill-opacity:1;paint-order:markers fill stroke" />
-  <rect
-     id="rect3"
-     x="7"
-     y="21"
-     width="8"
-     height="9"
-     fill="#27485e"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-miterlimit="3.2"
-     stroke-width="2.44949"
-     style="fill:url(#linearGradient25);paint-order:markers fill stroke" />
-  <rect
-     style="fill:url(#linearGradient18);fill-opacity:1;stroke-width:1.04447"
-     id="rect17"
-     width="8"
-     height="12"
-     x="28"
-     y="42" />
-  <rect
-     id="rect5"
-     x="49"
-     y="21"
-     width="8"
-     height="9"
-     fill="#27485e"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-miterlimit="3.2"
-     stroke-width="2.44949"
-     style="fill:url(#linearGradient23);paint-order:markers fill stroke" />
-  <path
-     id="path3"
-     d="M 60,43 V 29 H 4 v 14 z"
-     fill="#27485e"
-     style="fill:#447fa7;fill-opacity:1" />
-  <g
-     id="g7"
-     transform="translate(2,24)"
-     fill="#18f531"
-     stroke-width="0">
-    <path
-       id="path5"
-       d="m 50,7 h 3 v 2 h -3 z" />
-    <path
-       id="path6"
-       d="m 50,11 h 3 v 2 h -3 z" />
-    <path
-       id="path7"
-       d="m 50,15 h 3 v 2 h -3 z" />
-  </g>
-  <path
-     id="path1"
-     style="fill:#1d3647;fill-opacity:1;paint-order:markers fill stroke"
-     d="M 4 29 L 4 43 L 18 43 L 35.818359 29 L 4 29 z " />
-  <circle
-     id="circle32"
-     cx="11"
-     cy="36"
-     r="3"
-     fill="#fafc34" />
-  <g
-     id="g12"
-     transform="matrix(1,0,0,0.66667,3,27.667)"
-     fill="#c4d1e0"
-     stroke-width="0">
-    <path
-       id="path2-8"
-       d="m 15,8 h 3 v 9 h -3 z" />
-    <path
-       id="path11"
-       d="m 20,8 h 3 v 9 h -3 z" />
-    <path
-       id="path12"
-       d="m 25,8 h 3 v 9 h -3 z" />
-  </g>
-  <path
-     id="path16"
-     style="fill:#447fa7;fill-opacity:1"
-     d="M 10 4 C 7.3782379 4 5.1602998 5.665583 4.3398438 8 C 4.338076 8.0050314 4.3376924 8.0105875 4.3359375 8.015625 C 4.2254455 8.3327299 4.1384807 8.6608068 4.0820312 9 C 4.0277156 9.325026 4 9.6590602 4 10 L 4 22 L 60 22 L 60 10 C 60 9.6590602 59.972284 9.325026 59.917969 9 C 59.861519 8.6608068 59.774554 8.3327299 59.664062 8.015625 C 59.662303 8.0105761 59.661929 8.0050426 59.660156 8 C 58.8397 5.665583 56.621762 4 54 4 L 10 4 z " />
-  <path
-     id="path4"
-     style="fill:#1d3647;fill-opacity:1;paint-order:markers fill stroke"
-     d="M 10 4 C 9.8100498 4.0000058 9.6228393 4.0121922 9.4375 4.0292969 C 9.3811698 4.0345015 9.3253893 4.0420888 9.2695312 4.0488281 C 9.1644378 4.0615015 9.0603471 4.0777085 8.9570312 4.0957031 C 8.6840511 4.1432812 8.416961 4.2061183 8.1582031 4.2890625 C 8.1191285 4.3015741 8.0816852 4.3167948 8.0429688 4.3300781 C 7.8091921 4.4103738 7.5828332 4.5059884 7.3632812 4.6132812 C 7.3185912 4.6351052 7.2725675 4.6548418 7.2285156 4.6777344 C 6.9887713 4.802436 6.7582959 4.9428818 6.5390625 5.0976562 C 6.5002941 5.125021 6.4638588 5.1553385 6.4257812 5.1835938 C 6.2188693 5.3371846 6.0210341 5.501208 5.8359375 5.6796875 C 5.8213393 5.693758 5.8054702 5.7064859 5.7910156 5.7207031 C 5.5981426 5.9105014 5.4196973 6.1156433 5.2539062 6.3300781 C 5.2206194 6.3731298 5.1883773 6.4169598 5.15625 6.4609375 C 4.9946605 6.6821616 4.843439 6.9113769 4.7128906 7.1542969 C 4.7101465 7.159403 4.7078079 7.1648068 4.7050781 7.1699219 C 4.5793917 7.4054369 4.4747747 7.6531168 4.3808594 7.90625 C 4.3565526 7.971788 4.3306602 8.0369054 4.3085938 8.1035156 C 4.2797498 8.1902206 4.2556047 8.2788576 4.2304688 8.3671875 C 4.2055538 8.4559207 4.1810606 8.5443926 4.1601562 8.6347656 C 4.1402539 8.7194599 4.1215946 8.8044804 4.1054688 8.890625 C 4.083259 9.0102803 4.0658237 9.1318233 4.0507812 9.2539062 C 4.043328 9.3144384 4.0349286 9.3744562 4.0292969 9.4355469 C 4.0120805 9.6215123 4 9.8093905 4 10 L 4 22 L 44.726562 22 L 60 10 C 59.999997 9.8139417 59.989072 9.6308607 59.972656 9.4492188 C 59.967104 9.3874467 59.958585 9.3268286 59.951172 9.265625 C 59.933044 9.1161761 59.913594 8.9661008 59.884766 8.8203125 C 59.832667 8.5597561 59.759967 8.3077734 59.675781 8.0605469 C 59.66433 8.0268389 59.654607 7.9924163 59.642578 7.9589844 C 59.548558 7.6977874 59.436292 7.4458945 59.308594 7.203125 C 59.292082 7.1717392 59.274861 7.1404259 59.257812 7.109375 C 59.125585 6.8685678 58.979293 6.6370396 58.816406 6.4179688 C 58.798185 6.3934678 58.778351 6.3699122 58.759766 6.3457031 C 58.41277 5.8936765 58.003187 5.4929253 57.542969 5.15625 C 57.523458 5.141979 57.504065 5.1273207 57.484375 5.1132812 C 57.261362 4.9542729 57.025703 4.8113348 56.78125 4.6835938 C 56.748 4.6662269 56.715257 4.6476179 56.681641 4.6308594 C 56.440159 4.5104377 56.188566 4.4078066 55.929688 4.3203125 C 55.887622 4.3060992 55.845218 4.2926001 55.802734 4.2792969 C 55.540667 4.1972318 55.27252 4.129841 54.996094 4.0839844 C 54.905175 4.0688926 54.812981 4.0578582 54.720703 4.046875 C 54.649202 4.0383693 54.578126 4.0274712 54.505859 4.0214844 C 54.338904 4.0076534 54.170646 4 54 4 L 10 4 z " />
-  <g
-     id="g10"
-     transform="translate(2,2.999625)"
-     fill="#18f531"
-     stroke-width="0"
-     style="fill:#f51b18;fill-opacity:1">
-    <path
-       id="path8"
-       d="m 50,7 h 3 v 2 h -3 z"
-       style="fill:#f51b18;fill-opacity:1" />
-    <path
-       id="path9"
-       d="m 50,11 h 3 v 2 h -3 z"
-       style="fill:#f51b18;fill-opacity:1" />
-    <path
-       id="path10"
-       d="m 50,15 h 3 v 2 h -3 z"
-       style="fill:#f51b18;fill-opacity:1" />
-  </g>
-  <circle
-     id="circle10"
-     cx="11"
-     cy="14.999626"
-     r="3"
-     fill="#fafc34"
-     style="fill:#f51b18;fill-opacity:1" />
-  <g
-     id="g15"
-     transform="matrix(1,0,0,0.66667,3,6.666625)"
-     fill="#c4d1e0"
-     stroke-width="0">
-    <path
-       id="path13"
-       d="m 15,8 h 3 v 9 h -3 z" />
-    <path
-       id="path14"
-       d="m 20,8 h 3 v 9 h -3 z" />
-    <path
-       id="path15"
-       d="m 25,8 h 3 v 9 h -3 z" />
-  </g>
-  <path
-     id="rect16"
-     style="fill:url(#linearGradient20);fill-opacity:1"
-     d="M 21 52 L 21 53 L 4 53 L 4 54 C 4 55.539487 4.5749439 56.939978 5.5214844 58 L 21 58 L 21 59 L 43 59 L 43 58 L 58.478516 58 C 59.425056 56.939978 60 55.539487 60 54 L 60 53 L 43 53 L 43 52 L 21 52 z " />
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient17">
+   <stop stop-color="#0a1318" offset="0"/>
+   <stop stop-color="#40769a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient18" x1="28" x2="36" y1="48" y2="48" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient17"/>
+  <linearGradient id="linearGradient20" x1="31" x2="31" y1="51" y2="60" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7eabc9" offset="0"/>
+   <stop stop-color="#0a1318" offset=".78353"/>
+  </linearGradient>
+  <linearGradient id="linearGradient23" x1="49" x2="57" y1="26" y2="26" gradientTransform="matrix(1,0,0,1.125,0,-3.75)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient17"/>
+  <linearGradient id="linearGradient25" x1="7" x2="15" y1="26" y2="26" gradientTransform="matrix(1,0,0,1.125,0,-3.75)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient17"/>
+ </defs>
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#d67726"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#b3dfbd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect x="7" y="21" width="8" height="9" fill="url(#linearGradient25)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.4495" style="paint-order:markers fill stroke"/>
+ <rect x="28" y="42" width="8" height="12" fill="url(#linearGradient18)" stroke-width="1.0445"/>
+ <rect x="49" y="21" width="8" height="9" fill="url(#linearGradient23)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.4495" style="paint-order:markers fill stroke"/>
+ <path d="m60 43v-14h-56v14z" fill="#447fa7"/>
+ <g transform="translate(2,24)" fill="#18f531" stroke-width="0">
+  <path d="m50 7h3v2h-3z"/>
+  <path d="m50 11h3v2h-3z"/>
+  <path d="m50 15h3v2h-3z"/>
+ </g>
+ <path d="m4 29v14h14l17.818-14h-31.818z" fill="#1d3647" style="paint-order:markers fill stroke"/>
+ <circle cx="11" cy="36" r="3" fill="#fafc34"/>
+ <g transform="matrix(1 0 0 .66667 3 27.667)" fill="#c4d1e0" stroke-width="0">
+  <path d="m15 8h3v9h-3z"/>
+  <path d="m20 8h3v9h-3z"/>
+  <path d="m25 8h3v9h-3z"/>
+ </g>
+ <path d="m10 4c-2.6218 0-4.8397 1.6656-5.6602 4-0.0017678 0.0050314-0.0021514 0.010588-0.0039063 0.015625-0.11049 0.3171-0.19746 0.64518-0.25391 0.98438-0.054316 0.32503-0.082031 0.65906-0.082031 1v12h56v-12c0-0.34094-0.027716-0.67497-0.082031-1-0.05645-0.33919-0.14342-0.66727-0.25391-0.98438-0.001759-0.0050489-0.002133-0.010582-0.003906-0.015625-0.82046-2.3344-3.0384-4-5.6602-4h-44z" fill="#447fa7"/>
+ <path d="m10 4c-0.18995 5.8e-6 -0.37716 0.012192-0.5625 0.029297-0.05633 0.0052046-0.11211 0.012792-0.16797 0.019531-0.10509 0.012673-0.20918 0.02888-0.3125 0.046875-0.27298 0.047578-0.54007 0.11042-0.79883 0.19336-0.039075 0.012512-0.076518 0.027732-0.11523 0.041016-0.23378 0.080296-0.46014 0.17591-0.67969 0.2832-0.04469 0.021824-0.090714 0.041561-0.13477 0.064453-0.23974 0.1247-0.47022 0.26515-0.68945 0.41992-0.038768 0.027365-0.075204 0.057682-0.11328 0.085938-0.20691 0.15359-0.40475 0.31761-0.58984 0.49609-0.014598 0.01407-0.030467 0.026798-0.044922 0.041016-0.19287 0.1898-0.37132 0.39494-0.53711 0.60938-0.033287 0.043052-0.065529 0.086882-0.097656 0.13086-0.16159 0.22122-0.31281 0.45044-0.44336 0.69336-0.0027441 0.0051061-0.0050827 0.01051-0.0078125 0.015625-0.12569 0.23552-0.2303 0.48319-0.32422 0.73633-0.024307 0.065538-0.050199 0.13066-0.072266 0.19727-0.028844 0.086705-0.052989 0.17534-0.078125 0.26367-0.024915 0.088733-0.049408 0.17721-0.070313 0.26758-0.019902 0.084694-0.038562 0.16971-0.054687 0.25586-0.02221 0.11966-0.039645 0.2412-0.054688 0.36328-0.0074532 0.060532-0.015853 0.12055-0.021484 0.18164-0.017216 0.18597-0.029297 0.37384-0.029297 0.56445v12h40.727l15.273-12c-3e-6 -0.18606-0.010928-0.36914-0.027344-0.55078-0.005552-0.061772-0.014071-0.12239-0.021484-0.18359-0.018128-0.14945-0.037578-0.29952-0.066406-0.44531-0.052099-0.26056-0.1248-0.51254-0.20898-0.75977-0.011451-0.033708-0.021174-0.068131-0.033203-0.10156-0.09402-0.2612-0.20629-0.51309-0.33398-0.75586-0.016512-0.031386-0.033733-0.062699-0.050782-0.09375-0.13223-0.24081-0.27852-0.47234-0.44141-0.69141-0.018221-0.024501-0.038055-0.048057-0.05664-0.072266-0.347-0.45203-0.75658-0.85278-1.2168-1.1895-0.019511-0.014271-0.038904-0.028929-0.058594-0.042969-0.22301-0.15901-0.45867-0.30195-0.70312-0.42969-0.03325-0.017367-0.065993-0.035976-0.099609-0.052734-0.24148-0.12042-0.49308-0.22305-0.75195-0.31055-0.042066-0.014213-0.08447-0.027712-0.12695-0.041016-0.26207-0.082065-0.53021-0.14946-0.80664-0.19531-0.090919-0.015092-0.18311-0.026126-0.27539-0.037109-0.071501-0.0085057-0.14258-0.019404-0.21484-0.025391-0.16696-0.013831-0.33521-0.021484-0.50586-0.021484h-44z" fill="#1d3647" style="paint-order:markers fill stroke"/>
+ <g transform="translate(2 2.9996)" fill="#f51b18" stroke-width="0">
+  <path d="m50 7h3v2h-3z"/>
+  <path d="m50 11h3v2h-3z"/>
+  <path d="m50 15h3v2h-3z"/>
+ </g>
+ <circle cx="11" cy="15" r="3" fill="#f51b18"/>
+ <g transform="matrix(1 0 0 .66667 3 6.6666)" fill="#c4d1e0" stroke-width="0">
+  <path d="m15 8h3v9h-3z"/>
+  <path d="m20 8h3v9h-3z"/>
+  <path d="m25 8h3v9h-3z"/>
+ </g>
+ <path d="m21 52v1h-17v1c0 1.5395 0.57494 2.94 1.5215 4h15.479v1h22v-1h15.479c0.94654-1.06 1.5215-2.4605 1.5215-4v-1h-17v-1h-22z" fill="url(#linearGradient20)"/>
 </svg>

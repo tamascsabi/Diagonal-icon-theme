@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#b7ddff"/>
- <path id="path2" d="m23 4-19 15v-9c0-3.324 2.676-6 6-6z" fill="#0489ff" stroke-width=".84375"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#0489ff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="rect3" d="m43 15c1.662 0 3 1.338 3 3v28c0 1.662-1.338 3-3 3h-22c-1.662 0-3-1.338-3-3v-24l9-7z" fill="#f8f8f8" stroke-linecap="round" stroke-miterlimit="3.2" style="paint-order:fill markers stroke"/>
- <path id="text7" d="m44 24h-4.5405v0.57887c1.3472 0.06947 1.7214 0.30101 1.7214 1.0188 0 0.30101-0.0499 0.64834-0.17464 0.9725l-2.7942 7.9421-2.6944-7.78c-0.24948-0.74096-0.34927-1.0883-0.34927-1.2967 0-0.55572 0.37422-0.76411 1.4719-0.83358 0.0499 0 0.17464 0 0.32432-0.02316v-0.57887h-7.7838v0.57887c1.0229 0.04631 1.5218 0.2547 1.7963 0.81042l0.87318 2.2229-2.9439 7.1317-2.9938-8.4284c-0.12474-0.37048-0.17464-0.55572-0.17464-0.76411 0-0.67149 0.29938-0.87988 1.5967-0.9725v-0.57887h-7.3347v0.57887c1.0478 0.13893 1.2973 0.34732 1.7214 1.4819l5.289 13.939h0.69854l4.6403-11.045 4.2661 11.045h0.6736l4.9896-13.939c0.32432-0.92619 0.89813-1.4124 1.7214-1.4819z" fill="#0085fb" stroke-linecap="round" stroke-miterlimit="3.2" stroke-width="1.362" style="paint-order:fill markers stroke" aria-label="W"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#b7ddff"/>
+ <path d="m23 4-19 15v-9c0-3.324 2.676-6 6-6z" fill="#0489ff" stroke-width=".84375"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#0489ff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m43 15c1.662 0 3 1.338 3 3v28c0 1.662-1.338 3-3 3h-22c-1.662 0-3-1.338-3-3v-24l9-7z" fill="#f8f8f8" stroke-linecap="round" stroke-miterlimit="3.2" style="paint-order:fill markers stroke"/>
+ <path d="m44 24h-4.5405v0.57887c1.3472 0.06947 1.7214 0.30101 1.7214 1.0188 0 0.30101-0.0499 0.64834-0.17464 0.9725l-2.7942 7.9421-2.6944-7.78c-0.24948-0.74096-0.34927-1.0883-0.34927-1.2967 0-0.55572 0.37422-0.76411 1.4719-0.83358 0.0499 0 0.17464 0 0.32432-0.02316v-0.57887h-7.7838v0.57887c1.0229 0.04631 1.5218 0.2547 1.7963 0.81042l0.87318 2.2229-2.9439 7.1317-2.9938-8.4284c-0.12474-0.37048-0.17464-0.55572-0.17464-0.76411 0-0.67149 0.29938-0.87988 1.5967-0.9725v-0.57887h-7.3347v0.57887c1.0478 0.13893 1.2973 0.34732 1.7214 1.4819l5.289 13.939h0.69854l4.6403-11.045 4.2661 11.045h0.6736l4.9896-13.939c0.32432-0.92619 0.89813-1.4124 1.7214-1.4819z" fill="#0085fb" stroke-linecap="round" stroke-miterlimit="3.2" stroke-width="1.362" style="paint-order:fill markers stroke" aria-label="W"/>
 </svg>

@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#60697c"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#2c3039" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="rect6" d="m23 4v12c0-3.4143 1.3372 3 3 3h20c1.662 0 3-1.338 3-3v-12z" fill="#b0b3c3" stroke-width="0"/>
- <path id="rect7" d="m22 4v12c0 1.662 1.338 3 3 3h7c1.662 0 3-1.338 3-3v-12z" fill="#2c3039" stroke-width="0"/>
- <path id="rect3" d="m17.042 45h29.915c1.6854 0 3.0423 1.338 3.0423 3v12h-36v-12c0-1.662 1.3568-3 3.0423-3z" fill="#eeeef1" stroke-width="0"/>
- <path id="path8" d="m21 4-17 13v-7c0-3.324 2.676-6 6-6z" fill="#2c3039" stroke-width="0"/>
- <path id="rect4" d="m20 48h24c1.108 0 2 0.669 2 1.5s-0.892 1.5-2 1.5h-24c-1.108 0-2-0.669-2-1.5s0.892-1.5 2-1.5z" fill="#ff7200" stroke-width="0"/>
- <path id="rect2" d="m20 55h24c1.108 0 2 0.669 2 1.5s-0.892 1.5-2 1.5h-24c-1.108 0-2-0.669-2-1.5s0.892-1.5 2-1.5z" fill="#ff7200" stroke-width="0"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#60697c"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#2c3039" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m23 4v12c0-3.4143 1.3372 3 3 3h20c1.662 0 3-1.338 3-3v-12z" fill="#b0b3c3" stroke-width="0"/>
+ <path d="m22 4v12c0 1.662 1.338 3 3 3h7c1.662 0 3-1.338 3-3v-12z" fill="#2c3039" stroke-width="0"/>
+ <path d="m17.042 45h29.915c1.6854 0 3.0423 1.338 3.0423 3v12h-36v-12c0-1.662 1.3568-3 3.0423-3z" fill="#eeeef1" stroke-width="0"/>
+ <path d="m21 4-17 13v-7c0-3.324 2.676-6 6-6z" fill="#2c3039" stroke-width="0"/>
+ <path d="m20 48h24c1.108 0 2 0.669 2 1.5s-0.892 1.5-2 1.5h-24c-1.108 0-2-0.669-2-1.5s0.892-1.5 2-1.5z" fill="#ff7200" stroke-width="0"/>
+ <path d="m20 55h24c1.108 0 2 0.669 2 1.5s-0.892 1.5-2 1.5h-24c-1.108 0-2-0.669-2-1.5s0.892-1.5 2-1.5z" fill="#ff7200" stroke-width="0"/>
 </svg>

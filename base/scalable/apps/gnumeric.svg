@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#3a4d30"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#759a60" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="rect5" d="m15 15h11v10l11 3v10h-10l-1 11h-11z" fill="#9ee07b" stroke-width="2.5279" style="paint-order:markers stroke fill"/>
- <path id="rect3" d="m15.473 14c-0.81564 0-1.4727 0.65702-1.4727 1.4727v33.027c0 0.831 0.669 1.5 1.5 1.5h33c0.831 0 1.5-0.669 1.5-1.5v-22c0-0.831-0.669-1.5-1.5-1.5h-9.5v-9.5273c0-0.81564-0.65702-1.4727-1.4727-1.4727zm1.5273 3h8v8h-8zm11 0h8v8h-8zm-11 11h8v8h-8zm11 0h8v8h-8zm11 0h8v8h-8zm-22 11h8v8h-8zm11 0h8v8h-8zm11 0h8v8h-8z" fill="#fff" stroke-width=".73113"/>
- <path id="path3" d="m43 30a13 13 0 0 0-13 13 13 13 0 0 0 5.4961 10.588l7.5039-10.588h13a13 13 0 0 0-13-13zm-6.957 23.953a13 13 0 0 0 0.62695 0.38867 13 13 80.777 0 1-0.62695-0.38867zm1.5039 0.82031a13 13 0 0 0 0.60156 0.27734 13 13 80.777 0 1-0.60156-0.27734zm10.408 0.24414a13 13 80.777 0 1-1.6035 0.54297 13 13 0 0 0 1.6035-0.54102v-0.001953zm-8.8438 0.36133a13 13 0 0 0 0.62305 0.19727 13 13 80.777 0 1-0.62305-0.19727zm7.2383 0.18164a13 13 80.777 0 1-3.3496 0.43945 13 13 0 0 0 3.3496-0.43945zm-5.6074 0.2168a13 13 0 0 0 0.61523 0.11523 13 13 80.777 0 1-0.61523-0.11523z" fill="#ff001b" stroke-width="3.441" style="paint-order:markers stroke fill"/>
- <path id="circle4" transform="matrix(-.59328 .805 -.82373 -.56698 0 0)" d="m11.046-60.157 13.005-0.24051a12.795 13.215 45 0 0-2.291-7.4761 12.795 13.215 45 0 0-5.6344-4.4137l-5.0797 12.13z" fill="#74da77" stroke-width="3.5012" style="paint-order:markers stroke fill"/>
- <path id="path5" d="m43 43 4.9694 12.054c2.4916-1.023 4.6038-2.7947 6.0449-5.0702 1.3223-2.0888 1.9915-4.5114 1.9857-6.9836z" fill="#0668fa" stroke-width="3.5003" style="paint-order:markers stroke fill"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#3a4d30"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#759a60" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m15 15h11v10l11 3v10h-10l-1 11h-11z" fill="#9ee07b" stroke-width="2.5279" style="paint-order:markers stroke fill"/>
+ <path d="m15.473 14c-0.81564 0-1.4727 0.65702-1.4727 1.4727v33.027c0 0.831 0.669 1.5 1.5 1.5h33c0.831 0 1.5-0.669 1.5-1.5v-22c0-0.831-0.669-1.5-1.5-1.5h-9.5v-9.5273c0-0.81564-0.65702-1.4727-1.4727-1.4727zm1.5273 3h8v8h-8zm11 0h8v8h-8zm-11 11h8v8h-8zm11 0h8v8h-8zm11 0h8v8h-8zm-22 11h8v8h-8zm11 0h8v8h-8zm11 0h8v8h-8z" fill="#fff" stroke-width=".73113"/>
+ <path d="m43 30a13 13 0 0 0-13 13 13 13 0 0 0 5.4961 10.588l7.5039-10.588h13a13 13 0 0 0-13-13zm-6.957 23.953a13 13 0 0 0 0.62695 0.38867 13 13 80.777 0 1-0.62695-0.38867zm1.5039 0.82031a13 13 0 0 0 0.60156 0.27734 13 13 80.777 0 1-0.60156-0.27734zm10.408 0.24414a13 13 80.777 0 1-1.6035 0.54297 13 13 0 0 0 1.6035-0.54102v-0.001953zm-8.8438 0.36133a13 13 0 0 0 0.62305 0.19727 13 13 80.777 0 1-0.62305-0.19727zm7.2383 0.18164a13 13 80.777 0 1-3.3496 0.43945 13 13 0 0 0 3.3496-0.43945zm-5.6074 0.2168a13 13 0 0 0 0.61523 0.11523 13 13 80.777 0 1-0.61523-0.11523z" fill="#ff001b" stroke-width="3.441" style="paint-order:markers stroke fill"/>
+ <path transform="matrix(-.59328 .805 -.82373 -.56698 0 0)" d="m11.046-60.157 13.005-0.24051a12.795 13.215 45 0 0-2.291-7.4761 12.795 13.215 45 0 0-5.6344-4.4137l-5.0797 12.13z" fill="#74da77" stroke-width="3.5012" style="paint-order:markers stroke fill"/>
+ <path d="m43 43 4.9694 12.054c2.4916-1.023 4.6038-2.7947 6.0449-5.0702 1.3223-2.0888 1.9915-4.5114 1.9857-6.9836z" fill="#0668fa" stroke-width="3.5003" style="paint-order:markers stroke fill"/>
 </svg>

@@ -1,27 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs1">
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
   <linearGradient id="h" x1="-48" x2="-24" y1="248" y2="248" gradientTransform="matrix(-.25314 -.25314 .28996 -.28996 -36.318 86.499)" gradientUnits="userSpaceOnUse">
-   <stop id="stop23" stop-color="#d8050e" offset="0"/>
-   <stop id="stop24" stop-color="#f9968b" offset="1"/>
+   <stop stop-color="#d8050e" offset="0"/>
+   <stop stop-color="#f9968b" offset="1"/>
   </linearGradient>
   <linearGradient id="i" x1="-42" x2="-30" y1="194" y2="194" gradientTransform="matrix(-.30377 -.30377 .30377 -.30377 -41.578 88.223)" gradientUnits="userSpaceOnUse">
-   <stop id="stop7" stop-color="#e01b24" offset="0"/>
-   <stop id="stop8" stop-color="#f66151" offset="1"/>
+   <stop stop-color="#e01b24" offset="0"/>
+   <stop stop-color="#f66151" offset="1"/>
   </linearGradient>
  </defs>
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#8c9299"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#c5c5c5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path18" d="m11 32c5.9483 1.9352-2.6712 7.4674 6 8 5.0955 0.31208 5 7 5 7" fill="none" stroke="#e01b24" stroke-linecap="round" stroke-width="2"/>
- <path id="rect3" d="m10 4c-3.324 0-6 2.676-6 6v6h56v-6c0-3.324-2.676-6-6-6h-44z" fill="#383a3d"/>
- <path id="rect4" d="m7 16v36c0 2.77 2.23 5 5 5h40c2.77 0 5-2.23 5-5v-36h-2v35c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4v-35h-2z" fill="#f5f5f6" stroke-width=".89286"/>
- <path id="path19" d="m30 45-6-6 25.962-26.143 6.0754 6.0754z" enable-background="new" fill="url(#h)" stroke-width=".4296"/>
- <path id="path20" d="m45.936 16.914-1.0078 1.0137 6.0605 6.0605 0.26172-0.26367 0.82031-0.82031-6.1348-5.9902zm-15.957 16.064-0.99609 1.0039 6.0156 6.0156 0.99805-1.002-6.0176-6.0176z" fill="#070608" stroke-width=".8551"/>
- <path id="path21" d="m29 45-5-5-3 7 1 1z" enable-background="new" fill="url(#i)" stroke-width=".4296"/>
- <path id="path22" d="m30 45-6-6-1 1 6 6z" enable-background="new" fill="#933735" stroke-width=".8551"/>
- <path id="path2" d="m39.381 23.512-4.8477 4.8828a3.5 3.5 0 0 0 1.9668 0.60547 3.5 3.5 0 0 0 3.5-3.5 3.5 3.5 0 0 0-0.61914-1.9883z" fill="#070608" stroke-width="1.3971"/>
- <rect id="rect5" x="48" y="31" width="2" height="21" fill="#f5f5f6" stroke-width="1.954"/>
- <rect id="rect6" transform="rotate(-90)" x="-48" y="33" width="2" height="21" fill="#f5f5f6" stroke-width="1.954"/>
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#8c9299"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#c5c5c5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m11 32c5.9483 1.9352-2.6712 7.4674 6 8 5.0955 0.31208 5 7 5 7" fill="none" stroke="#e01b24" stroke-linecap="round" stroke-width="2"/>
+ <path d="m10 4c-3.324 0-6 2.676-6 6v6h56v-6c0-3.324-2.676-6-6-6h-44z" fill="#383a3d"/>
+ <path d="m7 16v36c0 2.77 2.23 5 5 5h40c2.77 0 5-2.23 5-5v-36h-2v35c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4v-35h-2z" fill="#f5f5f6" stroke-width=".89286"/>
+ <path d="m30 45-6-6 25.962-26.143 6.0754 6.0754z" enable-background="new" fill="url(#h)" stroke-width=".4296"/>
+ <path d="m45.936 16.914-1.0078 1.0137 6.0605 6.0605 0.26172-0.26367 0.82031-0.82031-6.1348-5.9902zm-15.957 16.064-0.99609 1.0039 6.0156 6.0156 0.99805-1.002-6.0176-6.0176z" fill="#070608" stroke-width=".8551"/>
+ <path d="m29 45-5-5-3 7 1 1z" enable-background="new" fill="url(#i)" stroke-width=".4296"/>
+ <path d="m30 45-6-6-1 1 6 6z" enable-background="new" fill="#933735" stroke-width=".8551"/>
+ <path d="m39.381 23.512-4.8477 4.8828a3.5 3.5 0 0 0 1.9668 0.60547 3.5 3.5 0 0 0 3.5-3.5 3.5 3.5 0 0 0-0.61914-1.9883z" fill="#070608" stroke-width="1.3971"/>
+ <rect x="48" y="31" width="2" height="21" fill="#f5f5f6" stroke-width="1.954"/>
+ <rect transform="rotate(-90)" x="-48" y="33" width="2" height="21" fill="#f5f5f6" stroke-width="1.954"/>
 </svg>

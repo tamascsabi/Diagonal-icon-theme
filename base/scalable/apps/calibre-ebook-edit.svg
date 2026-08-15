@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <path id="rect1" d="m10 4c-3.324 0-6 2.676-6 6v44c0 3.324 2.676 6 6 6h23v-56h-23z" fill="#a1dfda"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#283e48" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path2" d="m32 4v56h21.769c3.4518 0 6.2308-2.676 6.2308-6v-44c0-3.324-2.5482-6-6-6z" fill="#007e73" stroke-width="1.019"/>
- <path id="rect2" d="m13 4h12v26l-6-8-6 8z" fill="#00a193" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
- <rect id="rect3" x="36" y="9" width="20" height="2" ry="1" fill="#e6e6e6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
- <rect id="rect4" x="36" y="53" width="20" height="2" ry="1" fill="#e6e6e6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
- <rect id="rect5" x="36" y="17" width="20" height="2" ry="1" fill="#e6e6e6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
- <rect id="rect6" x="36" y="45" width="20" height="2" ry="1" fill="#e6e6e6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
- <path id="text6" transform="scale(.95883 1.0429)" d="m49.018 39.312c-1.8155 0-2.0859-0.95883-2.0859-1.9177v-5.753c3.0921 0 3.8313 1.5035 4.1717 4.7942h1.0429v-9.5883h-1.0429c-0.42552 3.1772-1.0796 3.8353-4.0583 3.8353h-0.11347v-5.753c0-0.95883 1.0429-1.9177 2.0859-1.9177 3.1288 0 6.2576 0 6.2576 4.7942h1.0429v-5.753l-16.687 4.6e-5 1.4e-5 0.95879c2.0859 0 3.1288 0.95883 3.1288 1.9177v12.465c0 0.95883-1.0429 1.9177-3.1288 1.9177v0.95883h16.687l1.0429-5.753h-1.0429c-1.3617 2.9219-2.8184 4.7942-7.3005 4.7942z" fill="#fbfefe" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.3298" style="paint-order:markers fill stroke" aria-label="E"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <path d="m10 4c-3.324 0-6 2.676-6 6v44c0 3.324 2.676 6 6 6h23v-56h-23z" fill="#a1dfda"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#283e48" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m32 4v56h21.769c3.4518 0 6.2308-2.676 6.2308-6v-44c0-3.324-2.5482-6-6-6z" fill="#007e73" stroke-width="1.019"/>
+ <path d="m13 4h12v26l-6-8-6 8z" fill="#00a193" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
+ <rect x="36" y="9" width="20" height="2" ry="1" fill="#e6e6e6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
+ <rect x="36" y="53" width="20" height="2" ry="1" fill="#e6e6e6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
+ <rect x="36" y="17" width="20" height="2" ry="1" fill="#e6e6e6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
+ <rect x="36" y="45" width="20" height="2" ry="1" fill="#e6e6e6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
+ <path transform="scale(.95883 1.0429)" d="m49.018 39.312c-1.8155 0-2.0859-0.95883-2.0859-1.9177v-5.753c3.0921 0 3.8313 1.5035 4.1717 4.7942h1.0429v-9.5883h-1.0429c-0.42552 3.1772-1.0796 3.8353-4.0583 3.8353h-0.11347v-5.753c0-0.95883 1.0429-1.9177 2.0859-1.9177 3.1288 0 6.2576 0 6.2576 4.7942h1.0429v-5.753l-16.687 4.6e-5 1.4e-5 0.95879c2.0859 0 3.1288 0.95883 3.1288 1.9177v12.465c0 0.95883-1.0429 1.9177-3.1288 1.9177v0.95883h16.687l1.0429-5.753h-1.0429c-1.3617 2.9219-2.8184 4.7942-7.3005 4.7942z" fill="#fbfefe" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.3298" style="paint-order:markers fill stroke" aria-label="E"/>
 </svg>

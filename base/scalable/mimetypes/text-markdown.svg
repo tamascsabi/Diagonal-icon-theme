@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#1f51dc"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#bcccf5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <rect id="rect2" x="8" y="17" width="48" height="30" ry="5.9417" fill="#bcccf5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
- <path id="rect6" d="m13.942 17c-3.2918 0-5.9417 2.6497-5.9417 5.9414v18.117c0 2.9719 2.1599 5.4214 5.0022 5.8691l37.998-29.855c-0.30587-0.048188-0.61967-0.072266-0.9395-0.072266z" fill="#1f51dc" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
- <path id="path19" d="m14 41v-18h5l5 7 5-7h5v18h-5v-10l-5 7-5-7v10zm29 0-7-9h4v-9h6v9h4z" fill="#fff" stroke-width="2.1222"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#1f51dc"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#bcccf5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect x="8" y="17" width="48" height="30" ry="5.9417" fill="#bcccf5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
+ <path d="m13.942 17c-3.2918 0-5.9417 2.6497-5.9417 5.9414v18.117c0 2.9719 2.1599 5.4214 5.0022 5.8691l37.998-29.855c-0.30587-0.048188-0.61967-0.072266-0.9395-0.072266z" fill="#1f51dc" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
+ <path d="m14 41v-18h5l5 7 5-7h5v18h-5v-10l-5 7-5-7v10zm29 0-7-9h4v-9h6v9h4z" fill="#fff" stroke-width="2.1222"/>
 </svg>

@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#9d98a1"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#004d6b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path10" d="m21.423 10.001c0.09632 4.3862-2.129 6.999-6.4226 6.999l8.93e-4 30.31c-0.05993 3.6767 2.8419 6.69 6.4424 6.69s6.6166-3.3233 6.5567-7v-5h6c7 0 15-7.2199 15-16 0-8.7817-7-16-16-16zm6.5774 11.999h5c2.1587 0 4 1.7247 4 4s-1.8426 3.9737-4 4h-5z" fill="#aef4f4" stroke-width="1.1452"/>
- <path id="path11" d="m22 15c-0.58891 0.01142-2.0095 0.39852-2 1v32c0.04124 1.3711 2.0412 1.3299 2 0v-12h12c7 0 10-4.2576 10-10s-3-11-10-11c-4.1948 0-7.8139-0.0834-12 0zm0 2h12c5 0 8 4 8 9s-3 8-8 8h-12z" fill="#4d95ab" stroke-width="1.1453"/>
- <path id="path12" d="m34.705 30c-1.3815-0.0084-2.7315 0.40749-3.8632 1.1903-3.0141 2.0843-3.7471 6.1883-1.6372 9.1661l7.6795 10.837c2.1092 2.9759 6.2601 3.7 9.2731 1.6176 3.0134-2.0834 3.7474-6.1858 1.6395-9.1638l-7.6817-10.839c-1.2371-1.7459-3.253-2.7923-5.4099-2.808" fill="#11bcff" fill-rule="evenodd" stroke-width="1.1682"/>
- <circle id="path5" cx="21.5" cy="16.5" r="6.5" fill="#11bcff" stroke-miterlimit="3.2" stroke-width="0" style="paint-order:stroke markers fill"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#9d98a1"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#004d6b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m21.423 10.001c0.09632 4.3862-2.129 6.999-6.4226 6.999l8.93e-4 30.31c-0.05993 3.6767 2.8419 6.69 6.4424 6.69s6.6166-3.3233 6.5567-7v-5h6c7 0 15-7.2199 15-16 0-8.7817-7-16-16-16zm6.5774 11.999h5c2.1587 0 4 1.7247 4 4s-1.8426 3.9737-4 4h-5z" fill="#aef4f4" stroke-width="1.1452"/>
+ <path d="m22 15c-0.58891 0.01142-2.0095 0.39852-2 1v32c0.04124 1.3711 2.0412 1.3299 2 0v-12h12c7 0 10-4.2576 10-10s-3-11-10-11c-4.1948 0-7.8139-0.0834-12 0zm0 2h12c5 0 8 4 8 9s-3 8-8 8h-12z" fill="#4d95ab" stroke-width="1.1453"/>
+ <path d="m34.705 30c-1.3815-0.0084-2.7315 0.40749-3.8632 1.1903-3.0141 2.0843-3.7471 6.1883-1.6372 9.1661l7.6795 10.837c2.1092 2.9759 6.2601 3.7 9.2731 1.6176 3.0134-2.0834 3.7474-6.1858 1.6395-9.1638l-7.6817-10.839c-1.2371-1.7459-3.253-2.7923-5.4099-2.808" fill="#11bcff" fill-rule="evenodd" stroke-width="1.1682"/>
+ <circle cx="21.5" cy="16.5" r="6.5" fill="#11bcff" stroke-miterlimit="3.2" stroke-width="0" style="paint-order:stroke markers fill"/>
 </svg>

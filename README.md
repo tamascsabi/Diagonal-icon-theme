@@ -142,6 +142,16 @@ If your system is not recognized, default settings will be used.
 
 ---
 
+## Distribution specific settings and non-standard installation methods
+The installer also supports non-standard installation methods.
+
+* FreeBSD and OpenBSD: icons are installed in the `/usr/local/share/icons` directory if installed systemwide.
+* NixOS: icons are installed to `/var/opt/icons.`
+
+  When installing a NixOS version, the user must still configure the system to include the installed icon library in the icon search path.
+  
+  A sample configuration file is provided in the installer's `/config` directory.
+
 ## Portable Mode
 
 You can create a compressed icon package without installing it.

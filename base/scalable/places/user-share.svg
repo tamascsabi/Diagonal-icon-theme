@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#3e8ae6"/>
- <rect id="rect4" x="10" y="10" width="44" height="44" rx="4" ry="4" fill="#fff8ff" stroke-width="1.0714"/>
- <rect id="rect36" x="15" y="16" width="34" height="3" rx="1.5" ry="1.3614" fill="#00c110" stroke-width="0"/>
- <rect id="rect8" x="15" y="40" width="34" height="3" rx="1.5" ry="1.3614" fill="#00c110" stroke-width="0"/>
- <rect id="rect9" x="15" y="28" width="34" height="3" rx="1.5" ry="1.3614" fill="#00c110" stroke-width="0"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#7dbaff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="rect5" d="m38.054 54.017v1.9826h14.946v-1.9826l-5.9783-0.017409v-3h5.9783l-0.0067-13h-14.993l0.0067 13h6.0685v3.0174zm1.9928-14.017h10.911v9h-10.911z" fill="#f9f9f9" stroke-width="3.7728"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#3e8ae6"/>
+ <rect x="10" y="10" width="44" height="44" rx="4" ry="4" fill="#fff8ff" stroke-width="1.0714"/>
+ <rect x="15" y="16" width="34" height="3" rx="1.5" ry="1.3614" fill="#00c110" stroke-width="0"/>
+ <rect x="15" y="40" width="34" height="3" rx="1.5" ry="1.3614" fill="#00c110" stroke-width="0"/>
+ <rect x="15" y="28" width="34" height="3" rx="1.5" ry="1.3614" fill="#00c110" stroke-width="0"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#7dbaff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m38.054 54.017v1.9826h14.946v-1.9826l-5.9783-0.017409v-3h5.9783l-0.0067-13h-14.993l0.0067 13h6.0685v3.0174zm1.9928-14.017h10.911v9h-10.911z" fill="#f9f9f9" stroke-width="3.7728"/>
 </svg>

@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#4ba520"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#035677" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path4" d="m32 10c-4.0273-2e-7 -7 3.1875-7 7-1e-6 3.8125 2.9727 6.8062 7 6.8062s7-2.9937 7-6.8062-2.9727-7-7-7zm0 15c-4.7489 5e-5 -9.2105 2.635-12 6l4 7h16l4-7c-2.7895-3.365-7.2511-6-12-6z" fill="#e2c9ab" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".40308" style="paint-order:markers fill stroke"/>
- <path id="path3" d="m44 20a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 18c-5.5404 6.1e-5 -10.746 2.8529-14 7l4 9h20l4-9c-3.2544-4.1471-8.4596-6.9999-14-7z" fill="#01161e" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".48333" style="paint-order:markers fill stroke"/>
- <path id="path2" d="m20 20a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 18c-5.5404 6.1e-5 -10.746 2.8529-14 7l4 9h20l4-9c-3.2544-4.1471-8.4596-6.9999-14-7z" fill="#fcf7f1" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".48333" style="paint-order:markers fill stroke"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#4ba520"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#035677" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m32 10c-4.0273-2e-7 -7 3.1875-7 7-1e-6 3.8125 2.9727 6.8062 7 6.8062s7-2.9937 7-6.8062-2.9727-7-7-7zm0 15c-4.7489 5e-5 -9.2105 2.635-12 6l4 7h16l4-7c-2.7895-3.365-7.2511-6-12-6z" fill="#e2c9ab" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".40308" style="paint-order:markers fill stroke"/>
+ <path d="m44 20a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 18c-5.5404 6.1e-5 -10.746 2.8529-14 7l4 9h20l4-9c-3.2544-4.1471-8.4596-6.9999-14-7z" fill="#01161e" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".48333" style="paint-order:markers fill stroke"/>
+ <path d="m20 20a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 18c-5.5404 6.1e-5 -10.746 2.8529-14 7l4 9h20l4-9c-3.2544-4.1471-8.4596-6.9999-14-7z" fill="#fcf7f1" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".48333" style="paint-order:markers fill stroke"/>
 </svg>

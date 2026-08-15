@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#e5333b"/>
- <path id="path3251" d="m25 9.0005v3.9985c-3.5149 0.06343-4 3.0037-4 3.0037h2v4.0049h-4c-3 7.0085-8 6.9925-8 6.9925v-3.9889s3 0 6-7.0085c3-7.0085 7.9999-7.0026 7.9999-7.0026z" color="#000000" fill="#fed3d5" stroke-width="3.8462"/>
- <path id="path2" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#fed3d5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <g id="g4" stroke-width="1.2216">
-  <path id="path833" d="m47 35c0 2-19.693 13.755-21 13-1.3072-0.7547-1.3072-25.245 0-26 1.4227-0.54639 21 11 21 13z" fill="#fed3d5" style="paint-order:normal"/>
-  <path id="path3" d="m37.393 27.764-12.355 9.707c0.074515 5.3943 0.39506 10.201 0.96289 10.529 1.3071 0.75493 21-11 21-13 0-0.97638-4.6658-4.2273-9.6074-7.2363z" fill="#e5333b" style="paint-order:normal"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#e5333b"/>
+ <path d="m25 9.0005v3.9985c-3.5149 0.06343-4 3.0037-4 3.0037h2v4.0049h-4c-3 7.0085-8 6.9925-8 6.9925v-3.9889s3 0 6-7.0085 7.9999-7.0026 7.9999-7.0026z" color="#000000" fill="#fed3d5" stroke-width="3.8462"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#fed3d5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <g stroke-width="1.2216">
+  <path d="m47 35c0 2-19.693 13.755-21 13-1.3072-0.7547-1.3072-25.245 0-26 1.4227-0.54639 21 11 21 13z" fill="#fed3d5" style="paint-order:normal"/>
+  <path d="m37.393 27.764-12.355 9.707c0.074515 5.3943 0.39506 10.201 0.96289 10.529 1.3071 0.75493 21-11 21-13 0-0.97638-4.6658-4.2273-9.6074-7.2363z" fill="#e5333b" style="paint-order:normal"/>
  </g>
 </svg>

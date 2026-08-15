@@ -1,27 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs18">
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
   <linearGradient id="linearGradient3523" x1="23.573" x2="16.571" y1="32.431" y2="17.393" gradientTransform="matrix(1.7778 0 0 1.7714 -11.164 -12.334)" gradientUnits="userSpaceOnUse">
-   <stop id="stop8-2" stop-color="#283849" offset="0"/>
-   <stop id="stop9-8" stop-color="#56799b" offset="1"/>
+   <stop stop-color="#283849" offset="0"/>
+   <stop stop-color="#56799b" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient3587" x1="6.35" x2="6.35" y1="5.0271" y2="8.4656" gradientTransform="matrix(6.9971 0 0 6.9971 -12.483 -14.01)" gradientUnits="userSpaceOnUse">
-   <stop id="stop6-9" stop-color="#ffb12b" offset="0"/>
-   <stop id="stop7-7" stop-color="#fdca70" offset="1"/>
+   <stop stop-color="#ffb12b" offset="0"/>
+   <stop stop-color="#fdca70" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient23" x1="35" x2="35" y1="45" y2="-10" gradientTransform="matrix(1.7778 0 0 1.7714 53.099 -1.7323)" gradientUnits="userSpaceOnUse">
-   <stop id="stop23" stop-color="#fdbc4b" offset="0"/>
-   <stop id="stop24" stop-color="#da4453" offset=".52035"/>
-   <stop id="stop25" stop-color="#9b59b6" offset=".8279"/>
+   <stop stop-color="#fdbc4b" offset="0"/>
+   <stop stop-color="#da4453" offset=".52035"/>
+   <stop stop-color="#9b59b6" offset=".8279"/>
   </linearGradient>
  </defs>
- <rect id="rect1-6" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#c1406d"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="url(#linearGradient23)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <circle id="ellipse11" cx="32" cy="32" r="16" fill="url(#linearGradient3587)" stroke-width="7.559" style="paint-order:normal"/>
- <path id="path12" d="m53 20-16 17-9-5-11 11-5.0527-3.9629-7.9473 7.918v7.0449c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-32.625l-0.05078-0.05078-3.5527 3.541-0.0039 2e-3 -1.3926-1.8672z" fill="url(#linearGradient3523)" stroke-width="3.7796" style="paint-order:normal"/>
- <path id="path13" d="m4 47 11-5.507-3.0527-2.4558z" fill="#476380" stroke-width="6.7073" style="paint-order:normal"/>
- <path id="path14" d="m28 32-11 11 17.111-7.6055-6.1113-3.3945z" fill="#476380" stroke-width="6.7073" style="paint-order:normal"/>
- <path id="path15" d="m37 37 18-14-2-3z" fill="#476380" stroke-width="6.7073" style="paint-order:normal"/>
- <path id="path16" d="m56.396 24.865 3.6035-1.8652v-2z" fill="#476380" stroke-width="6.7073" style="paint-order:normal"/>
- <path id="path25" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" opacity=".24568" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#c1406d"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="url(#linearGradient23)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <circle cx="32" cy="32" r="16" fill="url(#linearGradient3587)" stroke-width="7.559" style="paint-order:normal"/>
+ <path d="m53 20-16 17-9-5-11 11-5.0527-3.9629-7.9473 7.918v7.0449c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-32.625l-0.05078-0.05078-3.5527 3.541-0.0039 2e-3 -1.3926-1.8672z" fill="url(#linearGradient3523)" stroke-width="3.7796" style="paint-order:normal"/>
+ <path d="m4 47 11-5.507-3.0527-2.4558z" fill="#476380" stroke-width="6.7073" style="paint-order:normal"/>
+ <path d="m28 32-11 11 17.111-7.6055-6.1113-3.3945z" fill="#476380" stroke-width="6.7073" style="paint-order:normal"/>
+ <path d="m37 37 18-14-2-3z" fill="#476380" stroke-width="6.7073" style="paint-order:normal"/>
+ <path d="m56.396 24.865 3.6035-1.8652v-2z" fill="#476380" stroke-width="6.7073" style="paint-order:normal"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" opacity=".24568" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
 </svg>

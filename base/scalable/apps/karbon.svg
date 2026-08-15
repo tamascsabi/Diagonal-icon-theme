@@ -1,15 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#4642df"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#7876e5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path15" d="m47 5-24 16 2 2 23-16z" fill="#282d77" stroke-linecap="square" stroke-miterlimit="3.2"/>
- <path id="e" d="m45 6.2038c0.11947 1.0981 1.1091 1.8916 2.2104 1.7725 1.1013-0.11912 1.8972-1.1058 1.7778-2.2038-0.11947-1.098-1.1091-1.8916-2.2104-1.7725-1.1013 0.11911-1.8972 1.1058-1.7778 2.2038z" color="#000000" fill="#f7f7fb" stroke-width="1.0014"/>
- <path id="path10" d="m38 27-24 19 1 5 25-21z" fill="#282d77" stroke-linecap="square" stroke-miterlimit="3.2"/>
- <path id="k-9" d="m8.0355 48.647c0.35733 3.2941 3.3174 5.6748 6.6115 5.3175 3.2941-0.35733 5.6748-3.3174 5.3175-6.6115-0.35733-3.2941-3.3174-5.6748-6.6115-5.3175s-5.6748 3.3174-5.3175 6.6115z" color="#000000" fill="#f7f7fb" stroke-width=".99991"/>
- <path id="path13" d="m22 22 15 9 2-3-15-9z" fill="#282d77" stroke-linecap="square" stroke-miterlimit="3.2"/>
- <path id="m" d="m33.027 29.985c0.268 2.4705 2.4881 4.2561 4.9586 3.9881s4.2561-2.4881 3.9881-4.9586-2.4881-4.2561-4.9586-3.9881-4.2561 2.4881-3.9881 4.9586z" color="#000000" fill="#f7f7fb" stroke-width="1.1249"/>
- <path id="p" d="m22.021 21.877c0.20845 1.9216 1.9351 3.3103 3.8567 3.1019 1.9216-0.20845 3.3103-1.9351 3.1019-3.8567-0.20845-1.9216-1.9351-3.3103-3.8567-3.1019-1.9216 0.20845-3.3103 1.9351-3.1019 3.8567z" color="#000000" fill="#f7f7fb" stroke-width="1.1666"/>
- <path id="path14" d="m23 20z" fill="#282d77" stroke-linecap="square" stroke-miterlimit="3.2"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#4642df"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#7876e5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m47 5-24 16 2 2 23-16z" fill="#282d77" stroke-linecap="square" stroke-miterlimit="3.2"/>
+ <path d="m45 6.2038c0.11947 1.0981 1.1091 1.8916 2.2104 1.7725 1.1013-0.11912 1.8972-1.1058 1.7778-2.2038-0.11947-1.098-1.1091-1.8916-2.2104-1.7725-1.1013 0.11911-1.8972 1.1058-1.7778 2.2038z" color="#000000" fill="#f7f7fb" stroke-width="1.0014"/>
+ <path d="m38 27-24 19 1 5 25-21z" fill="#282d77" stroke-linecap="square" stroke-miterlimit="3.2"/>
+ <path d="m8.0355 48.647c0.35733 3.2941 3.3174 5.6748 6.6115 5.3175 3.2941-0.35733 5.6748-3.3174 5.3175-6.6115-0.35733-3.2941-3.3174-5.6748-6.6115-5.3175s-5.6748 3.3174-5.3175 6.6115z" color="#000000" fill="#f7f7fb" stroke-width=".99991"/>
+ <path d="m22 22 15 9 2-3-15-9z" fill="#282d77" stroke-linecap="square" stroke-miterlimit="3.2"/>
+ <path d="m33.027 29.985c0.268 2.4705 2.4881 4.2561 4.9586 3.9881s4.2561-2.4881 3.9881-4.9586-2.4881-4.2561-4.9586-3.9881-4.2561 2.4881-3.9881 4.9586z" color="#000000" fill="#f7f7fb" stroke-width="1.1249"/>
+ <path d="m22.021 21.877c0.20845 1.9216 1.9351 3.3103 3.8567 3.1019 1.9216-0.20845 3.3103-1.9351 3.1019-3.8567-0.20845-1.9216-1.9351-3.3103-3.8567-3.1019-1.9216 0.20845-3.3103 1.9351-3.1019 3.8567z" color="#000000" fill="#f7f7fb" stroke-width="1.1666"/>
+ <path d="m23 20z" fill="#282d77" stroke-linecap="square" stroke-miterlimit="3.2"/>
 </svg>

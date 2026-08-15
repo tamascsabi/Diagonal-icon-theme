@@ -1,20 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg31" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs id="defs18">
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
   <linearGradient id="f-0" x1="86" x2="83" y1="20" y2="20" gradientTransform="matrix(1.1854 0 0 1.1905 -60.468 -6.0972)" gradientUnits="userSpaceOnUse">
-   <stop id="stop1-9" offset="0"/>
-   <stop id="stop2-3" stop-opacity="0" offset="1"/>
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
   </linearGradient>
   <linearGradient id="c-6" x1="86" x2="63" y1="19.458" y2="39" gradientTransform="matrix(1.1854 0 0 1.1905 -60.468 -6.0972)" gradientUnits="userSpaceOnUse">
-   <stop id="stop3-0" stop-color="#209853" offset="0"/>
-   <stop id="stop4-6" stop-color="#0e6234" offset="1"/>
+   <stop stop-color="#209853" offset="0"/>
+   <stop stop-color="#0e6234" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient20" x1="13" x2="41.515" y1="36.448" y2="36.448" gradientUnits="userSpaceOnUse" xlink:href="#c-6"/>
  </defs>
- <rect id="rect1" transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#2cd56f"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#062514" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path id="path9" d="m40.562 13.013a2.6895 2.701 0 0 0-1.1948 0.4467c0.61754 0.77081-0.62893 8.0343 0.93097 9.0174l1.2175 0.7677v17.514l-1.9116 1.4388c-1.474 1.1084 0.13344 7.4973-0.25343 8.3192 0.42721 0.26179 1.0655 0.54123 1.6241 0.47267a1.6551 1.6622 0 0 0 0.5379-0.15998l7.783-3.8322c0.84822-0.41761 1.7047-0.7625 1.7047-1.711v-26.568c0-0.94848-0.85651-1.2944-1.7047-1.712l-7.782-3.8322a1.6551 1.6622 0 0 0-0.9517-0.15998" fill="#26be62" fill-rule="evenodd" stroke-width="1.0366" style="paint-order:stroke fill markers"/>
- <path id="path10" d="m13.557 37.317 25.321-23.502c1.1492-1.0669 2.6378-0.68874 2.6378 1.5188v7.9097l-23.408 17.978c-0.4086 0.32204-1.4751 1.0939-2.406 0.20569l-2.3688-2.2615c-0.62065-0.59317-0.26792-1.3931 0.2255-1.8512z" fill="url(#c-6)" fill-rule="evenodd" stroke-width="1.0366" style="paint-order:stroke fill markers"/>
- <path id="path11" d="m13.557 26.674 25.321 23.502c1.1492 1.0669 2.6378 0.68874 2.6378-1.5188v-7.9097l-23.409-17.979c-0.4086-0.32204-1.4751-1.0939-2.406-0.20569l-2.3688 2.2615c-0.62065 0.59317-0.26792 1.3931 0.2255 1.8512z" fill="url(#linearGradient20)" fill-rule="evenodd" stroke-width="1.188" style="paint-order:stroke fill markers"/>
- <path id="path13" d="m13.557 37.317 25.321-23.502c1.1492-1.0669 2.6378-0.68874 2.6378 1.5188v7.9097l-23.408 17.978c-0.4086 0.32204-1.4751 1.0939-2.406 0.20569l-2.3688-2.2615c-0.62065-0.59317-0.26792-1.3931 0.2255-1.8512z" fill="url(#f-0)" fill-rule="evenodd" opacity=".15" stroke-width="1.188" style="paint-order:stroke fill markers"/>
+ <rect transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#2cd56f"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#062514" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m40.562 13.013a2.6895 2.701 0 0 0-1.1948 0.4467c0.61754 0.77081-0.62893 8.0343 0.93097 9.0174l1.2175 0.7677v17.514l-1.9116 1.4388c-1.474 1.1084 0.13344 7.4973-0.25343 8.3192 0.42721 0.26179 1.0655 0.54123 1.6241 0.47267a1.6551 1.6622 0 0 0 0.5379-0.15998l7.783-3.8322c0.84822-0.41761 1.7047-0.7625 1.7047-1.711v-26.568c0-0.94848-0.85651-1.2944-1.7047-1.712l-7.782-3.8322a1.6551 1.6622 0 0 0-0.9517-0.15998" fill="#26be62" fill-rule="evenodd" stroke-width="1.0366" style="paint-order:stroke fill markers"/>
+ <path d="m13.557 37.317 25.321-23.502c1.1492-1.0669 2.6378-0.68874 2.6378 1.5188v7.9097l-23.408 17.978c-0.4086 0.32204-1.4751 1.0939-2.406 0.20569l-2.3688-2.2615c-0.62065-0.59317-0.26792-1.3931 0.2255-1.8512z" fill="url(#c-6)" fill-rule="evenodd" stroke-width="1.0366" style="paint-order:stroke fill markers"/>
+ <path d="m13.557 26.674 25.321 23.502c1.1492 1.0669 2.6378 0.68874 2.6378-1.5188v-7.9097l-23.409-17.979c-0.4086-0.32204-1.4751-1.0939-2.406-0.20569l-2.3688 2.2615c-0.62065 0.59317-0.26792 1.3931 0.2255 1.8512z" fill="url(#linearGradient20)" fill-rule="evenodd" stroke-width="1.188" style="paint-order:stroke fill markers"/>
+ <path d="m13.557 37.317 25.321-23.502c1.1492-1.0669 2.6378-0.68874 2.6378 1.5188v7.9097l-23.408 17.978c-0.4086 0.32204-1.4751 1.0939-2.406 0.20569l-2.3688-2.2615c-0.62065-0.59317-0.26792-1.3931 0.2255-1.8512z" fill="url(#f-0)" fill-rule="evenodd" opacity=".15" stroke-width="1.188" style="paint-order:stroke fill markers"/>
 </svg>

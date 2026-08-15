@@ -1,30 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs1">
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
   <radialGradient id="b-2" cx="30.901" cy="34.377" r="12" gradientTransform="matrix(.33924 0 0 3.0428 13.517 -76.601)" gradientUnits="userSpaceOnUse">
-   <stop id="stop12" stop-color="#8b99be" offset="0"/>
-   <stop id="stop13" stop-color="#2b275b" offset="1"/>
+   <stop stop-color="#8b99be" offset="0"/>
+   <stop stop-color="#2b275b" offset="1"/>
   </radialGradient>
   <linearGradient id="e-7" x1="27.975" x2="49.616" y1="21.526" y2="21.526" gradientTransform="matrix(1.109 0 0 .95601 -3.5235 2.0442)" gradientUnits="userSpaceOnUse">
-   <stop id="stop3-0" stop-color="#39347d" offset="0"/>
-   <stop id="stop4-9" stop-color="#4e6069" offset="1"/>
+   <stop stop-color="#39347d" offset="0"/>
+   <stop stop-color="#4e6069" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient2" x1="31" x2="38" y1="21" y2="21" gradientTransform="translate(0,-2)" gradientUnits="userSpaceOnUse">
-   <stop id="stop1" stop-color="#a2001b" offset="0"/>
-   <stop id="stop2" stop-color="#fff5f6" offset="1"/>
+   <stop stop-color="#a2001b" offset="0"/>
+   <stop stop-color="#fff5f6" offset="1"/>
   </linearGradient>
  </defs>
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#4e6273"/>
- <path id="path1" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#869bac" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <rect id="rect16" x="8" y="19" width="47" height="6" rx="3" ry="3" fill="#2b275b" stroke-width="1.1073" style="paint-order:normal"/>
- <rect id="rect17" x="9.0213" y="20" width="44.957" height="4.0084" rx="1.9779" ry="2" fill="#d5d5ff" fill-opacity=".94026" stroke-width="1.1698" style="paint-order:normal"/>
- <rect id="rect18" x="10.043" y="21" width="42.913" height="2.0084" rx=".95612" ry="1.0042" fill="#1e1b3f" stroke-width="1.4275" style="paint-order:normal"/>
- <rect id="rect20" x="20" y="9" width="24" height="26" rx="1" ry="1" fill="url(#b-2)" style="paint-order:normal"/>
- <rect id="rect22" x="25" y="12" width="14" height="13" rx="2.1097" ry="1.846" fill="#e7e7ff" stroke-width=".96411"/>
- <rect id="rect23" x="26" y="13" width="12" height="11" rx="1.0373" ry=".84525" fill="url(#e-7)" stroke-width=".95799"/>
- <rect id="rect24" x="30" y="13" width="4" height="11" fill="url(#linearGradient2)" stroke-width="1.3532"/>
- <path id="path2" d="m8 44v9h2v-9zm6 0v7h2v-7zm6 0v5h2v-5zm6 0v3h2v-3zm6 0v9h2v-9zm6 0v3h2v-3zm6 0v5h2v-5zm6 0v7h2v-7zm6 0v9h2v-9z" fill="#e2e2e2" opacity=".5745" style="paint-order:normal"/>
- <path id="path24" d="m7 43v9h2v-9zm6 0v7h2v-7zm6 0v5h2v-5zm6 0v3h2v-3zm6 0v9h2v-9zm6 0v3h2v-3zm6 0v5h2v-5zm6 0v7h2v-7zm6 0v9h2v-9z" fill="#1e1b3f" style="paint-order:normal"/>
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#4e6273"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#869bac" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect x="8" y="19" width="47" height="6" rx="3" ry="3" fill="#2b275b" stroke-width="1.1073" style="paint-order:normal"/>
+ <rect x="9.0213" y="20" width="44.957" height="4.0084" rx="1.9779" ry="2" fill="#d5d5ff" fill-opacity=".94026" stroke-width="1.1698" style="paint-order:normal"/>
+ <rect x="10.043" y="21" width="42.913" height="2.0084" rx=".95612" ry="1.0042" fill="#1e1b3f" stroke-width="1.4275" style="paint-order:normal"/>
+ <rect x="20" y="9" width="24" height="26" rx="1" ry="1" fill="url(#b-2)" style="paint-order:normal"/>
+ <rect x="25" y="12" width="14" height="13" rx="2.1097" ry="1.846" fill="#e7e7ff" stroke-width=".96411"/>
+ <rect x="26" y="13" width="12" height="11" rx="1.0373" ry=".84525" fill="url(#e-7)" stroke-width=".95799"/>
+ <rect x="30" y="13" width="4" height="11" fill="url(#linearGradient2)" stroke-width="1.3532"/>
+ <path d="m8 44v9h2v-9zm6 0v7h2v-7zm6 0v5h2v-5zm6 0v3h2v-3zm6 0v9h2v-9zm6 0v3h2v-3zm6 0v5h2v-5zm6 0v7h2v-7zm6 0v9h2v-9z" fill="#e2e2e2" opacity=".5745" style="paint-order:normal"/>
+ <path d="m7 43v9h2v-9zm6 0v7h2v-7zm6 0v5h2v-5zm6 0v3h2v-3zm6 0v9h2v-9zm6 0v3h2v-3zm6 0v5h2v-5zm6 0v7h2v-7zm6 0v9h2v-9z" fill="#1e1b3f" style="paint-order:normal"/>
 </svg>

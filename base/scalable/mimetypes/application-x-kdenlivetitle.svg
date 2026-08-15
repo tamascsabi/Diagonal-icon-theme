@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <!-- Background / base square -->
- <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#006aa7"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#21c752" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <rect id="rect1076" x="30" y="13" width="4" height="41" rx="2" ry="2" fill="#d4033b" stroke-width="3.2731" style="paint-order:normal"/>
- <path id="rect1073" d="m38 9v2l-6 6-6-6v-2z" fill="#d4033b" stroke-width="3.2731" style="paint-order:normal"/>
- <rect id="rect1133" x="14" y="24" width="12" height="4" rx="2" ry="2" fill="#f2f5f8" stroke-width="3.2731" style="paint-order:normal"/>
- <rect id="rect3" x="10" y="31" width="16" height="4" rx="2" ry="2" fill="#f2f5f8" stroke-width="3.2731" style="paint-order:normal"/>
- <rect id="rect4" x="14" y="38" width="12" height="4" rx="2" ry="2" fill="#f2f5f8" stroke-width="3.2731" style="paint-order:normal"/>
- <path id="path4" transform="matrix(1.0191 0 0 .99591 -.72558 .13487)" d="m51.088 31.853-11.176-6.7059a1.2623 1.2623 150.48 0 0-1.9118 1.0824v13.541a1.2623 1.2623 29.518 0 0 1.9118 1.0824l11.176-6.7059a1.3377 1.3377 90 0 0 0-2.2941z" fill="#f2f5f8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#006aa7"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#21c752" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect x="30" y="13" width="4" height="41" rx="2" ry="2" fill="#d4033b" stroke-width="3.2731" style="paint-order:normal"/>
+ <path d="m38 9v2l-6 6-6-6v-2z" fill="#d4033b" stroke-width="3.2731" style="paint-order:normal"/>
+ <rect x="14" y="24" width="12" height="4" rx="2" ry="2" fill="#f2f5f8" stroke-width="3.2731" style="paint-order:normal"/>
+ <rect x="10" y="31" width="16" height="4" rx="2" ry="2" fill="#f2f5f8" stroke-width="3.2731" style="paint-order:normal"/>
+ <rect x="14" y="38" width="12" height="4" rx="2" ry="2" fill="#f2f5f8" stroke-width="3.2731" style="paint-order:normal"/>
+ <path transform="matrix(1.0191 0 0 .99591 -.72558 .13487)" d="m51.088 31.853-11.176-6.7059a1.2623 1.2623 150.48 0 0-1.9118 1.0824v13.541a1.2623 1.2623 29.518 0 0 1.9118 1.0824l11.176-6.7059a1.3377 1.3377 90 0 0 0-2.2941z" fill="#f2f5f8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" style="paint-order:markers fill stroke"/>
 </svg>

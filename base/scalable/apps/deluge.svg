@@ -1,17 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs1">
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
   <linearGradient id="linearGradient15" x1="35" x2="33.417" y1="35" y2="-3.1989" gradientTransform="matrix(.85 0 0 .85185 4.8 4.7407)" gradientUnits="userSpaceOnUse">
-   <stop id="stop15" stop-color="#003c60" offset="0"/>
-   <stop id="stop14" stop-color="#9bd9ff" offset="1"/>
+   <stop stop-color="#003c60" offset="0"/>
+   <stop stop-color="#9bd9ff" offset="1"/>
   </linearGradient>
  </defs>
- <path id="path8" d="m32 9s18.621 18.958 16.928 31.56c-1.4501 7.1863-5.9249 14.44-16.928 14.44s-15.478-7.254-16.928-14.44c-1.6928-11.745 16.928-31.56 16.928-31.56z" fill="#003f65" opacity=".95517" stroke-linecap="round" stroke-miterlimit="0" stroke-width=".87448"/>
- <rect id="rect1-5" transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#43b7ff"/>
- <path id="path1" d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#0091e8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <!-- Background / base square -->
- <path id="rect2" d="m32 9c0.26755 0.2781 16.98 17.691 17 28.963 0 9.4093-7.6112 17.037-17 17.037s-17-7.6277-17-17.037c0.02047-11.272 16.732-28.685 17-28.963z" fill="url(#linearGradient15)" stroke-linecap="round" stroke-miterlimit="0" stroke-width=".87353"/>
- <path id="path9" d="m31.98 11c-0.16997 0.17765-6.6905 7.2046-11.089 14.673-1.747 3.086-3.0839 6.2596-3.391 9.0803 0.70542 7.4334 6.919 13.246 14.48 13.246 7.7319 0 14.055-4.7816 14.52-12.811-0.22493-3.1506-1.8648-6.7653-3.9125-10.24-1.1731-1.9229-2.3779-3.8758-3.6885-5.6283-3.4594-4.6258-6.8059-8.2023-6.9191-8.3206z" fill="#b2e2ff" stroke-linecap="round" stroke-miterlimit="0" stroke-width=".74956"/>
- <path id="path10" d="m30.524 25.025a13.499 12.475 0 0 0-13.499 12.475 13.499 12.475 0 0 0 13.499 12.475 13.499 12.475 0 0 0 5.2014-0.96417 11.57 10.693 0 0 1-1.3446 0.0731 11.57 10.693 0 0 1-11.57-10.693 11.57 10.693 0 0 1 11.57-10.693 11.57 10.693 0 0 1 6.595 1.9075 13.499 12.475 0 0 0-10.452-4.5807z" fill="#48b6f9" stroke="#003d65" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="2.0499" style="paint-order:normal"/>
+ <path d="m32 9s18.621 18.958 16.928 31.56c-1.4501 7.1863-5.9249 14.44-16.928 14.44s-15.478-7.254-16.928-14.44c-1.6928-11.745 16.928-31.56 16.928-31.56z" fill="#003f65" opacity=".95517" stroke-linecap="round" stroke-miterlimit="0" stroke-width=".87448"/>
+ <rect transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#43b7ff"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#0091e8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m32 9c0.26755 0.2781 16.98 17.691 17 28.963 0 9.4093-7.6112 17.037-17 17.037s-17-7.6277-17-17.037c0.02047-11.272 16.732-28.685 17-28.963z" fill="url(#linearGradient15)" stroke-linecap="round" stroke-miterlimit="0" stroke-width=".87353"/>
+ <path d="m31.98 11c-0.16997 0.17765-6.6905 7.2046-11.089 14.673-1.747 3.086-3.0839 6.2596-3.391 9.0803 0.70542 7.4334 6.919 13.246 14.48 13.246 7.7319 0 14.055-4.7816 14.52-12.811-0.22493-3.1506-1.8648-6.7653-3.9125-10.24-1.1731-1.9229-2.3779-3.8758-3.6885-5.6283-3.4594-4.6258-6.8059-8.2023-6.9191-8.3206z" fill="#b2e2ff" stroke-linecap="round" stroke-miterlimit="0" stroke-width=".74956"/>
+ <path d="m30.524 25.025a13.499 12.475 0 0 0-13.499 12.475 13.499 12.475 0 0 0 13.499 12.475 13.499 12.475 0 0 0 5.2014-0.96417 11.57 10.693 0 0 1-1.3446 0.0731 11.57 10.693 0 0 1-11.57-10.693 11.57 10.693 0 0 1 11.57-10.693 11.57 10.693 0 0 1 6.595 1.9075 13.499 12.475 0 0 0-10.452-4.5807z" fill="#48b6f9" stroke="#003d65" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="2.0499" style="paint-order:normal"/>
 </svg>
