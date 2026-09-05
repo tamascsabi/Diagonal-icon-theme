@@ -77,16 +77,23 @@ delete_theme_set()
 }
 
 list_icon_dirs()
-{  for base in "${_sys_dir}" "${_usr_dir}" "${_usr_icondir}" "${_nix_icondir}" "${_bsd_icondir}"
+{
+    for base in "${_sys_dir}" "${_usr_dir}" "${_usr_icondir}" "${_nix_icondir}" "${_bsd_icondir}"
     do [ -d "$base" ] || continue
-       for d in "$base"/*
+        for d in "$base"/*
         do [ -d "$d" ] || continue
-           case "${d##*/}" in
-"${_icon_base}"*) printf '%s\n' "$d"
-               ;;
-           esac
-      done
-  done | sort
+            case "${d##*/}" in
+                Diagonal*-cursors)
+                    continue
+                    ;;
+                "${_icon_base}"*)
+                    d="${d%-light}"
+                    d="${d%-dark}"
+                    printf '%s\n' "$d"
+                    ;;
+            esac
+        done
+    done | sort -u
 }
 
 dirs_list=$(list_icon_dirs)

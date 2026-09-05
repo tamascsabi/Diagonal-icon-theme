@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="pacpl.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="50.875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <g
+     fill="#5d656b"
+     id="g1"
+     transform="matrix(0,-1,-1,0,16,16)">
+    <path
+       d="M 1.451,10.455 A 6.996,6.996 0 0 0 8,15 7,7 0 0 0 14.303,11.031 l 1.199,0.768 c 0.094,-0.662 0.168,-1.352 0.219,-2.069 0.047,-0.711 0.073,-1.41 0.078,-2.095 a 34.483,34.483 0 0 0 -3.664,2.004 v 0.002 l 1.318,0.845 A 6,6 0 0 1 8,14 5.997,5.997 0 0 1 2.387,10.105 Z M 0.201,8.365 A 34.483,34.483 0 0 0 3.865,6.361 V 6.36 L 2.547,5.515 A 6,6 0 0 1 8,2 c 2.572,0 4.76,1.62 5.613,3.894 l 0.936,-0.35 A 6.996,6.996 0 0 0 8,1 7,7 0 0 0 1.697,4.969 L 0.498,4.2 A 29.564,29.564 0 0 0 0.28,6.27 C 0.232,6.98 0.206,7.68 0.201,8.365 Z"
+       id="path1" />
+  </g>
+</svg>

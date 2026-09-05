@@ -86,7 +86,7 @@ These packages are ready to use and can be extracted directly into:
 
 or
 
-`sudo tar -xvf Diagonal-3.3.tar.xz -C usr/share/icons/`
+`sudo tar -xvf Diagonal-3.3.tar.xz -C /usr/share/icons/`
 
 No installation script is required.
 
@@ -100,8 +100,9 @@ No installation script is required.
 | EndeavourOS  | Fedora       | FreeBSD      | Garuda        |
 | Gentoo       | Kali         | KDE neon     | Kubuntu       |
 | Mageia       | Manjaro      | Mint         | Nixos         |
-| OpenBSD      | OpenSUSE     | Parrot       | PcLinuxOS     |
-| Pop!_OS      | Slackware    | Ubuntu       | Zorin OS      |
+| OpenBSD      | OpenMandriva | OpenSUSE     | Parrot        | 
+| PcLinuxOS    | Pop!_OS      | Slackware    | Solus         | 
+| Ubuntu       | Zorin OS     |
 
 ---
 
@@ -151,6 +152,37 @@ The installer also supports non-standard installation methods.
   When installing a NixOS version, the user must still configure the system to include the installed icon library in the icon search path.
   
   A sample configuration file is provided in the installer's `/config` directory.
+  
+---
+
+## Configuration assistance programs
+
+The `/apps` directory contains programs that help with post-installation configuration.
+
+With these, we can easily change the settings of our installed Diagonal icon theme.
+
+* `snap_import.sh`
+ 
+   Since programs installed by snap use their own icons, this small program helps you configure how these programs use the system icon.
+
+* `folder_setup.sh`
+
+   We can change the folder colors used by the system to the color of our choice.
+   
+   We can use folder colors from other distributions, as well as the basic colors.
+   
+* `cursors_delete.sh`
+
+   It helps to remove cursor themes that are no longer used.
+   
+* `app_import.sh`
+
+   Some applications use their own icons.
+   
+   This program helps you replace your own program icons with the icons used by the system.
+
+
+---
 
 ## Portable Mode
 

@@ -1,18 +1,128 @@
-<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <path d="m10 4h44c3.324 0 6 2.676 6 6v44c0 3.324-2.676 6-6 6h-44c-3.324 0-6-2.676-6-6v-44c0-3.324 2.676-6 6-6z" fill="#99260b"/>
- <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#00b9c4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
- <path d="m12 11h40v7.7143h-40z" stroke-opacity=".58939" stroke-width="1.0611"/>
- <path d="m17 6h30c1.108 0 2 0.892 2 2v13h-34v-13c0-1.108 0.892-2 2-2z" fill="#fffbf6" stroke-opacity=".58939" stroke-width=".7"/>
- <path d="m10 15h44c1.662 0 3 1.338 3 3v15h-50v-15c0-1.662 1.338-3 3-3z" fill="#dfdfdf" stroke-opacity=".58939" stroke-width=".7"/>
- <path d="m7 33v17.989c0 1.6679 1.338 3.0107 3 3.0107h44c1.662 0 3-1.3428 3-3.0107v-17.989z" fill="#4d4d4d" stroke-opacity=".58939" stroke-width=".70125"/>
- <path d="m55 18a2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2z" fill="#e50019" stroke-opacity=".58939" stroke-width=".46667"/>
- <path d="m13 39h38v9h-38z" fill="#040404" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.4495" style="paint-order:markers fill stroke"/>
- <path d="m17 58h30c1.108 0 2-0.892 2-2v-14h-34v14c0 1.108 0.892 2 2 2z" fill="#fffbf6" stroke-opacity=".58939" stroke-width=".7"/>
- <path d="m20 49h24c0.554 0 1 0.446 1 1s-0.446 1-1 1h-24c-0.554 0-1-0.446-1-1s0.446-1 1-1z" fill="#f98a00" stroke-opacity=".58939" stroke-width=".7"/>
- <path d="m49 15v7.25c0 1.5235-1.2265 2.75-2.75 2.75h-28.5c-1.5235 0-2.75-1.2265-2.75-2.75v-7.25z" fill="#4d4d4d" stroke-opacity=".58939" stroke-width=".7"/>
- <path d="m20 54h24c0.554 0 1 0.446 1 1s-0.446 1-1 1h-24c-0.554 0-1-0.446-1-1s0.446-1 1-1z" fill="#f98a00" stroke-opacity=".58939" stroke-width=".7"/>
- <path d="m20 44h24c0.554 0 1 0.446 1 1s-0.446 1-1 1h-24c-0.554 0-1-0.446-1-1s0.446-1 1-1z" fill="#f98a00" stroke-opacity=".58939" stroke-width=".7"/>
- <path d="m13 39h38v6h-38z" opacity=".34004" stroke-opacity=".58939" stroke-width="1.0315"/>
- <path d="m55 24a2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2z" fill="#00e50c" stroke-opacity=".58939" stroke-width=".46667"/>
- <path d="m55 30a2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2z" fill="#0200e5" stroke-opacity=".58939" stroke-width=".46667"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 64 64"
+   id="svg16"
+   sodipodi:docname="openofficeorg3-printeradmin.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.71875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <path
+     d="m10 4h44c3.324 0 6 2.676 6 6v44c0 3.324-2.676 6-6 6h-44c-3.324 0-6-2.676-6-6v-44c0-3.324 2.676-6 6-6z"
+     fill="#99260b"
+     id="path1"
+     style="stroke:none" />
+  <path
+     d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z"
+     fill="#00b9c4"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="3.2"
+     stroke-width="2"
+     style="paint-order:markers fill stroke"
+     id="path2" />
+  <g
+     stroke-opacity=".58939"
+     id="g7">
+    <path
+       d="m12 11h40v7.7143h-40z"
+       fill="#040404"
+       stroke-width="1.0611"
+       id="path3" />
+    <path
+       d="m17 6h30c1.108 0 2 0.892 2 2v13h-34v-13c0-1.108 0.892-2 2-2z"
+       fill="#fffbf6"
+       stroke-width=".7"
+       id="path4" />
+    <path
+       d="m10 15h44c1.662 0 3 1.338 3 3v15h-50v-15c0-1.662 1.338-3 3-3z"
+       fill="#dfdfdf"
+       stroke-width=".7"
+       id="path5" />
+    <path
+       d="m7 33v17.989c0 1.6679 1.338 3.0107 3 3.0107h44c1.662 0 3-1.3428 3-3.0107v-17.989z"
+       fill="#4d4d4d"
+       stroke-width=".70125"
+       id="path6" />
+    <path
+       d="m55 18a2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2z"
+       fill="#e50019"
+       stroke-width=".46667"
+       id="path7" />
+  </g>
+  <path
+     d="m13 39h38v9h-38z"
+     fill="#040404"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="3.2"
+     stroke-width="2.4495"
+     style="paint-order:markers fill stroke"
+     id="path8" />
+  <g
+     stroke-opacity=".58939"
+     id="g16">
+    <g
+       stroke-width=".7"
+       id="g13">
+      <path
+         d="m17 58h30c1.108 0 2-0.892 2-2v-14h-34v14c0 1.108 0.892 2 2 2z"
+         fill="#fffbf6"
+         id="path9" />
+      <path
+         d="m20 49h24c0.554 0 1 0.446 1 1s-0.446 1-1 1h-24c-0.554 0-1-0.446-1-1s0.446-1 1-1z"
+         fill="#f98a00"
+         id="path10" />
+      <path
+         d="m49 15v7.25c0 1.5235-1.2265 2.75-2.75 2.75h-28.5c-1.5235 0-2.75-1.2265-2.75-2.75v-7.25z"
+         fill="#4d4d4d"
+         id="path11" />
+      <path
+         d="m20 54h24c0.554 0 1 0.446 1 1s-0.446 1-1 1h-24c-0.554 0-1-0.446-1-1s0.446-1 1-1z"
+         fill="#f98a00"
+         id="path12" />
+      <path
+         d="m20 44h24c0.554 0 1 0.446 1 1s-0.446 1-1 1h-24c-0.554 0-1-0.446-1-1s0.446-1 1-1z"
+         fill="#f98a00"
+         id="path13" />
+    </g>
+    <path
+       d="m13 39h38v6h-38z"
+       fill="#4d4d4d"
+       opacity=".34004"
+       stroke-width="1.0315"
+       id="path14" />
+    <path
+       d="m55 24a2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2z"
+       fill="#00e50c"
+       stroke-width=".46667"
+       id="path15" />
+    <path
+       d="m55 30a2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2z"
+       fill="#0200e5"
+       stroke-width=".46667"
+       id="path16" />
+  </g>
 </svg>

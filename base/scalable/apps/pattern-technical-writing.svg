@@ -1,0 +1,30 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#ce09e0"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#6d158c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect x="35" y="12" width="22" height="12" ry="2" fill="#2c3d53" fill-opacity=".94506" stroke-linecap="round" stroke-miterlimit="3.2" style="paint-order:fill markers stroke"/>
+ <rect x="36" y="13" width="20" height="10" ry="1" fill="#b2c2d6" fill-opacity=".94506" stroke-linecap="round" stroke-miterlimit="3.2" style="paint-order:fill markers stroke"/>
+ <path d="m54 17v2h-12v2l-4-3 4-3v2z" color="#000000" fill="#1a2431" fill-opacity=".94506" stroke-width="1.0868"/>
+ <g transform="translate(0,-1)" stroke-linecap="round" stroke-miterlimit="3.2">
+  <rect x="21" y="13" width="12" height="12" ry="2" fill="#2d3e55" style="paint-order:fill markers stroke"/>
+  <rect x="22" y="14" width="10" height="10" ry="1" fill="#aabbd0" style="paint-order:fill markers stroke"/>
+ </g>
+ <rect x="7" y="12" width="12" height="12" ry="2" fill="#2d3e55" stroke-linecap="round" stroke-miterlimit="3.2" style="paint-order:fill markers stroke"/>
+ <rect x="8" y="13" width="10" height="10" ry="1" fill="#aabbd0" stroke-linecap="round" stroke-miterlimit="3.2" style="paint-order:fill markers stroke"/>
+ <path d="m44 26c-1.108 0-2 0.892-2 2v8c0 1.108 0.892 2 2 2h4v12c0 1.108 0.892 2 2 2h5c1.108 0 2-0.892 2-2v-22c0-1.108-0.892-2-2-2z" fill="#2d3e55" stroke-linecap="round" stroke-miterlimit="3.2" style="paint-order:fill markers stroke"/>
+ <g transform="translate(-7,13)" stroke-linecap="round" stroke-miterlimit="3.2">
+  <rect x="21" y="13" width="12" height="12" ry="2" fill="#2d3e55" style="paint-order:fill markers stroke"/>
+  <rect x="22" y="14" width="10" height="10" ry="1" fill="#aabbd0" style="paint-order:fill markers stroke"/>
+ </g>
+ <g transform="translate(7,13)" stroke-linecap="round" stroke-miterlimit="3.2">
+  <rect x="21" y="13" width="12" height="12" ry="2" fill="#2d3e55" style="paint-order:fill markers stroke"/>
+  <rect x="22" y="14" width="10" height="10" ry="1" fill="#aabbd0" style="paint-order:fill markers stroke"/>
+ </g>
+ <g transform="translate(13,27)" stroke-linecap="round" stroke-miterlimit="3.2">
+  <rect x="21" y="13" width="12" height="12" ry="2" fill="#2d3e55" style="paint-order:fill markers stroke"/>
+  <rect x="22" y="14" width="10" height="10" ry="1" fill="#aabbd0" style="paint-order:fill markers stroke"/>
+ </g>
+ <rect x="7" y="40" width="25" height="12" ry="2" fill="#2c3d53" fill-opacity=".94506" stroke-linecap="round" stroke-miterlimit="3.2" style="paint-order:fill markers stroke"/>
+ <rect x="8" y="41" width="23" height="10" ry="1" fill="#b2c2d6" fill-opacity=".94506" stroke-linecap="round" stroke-miterlimit="3.2" style="paint-order:fill markers stroke"/>
+ <path d="m44 27c-0.554 0-1 0.446-1 1v8c0 0.554 0.446 1 1 1h5v13c0 0.554 0.446 1 1 1h5c0.554 0 1-0.446 1-1v-21.268c0-1.1956-0.53686-1.7324-1.7324-1.7324h-9.2676z" fill="#aabbd0" stroke-linecap="round" stroke-miterlimit="3.2" stroke-width=".86667" style="paint-order:fill markers stroke"/>
+ <path d="m4 53v1c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-1h-56z" fill="#5e0166" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.4343" style="paint-order:markers fill stroke"/>
+</svg>

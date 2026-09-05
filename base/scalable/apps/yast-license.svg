@@ -1,0 +1,12 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#73ba25"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#025575" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect x="13" y="13" width="38" height="3" ry="1.5" fill="#f7fcf0" opacity=".74259" stroke-width="0"/>
+ <rect x="13" y="25.5" width="38" height="3" ry="1.5" fill="#f7fcf0" opacity=".74259" stroke-width="0"/>
+ <rect x="13" y="38" width="38" height="3" ry="1.5" fill="#f7fcf0" opacity=".74259" stroke-width="0"/>
+ <rect x="13" y="51" width="38" height="3" ry="1.5" fill="#f7fcf0" opacity=".74259" stroke-width="0"/>
+ <path d="m26.094 32-6.0945 20.79 6.0536-3.9915 3.9578 6.1079 1.9536-13.799 1.9867 13.893 3.9714-6.069 6.0769 3.9663-6.1159-20.662-5.5277 1.632z" fill="#29430d" stroke-width="5.024"/>
+ <path d="m44.021 13.979-1.3004 4.8577 4.9855 0.65757-3.0603 3.9902 4.3544 2.5154-4.3544 2.5154 3.0603 3.9902-4.9855 0.65757 1.3004 4.8577-4.8577-1.3004-0.65757 4.9855-3.9902-3.0603-2.5154 4.3543-2.5154-4.3543-3.9902 3.0603-0.65757-4.9855-4.8577 1.3004 1.3004-4.8577-4.9855-0.65757 3.0604-3.9902-4.3543-2.5154 4.3543-2.5154-3.0604-3.9902 4.9855-0.65757-1.3004-4.8577 4.8577 1.3004 0.65757-4.9855 3.9902 3.0603 2.5154-4.3543 2.5154 4.3543 3.9902-3.0603 0.65757 4.9855z" color="#000000" fill="#d8f2bc" stroke-width="6.0444"/>
+ <circle cx="32" cy="25" r="9" color="#000000" fill="#73ba25" stroke-width="5.6693"/>
+ <circle cx="32" cy="25" r="5" color="#000000" fill="#ed2330" stroke-width="3.1496"/>
+</svg>

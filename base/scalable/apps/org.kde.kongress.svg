@@ -1,0 +1,26 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient2162" x1="80" x2="120" y1="152" y2="152" gradientTransform="matrix(.35 0 0 .35 -1.9999 -40.2)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#deeff8" offset="0"/>
+   <stop stop-color="#c0e2f4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2154" x1="60" x2="140" y1="191.94" y2="191.94" gradientTransform="matrix(.325 0 0 .325 .50004 -34.879)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eef6fa" offset="0"/>
+   <stop stop-color="#b0dbf2" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3" x1="15.763" x2="60" y1="31.5" y2="31.5" gradientTransform="matrix(-.0027303 2.6957 -2.8638 -.002813 64.049 -458.99)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#131c25" offset="0"/>
+   <stop stop-color="#17222d" stop-opacity=".32982" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#243241"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#4a6785" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m38 8-9.4346 5.1747 2.3943 6.3471-2.9596-1.5218 6 7 1 1v3l4 3-18.331 1.4671 4.0641 4.0023-8.7329 0.53059 11 15h33v-15z" fill="url(#linearGradient3)" stroke-width="5.1144" style="paint-order:normal"/>
+ <path d="m33 6a7 7 0 0 0-7.0001 7.0001 7 7 0 0 0 7.0001 6.9999 7 7 0 0 0 6.9999-6.9999 7 7 0 0 0-6.9999-7.0001z" fill="url(#linearGradient2162)" stroke-width="2.0918" style="paint-order:normal"/>
+ <path d="m26.5 21c-3.601 0-6.4999 2.8059-6.4999 6.2912v5.0839c0 0.90026 0.72477 1.6249 1.6251 1.6249h22.75c0.90028 0 1.625-0.72464 1.625-1.6249v-5.0839c0-0.56547-0.07632-1.1131-0.21957-1.6337-0.73964-2.6882-3.2638-4.6575-6.2805-4.6575h-1.5754c-1.4155 1.0783-3.1452 1.6634-4.9246 1.6659-1.7776-0.003664-3.5052-0.5887-4.9192-1.6659z" fill="url(#linearGradient2154)" stroke-width="1.9424" style="paint-order:normal"/>
+ <ellipse cx="25.227" cy="27.471" rx="2.0454" ry="2.0143"/>
+ <rect x="21.818" y="29.486" width="1.3636" height="8.0571" ry=".67143"/>
+ <rect transform="matrix(.7125 .70167 -.7125 .70167 0 0)" x="36.602" y="2.0842" width="1.3533" height="8.1196" ry=".67663"/>
+ <path d="m17.5 36c-0.831 0-1.5 0.669-1.5 1.5s0.669 1.5 1.5 1.5h1.5c1.1046 0 2 0.89543 2 2v10.5c0 0.831 0.669 1.5 1.5 1.5h21c0.831 0 1.5-0.669 1.5-1.5v-10.5c0-1.1046 0.89543-2 2-2h1.5c0.831 0 1.5-0.669 1.5-1.5s-0.669-1.5-1.5-1.5z" fill="#fab33f" stroke-width=".92925"/>
+ <path d="m19 39c0.52156 9e-4 1.0087 0.37558 1.2999 1l23.51-1s0.41586 0.03604 0.01874 0.03545l-21.691-0.03537z" fill="#1a1a1a" opacity=".40214" stroke-width="2.2522"/>
+</svg>

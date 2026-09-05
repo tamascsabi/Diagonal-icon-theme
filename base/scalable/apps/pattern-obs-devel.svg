@@ -1,0 +1,8 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#4ba520"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#127d72" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path transform="matrix(.27079 0 0 .30942 -52.611 -77.152)" d="m353.08 275.2 11.079 16.159v58.174l36.929 22.623-1e-5 40.291-48.007 21.114z" fill="#4e4e4e"/>
+ <path transform="matrix(.27079 0 0 .30942 -52.611 -77.152)" d="m312.46 284.9v71.101h11.079v-58.174z" fill="#4e4e4e"/>
+ <path transform="matrix(.27079 0 0 .30942 -52.611 -77.152)" d="m275.53 297.82v64.637h11.079v-51.71z" fill="#4e4e4e"/>
+ <path transform="matrix(.27079 0 0 .30942 -52.611 -77.152)" d="m353.08 275.2-20.077 11.534v64.753l-20.545 4.5102v-71.101l-18.464 12.927v61.405l-18.464 3.2319v-64.637l-18.464 12.927v54.942l-25.85 6.4637-7.3857 38.782 129.25 22.623z" fill="#fcfcfc"/>
+</svg>

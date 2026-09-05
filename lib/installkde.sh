@@ -378,7 +378,7 @@ _header "Colorize \"status\" files"
   )
 _footer
 
-for files in AUTHORS COPYING README.md diagonal-release
+for files in AUTHORS diagonal-release
     do cp -a "${_basedir}/${files}" .
   done
 
@@ -580,7 +580,7 @@ _footer
 
 makedarkcursor
 
-for files in AUTHORS COPYING README.md diagonal-release
+for files in AUTHORS diagonal-release
     do cp -a "${_basedir}/${files}" .
   done
 
@@ -645,7 +645,7 @@ _header "Colorize \"status\" icons"
     )
 _footer
 
-for files in AUTHORS COPYING README.md diagonal-release
+for files in AUTHORS diagonal-release
     do cp -a "${_basedir}/${files}" .
   done
 

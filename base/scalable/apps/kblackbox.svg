@@ -1,0 +1,10 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path d="m10 4h44c3.324 0 6 2.676 6 6v44c0 3.324-2.676 6-6 6h-44c-3.324 0-6-2.676-6-6v-44c0-3.324 2.676-6 6-6z" fill="#5b5b5b"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#9e9e9e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m32 9-21 7.893 21 10.107 21-10.107zm0 3 13 5-13 6-13-6z" fill="#aeaeae" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1181"/>
+ <path d="m32 27v28l21-13v-25.107z" fill="#363636" style="paint-order:markers fill stroke"/>
+ <path d="m32 27.054v27.946l-21-13v-25.054z" style="paint-order:markers fill stroke"/>
+ <path d="m19 17 13-5v11z" fill="#585858" style="paint-order:markers fill stroke"/>
+ <path d="m32 12v11l13-6z" stroke-linecap="round"/>
+ <text transform="matrix(.99648 .48433 -.00357 1.0018 0 0)" x="13.275599" y="35.401516" fill="#d1d1d1" font-family="'DejaVu Serif'" font-size="29.344px" font-weight="bold" stroke-linecap="round" stroke-width="1.0004" xml:space="preserve"><tspan x="13.275599" y="35.401516" fill="#d1d1d1" stroke-width="1.0004">?</tspan></text>
+</svg>

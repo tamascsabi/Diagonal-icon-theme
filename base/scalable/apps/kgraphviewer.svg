@@ -1,0 +1,22 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#87cffb"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#0e9efb" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m20 21c13.817 11.35 19.2 22.691 0 34" fill="none" stroke="#ee1717" stroke-linecap="round" stroke-width=".931"/>
+ <rect x="8" y="7" width="16" height="6" fill="#e3f3fc" stroke-linecap="round" stroke-width=".931"/>
+ <rect x="35" y="29" width="22" height="6" fill="#e3f3fc" stroke-linecap="round" stroke-width="1.0917"/>
+ <path d="m9 13c-0.16734 13.34 2.6146 24.845 14 31" fill="none" stroke="#ee1717" stroke-linecap="round" stroke-width=".931"/>
+ <rect x="23" y="40" width="17" height="6" fill="#e3f3fc" stroke-linecap="round" stroke-width=".95965"/>
+ <path d="m22.02 39v8h19v-8zm2.0382 2h14.941v4h-14.941z" fill="#020210" stroke-linecap="round" stroke-width=".88271"/>
+ <rect x="20" y="51" width="32" height="6" fill="#e3f3fc" stroke-linecap="round" stroke-width="1.3166"/>
+ <path d="m43 51 8-16" fill="none" stroke="#ee1717" stroke-linecap="round" stroke-width=".931"/>
+ <path d="m19 50v8h34v-8zm2.0382 2h29.941v4h-29.941z" fill="#020210" stroke-linecap="round" stroke-width=".88271"/>
+ <rect x="20" y="18" width="19" height="6" fill="#e3f3fc" stroke-linecap="round" stroke-width="1.0145"/>
+ <path d="m25 9c13.333-0.33333 21.333 5.6667 24 20" fill="none" stroke="#ee1717" stroke-linecap="round" stroke-width=".931"/>
+ <path d="m7 6v8h18v-8h-18zm2 2h14v4h-14v-4z" fill="#020210" stroke-linecap="round" stroke-width=".931"/>
+ <path d="m33.982 28v8h24.018v-8zm2.0176 2h20v4h-20z" fill="#020210" stroke-linecap="round" stroke-width=".87823"/>
+ <path d="m18.991 17v8h21.009v-8zm2.0176 2h16.991v4h-16.991z" fill="#020210" stroke-linecap="round" stroke-width=".87823"/>
+ <path d="m51 35-4 3 3-1 1 3z" fill="#ee1717"/>
+ <path d="m25 52 5-2h-3v-3z" fill="#ee1717"/>
+ <path d="m23 45-5-2h3v-3z" fill="#ee1717"/>
+ <path d="m50 30v-6l-1.5181 2.5886-2.4819-0.58861z" fill="#ee1717"/>
+</svg>

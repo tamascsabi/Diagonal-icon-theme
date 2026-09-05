@@ -1,1 +1,24 @@
-plan.svg
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#3a7ee5"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#0f3672" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m12.959 10c-1.662 0-3 1.338-3 3v39c0 1.662 1.338 3 3 3h38.082c1.662 0 3-1.338 3-3v-39c0-1.662-1.338-3-3-3h-38.082zm1.041 3a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2zm0 7a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2zm0 7a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2zm0 7a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2zm0 7a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2zm0 7a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" fill="#fff" stroke-width="1.8367"/>
+ <rect x="37" y="33" width="1" height="2" fill="#f34202" stroke-linecap="round"/>
+ <path d="m19 41 14 2.8e-5 4.2e-5 3h-14z" fill="#3e95df" stroke-width=".90749"/>
+ <path d="m19 45h9.0001v3h-9.0001z" fill="#76b92b" stroke-width=".94869"/>
+ <rect x="19" y="49" width="11" height="3" color="#000000" fill="#cf5326" stroke-width=".88641"/>
+ <rect x="23" y="15" width="1" height="22" fill="#3e95df" stroke-width="1.1726"/>
+ <rect x="31" y="15" width="1" height="22" fill="#3e95df" stroke-width="1.1726"/>
+ <rect x="39" y="15" width="1" height="22" fill="#3e95df" stroke-width="1.1726"/>
+ <rect x="47" y="15" width="1" height="22" fill="#3e95df" stroke-width="1.1726"/>
+ <path d="m49 41-14 2.8e-5 -4.2e-5 3h14z" fill="#df3ea7" stroke-width=".90749"/>
+ <path d="m44 45h-9.0001v3h9.0001z" fill="#2bb6b9" stroke-width=".94869"/>
+ <rect transform="scale(-1,1)" x="-46" y="49" width="11" height="3" color="#000000" fill="#f34202" stroke-width=".88641"/>
+ <path d="m20.945 17v2h1v-1h11.055v1h1v-2h-12.055z" fill="#f34202" stroke-linecap="round"/>
+ <rect x="30" y="25" width="11" height="1" fill="#f34202" stroke-linecap="round" stroke-width=".95743"/>
+ <rect x="38" y="33" width="11" height="1" fill="#f34202" stroke-linecap="round" stroke-width=".95743"/>
+ <rect x="49" y="33" width="1" height="2" fill="#f34202" stroke-linecap="round"/>
+ <rect x="41" y="25" width="1" height="2" fill="#f34202" stroke-linecap="round"/>
+ <rect x="29" y="25" width="1" height="2" fill="#f34202" stroke-linecap="round"/>
+ <path d="m37 21v2h1v-1h11v1h1v-2h-12z" fill="#76d907" stroke-linecap="round"/>
+ <path d="m20.945 29v2h1v-1h11.055v1h1v-2h-12.055z" fill="#76d907" stroke-linecap="round"/>
+</svg>

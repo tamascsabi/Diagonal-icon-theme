@@ -1,0 +1,51 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient21" x1="10" x2="48" y1="19" y2="56" gradientTransform="matrix(1 0 0 .99315 0 .10269)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b3b3b3" offset="0"/>
+   <stop stop-color="#efefef" offset=".60734"/>
+  </linearGradient>
+  <linearGradient id="linearGradient24" x1="28" x2="28" y1="22" y2="25" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#156cfa" offset="0"/>
+   <stop stop-color="#94bcfd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient26" x1="40" x2="61" y1="26" y2="43" gradientTransform="translate(0,-3)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8c8c8c" offset="0"/>
+   <stop stop-color="#f8f8f8" offset=".60734"/>
+  </linearGradient>
+  <linearGradient id="linearGradient28" x1="10" x2="16" y1="37" y2="43" gradientTransform="translate(0,-5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#969696" offset=".34982"/>
+   <stop stop-color="#1a1a1a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient39" x1="47" x2="57" y1="33" y2="33" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8e8e8e" offset="0"/>
+   <stop stop-color="#292929" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m10 4h44c3.324 0 6 2.676 6 6v44c0 3.324-2.676 6-6 6h-44c-3.324 0-6-2.676-6-6v-44c0-3.324 2.676-6 6-6z" fill="#0b5699"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#9bccf8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m13 58h21c1.108 0 2-0.892 2-2v-9h-25v9c0 1.108 0.892 2 2 2z" fill="#fff1cd" stroke-opacity=".58939" stroke-width=".7"/>
+ <path d="m43 21h14c1.108 0 2 0.892 2 2v20c0 1.108-0.892 2-2 2h-14c-1.108 0-2-0.892-2-2v-20c0-1.108 0.892-2 2-2z" fill="url(#linearGradient26)" stroke-linecap="round" stroke-width="4.341"/>
+ <path d="m9.9844 15c-1.653 0-2.9844 1.3288-2.9844 2.9795v30.029c0 1.6565 1.3314 2.9911 2.9844 2.9911h32.031c1.653 0 2.9844-1.3346 2.9844-2.9911v-30.029c0-1.6506-1.3314-2.9795-2.9844-2.9795z" fill="url(#linearGradient21)" stroke-width=".99657"/>
+ <path d="m9 12h29v6h-29z" fill="#1c1000" stroke-opacity=".58939" stroke-width=".90111"/>
+ <path d="m13.808 54h19.385c0.44746 0 0.80769 0.446 0.80769 1s-0.36023 1-0.80769 1h-19.385c-0.44746 0-0.80769-0.446-0.80769-1s0.36023-1 0.80769-1z" fill="#de8787" stroke-opacity=".58939" stroke-width=".6291"/>
+ <path d="m13.012 6h20.976c1.1146 0 2.0119 0.99111 2.0119 2.2222v7.7778h-25v-7.7778c0-1.2311 0.89729-2.2222 2.0119-2.2222z" fill="#fff1cd" stroke-opacity=".58939" stroke-width=".74005"/>
+ <rect x="9" y="16" width="29" height="2" fill="#808080" stroke-linecap="round" stroke-width="4.341"/>
+ <path d="m13.808 8h19.385c0.44746 0 0.80769 0.446 0.80769 1s-0.36023 1-0.80769 1h-19.385c-0.44746 0-0.80769-0.446-0.80769-1s0.36023-1 0.80769-1z" fill="#de8787" stroke-opacity=".58939" stroke-width=".6291"/>
+ <path d="m13.808 13h19.385c0.44746 0 0.80769 0.446 0.80769 1s-0.36023 1-0.80769 1h-19.385c-0.44746 0-0.80769-0.446-0.80769-1s0.36023-1 0.80769-1z" fill="#de8787" stroke-opacity=".58939" stroke-width=".6291"/>
+ <rect x="7" y="22" width="38" height="1" fill="#6f6f6f" stroke-linecap="round" stroke-width="5.7707"/>
+ <circle cx="12.5" cy="22.5" r="2.5" fill="#09e20b" stroke-linecap="round" stroke-width="5.4263"/>
+ <rect x="19" y="19.921" width="19" height="5" fill="#292929" stroke-linecap="round" stroke-width="4.341"/>
+ <rect x="19" y="22" width="19" height="3" fill="url(#linearGradient24)" stroke-linecap="round" stroke-width="4.341"/>
+ <rect x="47" y="17" width="10" height="32" ry="3" fill="url(#linearGradient39)" stroke-linecap="round" stroke-width="4.341"/>
+ <circle id="circle26" cx="13" cy="35" r="2" fill="url(#linearGradient28)" stroke-linecap="round" stroke-width="4.341"/>
+ <use id="use28" transform="translate(6)" xlink:href="#circle26"/>
+ <use id="use29" transform="translate(6)" xlink:href="#use28"/>
+ <use id="use30" transform="translate(0,5)" xlink:href="#circle26"/>
+ <use id="use31" transform="translate(0,5)" xlink:href="#use28"/>
+ <use id="use32" transform="translate(0,5)" xlink:href="#use29"/>
+ <use transform="translate(0,5)" xlink:href="#use30"/>
+ <use transform="translate(0,5)" xlink:href="#use31"/>
+ <use transform="translate(0,5)" xlink:href="#use32"/>
+ <rect transform="matrix(.88168 -.47185 .52869 .84881 0 0)" x="3.5517" y="49.693" width="3.2083" height="8.2374" ry="1.5445" fill="#09e20b" stroke-linecap="round" stroke-width="4.5553"/>
+ <rect transform="matrix(.88131 -.47255 .52797 .84927 0 0)" x="9.5638" y="53.014" width="3.2035" height="8.233" ry="1.5437" fill="#db2424" stroke-linecap="round" stroke-width="4.5507"/>
+</svg>

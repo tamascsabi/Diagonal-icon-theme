@@ -21,8 +21,8 @@
   <radialGradient id="radialGradient19" cx="-19" cy="-46" r="6.8721" gradientTransform="matrix(1.7788 2.164e-7 -9.0482e-8 1.8918 14.796 41.02)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient21"/>
   <radialGradient id="radialGradient21" cx="-19" cy="-46" r="6.8721" gradientTransform="matrix(1.7787 2.1641e-7 -9.0479e-8 1.8918 -11.205 68.023)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient21"/>
  </defs>
- <rect transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#254a65"/>
- <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#338ccd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#1b4962"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#2681b6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
  <rect x="9" y="35" width="46" height="21" ry="10.5" fill="#071020" stroke-width="4.3782"/>
  <rect transform="scale(-1,1)" x="-55" y="35" width="46" height="20" ry="9.9998" fill="url(#linearGradient11)" stroke-width="4.2727"/>
  <ellipse transform="matrix(0 3.8583 4.2674 0 -5.8121 .11585)" cx="11.633" cy="5.6972" rx="1.8142" ry="1.7574" fill="#071020" filter="url(#filter15-6)" stroke-width="1.1251"/>

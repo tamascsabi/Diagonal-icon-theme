@@ -1,6 +1,6 @@
 <svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <rect transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#338ccd"/>
- <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#254a65" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#2681b6"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#1b4962" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
  <path d="m32 12s20 9.676 20 13v22c0 3.324-2.676 6-6 6h-28c-3.324 0-6-2.676-6-6v-22c0-3.324 20-13 20-13z" fill="#def4fd" stroke-linecap="square" stroke-miterlimit="3.2" stroke-width=".97048" style="paint-order:stroke fill markers"/>
  <path d="m20 30c-1.662 0-3 1.338-3 3v19.918c0.32506 0.054097 0.65912 0.082031 1 0.082031h13v-20c0-1.662-1.338-3-3-3z" fill="#e2642b" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>
  <path d="m43.2 10h0.6c1.2188 0 2.2 0.9812 2.2 2.2v6.8h-5v-6.8c0-1.2188 0.9812-2.2 2.2-2.2z" fill="#280b0b" stroke-linecap="square" stroke-miterlimit="3.2" style="paint-order:stroke fill markers"/>

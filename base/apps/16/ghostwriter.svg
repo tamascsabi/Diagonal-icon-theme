@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16.00012"
+   width="16.0002"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="ghostwriter.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="35.973787"
+     inkscape:cx="8.0058293"
+     inkscape:cy="10.368661"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4">
+    <inkscape:grid
+       id="grid4"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <path
+     id="rect4"
+     style="fill:#5d656b;stroke-width:0.931;stroke-linecap:round;fill-opacity:1"
+     d="M 5.9550781 0 C 2.6555546 0 -3.5527137e-15 2 0 6 L 0 7 L 0 13.386719 L 0 14 C 0 15.108 1.338 16 3 16 C 4.0458601 16 4.963419 15.647371 5.5 15.109375 C 6.0365811 15.647371 6.95414 16 8 16 C 9.0459251 16 9.963433 15.647428 10.5 15.109375 C 11.036567 15.647428 11.954075 16 13 16 C 14.662 16 16 15.108 16 14 L 16 13.386719 L 16 7 L 16 5.9550781 C 16 2 13.344445 -3.5527137e-15 10.044922 0 L 5.9550781 0 z M 6 1 L 10 1 C 12.431507 1 15 2.3531611 15 6.6660156 L 15 13.386719 L 15 13.572266 C 15 14.363694 14.108 15 13 15 C 11.892 15 11 14.363694 11 13.572266 L 11 13.480469 L 11 13.386719 L 11 13 L 10 13 L 10 13.386719 L 10 13.480469 L 10 13.572266 C 10 14.363694 9.108 15 8 15 C 6.892 15 6 14.363694 6 13.572266 L 6 13.480469 L 6 13.386719 L 6 13 L 5 13 L 5 13.386719 L 5 13.480469 L 5 13.572266 C 5 14.363694 4.108 15 3 15 C 1.892 15 1 14.363694 1 13.572266 L 1 13.386719 L 1 6.6386719 C 1 2.0033556 3.707622 1 6 1 z M 4.5 3 A 1.5 1.5 0 0 0 3 4.5 A 1.5 1.5 0 0 0 4.5 6 A 1.5 1.5 0 0 0 6 4.5 A 1.5 1.5 0 0 0 4.5 3 z M 11.5 3 A 1.5 1.5 0 0 0 10 4.5 A 1.5 1.5 0 0 0 11.5 6 A 1.5 1.5 0 0 0 13 4.5 A 1.5 1.5 0 0 0 11.5 3 z M 8 9 A 3 1 0 0 0 5 10 A 3 1 0 0 0 8 11 A 3 1 0 0 0 11 10 A 3 1 0 0 0 8 9 z " />
+</svg>

@@ -210,7 +210,7 @@ _header "Creating symbolic icons"
     )
 _footer
 
-for files in AUTHORS COPYING README.md diagonal-release
+for files in AUTHORS diagonal-release
     do cp -a "${_basedir}/${files}" .
   done
 cp -a "${_basedir}/wm/gnome/index.theme" .
@@ -401,7 +401,7 @@ _footer
 
 makedarkcursor
 
-for files in AUTHORS COPYING README.md index.theme diagonal-release
+for files in AUTHORS index.theme diagonal-release
     do cp -a "../Diagonal${__wmtype}${__distro}/${files}" .
   done
   sed_inplace "s/Diagonal${__wmtype}${__distro}/Diagonal${__wmtype}${__distro}-dark/g" index.theme
@@ -505,7 +505,7 @@ _footer
 
 ln -s "../Diagonal${__wmtype}${__distro}/scalable-max-32" scalable-max-32
 
-for files in AUTHORS COPYING README.md index.theme diagonal-release
+for files in AUTHORS index.theme diagonal-release
     do cp -a "../Diagonal${__wmtype}${__distro}/${files}" .
   done
   sed_inplace "s/Diagonal${__wmtype}${__distro}/Diagonal${__wmtype}${__distro}-light/g" index.theme
