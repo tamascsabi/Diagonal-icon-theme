@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg5" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect id="rect1" x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#085dc6"/>
+ <path id="path14" d="m4 26h56v7h-56z" fill="#62a0ea" stroke-width=".88192"/>
+ <path id="path8" d="m37 10v16h23v-16z" fill="#ce6a18" stroke-width=".80725"/>
+ <path id="path15" d="m10.004 4c-3.3262 0-6.0039 2.6282-6.0039 5.8928v16.107h33v-22z" fill="#7d502b" stroke-width=".7838"/>
+ <path id="path16" d="m8 8h16v4h-16z" fill="#d8cbbf" stroke-width=".8"/>
+ <path id="path17" d="m8 14h12v3h-12z" fill="#d8cbbf" stroke-width=".89443"/>
+ <path id="path11" d="m4 44v10.066c0 3.2858 2.67 5.9314 5.9885 5.9341h17.011v-16z" fill="#f2ba8c" stroke-width=".80725"/>
+ <path id="path33" d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#0e0702" opacity=".30096" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path id="path24" d="m7 47h16v4h-16z" fill="#542f12" stroke-width=".8"/>
+ <path id="path18" d="m27 39v21h27.002c3.3238-0.0027 5.998-2.6579 5.998-5.9557v-15.044z" fill="#d4a782" stroke-width=".76577"/>
+ <path id="path25" d="m7 53h12v3h-12z" fill="#542f12" stroke-width=".89443"/>
+ <path id="path26" d="m31 43h16v4h-16z" fill="#f5ebe2" stroke-width=".8"/>
+ <path id="path27" d="m31 49h12v3h-12z" fill="#f5ebe2" stroke-width=".89443"/>
+ <path id="path22" d="m40 13h16v4h-16z" fill="#e7b58c" stroke-width=".8"/>
+ <path id="path23" d="m40 19h12v3h-12z" fill="#e7b58c" stroke-width=".89443"/>
+</svg>

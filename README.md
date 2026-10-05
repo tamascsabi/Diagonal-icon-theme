@@ -82,11 +82,11 @@ The repository also includes prebuilt default icon packages for each supported d
 
 These packages are ready to use and can be extracted directly into:
 
-`tar -xvf Diagonal-3.3.tar.xz -C ~/.icons/`
+`tar -xvf Diagonal-3.5.tar.xz -C ~/.icons/`
 
 or
 
-`sudo tar -xvf Diagonal-3.3.tar.xz -C /usr/share/icons/`
+`sudo tar -xvf Diagonal-3.5.tar.xz -C /usr/share/icons/`
 
 No installation script is required.
 
@@ -99,10 +99,11 @@ No installation script is required.
 | Arch         | CachyOS      | Debian       | Devuan        |
 | EndeavourOS  | Fedora       | FreeBSD      | Garuda        |
 | Gentoo       | Kali         | KDE neon     | Kubuntu       |
-| Mageia       | Manjaro      | Mint         | Nixos         |
-| OpenBSD      | OpenMandriva | OpenSUSE     | Parrot        | 
-| PcLinuxOS    | Pop!_OS      | Slackware    | Solus         | 
-| Ubuntu       | Zorin OS     |
+| Mageia       | Manjaro      | Mint         | NetBSD        |
+| Nixos        | OpenBSD      | OpenMandriva | OpenSUSE      |
+| Parrot       | PcLinuxOS    | Pop!_OS      | Slackware     |
+| Solus        | Ubuntu       | Void         | Xubuntu       |
+| Zorin OS     |
 
 ---
 
@@ -147,6 +148,7 @@ If your system is not recognized, default settings will be used.
 The installer also supports non-standard installation methods.
 
 * FreeBSD and OpenBSD: icons are installed in the `/usr/local/share/icons` directory if installed systemwide.
+* NetBSD: icons are installed to `/usr/pkg/share/icons` directory if installed systemwide.
 * NixOS: icons are installed to `/var/opt/icons.`
 
   When installing a NixOS version, the user must still configure the system to include the installed icon library in the icon search path.
@@ -222,3 +224,11 @@ See the LICENSE file for details.
 * The installer attempts to detect your system automatically
 * Manual override is always possible during installation
 * Designed with portability and minimal dependencies in mind
+
+---
+
+## Credits & Attribution
+
+Detailed attribution, including design inspirations (such as Qogir, WhiteSur, Evolvere) and system-compatibility sources (such as Kali Linux Tools), can be found in the [AUTHORS](AUTHORS.md) file.
+
+---

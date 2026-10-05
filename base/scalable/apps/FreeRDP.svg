@@ -1,0 +1,15 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect transform="scale(-1)" x="-60" y="-60" width="56" height="56" rx="6" ry="6" fill="#3e3063"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z" fill="#8468cc" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m39.941 36.717c0.46506-0.41348 2.6458-6.0217 1.3064-8.8592-2.1443-4.5427-5.8749-13.449-7.8715-13.942-4.8626 0.80978-2.8884 11.236-3.4201 15.803l1.4152 6.5258z" fill="#74baca" stroke-linecap="round" stroke-width=".421"/>
+ <path d="m37.74 34.85c0.37029-0.33289 1.9057-4.4143 0.83932-6.6986-1.7073-3.6573-5.8134-12.229-7.3158-12.859-3.8717 0.65194-1.2384 10.461-1.6617 14.138l0.26196 6.2253z" fill="#073653" stroke-linecap="round" stroke-width=".33707"/>
+ <path d="m14.677 42.442c0.25677-8.7237 6.9544-37.186 19.346-37.457 5.754 1.572-6.8921 11.159-1.2217 29.896-6.4155-1.0958-12.332 2.6284-18.124 7.561z" fill="#3299ba" stroke-linecap="round" stroke-width=".421"/>
+ <path d="m33.367 34.348c-0.93618-3.92e-4 -1.9109 0.055686-2.9238 0.17188-14.988 1.7193-22.501 13.975-19.041 25.48h41.689c-0.1624-12.94-5.6819-25.646-19.725-25.652z" fill="#74baca" stroke-linecap="round" stroke-width=".55256"/>
+ <circle cx="27.72" cy="52.72" r="7.28" fill="#073653" stroke-linecap="round" stroke-width=".47591"/>
+ <ellipse cx="27.686" cy="53.157" rx="6" ry="5.78" fill="#f7fcfe" stroke-linecap="round" stroke-width=".38498"/>
+ <ellipse cx="29.167" cy="50.851" rx="2.8748" ry="2.8509" fill="#073653" stroke-linecap="round" stroke-width=".18715"/>
+ <ellipse cx="29.167" cy="48.944" rx="1.2752" ry="1.1179" fill="#eff8fe" stroke-linecap="round" stroke-width=".078054"/>
+ <path d="m47.35 41.922c-1.151 0-1.8254 0.892-1.5137 2 0.31171 1.108 1.4896 2 2.6406 2h1.8867c-0.61894-1.4283-1.3487-2.7709-2.1992-4h-0.81445z" fill="#073653" stroke-linecap="round" stroke-width=".37536"/>
+ <path d="m46 60c-3.4717-1.4889-4.0617-1.5283-3.4717-2.5283 0.83949-1.423 4.2186-3.535 8.4717-2.4717 1 1 0 2-3 5z" fill="#073653" stroke-linecap="round" stroke-width=".421"/>
+ <ellipse transform="matrix(.9956 -.093726 .187 .98236 0 0)" cx="37.494" cy="60.323" rx="2.0144" ry=".79502" fill="#eff8fe" stroke-linecap="round" stroke-width=".08273"/>
+</svg>

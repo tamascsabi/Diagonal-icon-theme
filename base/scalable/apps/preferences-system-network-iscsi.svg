@@ -1,1 +1,10 @@
-blockdevice.svg
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#cacdd4"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#7d849a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <circle cx="11.5" cy="11.5" r="2.5" fill="#353944" stroke-width="0"/>
+ <circle cx="52.5" cy="52.5" r="2.5" fill="#353944" stroke-width="0"/>
+ <circle cx="11.5" cy="52.5" r="2.5" fill="#353944" stroke-width="0"/>
+ <circle cx="52.5" cy="11.5" r="2.5" fill="#353944" stroke-width="0"/>
+ <path d="m21 12c-1.662 0-3 1.3273-3 2.976v25.042c0 1.6487 1.338 2.976 3 2.976h9v4.0455h-4v0.992h-10v2.976h10v0.99201h12v-0.99201h10v-2.976h-10v-0.992h-4v-4.0455h9c1.662 0 3-1.3273 3-2.976v-25.042c0-1.6487-1.338-2.976-3-2.976z" fill="#353944" stroke-linecap="round" stroke-width="3.705"/>
+ <path class="ColorScheme-Text" d="m32 36c-4.418 0-8-3.5818-8-8s3.582-8 8-8h8v8c0 4.4182-3.5818 8-8 8zm0-4c2.2092 0 4-1.7908 4-4s-1.7908-4-4-4-4 1.7908-4 4 1.7908 4 4 4z" color="#5d656b" fill="#cacdd4" stroke-width="2"/>
+</svg>

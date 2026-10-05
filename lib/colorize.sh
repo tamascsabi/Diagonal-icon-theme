@@ -32,6 +32,7 @@ makefcolor() {
           mageia ) sed_inplace -e "s/${_colorfg}/338ccd/g" -e "s/${_colorbg}/254a65/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          manjaro ) sed_inplace -e "s/${_colorfg}/00ac9e/g" -e "s/${_colorbg}/0b5765/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
             mint ) sed_inplace -e "s/${_colorfg}/28bd37/g" -e "s/${_colorbg}/20a12d/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+          netbsd ) sed_inplace -e "s/${_colorfg}/f26718/g" -e "s/${_colorbg}/767676/g" -e "s/${_colorline}/2e2e2e/g" "${file}" ;;
            nixos ) sed_inplace -e "s/${_colorfg}/a4d4f8/g" -e "s/${_colorbg}/4f73bc/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          openbsd ) sed_inplace -e "s/${_colorfg}/eaa100/g" -e "s/${_colorbg}/a06e00/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         opensuse ) sed_inplace -e "s/${_colorfg}/4ba520/g" -e "s/${_colorbg}/025575/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
@@ -41,7 +42,9 @@ makefcolor() {
            popos ) sed_inplace -e "s/${_colorfg}/49b8c6/g" -e "s/${_colorbg}/21616a/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
        slackware ) sed_inplace -e "s/${_colorfg}/8faaee/g" -e "s/${_colorbg}/4861a0/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
            solus ) sed_inplace -e "s/${_colorfg}/7a95d0/g" -e "s/${_colorbg}/52647a/g" "${file}" ;;
-          ubuntu ) sed_inplace -e "s/${_colorfg}/666666/g" -e "s/${_colorbg}/e95420/g" -e "s/${_colorline}/752a71/g" "${file}" ;;
+          ubuntu ) sed_inplace -e "s/${_colorfg}/752a71/g" -e "s/${_colorbg}/e95420/g" -e "s/${_colorline}/666666/g" "${file}" ;;
+            void ) sed_inplace -e "s/${_colorfg}/73be95/g" -e "s/${_colorbg}/4b8568/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+         xubuntu ) sed_inplace -e "s/${_colorfg}/278cd0/g" -e "s/${_colorbg}/1a6a9f/g" "${file}" ;;
          zorinos ) sed_inplace -e "s/${_colorfg}/4dbbf0/g" -e "s/${_colorbg}/0972b6/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
      esac
 done
@@ -55,19 +58,20 @@ printf ";;; %bPlease choose by numbers%b\n" "${blue}" "${reset}"
 printf ";;;\n"
 _line
 printf ";;;\n"
-printf ";;;  1 %bBlue%b          2 %bRed%b           3 %bGreen%b        4 %bBlack%b\n" "${blue}" "${reset}" "${red}" "${reset}" "${green}" "${reset}" "${bow}" "${reset}"
-printf ";;;  5 %bYellow%b        6 %bCyan%b          7 %bMagenta%b      8 %bWhite%b\n"  "${yellow}" "${reset}" "${cyan}" "${reset}" "${magenta}" "${reset}" "${wob}" "${reset}"
+printf ";;;  1 %bBlue%b          2 %bRed%b           3 %bGreen%b         4 %bBlack%b\n" "${blue}" "${reset}" "${red}" "${reset}" "${green}" "${reset}" "${bow}" "${reset}"
+printf ";;;  5 %bYellow%b        6 %bCyan%b          7 %bMagenta%b       8 %bWhite%b\n"  "${yellow}" "${reset}" "${cyan}" "${reset}" "${magenta}" "${reset}" "${wob}" "${reset}"
 printf ";;;  9 %bViolet%b       10 %bGrey%b         11 %bOrange%b\n" "${magenta}" "${reset}" "${bow}" "${reset}" "${yellow}" "${reset}"
 printf ";;;\n"
 _line
 printf ";;;\n"
-printf ";;; 12 %bArch%b         13 %bCachyOS%b      14 %bDebian%b      15 %bDevuan%b\n" "${blue}" "${reset}" "${green}" "${reset}" "${red}" "${reset}" "${blue}" "${reset}"
-printf ";;; 16 %bEndeavourOS%b  17 %bFedora%b       18 %bFreeBSD%b     19 %bGaruda%b\n" "${magenta}" "${reset}" "${blue}" "${reset}" "${red}" "${reset}" "${magenta}" "${reset}"
-printf ";;; 20 %bGentoo%b       21 %bKali%b         22 %bKdeneon%b     23 %bKubuntu%b\n" "${magenta}" "${reset}" "${blue}" "${reset}" "${cyan}" "${reset}" "${blue}" "${reset}"
-printf ";;; 24 %bMageia%b       25 %bManjaro%b      26 %bMint%b        27 %bNixos%b\n" "${blue}" "${reset}" "${cyan}" "${reset}" "${green}" "${reset}" "${blue}" "${reset}"
-printf ";;; 28 %bOpenBSD%b      29 %bOpenMandriva%b 30 %bOpenSUSE%b    31 %bParrot%b\n" "${yellow}" "${reset}" "${blue}" "${reset}" "${green}" "${reset}" "${cyan}" "${reset}"
-printf ";;; 32 %bPcLinuxOS%b    33 %bPop!_OS%b      34 %bSlackware%b   35 %bSolus%b\n" "${blue}" "${reset}" "${cyan}" "${reset}" "${blue}" "${reset}" "${blue}" "${reset}"
-printf ";;; 36 %bUbuntu%b       37 %bZorin OS%b\n"  "${yellow}" "${reset}" "${blue}" "${reset}"
+printf ";;; 12 %bArch%b         13 %bCachyOS%b      14 %bDebian%b       15 %bDevuan%b\n" "${blue}" "${reset}" "${green}" "${reset}" "${red}" "${reset}" "${blue}" "${reset}"
+printf ";;; 16 %bEndeavourOS%b  17 %bFedora%b       18 %bFreeBSD%b      19 %bGaruda%b\n" "${magenta}" "${reset}" "${blue}" "${reset}" "${red}" "${reset}" "${magenta}" "${reset}"
+printf ";;; 20 %bGentoo%b       21 %bKali%b         22 %bKdeneon%b      23 %bKubuntu%b\n" "${magenta}" "${reset}" "${blue}" "${reset}" "${cyan}" "${reset}" "${blue}" "${reset}"
+printf ";;; 24 %bMageia%b       25 %bManjaro%b      26 %bMint%b         27 %bNetBSD%b\n" "${blue}" "${reset}" "${cyan}" "${reset}" "${green}" "${reset}" "${yellow}" "${reset}"
+printf ";;; 28 %bNixos%b        29 %bOpenBSD%b      30 %bOpenMandriva%b 31 %bOpenSUSE%b\n" "${blue}" "${reset}" "${yellow}" "${reset}" "${blue}" "${reset}" "${green}" "${reset}"
+printf ";;; 32 %bParrot%b       33 %bPcLinuxOS%b    34 %bPop!_OS%b      35 %bSlackware%b\n" "${cyan}" "${reset}" "${blue}" "${reset}" "${cyan}" "${reset}" "${blue}" "${reset}"
+printf ";;; 36 %bSolus%b        37 %bUbuntu%b       38 %bVoid%b         39 %bXubuntu%b\n"  "${blue}" "${reset}" "${yellow}" "${reset}" "${green}" "${reset}" "${blue}" "${reset}"
+printf ";;; 40 %bZorin OS%b\n" "${blue}" "${reset}"
 printf ";;;\n"
 _line
 
@@ -151,37 +155,46 @@ read -r _fcolor
         26) _fcolor="mint"
             printf ";;; %bI am installing the %b%s%b%b folder color.%b\n" "${blue}" "${red}" "${_fcolor}" "${reset}" "${blue}" "${reset}"
          ;;
-        27) _fcolor="nixos"
+        27) _distro="netbsd"
+            printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
+         ;;
+        28) _fcolor="nixos"
             printf ";;; %bI am installing the %b%s%b%b folder color.%b\n" "${blue}" "${red}" "${_fcolor}" "${reset}" "${blue}" "${reset}"
          ;;
-        28) _fcolor="openbsd"
+        29) _fcolor="openbsd"
             printf ";;; %bI am installing the %b%s%b%b folder color.%b\n" "${blue}" "${red}" "${_fcolor}" "${reset}" "${blue}" "${reset}"
          ;;
-        29) _fcolor="openmandriva"
+        30) _fcolor="openmandriva"
             printf ";;; %bI am installing the %b%s%b%b folder color.%b\n" "${blue}" "${red}" "${_fcolor}" "${reset}" "${blue}" "${reset}"
          ;;
-        30) _fcolor="opensuse"
+        31) _fcolor="opensuse"
             printf ";;; %bI am installing the %b%s%b%b folder color.%b\n" "${blue}" "${red}" "${_fcolor}" "${reset}" "${blue}" "${reset}"
          ;;
-        31) _fcolor="parrot"
+        32) _fcolor="parrot"
             printf ";;; %bI am installing the %b%s%b%b folder color.%b\n" "${blue}" "${red}" "${_fcolor}" "${reset}" "${blue}" "${reset}"
          ;;
-        32) _fcolor="pclinuxos"
+        33) _fcolor="pclinuxos"
             printf ";;; %bI am installing the %b%s%b%b folder color.%b\n" "${blue}" "${red}" "${_fcolor}" "${reset}" "${blue}" "${reset}"
          ;;
-        33) _fcolor="popos"
+        34) _fcolor="popos"
             printf ";;; %bI am installing the %b%s%b%b folder color.%b\n" "${blue}" "${red}" "${_fcolor}" "${reset}" "${blue}" "${reset}"
          ;;
-        34) _fcolor="slackware"
+        35) _fcolor="slackware"
             printf ";;; %bI am installing the %b%s%b%b folder color.%b\n" "${blue}" "${red}" "${_fcolor}" "${reset}" "${blue}" "${reset}"
          ;;
-        35) _distro="solus"
+        36) _distro="solus"
           printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
          ;;
-        36) _fcolor="ubuntu"
+        37) _fcolor="ubuntu"
             printf ";;; %bI am installing the %b%s%b%b folder color.%b\n" "${blue}" "${red}" "${_fcolor}" "${reset}" "${blue}" "${reset}"
          ;;
-        37) _fcolor="zorinos"
+        38) _fcolor="void"
+            printf ";;; %bI am installing the %b%s%b%b folder color.%b\n" "${blue}" "${red}" "${_fcolor}" "${reset}" "${blue}" "${reset}"
+         ;;
+        39) _fcolor="xubuntu"
+            printf ";;; %bI am installing the %b%s%b%b folder color.%b\n" "${blue}" "${red}" "${_fcolor}" "${reset}" "${blue}" "${reset}"
+         ;;
+        40) _fcolor="zorinos"
             printf ";;; %bI am installing the %b%s%b%b folder color.%b\n" "${blue}" "${red}" "${_fcolor}" "${reset}" "${blue}" "${reset}"
          ;;
          *) _fcolor=""

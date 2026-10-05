@@ -58,9 +58,12 @@ if [ -f /etc/os-release ]
           nixos ) _distro="Nixos"        ;;
          parrot ) _distro="Parrot"       ;;
       pclinuxos ) _distro="Pclinuxos"    ;;
+           void ) _distro="Void"         ;;
           solus ) _distro="Solus"        ;;
-         ubuntu ) if [ -f /etc/kubuntu-default-settings ]
+         ubuntu ) if [ -d /etc/kubuntu-default-settings ]
                      then _distro="Kubuntu"
+                elif [ -d /etc/xdg/xdg-xubuntu ]
+                     then _distro="Xubuntu"
                      else _distro="Ubuntu"
                   fi                     ;;
               * ) _distro=""             ;;
@@ -69,7 +72,8 @@ if [ -f /etc/os-release ]
     case "$(uname -s)" in
       FreeBSD ) _distro="FreeBSD" ;;
       OpenBSD ) _distro="OpenBSD" ;;
-             * ) _distro=""       ;;
+       NetBSD ) _distro="NetBSD"  ;;
+            * ) _distro=""        ;;
     esac
   fi
 }
@@ -81,6 +85,12 @@ OpenBSD | openbsd | FreeBSD | freebsd ) if [ ! -d "/usr/local/share/icons" ]
                                            then mkdir -p /usr/local/share/icons
                                                 _install_dir="/usr/local/share/icons"
                                            else _install_dir="/usr/local/share/icons"
+                                        fi
+                                     ;;
+                      NetBSD | netbsd ) if [ ! -d "/usr/pkg/share/icons" ]
+                                           then mkdir -p /usr/pkg/share/icons
+                                                _install_dir="/usr/pkg/share/icons"
+                                           else _install_dir="/usr/pkg/share/icons"
                                         fi
                                      ;;
                        Nixos | nixos  ) if [ -d "/usr/share/icons" ]
@@ -207,6 +217,7 @@ makelightcursor() {
                      -mageia ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                     -manjaro ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                        -mint ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                     -netbsd ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                       -nixos ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                     -openbsd ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                    -opensuse ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
@@ -217,6 +228,8 @@ makelightcursor() {
                   -slackware ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                       -solus ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                      -ubuntu ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                       -void ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                    -xubuntu ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                     -zorinos ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                            * ) cp -a "${_basedir}/cursors/light/default/cursors" .  ;;
     esac
@@ -241,6 +254,7 @@ makedarkcursor() {
                      -mageia ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                     -manjaro ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                        -mint ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                     -netbsd ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                       -nixos ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                     -openbsd ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                    -opensuse ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
@@ -251,6 +265,8 @@ makedarkcursor() {
                   -slackware ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                       -solus ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                      -ubuntu ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                       -void ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                    -xubuntu ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                     -zorinos ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                            * ) cp -a "${_basedir}/cursors/dark/default/cursors" .  ;;
     esac
@@ -333,7 +349,7 @@ makefoldercolor() {
           Violet ) sed_inplace -e "s/${_colorfg}/a27bec/g" -e "s/${_colorbg}/6220dc/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
             Grey ) sed_inplace -e "s/${_colorfg}/697489/g" -e "s/${_colorbg}/454e5b/g" "${file}" ;;
           Orange ) sed_inplace -e "s/${_colorfg}/f7711e/g" -e "s/${_colorbg}/cb4e00/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
-          Ubuntu ) sed_inplace -e "s/${_colorfg}/666666/g" -e "s/${_colorbg}/e65524/g" -e "s/${_colorline}/752a71/g" "${file}" ;;
+          Ubuntu ) sed_inplace -e "s/${_colorfg}/752a71/g" -e "s/${_colorbg}/e65524/g" -e "s/${_colorline}/666666/g" "${file}" ;;
         esac
     done
     _footer
@@ -358,6 +374,7 @@ makedistrofolder() {
          mageia ) sed_inplace -e "s/${_colorfg}/338ccd/g" -e "s/${_colorbg}/254a65/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         manjaro ) sed_inplace -e "s/${_colorfg}/00ac9e/g" -e "s/${_colorbg}/0b5765/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
            mint ) sed_inplace -e "s/${_colorfg}/28bd37/g" -e "s/${_colorbg}/20a12d/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+         netbsd ) sed_inplace -e "s/${_colorfg}/f26718/g" -e "s/${_colorbg}/767676/g" -e "s/${_colorline}/2e2e2e/g" "${file}" ;;
           nixos ) sed_inplace -e "s/${_colorfg}/a4d4f8/g" -e "s/${_colorbg}/4f73bc/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         openbsd ) sed_inplace -e "s/${_colorfg}/eaa100/g" -e "s/${_colorbg}/a06e00/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
        opensuse ) sed_inplace -e "s/${_colorfg}/4ba520/g" -e "s/${_colorbg}/025575/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
@@ -367,7 +384,9 @@ makedistrofolder() {
           popos ) sed_inplace -e "s/${_colorfg}/49b8c6/g" -e "s/${_colorbg}/21616a/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
       slackware ) sed_inplace -e "s/${_colorfg}/8faaee/g" -e "s/${_colorbg}/4861a0/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
           solus ) sed_inplace -e "s/${_colorfg}/7a95d0/g" -e "s/${_colorbg}/52647a/g" "${file}" ;;
-         ubuntu ) sed_inplace -e "s/${_colorfg}/666666/g" -e "s/${_colorbg}/e95420/g" -e "s/${_colorline}/752a71/g" "${file}" ;;
+         ubuntu ) sed_inplace -e "s/${_colorfg}/752a71/g" -e "s/${_colorbg}/e95420/g" -e "s/${_colorline}/666666/g" "${file}" ;;
+           void ) sed_inplace -e "s/${_colorfg}/73be95/g" -e "s/${_colorbg}/4b8568/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+        xubuntu ) sed_inplace -e "s/${_colorfg}/278cd0/g" -e "s/${_colorbg}/1a6a9f/g" "${file}" ;;
         zorinos ) sed_inplace -e "s/${_colorfg}/4dbbf0/g" -e "s/${_colorbg}/0972b6/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
        esac
    done

@@ -1,0 +1,49 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#99d5fd"/>
+ <rect x="7" y="38" width="8" height="8" fill="#081829" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.3094" style="paint-order:markers fill stroke"/>
+ <path d="m10 4h44c3.324 0 6 2.676 6 6v9h-56v-9c0-3.324 2.676-6 6-6z" fill="#27485e"/>
+ <path d="m10 60h44c3.324 0 6-2.676 6-6v-9h-56v9c0 3.324 2.676 6 6 6z" fill="#27485e"/>
+ <path d="m60 39v-14h-56v14z" fill="#27485e"/>
+ <path d="m4 25v14h19.092l17.816-14h-36.908z" fill="#081829" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <rect x="7" y="18" width="8" height="8" fill="#081829" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.3094" style="paint-order:markers fill stroke"/>
+ <rect x="49" y="18" width="8" height="8" fill="#27485e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.3094" style="paint-order:markers fill stroke"/>
+ <rect x="49" y="38" width="8" height="8" fill="#27485e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2.3094" style="paint-order:markers fill stroke"/>
+ <path d="m10 4c-3.324 0-6 2.676-6 6v9h44.545l11.455-9c0-3.324-2.676-6-6-6h-44z" fill="#081829"/>
+ <g transform="translate(2,-1)" fill="#fe0917" stroke-width="0">
+  <path d="m50 7h3v2h-3z"/>
+  <path d="m50 11h3v2h-3z"/>
+  <path d="m50 15h3v2h-3z"/>
+ </g>
+ <g transform="translate(1,41)" fill="#18f531">
+  <g transform="translate(1)" fill="#18f531" stroke-width="0">
+   <path d="m50 7h3v2h-3z"/>
+   <path d="m50 11h3v2h-3z"/>
+   <path d="m50 15h3v2h-3z"/>
+  </g>
+ </g>
+ <g transform="matrix(1 0 0 .88889 3 -.11111)" stroke-width="0">
+  <path d="m15 8h3v9h-3z" fill="#b5c5d8"/>
+  <path d="m20 8h3v9h-3z" fill="#b5c5d8"/>
+  <path d="m25 8h3v9h-3z" fill="#c4d1e0"/>
+ </g>
+ <circle cx="11" cy="11" r="3" fill="#fafc34"/>
+ <g transform="matrix(1 0 0 .66667 3 23.667)" fill="#c4d1e0" stroke-width="0">
+  <path d="m15 8h3v9h-3z"/>
+  <path d="m20 8h3v9h-3z"/>
+  <path d="m25 8h3v9h-3z"/>
+ </g>
+ <circle cx="11" cy="53" r="3" fill="#fafc34"/>
+ <g transform="matrix(1 0 0 .88889 3 41.889)" stroke-width="0">
+  <path d="m15 8h3v9h-3z" fill="#b5c5d8"/>
+  <path d="m20 8h3v9h-3z" fill="#b5c5d8"/>
+  <path d="m25 8h3v9h-3z" fill="#c4d1e0"/>
+ </g>
+ <path d="m4 45v9l11.455-9h-11.455z" fill="#081829" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <circle cx="11" cy="32" r="3" fill="#fafc34"/>
+ <g transform="translate(2,20)" fill="#18f531" stroke-width="0">
+  <path d="m50 7h3v2h-3z"/>
+  <path d="m50 11h3v2h-3z"/>
+  <path d="m50 15h3v2h-3z"/>
+ </g>
+ <path d="m16 19c-6.648 0-12 5.352-12 12v2c0 6.648 5.352 12 12 12h32c6.648 0 12-5.352 12-12v-2c0-6.648-5.352-12-12-12h-32zm0.125 6h31.75c3.3932 0 6.125 2.7318 6.125 6.125v1.75c0 3.3932-2.7318 6.125-6.125 6.125h-31.75c-3.3932 0-6.125-2.7318-6.125-6.125v-1.75c0-3.3932 2.7318-6.125 6.125-6.125z" fill="#fd0400" stroke-linecap="round" stroke-width=".524"/>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg id="svg1" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <linearGradient id="linearGradient4" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+   <stop id="stop3" stop-color="#2c0230" offset=".49865"/>
+   <stop id="stop4" stop-color="#b608c6" offset=".49865"/>
+  </linearGradient>
+ </defs>
+ <!-- Background / base square -->
+ <path id="path1" d="m32 4a27.999 27.999 0 0 0-28 28 27.999 27.999 0 0 0 28 28 27.999 27.999 0 0 0 28-28 27.999 27.999 0 0 0-28-28z" fill="url(#linearGradient4)" stroke-width="1.0034"/>
+ <path id="rect2" d="m14.727 17h34.545c0.95691 0 1.7273 0.892 1.7273 2v4c0 1.108-0.77036 2-1.7273 2h-34.545c-0.95691 0-1.7273-0.892-1.7273-2v-4c0-1.108 0.77036-2 1.7273-2z" fill="#efa9f6" stroke-width="0"/>
+ <path id="rect3" d="m15.591 30h32.818c1.4354 0 2.5909 1.338 2.5909 3v12c0 1.662-1.1555 3-2.5909 3h-32.818c-1.4354 0-2.5909-1.338-2.5909-3v-12c0-1.662 1.1555-3 2.5909-3z" fill="#efa9f6" stroke-width="0"/>
+ <circle id="circle4" cx="32" cy="39" r="4" fill="#2c0230" stroke-width="0"/>
+ <circle id="circle5" cx="20" cy="39" r="4" fill="#2c0230" stroke-width="0"/>
+ <circle id="circle6" cx="44" cy="39" r="4" fill="#2c0230" stroke-width="0"/>
+ <rect id="rect1" x="16" y="19" width="8" height="4" ry="2" stroke-width=".89443"/>
+ <rect id="rect4" x="40" y="19" width="8" height="4" ry="2" stroke-width=".89443"/>
+ <rect id="rect5" x="28" y="19" width="8" height="4" ry="2" stroke-width=".89443"/>
+</svg>

@@ -39,11 +39,12 @@ printf ";;; \n"
 printf ";;;  1 %bArch%b           2 %bCachyOS%b        3 %bDebian%b        4 %bDevuan%b\n" "${blue}" "${reset}" "${green}" "${reset}" "${red}" "${reset}" "${blue}" "${reset}"
 printf ";;;  5 %bEndeavourOS%b    6 %bFedora%b         7 %bFreeBSD%b       8 %bGaruda%b\n" "${magenta}" "${reset}" "${blue}" "${reset}" "${red}" "${reset}" "${magenta}" "${reset}"
 printf ";;;  9 %bGentoo%b        10 %bKali%b          11 %bKdeneon%b      12 %bKubuntu%b\n" "${magenta}" "${reset}" "${blue}" "${reset}" "${cyan}" "${reset}" "${blue}" "${reset}"
-printf ";;; 13 %bMageia%b        14 %bManjaro%b       15 %bMint%b         16 %bNixos%b\n" "${blue}" "${reset}" "${cyan}" "${reset}" "${green}" "${reset}" "${blue}" "${reset}"
-printf ";;; 17 %bOpenBSD%b       18 %bOpenMandriva%b  19 %bOpenSUSE%b     20 %bParrot%b\n" "${yellow}" "${reset}" "${blue}" "${reset}" "${green}" "${reset}" "${cyan}" "${reset}"
-printf ";;; 21 %bPcLinuxOS%b     22 %bPop!_OS%b       23 %bSlackware%b    24 %bSolus%b\n" "${blue}" "${reset}" "${cyan}" "${reset}" "${blue}" "${reset}" "${blue}" "${reset}"
-printf ";;; 25 %bUbuntu%b        26 %bZorin OS%b\n" "${yellow}" "${reset}" "${blue}" "${reset}"
-printf ";;; 27 %bDistribution free (I do not choose)%b\n" "${red}" "${reset}"
+printf ";;; 13 %bMageia%b        14 %bManjaro%b       15 %bMint%b         16 %bNetBSD%b\n" "${blue}" "${reset}" "${cyan}" "${reset}" "${green}" "${reset}" "${yellow}" "${reset}"
+printf ";;; 17 %bNixos%b         18 %bOpenBSD%b       19 %bOpenMandriva%b 20 %bOpenSUSE%b\n" "${blue}" "${reset}" "${yellow}" "${reset}" "${blue}" "${reset}" "${green}" "${reset}"
+printf ";;; 21 %bParrot%b        22 %bPcLinuxOS%b     23 %bPop!_OS%b      24 %bSlackware%b\n" "${cyan}" "${reset}" "${blue}" "${reset}" "${cyan}" "${reset}" "${blue}" "${reset}"
+printf ";;; 25 %bSolus%b         26 %bUbuntu%b        27 %bVoid%b         28 %bXubuntu%b\n"  "${blue}" "${reset}" "${yellow}" "${reset}" "${green}" "${reset}" "${blue}" "${reset}"
+printf ";;; 29 %bZorin OS%b\n" "${blue}" "${reset}"
+printf ";;; 30 %bDistribution free (I do not choose)%b\n" "${red}" "${reset}"
 
 read -r __distribution
      case $__distribution in
@@ -92,37 +93,46 @@ read -r __distribution
       15) _distro="mint"
           printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
        ;;
-      16) _distro="nixos"
+      16) _distro="netbsd"
           printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
        ;;
-      17) _distro="openbsd"
+      17) _distro="nixos"
           printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
        ;;
-      18) _distro="openmandriva"
+      18) _distro="openbsd"
           printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
        ;;
-      19) _distro="opensuse"
+      19) _distro="openmandriva"
           printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
        ;;
-      20) _distro="parrot"
+      20) _distro="opensuse"
           printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
        ;;
-      21) _distro="pclinuxos"
+      21) _distro="parrot"
           printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
        ;;
-      22) _distro="popos"
+      22) _distro="pclinuxos"
           printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
        ;;
-      23) _distro="slackware"
+      23) _distro="popos"
           printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
        ;;
-      24) _distro="solus"
+      24) _distro="slackware"
           printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
        ;;
-      25) _distro="ubuntu"
+      25) _distro="solus"
           printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
        ;;
-      26) _distro="zorinos"
+      26) _distro="ubuntu"
+          printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
+       ;;
+      27) _distro="void"
+          printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
+       ;;
+      28) _distro="xubuntu"
+          printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
+       ;;
+      29) _distro="zorinos"
           printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
        ;;
         *) _distro=""
@@ -159,11 +169,12 @@ y | Y | yes | Yes) printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${b
         printf ";;;  1 %bArch%b           2 %bCachyOS%b        3 %bDebian%b        4 %bDevuan%b\n" "${blue}" "${reset}" "${green}" "${reset}" "${red}" "${reset}" "${blue}" "${reset}"
         printf ";;;  5 %bEndeavourOS%b    6 %bFedora%b         7 %bFreeBSD%b       8 %bGaruda%b\n" "${magenta}" "${reset}" "${blue}" "${reset}" "${red}" "${reset}" "${magenta}" "${reset}"
         printf ";;;  9 %bGentoo%b        10 %bKali%b          11 %bKdeneon%b      12 %bKubuntu%b\n" "${magenta}" "${reset}" "${blue}" "${reset}" "${cyan}" "${reset}" "${blue}" "${reset}"
-        printf ";;; 13 %bMageia%b        14 %bManjaro%b       15 %bMint%b         16 %bNixos%b\n" "${blue}" "${reset}" "${cyan}" "${reset}" "${green}" "${reset}" "${blue}" "${reset}"
-        printf ";;; 17 %bOpenBSD%b       18 %bOpenMandriva%b  19 %bOpenSUSE%b     20 %bParrot%b\n" "${yellow}" "${reset}" "${blue}" "${reset}" "${green}" "${reset}" "${cyan}" "${reset}"
-        printf ";;; 21 %bPcLinuxOS%b     22 %bPop!_OS%b       23 %bSlackware%b    24 %bSolus%b\n" "${blue}" "${reset}" "${cyan}" "${reset}" "${blue}" "${reset}" "${blue}" "${reset}"
-        printf ";;; 25 %bUbuntu%b        26 %bZorin OS%b\n" "${yellow}" "${reset}" "${blue}" "${reset}"
-        printf ";;; 27 %bDistribution free (I do not choose)%b\n" "${red}" "${reset}"
+        printf ";;; 13 %bMageia%b        14 %bManjaro%b       15 %bMint%b         16 %bNetBSD%b\n" "${blue}" "${reset}" "${cyan}" "${reset}" "${green}" "${reset}" "${yellow}" "${reset}"
+        printf ";;; 17 %bNixos%b         18 %bOpenBSD%b       19 %bOpenMandriva%b 20 %bOpenSUSE%b\n" "${blue}" "${reset}" "${yellow}" "${reset}" "${blue}" "${reset}" "${green}" "${reset}"
+        printf ";;; 21 %bParrot%b        22 %bPcLinuxOS%b     23 %bPop!_OS%b      24 %bSlackware%b\n" "${cyan}" "${reset}" "${blue}" "${reset}" "${cyan}" "${reset}" "${blue}" "${reset}"
+        printf ";;; 25 %bSolus%b         26 %bUbuntu%b        27 %bVoid%b         28 %bXubuntu%b\n"  "${blue}" "${reset}" "${yellow}" "${reset}" "${green}" "${reset}" "${blue}" "${reset}"
+        printf ";;; 29 %bZorin OS%b\n" "${blue}" "${reset}"
+        printf ";;; 30 %bDistribution free (I do not choose)%b\n" "${red}" "${reset}"
         printf ";;; \n"
         printf ";;; %bPlease choose from the distribution packages.%b\n" "${blue}" "${reset}"
         read -r __distribution
@@ -213,37 +224,46 @@ y | Y | yes | Yes) printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${b
               15) _distro="mint"
                   printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
                ;;
-              16) _distro="nixos"
+              16) _distro="netbsd"
                   printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
                ;;
-              17) _distro="openbsd"
+              17) _distro="nixos"
                   printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
                ;;
-              18) _distro="openmandriva"
+              18) _distro="openbsd"
                   printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
                ;;
-              19) _distro="opensuse"
+              19) _distro="openmandriva"
                   printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
                ;;
-              20) _distro="parrot"
+              20) _distro="opensuse"
                   printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
                ;;
-              21) _distro="pclinuxos"
+              21) _distro="parrot"
                   printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
                ;;
-              22) _distro="popos"
+              22) _distro="pclinuxos"
                   printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
                ;;
-              23) _distro="slackware"
+              23) _distro="popos"
                   printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
                ;;
-              24) _distro="solus"
+              24) _distro="slackware"
                   printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
                ;;
-              25) _distro="ubuntu"
+              25) _distro="solus"
                   printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
                ;;
-              26) _distro="zorinos"
+              26) _distro="ubuntu"
+                  printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
+               ;;
+              27) _distro="void"
+                  printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
+               ;;
+              28) _distro="xubuntu"
+                  printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
+               ;;
+              29) _distro="zorinos"
                   printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${blue}" "${red}" "${_distro}" "${reset}" "${blue}" "${reset}"
                ;;
                 *) _distro=""
@@ -275,8 +295,10 @@ y | Y | yes | Yes) printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${b
                               read -r _menuanswer
                               case $_menuanswer in
                         y | Y | yes | Yes) _monochrome="1"
+                                           printf ";;; %bI am installing the monochrome icons in the KDE menu.%b\n" "${blue}" "${reset}"
                                 ;;
                                        * ) _monochrome=""
+                                           printf ";;; %bI am installing the default KDE menu icons.%b\n" "${blue}" "${reset}"
                                 ;;
                               esac
                         ;;
@@ -306,9 +328,10 @@ y | Y | yes | Yes) printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${b
                           read -r _menuanswer
                           case $_menuanswer in
                         y | Y | yes | Yes) _monochrome="1"
+                                           printf ";;; %bI am installing the monochrome icons in the KDE menu.%b\n" "${blue}" "${reset}"
                                 ;;
                                        * ) _monochrome=""
-                                ;;
+                                           printf ";;; %bI am installing the default KDE menu icons.%b\n" "${blue}" "${reset}"
                           esac
                       ;;
                       2) _wmtype="gnome"
@@ -367,9 +390,11 @@ y | Y | yes | Yes) printf ";;; %bI am installing the %b%s%b%b version.%b\n" "${b
               read -r _menuanswer
               case $_menuanswer in
                  y | Y | yes | Yes) _monochrome="1"
-                            ;;
-                                * ) _monochrome=""
-                            ;;
+                                           printf ";;; %bI am installing the monochrome icons in the KDE menu.%b\n" "${blue}" "${reset}"
+                                ;;
+                                       * ) _monochrome=""
+                                           printf ";;; %bI am installing the default KDE menu icons.%b\n" "${blue}" "${reset}"
+                                ;;
               esac
            ;;
            2) _wmtype="gnome"
@@ -507,7 +532,7 @@ cd "${_basedir}" || exit 1
 
 . ./lib/installpack.sh
 
-if [ ${_install_dir} = "/var/opt/icons" ]
+if [ "${_install_dir}" = "/var/opt/icons" ]
    then printf ";;; \n"
         _line
         printf ";;; \n"

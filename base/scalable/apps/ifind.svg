@@ -1,0 +1,14 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#cacdd4"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#7d849a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path class="ColorScheme-Text" d="m32 49c-9.3882 0-17-7.6113-17-17s7.6118-17 17-17h17v17c0 9.3887-7.6113 17-17 17zm0-9.5625c4.1077 0 7.4375-3.3298 7.4375-7.4375s-3.3298-7.4375-7.4375-7.4375-7.4375 3.3298-7.4375 7.4375 3.3298 7.4375 7.4375 7.4375z" color="#5d656b" fill="#353944" stroke-width="4.25"/>
+ <g transform="matrix(1 0 0 1 -15.001 -17)" fill="#fff6f1">
+  <path d="m47.055 36c-3.4622 2.24e-4 -6.7825 1.3758-9.2305 3.8242-5.0978 5.0979-5.0978 13.363 0 18.461 4.5044 4.5036 11.601 5.0987 16.793 1.4082l11.666 11.668c0.85228 0.85228 1.865 0.49078 2.7173-0.3615 0.85228-0.85228 1.2131-1.8643 0.36078-2.7166l-11.668-11.666c3.6905-5.1916 3.0954-12.289-1.4082-16.793-2.448-2.4484-5.7683-3.824-9.2305-3.8242zm-0.05469 3c5.5228 0 10 4.4772 10 10s-4.4772 10-10 10-10-4.4772-10-10 4.4772-10 10-10z" stroke-width="0"/>
+  <path d="m47 40a9 9 0 0 0-8.9434 8h3.0273a6 6 0 0 1 5.916-5z" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="3.179" style="paint-order:markers fill stroke"/>
+  <ellipse cx="47" cy="49" rx="11" ry="10.999" opacity=".44013" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.5519" style="paint-order:markers fill stroke"/>
+ </g>
+ <circle cx="11.5" cy="11.5" r="2.5" fill="#353944" stroke-width="0"/>
+ <circle cx="52.5" cy="52.5" r="2.5" fill="#353944" stroke-width="0"/>
+ <circle cx="11.5" cy="52.5" r="2.5" fill="#353944" stroke-width="0"/>
+ <circle cx="52.5" cy="11.5" r="2.5" fill="#353944" stroke-width="0"/>
+</svg>

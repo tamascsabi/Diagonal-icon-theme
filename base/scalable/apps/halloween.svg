@@ -1,0 +1,15 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#91d5a9"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#36464e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <ellipse cx="45" cy="37.143" rx="13" ry="16.571" fill="#d86300" stroke-linecap="round" stroke-width="2.8847"/>
+ <path d="m34.261 8c-3.4757 3.0281-4.1855 6.2513-4.4621 9.5045a5.6522 4.5714 0 0 0-3.4509 4.2098 5.6522 4.5714 0 0 0 5.6522 4.5714 5.6522 4.5714 0 0 0 5.6522-4.5714 5.6522 4.5714 0 0 0-2.3646-3.7187c-1.7141-4.9965 1.2435-7.6044 4.6255-9.9955z" fill="#66b96a" stroke-linecap="round" stroke-width="5.0832"/>
+ <ellipse cx="38.5" cy="37.143" rx="13.591" ry="17.714" fill="#f07b00" stroke-linecap="round" stroke-width="3.0495"/>
+ <ellipse transform="scale(-1,1)" cx="-19" cy="37.143" rx="13" ry="16.571" fill="#d86300" stroke-linecap="round" stroke-width="2.8847"/>
+ <ellipse transform="scale(-1,1)" cx="-25.5" cy="37.143" rx="13.591" ry="17.714" fill="#f37c00" stroke-linecap="round" stroke-width="3.0495"/>
+ <ellipse cx="32" cy="37.714" rx="13" ry="18.286" fill="#ffbb5c" stroke-linecap="round" stroke-width="3.0302"/>
+ <path d="m32 19.429v36.571a13 18.286 0 0 0 13-18.286 13 18.286 0 0 0-13-18.286z" fill="#ff9d22" stroke-linecap="round" stroke-width="3.6856"/>
+ <path d="m38.5 27-4.5 7h9z" fill="#36464e" stroke-linecap="round" stroke-width="4.9498"/>
+ <path d="m25.5 27-4.5 7h9z" fill="#36464e" stroke-linecap="round" stroke-width="4.9498"/>
+ <path d="m32 35-3 5h6z" fill="#36464e" stroke-linecap="round" stroke-width="3.4157"/>
+ <path d="m20 42c0.54832 4.4364 5.1581 8.1093 10 9v-3h3v3c5.3399-0.48612 10.405-4.1814 11-9-0.063028 0.030195-0.12739 0.06211-0.19336 0.09375a13 5 0 0 1-4.8066 2.1191v3.7871h-3v-3.2422a13 5 0 0 1-4 0.24219 13 5 0 0 1-4-0.24219v2.2422h-3v-2.7871a13 5 0 0 1-4.8066-2.1191c-0.065965-0.03164-0.13033-0.063555-0.19336-0.09375z" fill="#36464e" stroke-linecap="round" stroke-width="7.2397"/>
+</svg>

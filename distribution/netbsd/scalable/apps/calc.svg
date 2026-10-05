@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 64 64"
+   id="svg9"
+   sodipodi:docname="calc.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.71875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <rect
+     x="4"
+     y="4"
+     width="56"
+     height="56"
+     rx="6"
+     ry="6"
+     fill="#f26718"
+     id="rect1" />
+  <path
+     d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6z"
+     fill="#523800"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="3.2"
+     stroke-width="2"
+     style="paint-order:markers fill stroke;fill:#f8b189;fill-opacity:1"
+     id="path1" />
+  <path
+     d="m32 60v-28h28v22c0 3.324-2.676 6-6 6z"
+     fill="#767676"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="3.2"
+     stroke-width="2"
+     style="paint-order:markers fill stroke"
+     id="path2" />
+  <path
+     d="m32 4v28h-28v-22c0-3.324 2.676-6 6-6z"
+     fill="#f26718"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="3.2"
+     stroke-width="2"
+     style="paint-order:markers fill stroke"
+     id="path3" />
+  <path
+     d="m32 60v-28l28 22c0 3.324-2.676 6-6 6z"
+     fill="#f26718"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="3.2"
+     stroke-width="2"
+     style="paint-order:markers fill stroke"
+     id="path4" />
+  <path
+     d="m40 25v5h15v-5zm0 9v5h15v-5z"
+     fill="#fff"
+     stroke-width="5.054"
+     id="path5" />
+  <path
+     d="m32 4v28l-28-22c0-3.324 2.676-6 6-6z"
+     fill="#523800"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="3.2"
+     stroke-width="2"
+     style="paint-order:markers fill stroke;fill:#767676;fill-opacity:1"
+     id="path6" />
+  <path
+     d="m16 10v5h-5v5h5v5h5v-5h5v-5h-5v-5z"
+     fill="#fff"
+     stroke-width="5.0709"
+     id="path7" />
+  <path
+     d="m4 32h28l-28 22z"
+     fill="#767676"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="0"
+     stroke-width="2.339"
+     id="path8" />
+  <path
+     d="m11 44v5h15v-5z"
+     fill="#fff"
+     stroke-width="5.054"
+     id="path9" />
+</svg>

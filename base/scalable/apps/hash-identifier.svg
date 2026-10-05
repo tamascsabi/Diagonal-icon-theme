@@ -1,0 +1,10 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#6c0707"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#060a0c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m19 7-2.3535 8h-4.6465l-1 4h4.4707l-2.6465 9h-4.8242l-1 4h4.6465l-2.6465 9h5l2.6465-9h7l-2.6465 9h5l2.6465-9h5.3535l1-4h-5.1758l2.6465-9h5.5293l1-4h-5.3535l2.3535-8h-5l-2.3535 8h-7l2.3535-8zm1.4707 12h7l-2.6465 9h-7z" fill="#e80029" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width=".1" style="paint-order:markers fill stroke"/>
+ <g transform="matrix(1 0 0 .99999 -18.001 -17)" fill="#fff6f1">
+  <path d="m47.055 36a13.054 13.054 0 0 0-9.2305 3.8242 13.054 13.054 0 0 0 0 18.461 13.054 13.054 0 0 0 16.793 1.4082l11.666 11.668c0.85228 0.85228 2.2258 0.85228 3.0781 0 0.85228-0.85228 0.85228-2.2258 0-3.0781l-11.668-11.666a13.054 13.054 0 0 0-1.4082-16.793 13.054 13.054 0 0 0-9.2305-3.8242zm-0.05469 3a10 10 0 0 1 10 10 10 10 0 0 1-10 10 10 10 0 0 1-10-10 10 10 0 0 1 10-10z" stroke-width="0"/>
+  <path d="m47 40a9 9 0 0 0-8.9434 8h3.0273a6 6 0 0 1 5.916-5z" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="3.179" style="paint-order:markers fill stroke"/>
+  <ellipse cx="47" cy="49" rx="11" ry="10.999" opacity=".44013" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.5519" style="paint-order:markers fill stroke"/>
+ </g>
+</svg>

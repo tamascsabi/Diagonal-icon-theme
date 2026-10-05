@@ -101,14 +101,14 @@ printf ";;; %by (yes)%b   %bn (no)%b\n" "${red}" "${reset}" "${red}" "${reset}"
 read -r _installpack
 case ${_installpack} in
    y | Y | yes | Yes) if [ "$(id -u)" -eq 0 ]
-                        then if [ -d /var/opt/icons/"${_theme}" ]
-                                then _location="/var/opt/icons/${_theme}"
-                                     if [ -f /var/opt/icons/"${_theme}"/diagonal-release ]
-                                        then _release="$(cat /var/opt/icons/"${_theme}"/diagonal-release)"
-                                             _found_releasepack
-                                        else _found_pack
-                                     fi
-                                     read answer
+                         then if [ -d /var/opt/icons/"${_theme}" ]
+                                 then _location="/var/opt/icons/${_theme}"
+                                      if [ -f /var/opt/icons/"${_theme}"/diagonal-release ]
+                                         then _release="$(cat /var/opt/icons/"${_theme}"/diagonal-release)"
+                                               _found_releasepack
+                                         else _found_pack
+                                      fi
+                                      read answer
                                           case "$answer" in
                                      y | Y | yes | YES ) rm -rf "/var/opt/icons/${_theme}" 1>/dev/null 2>&1
                                                          rm -rf "/var/opt/icons/${_theme}"-light 1>/dev/null 2>&1
@@ -149,6 +149,24 @@ case ${_installpack} in
                                      y | Y | yes | YES ) rm -rf "/usr/local/share/icons/${_theme}" 1>/dev/null 2>&1
                                                          rm -rf "/usr/local/share/icons/${_theme}"-light 1>/dev/null 2>&1
                                                          rm -rf "/usr/local/share/icons/${_theme}"-dark 1>/dev/null 2>&1
+                                                         _install
+                                                         _root_notice
+                                                 ;;
+                                                      *) _no_install
+                                                 ;;
+                                          esac
+                           elif [ -d /usr/pkg/share/icons/"${_theme}" ]
+                                then _location="/usr/pkg/share/icons/${_theme}"
+                                     if [ -f /usr/pkg/share/icons/"${_theme}"/diagonal-release ]
+                                        then _release="$(cat /usr/pkg/share/icons/"${_theme}"/diagonal-release)"
+                                             _found_releasepack
+                                        else _found_pack
+                                     fi
+                                     read answer
+                                          case "$answer" in
+                                     y | Y | yes | YES ) rm -rf "/usr/pkg/share/icons/${_theme}" 1>/dev/null 2>&1
+                                                         rm -rf "/usr/pkg/share/icons/${_theme}"-light 1>/dev/null 2>&1
+                                                         rm -rf "/usr/pkg/share/icons/${_theme}"-dark 1>/dev/null 2>&1
                                                          _install
                                                          _root_notice
                                                  ;;

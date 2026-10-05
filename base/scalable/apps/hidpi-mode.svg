@@ -1,0 +1,37 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#3883e3"/>
+ <path d="m54 22-40 32h40z" fill="#00336d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="1.4286" style="paint-order:markers fill stroke"/>
+ <path d="m54 23v2l-37 30h-3v-2l40-32z" fill="#b38108"/>
+ <path d="m54 22v2l-37 30h-3v-2l40-32z" fill="#e5a50a"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6zm-6 12v32h-40z" fill="#f6d32d" style="paint-order:markers fill stroke"/>
+ <path d="m5.5215 58c0.33954 0.38024 0.72624 0.71668 1.1523 1h50.652c0.42611-0.28332 0.81281-0.61976 1.1523-1h-52.957z" fill="#e5a50a"/>
+ <rect x="20" y="57" width="1" height="3" fill="#b38108"/>
+ <path d="m14 57v2.918c0.32506 0.054097 0.65912 0.082031 1 0.082031v-3z" fill="#b38108"/>
+ <path d="m55 57v2.918c-0.32506 0.054097-0.65912 0.082031-1 0.082031v-3z" fill="#b38108"/>
+ <rect x="26" y="57" width="1" height="3" fill="#b38108"/>
+ <rect x="42" y="56" width="1" height="4" fill="#b38108"/>
+ <rect x="46" y="57" width="1" height="3" fill="#b38108"/>
+ <rect x="50" y="57" width="1" height="3" fill="#b38108"/>
+ <rect x="48" y="57" width="1" height="3" fill="#b38108"/>
+ <rect x="40" y="57" width="1" height="3" fill="#b38108"/>
+ <rect x="44" y="57" width="1" height="3" fill="#b38108"/>
+ <rect x="24" y="57" width="1" height="3" fill="#b38108"/>
+ <rect x="32" y="56" width="1" height="4" fill="#b38108"/>
+ <rect x="18" y="57" width="1" height="3" fill="#b38108"/>
+ <rect x="22" y="56" width="1" height="4" fill="#b38108"/>
+ <rect x="16" y="57" width="1" height="3" fill="#b38108"/>
+ <path d="m57 57v2.2031c-0.31611 0.18208-0.65055 0.33428-1 0.45703v-2.6602z" fill="#b38108"/>
+ <path d="m53 56v3.8906c-0.32506 0.072128-0.65912 0.10937-1 0.10937v-4z" fill="#b38108"/>
+ <rect x="36" y="57" width="1" height="3" fill="#b38108"/>
+ <rect x="34" y="57" width="1" height="3" fill="#b38108"/>
+ <rect x="38" y="57" width="1" height="3" fill="#b38108"/>
+ <rect x="28" y="57" width="1" height="3" fill="#b38108"/>
+ <rect x="30" y="57" width="1" height="3" fill="#b38108"/>
+ <rect x="12" y="56" width="1" height="4" fill="#b38108"/>
+ <path d="m6 57v1.4785c0.30649 0.27368 0.64145 0.51809 1 0.72461v-2.2031h-1z" fill="#b38108"/>
+ <path d="m8 57v2.6602c0.3215 0.11294 0.6557 0.20051 1 0.25781v-2.918h-1z" fill="#b38108"/>
+ <rect x="10" y="57" width="1" height="3" fill="#b38108"/>
+ <path d="m58 57v1.4785c0.38024-0.33954 0.71668-0.72624 1-1.1523v-0.32617h-1z" fill="#b38108"/>
+ <path d="m6.6738 59c0.95084 0.63222 2.0939 1 3.3262 1h44c1.2323 0 2.3753-0.36778 3.3262-1h-50.652z" fill="#b38108"/>
+ <path d="m8 12h-2v-4c0.93356-0.29211 2.0049-0.63289 2.9155-0.775 0.91826-0.15 2.151-0.225 3.0845-0.225 2.1809 0 3.5729 0.46184 4.7896 1.3855 1.2243 0.91579 2.2104 1.9724 2.2104 3.6145 0 1.1684-0.71061 2.4408-1.384 3.3724-0.67339 0.92368-1.959 2.0211-3.8567 3.2921l-4.7593 3.3355h8v-2h2v5h-13v-2.8895l2.5367-1.8118c2.1656-1.5395 3.608-2.85 4.3273-3.9316 0.7193-1.0816 1.136-2.3671 1.136-4.3671s-1-3-3-3c-2.2849 0-2.9616 1.0363-3 3zm21 6-3 5h1v2h-6v-2h3l4-6-5.4108-8h-1.5892v-2h9v2h-2l3 5 3-5h-2v-2h6v2h-2l-4 6 5 8h2v2l-9 3e-6v-2h2z" fill="#fff" stroke-linecap="round" stroke-width=".11541" aria-label="2X"/>
+</svg>

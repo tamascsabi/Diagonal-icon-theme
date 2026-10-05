@@ -1,0 +1,15 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#4a5862"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#060606" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m8.0664 32a24 24 0 0 0-0.066406 1 24 24 0 0 0 24 24 24 24 0 0 0 24-24 24 24 0 0 0-0.06641-1 24 24 0 0 1-23.934 23 24 24 0 0 1-23.934-23z" fill="#bf9e49" stroke-linecap="round" stroke-width=".1297"/>
+ <circle cx="32" cy="32" r="24" fill="#ffc63b" stroke-linecap="round" stroke-width=".1297"/>
+ <circle cx="32" cy="33" r="4" fill="#bf9e49" stroke-linecap="round" stroke-width=".021617"/>
+ <path d="m32 11a22 22 0 0 0-22 22 22 22 0 0 0 22 22 22 22 0 0 0 22-22h-3a19 19 0 0 1-19 19 19 19 0 0 1-19-19 19 19 0 0 1 19-19z" fill="#bf9e49" stroke-linecap="round" stroke-width=".1189"/>
+ <circle cx="32" cy="32" r="4" stroke-linecap="round" stroke-width=".021617"/>
+ <path d="m32 10a22 22 0 0 0-22 22 22 22 0 0 0 22 22 22 22 0 0 0 22-22h-3a19 19 0 0 1-19 19 19 19 0 0 1-19-19 19 19 0 0 1 19-19v-3z" stroke-linecap="round" stroke-width=".1189"/>
+ <path d="m32 17a16 16 0 0 0-10.797 4.1934l2.0273 2.2109a13 13 0 0 1 8.7695-3.4043 13 13 0 0 1 13 13 13 13 0 0 1-13 13 13 13 0 0 1-8.7988-3.4297l-2.0273 2.2109a16 16 0 0 0 10.826 4.2188 16 16 0 0 0 16-16 16 16 0 0 0-16-16z" fill="#bf9e49" stroke-linecap="round" stroke-width=".116"/>
+ <path d="m32 16a16 16 0 0 0-10.797 4.1934l2.0273 2.2109a13 13 0 0 1 8.7695-3.4043 13 13 0 0 1 13 13 13 13 0 0 1-13 13 13 13 0 0 1-8.7988-3.4297l-2.0273 2.2109a16 16 0 0 0 10.826 4.2188 16 16 0 0 0 16-16 16 16 0 0 0-16-16z" stroke-linecap="round" stroke-width=".116"/>
+ <path d="m32 23a10 10 0 0 0-10 10 10 10 0 0 0 10 10v-3a7 7 0 0 1-7-7 7 7 0 0 1 7-7 7 7 0 0 1 7 7h3a10 10 0 0 0-10-10z" fill="#bf9e49" stroke-linecap="round" stroke-width=".10546"/>
+ <path d="m32 22a10 10 0 0 0-10 10 10 10 0 0 0 10 10v-3a7 7 0 0 1-7-7 7 7 0 0 1 7-7 7 7 0 0 1 7 7h3a10 10 0 0 0-10-10z" stroke-linecap="round" stroke-width=".10546"/>
+ <path d="m32 8a24 24.494 0 0 0-24 24.494 24 24.494 0 0 0 0.033203 0.5063 24 24.494 0 0 1 23.967-23.979 24 24.494 0 0 1 23.967 23.979 24 24.494 0 0 0 0.033203-0.5063 24 24.494 0 0 0-24-24.494z" fill="#ffd770" stroke-linecap="round" stroke-width=".13103"/>
+</svg>
