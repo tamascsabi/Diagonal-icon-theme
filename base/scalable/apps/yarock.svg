@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 64 64"
+   id="svg6"
+   sodipodi:docname="yarock.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.71875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     transform="scale(-1)"
+     d="m-54-60h44c3.324 0 6 2.676 6 6v44c0 3.324-2.676 6-6 6h-44c-2 0-6-4-6-6v-44c0-3.324 2.676-6 6-6z"
+     fill="#bc3a3a"
+     id="path1"
+     style="fill:#e3a5a5;fill-opacity:1" />
+  <path
+     d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z"
+     fill="#f0c9c9"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="3.2"
+     stroke-width="2"
+     style="paint-order:markers fill stroke;fill:#ffffff;fill-opacity:1"
+     id="path2" />
+  <path
+     d="m10 4c-3.324 0-6 2.676-6 6v44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44c0-3.324-2.676-6-6-6zm1 3h42c2.216 0 4 1.784 4 4v42c0 2.216-1.784 4-4 4h-42c-2.216 0-4-1.784-4-4v-42c0-2.216 1.784-4 4-4z"
+     fill="#bc3a3a"
+     id="path3" />
+  <circle
+     cx="32"
+     cy="32"
+     r="19"
+     fill="#bc3a3a"
+     stroke-width="0"
+     id="circle3"
+     style="fill:#bc3a3a;fill-opacity:1" />
+  <circle
+     cx="32"
+     cy="32"
+     r="14.9398"
+     fill="#ffffff"
+     stroke-width="0"
+     id="circle4" />
+  <path
+     d="m27.183 22.002c0.36916 0.01862 0.71462 0.13727 1.0364 0.35594l11.895 7.9953c0.37481 0.258 0.63436 0.5967 0.77862 1.0161 0.14346 0.41092 0.14346 0.85658 0 1.2674-0.13923 0.41239-0.41451 0.76822-0.78287 1.012l-11.891 7.9953c-0.41007 0.28244-0.91427 0.40363-1.412 0.33938-0.49895-0.05455-0.95846-0.29066-1.2867-0.66118-0.33962-0.36219-0.52544-0.83676-0.51979-1.3275v-15.986c7.19e-4 -0.5077 0.17399-0.95125 0.51979-1.3307 0.3283-0.37053 0.7878-0.60664 1.2867-0.66118 0.128-0.01586 0.25353-0.02036 0.37658-0.01345z"
+     fill="#c83737"
+     stroke-width="1.0476"
+     id="path5" />
+</svg>

@@ -82,11 +82,11 @@ The repository also includes prebuilt default icon packages for each supported d
 
 These packages are ready to use and can be extracted directly into:
 
-`tar -xvf Diagonal-3.5.tar.xz -C ~/.icons/`
+`tar -xvf Diagonal-3.6.tar.xz -C ~/.icons/`
 
 or
 
-`sudo tar -xvf Diagonal-3.5.tar.xz -C /usr/share/icons/`
+`sudo tar -xvf Diagonal-3.6.tar.xz -C /usr/share/icons/`
 
 No installation script is required.
 
@@ -96,14 +96,14 @@ No installation script is required.
 
 |              |              |              |               |
 | :----------- | :----------- | :----------- | :-----------  |
-| Arch         | CachyOS      | Debian       | Devuan        |
-| EndeavourOS  | Fedora       | FreeBSD      | Garuda        |
-| Gentoo       | Kali         | KDE neon     | Kubuntu       |
-| Mageia       | Manjaro      | Mint         | NetBSD        |
-| Nixos        | OpenBSD      | OpenMandriva | OpenSUSE      |
-| Parrot       | PcLinuxOS    | Pop!_OS      | Slackware     |
-| Solus        | Ubuntu       | Void         | Xubuntu       |
-| Zorin OS     |
+| Alt          | Arch         | CachyOS      | Debian        | 
+| Devuan       | EndeavourOS  | Fedora       | FreeBSD       | 
+| Garuda       | Gentoo       | Kali         | KDE neon      | 
+| Kubuntu      | Mageia       | Manjaro      | Mint          |
+| NetBSD       | Nixos        | OpenBSD      | OpenMandriva  |
+| OpenSUSE     | Parrot       | PcLinuxOS    | Pop!_OS       |
+| Slackware    | Solus        | Sparky       | Ubuntu        |
+| Void         | Xubuntu      | Zorin OS     |
 
 ---
 
@@ -113,8 +113,8 @@ No installation script is required.
 | :----------- | :----------- | :----------- |
 | Black        | Blue         | Cyan         |
 | Green        | Grey         | Magenta      |
-| Orange       | Red          | Ubuntu       |
-| Violet       | White        | Yellow       |
+| Orange       | Red          | Violet       | 
+| White        | Yellow       |
 
 ---
 

@@ -1,0 +1,37 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#fff4ed"/>
+ <path d="m60 10-56 44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44z" fill="#ffc7a9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m10 4c-3.324 0-6 2.676-6 6v44c0 3.324 2.676 6 6 6h44c3.324 0 6-2.676 6-6v-44c0-3.324-2.676-6-6-6zm1 3h42c2.216 0 4 1.784 4 4v42c0 2.216-1.784 4-4 4h-42c-2.216 0-4-1.784-4-4v-42c0-2.216 1.784-4 4-4z" fill="#ff5a00"/>
+ <g transform="translate(0,-1)" fill="#e35000" opacity=".2">
+  <circle cx="20" cy="25" r="3"/>
+  <circle cx="28" cy="25" r="3"/>
+  <circle cx="36" cy="25" r="3"/>
+  <circle cx="44" cy="25" r="3"/>
+  <circle cx="12" cy="33" r="3"/>
+  <circle cx="20" cy="33" r="3"/>
+  <circle cx="28" cy="33" r="3"/>
+  <circle cx="36" cy="33" r="3"/>
+  <circle cx="44" cy="33" r="3"/>
+  <circle cx="52" cy="33" r="3"/>
+  <circle cx="12" cy="41" r="3"/>
+  <circle cx="20" cy="41" r="3"/>
+  <circle cx="44" cy="41" r="3"/>
+  <circle cx="52" cy="41" r="3"/>
+ </g>
+ <g transform="translate(0,-1)" fill="#ff5a00">
+  <circle cx="20" cy="24" r="3"/>
+  <circle cx="28" cy="24" r="3"/>
+  <circle cx="36" cy="24" r="3"/>
+  <circle cx="44" cy="24" r="3"/>
+  <circle cx="12" cy="32" r="3"/>
+  <circle cx="20" cy="32" r="3"/>
+  <circle cx="28" cy="32" r="3"/>
+  <circle cx="36" cy="32" r="3"/>
+  <circle cx="44" cy="32" r="3"/>
+  <circle cx="52" cy="32" r="3"/>
+  <circle cx="12" cy="40" r="3"/>
+  <circle cx="20" cy="40" r="3"/>
+  <circle cx="44" cy="40" r="3"/>
+  <circle cx="52" cy="40" r="3"/>
+ </g>
+</svg>

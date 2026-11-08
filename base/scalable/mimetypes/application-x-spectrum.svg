@@ -1,0 +1,9 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <path transform="scale(-1)" d="m-54-60h44c3.324 0 6 2.676 6 6v44c0 3.324-2.676 6-6 6h-44c-2 0-6-4-6-6v-44c0-3.324 2.676-6 6-6z" fill="#414141"/>
+ <path d="m4 54 56-44c0-3.324-2.676-6-6-6h-44c-3.324 0-6 2.676-6 6z" fill="#0c0c0c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.2" stroke-width="2" style="paint-order:markers fill stroke"/>
+ <path d="m60 27-38 33h32c3.324 0 6-2.676 6-6z" fill="#ee352b"/>
+ <path d="m60 35-29 25h23c3.324 0 6-2.676 6-6v-19z" fill="#ffd62d"/>
+ <path d="m60 42-21 18h15c3.324 0 6-2.676 6-6z" fill="#1df222"/>
+ <path d="m60 49-13 11h7c3.324 0 6-2.676 6-6z" fill="#2dbfff"/>
+ <path transform="scale(.92103 1.0857)" d="m31.487 42.367h-17.372l4.8e-5 -3.6841 10.857-17.499h-10.857v-4.6051l17.41 5.5e-5 -0.03801 3.684-10.857 17.499h10.857zm23.886 0h-6.5144l-5.004-9.7545-4.7677 9.7545h-6.5145l6.5145-12.894-6.5145-12.894h6.5145l5.0499 9.2783 4.7218-9.2783h6.5145l-6.5145 12.894z" fill="#e7f6fd" stroke-width=".96764" aria-label="ZX"/>
+</svg>

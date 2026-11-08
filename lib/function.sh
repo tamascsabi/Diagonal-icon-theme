@@ -60,7 +60,9 @@ if [ -f /etc/os-release ]
       pclinuxos ) _distro="Pclinuxos"    ;;
            void ) _distro="Void"         ;;
           solus ) _distro="Solus"        ;;
-         ubuntu ) if [ -d /etc/kubuntu-default-settings ]
+       altlinux ) _distro="Alt"          ;;
+         sparky ) _distro="Sparky"        ;;
+         ubuntu ) if [ -f /etc/kubuntu-default-settings ]
                      then _distro="Kubuntu"
                 elif [ -d /etc/xdg/xdg-xubuntu ]
                      then _distro="Xubuntu"
@@ -203,6 +205,7 @@ makelightcursor() {
     _header "Creating cursor themes for the light theme"
     case "${__distro}" in
                        -arch ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                        -alt ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                     -cachyos ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                      -debian ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                      -devuan ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
@@ -227,6 +230,7 @@ makelightcursor() {
                       -popos ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                   -slackware ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                       -solus ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
+                     -sparky ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                      -ubuntu ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                        -void ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
                     -xubuntu ) cp -a "${_basedir}/cursors/light/${_dist}/cursors" . ;;
@@ -240,6 +244,7 @@ makedarkcursor() {
     _header "Creating cursor themes for the dark theme"
     case "${__distro}" in
                        -arch ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                        -alt ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                     -cachyos ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                      -debian ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                      -devuan ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
@@ -264,6 +269,7 @@ makedarkcursor() {
                       -popos ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                   -slackware ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                       -solus ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
+                     -sparky ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                      -ubuntu ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                        -void ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
                     -xubuntu ) cp -a "${_basedir}/cursors/dark/${_dist}/cursors" . ;;
@@ -349,7 +355,6 @@ makefoldercolor() {
           Violet ) sed_inplace -e "s/${_colorfg}/a27bec/g" -e "s/${_colorbg}/6220dc/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
             Grey ) sed_inplace -e "s/${_colorfg}/697489/g" -e "s/${_colorbg}/454e5b/g" "${file}" ;;
           Orange ) sed_inplace -e "s/${_colorfg}/f7711e/g" -e "s/${_colorbg}/cb4e00/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
-          Ubuntu ) sed_inplace -e "s/${_colorfg}/752a71/g" -e "s/${_colorbg}/e65524/g" -e "s/${_colorline}/666666/g" "${file}" ;;
         esac
     done
     _footer
@@ -360,6 +365,7 @@ makedistrofolder() {
     for file in $(find * -type f -name '*.svg')
      do case "${_dist}" in
            arch ) sed_inplace -e "s/${_colorfg}/55a8d1/g" -e "s/${_colorbg}/168bc4/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
+            alt ) sed_inplace -e "s/${_colorfg}/ffd017/g" -e "s/${_colorbg}/ff9617/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         cachyos ) sed_inplace -e "s/${_colorfg}/33c175/g" -e "s/${_colorbg}/00adf9/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          debian ) sed_inplace -e "s/${_colorfg}/f8125e/g" -e "s/${_colorbg}/283e48/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          devuan ) sed_inplace -e "s/${_colorfg}/3398ff/g" -e "s/${_colorbg}/004489/g" "${file}" ;;
@@ -384,6 +390,7 @@ makedistrofolder() {
           popos ) sed_inplace -e "s/${_colorfg}/49b8c6/g" -e "s/${_colorbg}/21616a/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
       slackware ) sed_inplace -e "s/${_colorfg}/8faaee/g" -e "s/${_colorbg}/4861a0/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
           solus ) sed_inplace -e "s/${_colorfg}/7a95d0/g" -e "s/${_colorbg}/52647a/g" "${file}" ;;
+         sparky ) sed_inplace -e "s/${_colorfg}/004695/g" -e "s/${_colorbg}/0076fa/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
          ubuntu ) sed_inplace -e "s/${_colorfg}/752a71/g" -e "s/${_colorbg}/e95420/g" -e "s/${_colorline}/666666/g" "${file}" ;;
            void ) sed_inplace -e "s/${_colorfg}/73be95/g" -e "s/${_colorbg}/4b8568/g" -e "s/${_colorline}/283e48/g" "${file}" ;;
         xubuntu ) sed_inplace -e "s/${_colorfg}/278cd0/g" -e "s/${_colorbg}/1a6a9f/g" "${file}" ;;
